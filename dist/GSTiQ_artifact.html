@@ -3134,7 +3134,7 @@ Accounts Team, ${c.name}
           if (raw.kind === 'xlsx') {
             if (!IO.hasXLSX()) throw new Error('Excel library not loaded');
             const sheets = IO.readWorkbook(raw.data);
-            const pick = sheets.length === 1 ? sheets[0] : await new Promise(res => { const el = UI.modal({ title: 'Choose a sheet', body: `<div class="stack">${sheets.map((s, i) => `<button class="btn" data-s="${i}">${esc(s.name)} · ${s.rows.length} rows</button>`).join('')}</div>`, onClose: () => res(null) }); el.querySelectorAll('[data-s]').forEach(b => b.addEventListener('click', () => { const s = sheets[+b.dataset.s]; UI.closeTop(); res(s); })); });
+            const pick = sheets.length === 1 ? sheets[0] : await new Promise(res => { const el = UI.modal({ title: 'Choose a sheet', body: `<div class="stack">${sheets.map((s, i) => `<button class="btn" data-s="${i}">${esc(s.name)} · ${s.rows.length} rows</button>`).join('')}</div>`, onClose: () => res(null) }); el.querySelectorAll('[data-s]').forEach(b => b.addEventListener('click', () => { const s = sheets[+b.dataset.s]; res(s); UI.closeTop(); })); });
             if (!pick) return;
             return mapper(kind === 'portal2b' || kind === 'backup' ? 'gstr2b' : kind, pick.headers, pick.rows, cid, mode);
           }

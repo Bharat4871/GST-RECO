@@ -59,6 +59,7 @@ excel/                   ITC_RCM_Working_Model.xlsx (1,281 formulas), GSTiQ_Macr
 notebooks/               AI_ITC_RCM_Analysis.ipynb (executed, with charts)
 docs/                    GSTiQ_Project_Report.docx / .pdf, diagrams, screenshots, report builder
 sample_outputs/          files produced by the app: client MIS, review report, vendor letters, self-invoice, Python MIS
+sample_new_client/       ready-to-import new client (Gir Polymers): purchase register Excel + GST-portal GSTR-2B JSON
 tests/                   unit tests, Python-vs-JavaScript cross-check, browser UI smoke test
 tools/build.py           rebuilds the knowledge base and the single-file app
 ```
@@ -74,6 +75,10 @@ python backend/database.py --queries                          # rebuild SQLite D
 python backend/data_generator.py && python tools/build.py     # regenerate dummy data and rebuild the app
 python excel/build_excel_model.py                             # rebuild the Excel model
 ```
+
+## Try importing a new client
+
+`sample_new_client/` holds a fresh client with 49 purchase bills (Excel) and its September 2026 GSTR-2B (portal JSON). The workbook's *How to import* sheet gives the steps and *Test Scenarios* lists every planted error. Regenerate with `python tools/make_new_client_sample.py`.
 
 ## Tests
 
