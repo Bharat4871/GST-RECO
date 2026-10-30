@@ -86,6 +86,7 @@ python excel/build_excel_model.py                             # rebuild the Exce
 python tests/test_engine.py            # 23 law-specific unit tests
 python tests/test_cross_language.py    # Python and JavaScript engines agree on all 609 invoices (needs Node.js)
 python tests/ui_smoke_test.py          # opens every page in headless Chromium (needs: pip install playwright)
+python tests/test_import_new_client.py # imports the new-client Excel + GSTR-2B JSON through the app and checks every planted error
 ```
 
 ## Demo data at a glance
