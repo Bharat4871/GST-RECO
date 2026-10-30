@@ -1,0 +1,159 @@
+{
+ "chksum": "c33fe786f2bb0806fdfc50d196a4ec23",
+ "data": {
+  "gstin": "27FTQCK8833D1ZX",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "08ZVTCE9290L2ZP",
+     "trdnm": "EXCEL FREIGHT CARRIERS LTD",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000092",
+       "typ": "R",
+       "dt": "07-02-2026",
+       "val": 135121.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "04dc8b75f55a2dc553794d2d618822a2701f059c5341b6c22c4843c8d7c50b37",
+       "txval": 114510,
+       "igst": 20611.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08ENICO1332O1ZB",
+     "trdnm": "Om Engineering Works",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00201",
+       "typ": "R",
+       "dt": "04-02-2026",
+       "val": 564665.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "740c1710cc725d9b2343efa228c02424fa0adebd246561d0ba255c98fc03972a",
+       "txval": 478530,
+       "igst": 86135.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27TSJFO4832X2ZL",
+     "trdnm": "Om Office Mart",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000051",
+       "typ": "R",
+       "dt": "27-02-2026",
+       "val": 18691.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 15840,
+       "igst": 0.0,
+       "cgst": 1425.6,
+       "sgst": 1425.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27CIWFV9929Q1Z1",
+     "trdnm": "Vardhman Hardware Stores",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000035",
+       "typ": "R",
+       "dt": "01-03-2026",
+       "val": 222949.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 188940,
+       "igst": 0.0,
+       "cgst": 17004.6,
+       "sgst": 17004.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000038",
+       "typ": "R",
+       "dt": "26-02-2026",
+       "val": 240200.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 203560,
+       "igst": 0.0,
+       "cgst": 18320.4,
+       "sgst": 18320.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000042",
+       "typ": "R",
+       "dt": "03-02-2026",
+       "val": 245109.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 207720,
+       "igst": 0.0,
+       "cgst": 18694.8,
+       "sgst": 18694.8,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,3213 @@
+{
+ "meta": {
+  "name": "GSTiQ Knowledge Base",
+  "law_as_on": "2026-10-29",
+  "version": "3.2.0",
+  "gst2_effective": "2025-09-22",
+  "disclaimer": "Educational project for ICAI Advanced IT. Rules are simplified for automation and must be verified against the current CGST/IGST Acts, Rules, notifications and circulars before use on real returns."
+ },
+ "states": {
+  "01": "Jammu & Kashmir",
+  "02": "Himachal Pradesh",
+  "03": "Punjab",
+  "04": "Chandigarh",
+  "05": "Uttarakhand",
+  "06": "Haryana",
+  "07": "Delhi",
+  "08": "Rajasthan",
+  "09": "Uttar Pradesh",
+  "10": "Bihar",
+  "11": "Sikkim",
+  "12": "Arunachal Pradesh",
+  "13": "Nagaland",
+  "14": "Manipur",
+  "15": "Mizoram",
+  "16": "Tripura",
+  "17": "Meghalaya",
+  "18": "Assam",
+  "19": "West Bengal",
+  "20": "Jharkhand",
+  "21": "Odisha",
+  "22": "Chhattisgarh",
+  "23": "Madhya Pradesh",
+  "24": "Gujarat",
+  "26": "Dadra & Nagar Haveli and Daman & Diu",
+  "27": "Maharashtra",
+  "29": "Karnataka",
+  "30": "Goa",
+  "31": "Lakshadweep",
+  "32": "Kerala",
+  "33": "Tamil Nadu",
+  "34": "Puducherry",
+  "35": "Andaman & Nicobar Islands",
+  "36": "Telangana",
+  "37": "Andhra Pradesh",
+  "38": "Ladakh",
+  "96": "Foreign Country",
+  "97": "Other Territory",
+  "99": "Centre Jurisdiction"
+ },
+ "special_category_states": [
+  "12",
+  "13",
+  "14",
+  "15",
+  "16",
+  "11",
+  "18",
+  "17",
+  "02",
+  "05"
+ ],
+ "pan_types": {
+  "C": "Company",
+  "P": "Individual / Proprietor",
+  "H": "HUF",
+  "F": "Firm / LLP",
+  "A": "Association of Persons",
+  "T": "Trust",
+  "B": "Body of Individuals",
+  "L": "Local Authority",
+  "J": "Artificial Juridical Person",
+  "G": "Government"
+ },
+ "rates": {
+  "pre_gst2": [
+   0,
+   0.1,
+   0.25,
+   1.5,
+   3,
+   5,
+   6,
+   12,
+   18,
+   28
+  ],
+  "post_gst2": [
+   0,
+   0.1,
+   0.25,
+   1.5,
+   3,
+   5,
+   18,
+   40
+  ],
+  "note": "From 22-09-2025 the slabs were rationalised to 5% (merit) and 18% (standard) with a 40% special rate; 12% and 28% survive only for specified tobacco items pending compensation-cess closure."
+ },
+ "itc_conditions": [
+  {
+   "id": "S16_1",
+   "ref": "Sec 16(1)",
+   "title": "Used in course or furtherance of business",
+   "text": "ITC is available only on goods/services used or intended to be used in the course or furtherance of business."
+  },
+  {
+   "id": "S16_2a",
+   "ref": "Sec 16(2)(a)",
+   "title": "Possession of tax invoice / debit note",
+   "text": "Recipient must hold a tax invoice, debit note or other prescribed document (Rule 36(1))."
+  },
+  {
+   "id": "S16_2aa",
+   "ref": "Sec 16(2)(aa) r/w Rule 36(4)",
+   "title": "Invoice reflected in GSTR-2B",
+   "text": "Details must be furnished by the supplier in GSTR-1/IFF and communicated to the recipient in GSTR-2B. Under IMS the recipient Accepts / Rejects / keeps Pending each record before GSTR-2B is generated."
+  },
+  {
+   "id": "S16_2b",
+   "ref": "Sec 16(2)(b)",
+   "title": "Goods / services received",
+   "text": "Goods or services must actually be received (bill-to-ship-to receipt by a third person counts). For lots, ITC on receipt of the last lot."
+  },
+  {
+   "id": "S16_2ba",
+   "ref": "Sec 16(2)(ba)",
+   "title": "Not restricted under Section 38",
+   "text": "ITC must not be restricted in GSTR-2B (itcavl = 'N', e.g. new registrant / defaulting supplier)."
+  },
+  {
+   "id": "S16_2c",
+   "ref": "Sec 16(2)(c) r/w Rule 37A",
+   "title": "Tax actually paid by supplier",
+   "text": "Tax charged must be paid to the Government. If the supplier has not filed GSTR-3B by 30 September of the following year, ITC is reversed by 30 November (Rule 37A) and re-availed after the supplier files."
+  },
+  {
+   "id": "S16_2d",
+   "ref": "Sec 16(2)(d)",
+   "title": "Recipient has filed return",
+   "text": "Recipient must furnish the return under Section 39 (GSTR-3B)."
+  },
+  {
+   "id": "S16_2_p2",
+   "ref": "2nd proviso to Sec 16(2) r/w Rule 37",
+   "title": "Payment to supplier within 180 days",
+   "text": "If value plus tax is not paid to the supplier within 180 days from invoice date, the ITC is added to output liability (reversed) with interest; it is re-availed when payment is made."
+  },
+  {
+   "id": "S16_3",
+   "ref": "Sec 16(3)",
+   "title": "No double benefit with depreciation",
+   "text": "If depreciation is claimed on the tax component of capital goods under the Income-tax Act, ITC on that tax is not allowed."
+  },
+  {
+   "id": "S16_4",
+   "ref": "Sec 16(4)",
+   "title": "Time limit",
+   "text": "ITC for an invoice/debit note cannot be taken after 30 November following the end of the financial year to which it pertains, or the date of filing the annual return, whichever is earlier. For RCM self-invoices the FY of the self-invoice governs (Circular 211/5/2024-GST)."
+  },
+  {
+   "id": "S16_5",
+   "ref": "Sec 16(5)",
+   "title": "Relief FY 2017-18 to 2020-21",
+   "text": "Inserted retrospectively by Finance (No.2) Act, 2024: ITC for FY 2017-18 to 2020-21 may be taken in any return filed up to 30-11-2021."
+  },
+  {
+   "id": "S16_6",
+   "ref": "Sec 16(6)",
+   "title": "Cancelled and revoked registrations",
+   "text": "Where registration is cancelled and later revoked, ITC may be taken in a return filed up to 30 November of the next FY / annual return, or within 30 days of the revocation order, subject to conditions."
+  }
+ ],
+ "blocked_credits": [
+  {
+   "code": "BLK_MOTOR",
+   "ref": "Sec 17(5)(a), (aa), (ab)",
+   "title": "Motor vehicles (≤13 seats), vessels, aircraft & their insurance / repair",
+   "text": "Motor vehicles for transport of persons with seating capacity of up to 13 (including driver), vessels and aircraft are blocked, together with their general insurance, servicing, repair and maintenance.",
+   "exceptions": "Allowed when used for further supply of such vehicles, transport of passengers, or imparting driving training; goods carriers are not blocked.",
+   "hsn": [
+    "8703",
+    "8711",
+    "8802",
+    "8901"
+   ],
+   "sac": [],
+   "keywords": [
+    "car",
+    "sedan",
+    "suv",
+    "motor car",
+    "innova",
+    "fortuner",
+    "scorpio",
+    "city",
+    "vehicle purchase",
+    "car insurance",
+    "car service",
+    "vehicle repair",
+    "two wheeler",
+    "bike"
+   ],
+   "proposed": null
+  },
+  {
+   "code": "BLK_FOOD",
+   "ref": "Sec 17(5)(b)(i)",
+   "title": "Food, beverages, outdoor catering, beauty, health, cosmetic surgery, vehicle hire",
+   "text": "Food and beverages, outdoor catering, beauty treatment, health services, cosmetic and plastic surgery, leasing/renting/hiring of blocked motor vehicles are blocked.",
+   "exceptions": "Allowed where used for making an outward taxable supply of the same category, as part of a taxable composite/mixed supply, or where provision is obligatory for an employer under any law (proviso).",
+   "hsn": [
+    "2106",
+    "2202"
+   ],
+   "sac": [
+    "9963",
+    "996331",
+    "996334",
+    "999721",
+    "999722",
+    "9993"
+   ],
+   "keywords": [
+    "lunch",
+    "dinner",
+    "restaurant",
+    "catering",
+    "canteen",
+    "snacks",
+    "tea",
+    "coffee",
+    "hotel food",
+    "party",
+    "beauty",
+    "salon",
+    "spa",
+    "hospital",
+    "medical",
+    "cab hire"
+   ],
+   "proposed": "57th GST Council (08-10-2026) recommended removing the block on outdoor catering - not yet notified."
+  },
+  {
+   "code": "BLK_INS",
+   "ref": "Sec 17(5)(b)(i)",
+   "title": "Life insurance and health insurance",
+   "text": "Life and health insurance are blocked unless obligatory under law for the employer or used for the same category of outward supply. Individual life/health policies are exempt from 22-09-2025, so the issue now arises mainly on group policies.",
+   "exceptions": "Allowed where obligatory for the employer under any law (e.g. ESIC-excluded statutory cover) or for an insurer providing the same service.",
+   "hsn": [],
+   "sac": [
+    "997131",
+    "997132",
+    "997133"
+   ],
+   "keywords": [
+    "group mediclaim",
+    "health insurance",
+    "life insurance",
+    "term insurance",
+    "mediclaim",
+    "group health"
+   ],
+   "proposed": "57th GST Council (08-10-2026) recommended removing the block on health and life insurance - not yet notified."
+  },
+  {
+   "code": "BLK_CLUB",
+   "ref": "Sec 17(5)(b)(ii)",
+   "title": "Membership of club, health and fitness centre",
+   "text": "Membership of a club, health and fitness centre is blocked.",
+   "exceptions": "Allowed only where obligatory for the employer under any law.",
+   "hsn": [],
+   "sac": [
+    "999591",
+    "997652"
+   ],
+   "keywords": [
+    "club membership",
+    "gym",
+    "fitness",
+    "gymkhana",
+    "golf",
+    "yoga membership",
+    "sports club"
+   ],
+   "proposed": null
+  },
+  {
+   "code": "BLK_TRAVEL",
+   "ref": "Sec 17(5)(b)(iii)",
+   "title": "Travel benefits to employees on vacation (LTC / home travel)",
+   "text": "Travel benefits extended to employees on vacation such as leave or home travel concession are blocked.",
+   "exceptions": "Business travel (not vacation) is not covered by this clause.",
+   "hsn": [],
+   "sac": [
+    "998552"
+   ],
+   "keywords": [
+    "ltc",
+    "leave travel",
+    "holiday package",
+    "vacation",
+    "tour package employees",
+    "home travel"
+   ],
+   "proposed": null
+  },
+  {
+   "code": "BLK_CONSTRUCTION",
+   "ref": "Sec 17(5)(c) & (d)",
+   "title": "Works contract / goods & services for construction of immovable property",
+   "text": "Works contract services and goods/services received for construction (including renovation, repairs to the extent capitalised) of immovable property on own account are blocked, other than 'plant and machinery'. Finance Act, 2025 substituted 'plant or machinery' with 'plant and machinery' in clause (d) retrospectively from 01-07-2017, overriding the Safari Retreats functionality test.",
+   "exceptions": "Plant and machinery (apparatus/equipment fixed to earth, excluding land, buildings, civil structures, telecom towers and pipelines outside factory) is allowed; works contractor's input for further works contract supply is allowed.",
+   "hsn": [
+    "2523",
+    "7214",
+    "6810",
+    "6907"
+   ],
+   "sac": [
+    "9954",
+    "995411",
+    "995414",
+    "995419",
+    "995421"
+   ],
+   "keywords": [
+    "construction",
+    "civil work",
+    "building",
+    "cement",
+    "tmt bars",
+    "steel bars",
+    "factory shed",
+    "office renovation",
+    "works contract",
+    "flooring",
+    "plaster",
+    "boundary wall",
+    "interior fit out"
+   ],
+   "proposed": "57th GST Council (08-10-2026) recommended removing the block on telecommunication towers and pipelines outside factory premises - not yet notified."
+  },
+  {
+   "code": "BLK_COMPOSITION",
+   "ref": "Sec 17(5)(e)",
+   "title": "Goods/services on which composition tax paid",
+   "text": "Tax paid under Section 10 is not available as ITC.",
+   "exceptions": "None.",
+   "hsn": [],
+   "sac": [],
+   "keywords": [
+    "composition",
+    "bill of supply"
+   ],
+   "proposed": null
+  },
+  {
+   "code": "BLK_CSR",
+   "ref": "Sec 17(5)(fa)",
+   "title": "Goods/services used for CSR obligations",
+   "text": "Inward supplies used for Corporate Social Responsibility under Section 135 of the Companies Act, 2013 are blocked (w.e.f. 01-10-2023).",
+   "exceptions": "None.",
+   "hsn": [],
+   "sac": [],
+   "keywords": [
+    "csr",
+    "corporate social responsibility",
+    "donation drive",
+    "school kits csr",
+    "tree plantation csr",
+    "csr activity"
+   ],
+   "proposed": null
+  },
+  {
+   "code": "BLK_PERSONAL",
+   "ref": "Sec 17(5)(g)",
+   "title": "Personal consumption",
+   "text": "Goods or services used for personal consumption are blocked.",
+   "exceptions": "None.",
+   "hsn": [],
+   "sac": [],
+   "keywords": [
+    "personal",
+    "director residence",
+    "household",
+    "family",
+    "personal mobile",
+    "home appliance",
+    "residence furniture"
+   ],
+   "proposed": null
+  },
+  {
+   "code": "BLK_GIFT",
+   "ref": "Sec 17(5)(h)",
+   "title": "Goods lost, stolen, destroyed, written off, gifts and free samples",
+   "text": "Goods lost, stolen, destroyed, written off or disposed of by way of gift or free samples are blocked; ITC already taken is reversed.",
+   "exceptions": "Gifts up to ₹50,000 per employee per year are not a supply, but ITC on such gifts is still blocked.",
+   "hsn": [],
+   "sac": [],
+   "keywords": [
+    "diwali gift",
+    "gift",
+    "free sample",
+    "festival gift",
+    "sweet boxes",
+    "dry fruits gift",
+    "stolen",
+    "destroyed",
+    "written off",
+    "expired stock"
+   ],
+   "proposed": "57th GST Council (08-10-2026) recommended removing the block on free samples and goods destroyed on expiry of shelf life as required by law - not yet notified."
+  },
+  {
+   "code": "BLK_74",
+   "ref": "Sec 17(5)(i)",
+   "title": "Tax paid under Sec 74 (up to FY 2023-24), 129, 130",
+   "text": "Tax paid on demands in fraud cases and on detention/confiscation is not available as ITC.",
+   "exceptions": "None.",
+   "hsn": [],
+   "sac": [],
+   "keywords": [
+    "penalty",
+    "detention",
+    "confiscation",
+    "drc-03 section 74"
+   ],
+   "proposed": null
+  }
+ ],
+ "rcm_catalog": [
+  {
+   "id": "RCM_GTA",
+   "kind": "service",
+   "entry": "Sl. 1",
+   "notification": "13/2017-CT(R) / 10/2017-IT(R)",
+   "title": "Goods Transport Agency (GTA) services",
+   "sac": "9965",
+   "rate": 5,
+   "supplier": "Goods Transport Agency not opting for forward charge",
+   "recipient": "Factory, society, co-operative, registered person, body corporate, partnership firm/AOP, casual taxable person",
+   "itc_recipient": true,
+   "notes": "GTA may opt for forward charge at 18% with ITC (12% before 22-09-2025) by filing Annexure V. Under RCM the recipient pays 5% and can take ITC of the tax paid.",
+   "keywords": [
+    "freight",
+    "transport",
+    "lorry",
+    "truck",
+    "gta",
+    "consignment note",
+    "cartage",
+    "bilty",
+    "goods transport"
+   ],
+   "questions": [
+    {
+     "id": "fcm",
+     "text": "Has the GTA opted to pay GST under forward charge (invoice shows 18% GST)?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "no"
+     ],
+     "fail": "Forward charge applies - the GTA charges 18% GST in its invoice; claim normal ITC."
+    },
+    {
+     "id": "rec",
+     "text": "Who is the recipient (person paying freight)?",
+     "options": [
+      {
+       "v": "registered",
+       "label": "Registered person / body corporate / firm / factory / society"
+      },
+      {
+       "v": "other",
+       "label": "Unregistered individual end-consumer"
+      }
+     ],
+     "rcm_values": [
+      "registered"
+     ],
+     "fail": "GTA services to an unregistered individual are exempt - no tax."
+    }
+   ]
+  },
+  {
+   "id": "RCM_LEGAL",
+   "kind": "service",
+   "entry": "Sl. 2",
+   "notification": "13/2017-CT(R) / 10/2017-IT(R)",
+   "title": "Legal services by advocate / firm of advocates",
+   "sac": "9982",
+   "rate": 18,
+   "supplier": "Individual advocate, senior advocate or firm of advocates",
+   "recipient": "Business entity located in the taxable territory",
+   "itc_recipient": true,
+   "notes": "Legal services to a business entity whose aggregate turnover in the preceding FY is up to the registration threshold (₹20 lakh; ₹10 lakh special category) are exempt (Notfn 12/2017-CT(R) Sl. 45).",
+   "keywords": [
+    "advocate",
+    "legal fees",
+    "lawyer",
+    "legal opinion",
+    "court fees advocate",
+    "litigation",
+    "senior counsel",
+    "law firm"
+   ],
+   "questions": [
+    {
+     "id": "sup",
+     "text": "Is the supplier an advocate / senior advocate / firm of advocates?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Professional services by a non-advocate (CA, consultant) are under forward charge."
+    },
+    {
+     "id": "biz",
+     "text": "Is the recipient a business entity in the taxable territory?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Legal services to a non-business recipient (individual in personal capacity) are exempt."
+    },
+    {
+     "id": "turn",
+     "text": "Did the recipient's aggregate turnover in the preceding FY exceed the threshold (₹20 lakh / ₹10 lakh)?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Exempt under Notification 12/2017-CT(R) Sl. 45 - business entity below threshold."
+    }
+   ]
+  },
+  {
+   "id": "RCM_ARBITRAL",
+   "kind": "service",
+   "entry": "Sl. 3",
+   "notification": "13/2017-CT(R)",
+   "title": "Arbitral tribunal services",
+   "sac": "998215",
+   "rate": 18,
+   "supplier": "Arbitral tribunal",
+   "recipient": "Business entity",
+   "itc_recipient": true,
+   "notes": "Same turnover-based exemption as legal services applies.",
+   "keywords": [
+    "arbitral",
+    "arbitration",
+    "arbitrator fees",
+    "tribunal"
+   ],
+   "questions": [
+    {
+     "id": "biz",
+     "text": "Is the recipient a business entity with preceding-FY turnover above threshold?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Exempt."
+    }
+   ]
+  },
+  {
+   "id": "RCM_SPONSOR",
+   "kind": "service",
+   "entry": "Sl. 4",
+   "notification": "13/2017-CT(R)",
+   "title": "Sponsorship services",
+   "sac": "998397",
+   "rate": 18,
+   "supplier": "Any person",
+   "recipient": "Body corporate or partnership firm",
+   "itc_recipient": true,
+   "notes": "Sponsorship of events, sports, seminars.",
+   "keywords": [
+    "sponsorship",
+    "event sponsor",
+    "title sponsor",
+    "sponsoring",
+    "branding at event"
+   ],
+   "questions": [
+    {
+     "id": "rec",
+     "text": "Is the recipient a body corporate or partnership firm?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Forward charge - supplier charges GST."
+    }
+   ]
+  },
+  {
+   "id": "RCM_GOVT",
+   "kind": "service",
+   "entry": "Sl. 5",
+   "notification": "13/2017-CT(R)",
+   "title": "Services by Government / local authority to business entity",
+   "sac": "9991",
+   "rate": 18,
+   "supplier": "Central/State Government, UT or local authority",
+   "recipient": "Business entity",
+   "itc_recipient": true,
+   "notes": "Excludes renting of immovable property (see 5A), postal services, transport of goods/passengers and airport services. Many government services are separately exempt.",
+   "keywords": [
+    "government fees",
+    "municipal",
+    "local authority",
+    "licence fee",
+    "permission fee",
+    "nagar palika"
+   ],
+   "questions": [
+    {
+     "id": "biz",
+     "text": "Is the recipient a business entity and the service not separately exempt?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Not taxable / exempt."
+    }
+   ]
+  },
+  {
+   "id": "RCM_RENT_GOVT",
+   "kind": "service",
+   "entry": "Sl. 5A",
+   "notification": "13/2017-CT(R)",
+   "title": "Renting of immovable property by Government to registered person",
+   "sac": "997212",
+   "rate": 18,
+   "supplier": "Government / local authority",
+   "recipient": "Registered person",
+   "itc_recipient": true,
+   "notes": "",
+   "keywords": [
+    "gidc rent",
+    "government lease rent",
+    "municipal shop rent",
+    "port trust rent"
+   ],
+   "questions": [
+    {
+     "id": "reg",
+     "text": "Is the tenant registered under GST?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Forward charge by the Government for unregistered tenants."
+    }
+   ]
+  },
+  {
+   "id": "RCM_RENT_RESI",
+   "kind": "service",
+   "entry": "Sl. 5AA",
+   "notification": "05/2022-CT(R)",
+   "title": "Renting of residential dwelling to registered person",
+   "sac": "997211",
+   "rate": 18,
+   "supplier": "Any person",
+   "recipient": "Registered person",
+   "itc_recipient": true,
+   "notes": "Effective 18-07-2022. Exempt where a registered proprietor rents it for own residence in personal capacity (w.e.f. 01-01-2023).",
+   "keywords": [
+    "residential flat rent",
+    "guest house rent",
+    "staff quarters rent",
+    "director residence rent",
+    "house rent"
+   ],
+   "questions": [
+    {
+     "id": "reg",
+     "text": "Is the tenant registered under GST?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Exempt when let to an unregistered person for residence."
+    },
+    {
+     "id": "own",
+     "text": "Is the tenant a proprietor renting it for own residence in personal capacity?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "no"
+     ],
+     "fail": "Exempt (Notfn 15/2022-CT(R))."
+    }
+   ]
+  },
+  {
+   "id": "RCM_RENT_COMM",
+   "kind": "service",
+   "entry": "Sl. 5AB",
+   "notification": "09/2024-CT(R) as amended by 07/2025-CT(R)",
+   "title": "Renting of property other than residential dwelling by unregistered person",
+   "sac": "997212",
+   "rate": 18,
+   "supplier": "Unregistered person",
+   "recipient": "Registered person other than composition taxpayer",
+   "itc_recipient": true,
+   "notes": "Effective 10-10-2024. Composition taxpayers excluded from 16-01-2025 (Notfn 07/2025-CT(R)).",
+   "keywords": [
+    "shop rent",
+    "office rent",
+    "godown rent",
+    "warehouse rent",
+    "commercial rent",
+    "factory rent",
+    "land lease"
+   ],
+   "questions": [
+    {
+     "id": "sup",
+     "text": "Is the landlord unregistered under GST?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Registered landlord charges 18% under forward charge."
+    },
+    {
+     "id": "reg",
+     "text": "Is the tenant registered under GST?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "No GST - both unregistered."
+    },
+    {
+     "id": "comp",
+     "text": "Has the tenant opted for the composition scheme?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "no"
+     ],
+     "fail": "Composition taxpayers are excluded from 5AB (Notfn 07/2025-CT(R))."
+    }
+   ]
+  },
+  {
+   "id": "RCM_DIRECTOR",
+   "kind": "service",
+   "entry": "Sl. 6",
+   "notification": "13/2017-CT(R)",
+   "title": "Services by a director to the company / body corporate",
+   "sac": "998399",
+   "rate": 18,
+   "supplier": "Director (not as employee)",
+   "recipient": "Company / body corporate",
+   "itc_recipient": true,
+   "notes": "Remuneration booked as salary with TDS under the Income-tax Act is not a supply (Circular 140/10/2020-GST). Sitting fees and commission are under RCM.",
+   "keywords": [
+    "sitting fees",
+    "director commission",
+    "director fees",
+    "independent director",
+    "board meeting fee"
+   ],
+   "questions": [
+    {
+     "id": "sal",
+     "text": "Is the payment salary to a whole-time director as employee (TDS u/s 192)?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "no"
+     ],
+     "fail": "Salary in employment is outside GST (Schedule III)."
+    },
+    {
+     "id": "rec",
+     "text": "Is the recipient a company / body corporate?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Not covered."
+    }
+   ]
+  },
+  {
+   "id": "RCM_INS_AGENT",
+   "kind": "service",
+   "entry": "Sl. 7",
+   "notification": "13/2017-CT(R)",
+   "title": "Insurance agent services to insurance company",
+   "sac": "997161",
+   "rate": 18,
+   "supplier": "Insurance agent",
+   "recipient": "Person carrying on insurance business",
+   "itc_recipient": true,
+   "notes": "",
+   "keywords": [
+    "insurance agent commission",
+    "agency commission insurance"
+   ],
+   "questions": [
+    {
+     "id": "rec",
+     "text": "Is the recipient an insurance company?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Not covered."
+    }
+   ]
+  },
+  {
+   "id": "RCM_RECOVERY",
+   "kind": "service",
+   "entry": "Sl. 8",
+   "notification": "13/2017-CT(R)",
+   "title": "Recovery agent services",
+   "sac": "998599",
+   "rate": 18,
+   "supplier": "Recovery agent",
+   "recipient": "Banking company / financial institution / NBFC",
+   "itc_recipient": true,
+   "notes": "",
+   "keywords": [
+    "recovery agent",
+    "collection agent",
+    "loan recovery"
+   ],
+   "questions": [
+    {
+     "id": "rec",
+     "text": "Is the recipient a bank / FI / NBFC?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Not covered."
+    }
+   ]
+  },
+  {
+   "id": "RCM_COPYRIGHT",
+   "kind": "service",
+   "entry": "Sl. 9",
+   "notification": "13/2017-CT(R)",
+   "title": "Copyright transfer by author, composer, photographer, artist",
+   "sac": "997331",
+   "rate": 18,
+   "supplier": "Author / music composer / photographer / artist",
+   "recipient": "Publisher / music company / producer",
+   "itc_recipient": true,
+   "notes": "An author may opt for forward charge after registering and filing the declaration.",
+   "keywords": [
+    "royalty author",
+    "copyright",
+    "music composer",
+    "photograph rights",
+    "book royalty"
+   ],
+   "questions": [
+    {
+     "id": "fcm",
+     "text": "Has the author opted to pay under forward charge?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "no"
+     ],
+     "fail": "Forward charge by author."
+    }
+   ]
+  },
+  {
+   "id": "RCM_DSA",
+   "kind": "service",
+   "entry": "Sl. 12-14",
+   "notification": "13/2017-CT(R)",
+   "title": "DSA / business facilitator / BC agent services to bank or NBFC",
+   "sac": "998599",
+   "rate": 18,
+   "supplier": "DSA (other than body corporate), business facilitator, agent of business correspondent",
+   "recipient": "Banking company / NBFC",
+   "itc_recipient": true,
+   "notes": "",
+   "keywords": [
+    "dsa commission",
+    "direct selling agent",
+    "business correspondent",
+    "business facilitator"
+   ],
+   "questions": [
+    {
+     "id": "sup",
+     "text": "Is the agent a non-body-corporate (individual / firm)?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Forward charge."
+    }
+   ]
+  },
+  {
+   "id": "RCM_SECURITY",
+   "kind": "service",
+   "entry": "Sl. 14 (Security)",
+   "notification": "29/2018-CT(R)",
+   "title": "Security services (supply of security personnel)",
+   "sac": "998525",
+   "rate": 18,
+   "supplier": "Any person other than a body corporate",
+   "recipient": "Registered person (other than composition / TDS-only registrants)",
+   "itc_recipient": true,
+   "notes": "Effective 01-01-2019.",
+   "keywords": [
+    "security guard",
+    "watchman",
+    "security agency",
+    "manpower security",
+    "bouncer",
+    "guarding"
+   ],
+   "questions": [
+    {
+     "id": "sup",
+     "text": "Is the security agency a body corporate (company / LLP)?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "no"
+     ],
+     "fail": "Body corporate supplier charges GST under forward charge."
+    },
+    {
+     "id": "reg",
+     "text": "Is the recipient a regular registered person (not composition / TDS-only)?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Forward charge applies."
+    }
+   ]
+  },
+  {
+   "id": "RCM_MOTOR_RENT",
+   "kind": "service",
+   "entry": "Sl. 15",
+   "notification": "22/2019-CT(R)",
+   "title": "Renting of passenger motor vehicle (fuel included)",
+   "sac": "996601",
+   "rate": 5,
+   "supplier": "Person other than body corporate, not charging 18% with ITC",
+   "recipient": "Body corporate",
+   "itc_recipient": true,
+   "notes": "Recipient's ITC is still subject to Sec 17(5)(b) - hiring of blocked motor vehicles is blocked unless used for specified purposes.",
+   "keywords": [
+    "taxi hire",
+    "cab rent",
+    "vehicle on hire",
+    "car rental monthly",
+    "travels hire"
+   ],
+   "questions": [
+    {
+     "id": "sup",
+     "text": "Is the supplier a non-body-corporate charging 5% (not 18% with ITC)?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Forward charge."
+    },
+    {
+     "id": "rec",
+     "text": "Is the recipient a body corporate?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Forward charge / not covered."
+    }
+   ]
+  },
+  {
+   "id": "RCM_IMPORT_SERVICE",
+   "kind": "service",
+   "entry": "Sl. 1 IGST",
+   "notification": "10/2017-IT(R), Sec 5(3) IGST Act",
+   "title": "Import of services (supplier in non-taxable territory)",
+   "sac": "99",
+   "rate": 18,
+   "supplier": "Person located in non-taxable territory",
+   "recipient": "Person in taxable territory other than non-taxable online recipient",
+   "itc_recipient": true,
+   "notes": "IGST payable in cash. Time of supply: earlier of payment or 60 days from invoice; for associated enterprises, earlier of entry in books or payment.",
+   "keywords": [
+    "aws",
+    "google ads",
+    "facebook ads",
+    "linkedin",
+    "foreign consultant",
+    "import of service",
+    "usd invoice",
+    "software subscription foreign",
+    "adobe",
+    "microsoft ireland",
+    "overseas"
+   ],
+   "questions": [
+    {
+     "id": "loc",
+     "text": "Is the supplier located outside India?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Domestic supply - forward charge."
+    },
+    {
+     "id": "biz",
+     "text": "Is the service received for business (recipient not a non-taxable online recipient)?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "OIDAR to non-taxable online recipient - foreign supplier pays."
+    }
+   ]
+  },
+  {
+   "id": "RCM_METAL_SCRAP",
+   "kind": "goods",
+   "entry": "Sl. 8 (goods)",
+   "notification": "06/2024-CT(R)",
+   "title": "Metal scrap (Chapters 72-81) from unregistered person",
+   "hsn": "7204",
+   "rate": 18,
+   "supplier": "Unregistered person",
+   "recipient": "Registered person",
+   "itc_recipient": true,
+   "notes": "Effective 10-10-2024. Purchases from registered suppliers instead attract 2% GST TDS under Sec 51 (Notfn 25/2024-CT) where the contract value exceeds ₹2.5 lakh.",
+   "keywords": [
+    "scrap",
+    "iron scrap",
+    "ms scrap",
+    "copper scrap",
+    "aluminium scrap",
+    "kabadi",
+    "melting scrap",
+    "steel scrap"
+   ],
+   "questions": [
+    {
+     "id": "sup",
+     "text": "Is the scrap supplier unregistered?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Registered supplier charges GST; deduct 2% GST-TDS if the contract exceeds ₹2.5 lakh."
+    },
+    {
+     "id": "reg",
+     "text": "Is the buyer registered under GST?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "No GST."
+    }
+   ]
+  },
+  {
+   "id": "RCM_AGRI",
+   "kind": "goods",
+   "entry": "Sl. 1, 3, 4A (goods)",
+   "notification": "04/2017-CT(R)",
+   "title": "Cashew nuts (not shelled), tobacco leaves, raw cotton from agriculturist",
+   "hsn": "0801/2401/5201",
+   "rate": 5,
+   "supplier": "Agriculturist",
+   "recipient": "Any registered person",
+   "itc_recipient": true,
+   "notes": "Tobacco leaves remained outside the 22-09-2025 rate change pending compensation-cess closure - verify current rate.",
+   "keywords": [
+    "raw cotton",
+    "kapas",
+    "cashew raw",
+    "tobacco leaves",
+    "agriculturist"
+   ],
+   "questions": [
+    {
+     "id": "sup",
+     "text": "Is the supplier an agriculturist and the buyer registered?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Forward charge / not covered."
+    }
+   ]
+  },
+  {
+   "id": "RCM_BIDI_LEAVES",
+   "kind": "goods",
+   "entry": "Sl. 2 (goods)",
+   "notification": "04/2017-CT(R)",
+   "title": "Bidi wrapper (tendu) leaves from agriculturist",
+   "hsn": "14049010",
+   "rate": 18,
+   "supplier": "Agriculturist",
+   "recipient": "Any registered person",
+   "itc_recipient": true,
+   "notes": "",
+   "keywords": [
+    "tendu leaves",
+    "bidi wrapper"
+   ],
+   "questions": [
+    {
+     "id": "sup",
+     "text": "Is the supplier an agriculturist?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Not covered."
+    }
+   ]
+  },
+  {
+   "id": "RCM_SILK",
+   "kind": "goods",
+   "entry": "Sl. 4 (goods)",
+   "notification": "04/2017-CT(R)",
+   "title": "Silk yarn by manufacturer from raw silk / cocoons",
+   "hsn": "5004-5006",
+   "rate": 5,
+   "supplier": "Person manufacturing silk yarn from raw silk or silk worm cocoons",
+   "recipient": "Any registered person",
+   "itc_recipient": true,
+   "notes": "",
+   "keywords": [
+    "silk yarn"
+   ],
+   "questions": [
+    {
+     "id": "sup",
+     "text": "Is the supplier a silk yarn manufacturer and buyer registered?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Not covered."
+    }
+   ]
+  },
+  {
+   "id": "RCM_LOTTERY",
+   "kind": "goods",
+   "entry": "Sl. 5 (goods)",
+   "notification": "04/2017-CT(R)",
+   "title": "Supply of lottery by State Govt / UT / local authority",
+   "hsn": "-",
+   "rate": 40,
+   "supplier": "State Government, UT or local authority",
+   "recipient": "Lottery distributor or selling agent",
+   "itc_recipient": true,
+   "notes": "Rate 40% from 22-09-2025 (28% earlier).",
+   "keywords": [
+    "lottery"
+   ],
+   "questions": [
+    {
+     "id": "rec",
+     "text": "Is the recipient a lottery distributor / selling agent?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Not covered."
+    }
+   ]
+  },
+  {
+   "id": "RCM_GOVT_GOODS",
+   "kind": "goods",
+   "entry": "Sl. 6 (goods)",
+   "notification": "04/2017-CT(R)",
+   "title": "Used vehicles, seized/confiscated goods, old goods, waste & scrap sold by Government",
+   "hsn": "Any",
+   "rate": 18,
+   "supplier": "Central/State Government, UT, local authority",
+   "recipient": "Any registered person",
+   "itc_recipient": true,
+   "notes": "",
+   "keywords": [
+    "auction government",
+    "seized goods auction",
+    "condemned vehicle"
+   ],
+   "questions": [
+    {
+     "id": "reg",
+     "text": "Is the buyer registered under GST?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Not covered."
+    }
+   ]
+  },
+  {
+   "id": "RCM_PROMOTER",
+   "kind": "9(4)",
+   "entry": "Sec 9(4)",
+   "notification": "07/2019-CT(R)",
+   "title": "Promoter (real estate) - shortfall of purchases from registered suppliers",
+   "hsn": "Any",
+   "rate": 18,
+   "supplier": "Unregistered supplier",
+   "recipient": "Promoter of residential/commercial real estate project",
+   "itc_recipient": false,
+   "notes": "If less than 80% of inputs/input services (by value) are bought from registered persons, RCM at 18% on the shortfall; cement and capital goods from unregistered persons attract RCM at the applicable rate (cement 18% from 22-09-2025). Promoters paying 1%/5% concessional rates cannot take ITC.",
+   "keywords": [
+    "promoter",
+    "real estate project",
+    "cement unregistered",
+    "builder shortfall"
+   ],
+   "questions": [
+    {
+     "id": "pro",
+     "text": "Is the recipient a promoter paying concessional real-estate rates?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "Not covered by Sec 9(4) notification."
+    },
+    {
+     "id": "short",
+     "text": "Are purchases from registered suppliers below 80% / is it cement or capital goods from an unregistered person?",
+     "options": [
+      {
+       "v": "yes",
+       "label": "Yes"
+      },
+      {
+       "v": "no",
+       "label": "No"
+      }
+     ],
+     "rcm_values": [
+      "yes"
+     ],
+     "fail": "No RCM - 80% threshold met."
+    }
+   ]
+  }
+ ],
+ "rcm_compliance": [
+  {
+   "ref": "Sec 31(3)(f) r/w Rule 47A",
+   "title": "Self-invoice",
+   "text": "Where the supplier is unregistered, the recipient issues a self-invoice within 30 days of receipt of goods/services (Rule 47A, w.e.f. 01-11-2024)."
+  },
+  {
+   "ref": "Sec 31(3)(g)",
+   "title": "Payment voucher",
+   "text": "Recipient issues a payment voucher at the time of making payment to the supplier."
+  },
+  {
+   "ref": "Sec 49(4)",
+   "title": "Cash payment only",
+   "text": "RCM tax cannot be paid using the electronic credit ledger; it must be paid through the electronic cash ledger. ITC of the RCM paid can then be claimed in the same return."
+  },
+  {
+   "ref": "Sec 12(3)",
+   "title": "Time of supply - goods",
+   "text": "Earliest of (a) date of receipt of goods, (b) date of payment (entry in books or debit in bank, whichever earlier), (c) the 31st day from the supplier's invoice date. If none can be determined, date of entry in recipient's books."
+  },
+  {
+   "ref": "Sec 13(3)",
+   "title": "Time of supply - services",
+   "text": "Earlier of (a) date of payment, (b) the 61st day from the supplier's invoice date. For import of services from an associated enterprise: earlier of entry in books or payment."
+  },
+  {
+   "ref": "GSTR-3B",
+   "title": "Reporting",
+   "text": "RCM liability in Table 3.1(d); ITC of RCM paid in Table 4A(3) (domestic) or 4A(2) (import of services)."
+  },
+  {
+   "ref": "Circular 211/5/2024-GST",
+   "title": "Time limit for ITC on RCM",
+   "text": "Where the supplier is unregistered, the Sec 16(4) time limit is reckoned from the FY in which the recipient issued the self-invoice. Interest is payable for delayed RCM payment."
+  }
+ ],
+ "gstr3b_tables": {
+  "3.1(d)": "Inward supplies liable to reverse charge",
+  "4A(1)": "Import of goods",
+  "4A(2)": "Import of services",
+  "4A(3)": "Inward supplies liable to reverse charge (other than 1 & 2)",
+  "4A(4)": "Inward supplies from ISD",
+  "4A(5)": "All other ITC",
+  "4B(1)": "ITC reversed - Rules 38, 42 & 43 and Sec 17(5) (permanent)",
+  "4B(2)": "ITC reversed - Others (Rule 37, 37A, non-receipt etc.; reclaimable)",
+  "4C": "Net ITC available (A - B)",
+  "4D(1)": "ITC reclaimed which was reversed under 4B(2) earlier",
+  "4D(2)": "Ineligible ITC u/s 16(4) and ITC restricted due to PoS rules"
+ },
+ "dates": {
+  "gstr1_monthly_day": 11,
+  "iff_day": 13,
+  "gstr2b_day": 14,
+  "gstr3b_monthly_day": 20,
+  "sec16_4": "30 November of the year following the FY of invoice (or annual return date if earlier)",
+  "rule37a": "Supplier must file GSTR-3B by 30 September of next FY; else recipient reverses by 30 November",
+  "rule37_days": 180,
+  "self_invoice_days": 30,
+  "drc01c_amount": 2500000,
+  "drc01c_percent": 20,
+  "rule86b_turnover": 5000000,
+  "interest_late_payment": 18,
+  "interest_wrong_itc": 18,
+  "eway_threshold": 50000,
+  "metal_scrap_tds_threshold": 250000
+ },
+ "case_laws": [
+  {
+   "name": "Chief Commissioner of CGST v. Safari Retreats Pvt. Ltd.",
+   "court": "Supreme Court",
+   "year": 2024,
+   "topic": "Sec 17(5)(d)",
+   "held": "Upheld validity of Sec 17(5)(c) and (d) but held that 'plant or machinery' in clause (d) is wider than the defined 'plant and machinery'; whether a building is a 'plant' depends on a functionality test.",
+   "status": "Legislatively overridden: Finance Act, 2025 substituted 'plant and machinery' in clause (d) retrospectively from 01-07-2017; review petition dismissed in 2025."
+  },
+  {
+   "name": "Union of India v. Mohit Minerals Pvt. Ltd.",
+   "court": "Supreme Court",
+   "year": 2022,
+   "topic": "RCM on ocean freight",
+   "held": "IGST under reverse charge on ocean freight for CIF imports is invalid, as the importer already pays IGST on the composite supply of goods including freight.",
+   "status": "The RCM entry for ocean freight was omitted from 01-10-2023."
+  },
+  {
+   "name": "Union of India v. Bharti Airtel Ltd.",
+   "court": "Supreme Court",
+   "year": 2021,
+   "topic": "Self-assessment of ITC",
+   "held": "ITC is self-assessed from the taxpayer's own records; the auto-populated form is only a facilitator. Unilateral rectification of GSTR-3B outside the statutory scheme is not permitted.",
+   "status": "Good law."
+  },
+  {
+   "name": "Suncraft Energy Pvt. Ltd. v. Assistant Commissioner, State Tax",
+   "court": "Calcutta High Court",
+   "year": 2023,
+   "topic": "Sec 16(2)(c), GSTR-2A mismatch",
+   "held": "ITC cannot be reversed from a bona fide recipient merely because of mismatch with GSTR-2A without first proceeding against the defaulting supplier.",
+   "status": "SLP filed by the department was dismissed by the Supreme Court (Dec 2023)."
+  },
+  {
+   "name": "Arise India Ltd. v. Commissioner of Trade & Taxes, Delhi",
+   "court": "Delhi High Court (affirmed by SC)",
+   "year": 2017,
+   "topic": "Bona fide purchaser (DVAT)",
+   "held": "A purchasing dealer who acted bona fide cannot be denied credit for the selling dealer's default when there is no mechanism to verify payment.",
+   "status": "VAT-era ruling relied upon for interpretation of Sec 16(2)(c)."
+  },
+  {
+   "name": "State of Karnataka v. Ecom Gill Coffee Trading Pvt. Ltd.",
+   "court": "Supreme Court",
+   "year": 2023,
+   "topic": "Burden of proof for ITC",
+   "held": "The burden of proving the genuineness of the transaction and actual movement of goods lies on the dealer claiming ITC; invoices and payment by cheque alone are not sufficient.",
+   "status": "Karnataka VAT ruling, applied widely to GST ITC disputes."
+  },
+  {
+   "name": "Gobinda Construction v. Union of India",
+   "court": "Patna High Court",
+   "year": 2023,
+   "topic": "Sec 16(4)",
+   "held": "Time limit under Sec 16(4) is a valid condition; ITC is a concession and statutory conditions must be satisfied.",
+   "status": "Followed by other High Courts; Sec 16(5) later gave limited relief for FY 2017-18 to 2020-21."
+  },
+  {
+   "name": "Circular 170/02/2022-GST",
+   "court": "CBIC",
+   "year": 2022,
+   "topic": "GSTR-3B Table 4 reporting",
+   "held": "Ineligible ITC under Sec 17(5) and reversals under Rules 38/42/43 go in Table 4B(1); other (reclaimable) reversals in 4B(2); 16(4) and PoS-restricted ITC in 4D(2).",
+   "status": "Reporting standard used by the GSTR-3B builder in this project."
+  },
+  {
+   "name": "Circular 211/5/2024-GST",
+   "court": "CBIC",
+   "year": 2024,
+   "topic": "Time limit for RCM ITC",
+   "held": "For RCM supplies from unregistered persons, the Sec 16(4) time limit is computed with reference to the FY in which the recipient issues the self-invoice.",
+   "status": "In force."
+  },
+  {
+   "name": "Circular 140/10/2020-GST",
+   "court": "CBIC",
+   "year": 2020,
+   "topic": "Director remuneration",
+   "held": "Remuneration to directors declared as salary in the books and subjected to TDS u/s 192 is not liable to GST; other payments to directors attract RCM.",
+   "status": "In force."
+  },
+  {
+   "name": "57th GST Council Meeting (08-10-2026)",
+   "court": "GST Council",
+   "year": 2026,
+   "topic": "Proposed ITC reforms",
+   "held": "Recommended removing Sec 17(5) blocks on outdoor catering, health & life insurance, telecom towers, pipelines outside factory, free samples and goods destroyed on expiry; refund of input-service ITC under inverted duty from 01-11-2026; capital-goods refund over 60 months from 01-04-2027; Rule 86A hearing; IMS and 'Electronic Credit Reversal and Reclaim Statement' rules; alternate correction mechanism from April 2027 return.",
+   "status": "PROPOSED - not effective until notified. The engine continues to apply current law and only flags these items."
+  }
+ ],
+ "chatbot_kb": [
+  {
+   "q": "What is input tax credit (ITC)?",
+   "a": "Input tax credit is the GST paid on purchases (inputs, input services, capital goods) that a registered person can set off against output tax, defined in Sec 2(63) and governed by Sections 16 to 21 of the CGST Act. It removes the cascading effect of tax."
+  },
+  {
+   "q": "What are the conditions to claim ITC under section 16?",
+   "a": "Under Sec 16(2): (a) possession of tax invoice/debit note, (aa) invoice reflected in GSTR-2B, (b) goods/services received, (ba) ITC not restricted in GSTR-2B, (c) supplier has actually paid the tax, (d) recipient has filed GSTR-3B. Additionally, pay the supplier within 180 days (Rule 37) and claim within the Sec 16(4) time limit."
+  },
+  {
+   "q": "What is the time limit to claim ITC under section 16(4)?",
+   "a": "ITC for an invoice must be taken by 30 November following the end of the financial year of the invoice, or the date of filing the annual return (GSTR-9), whichever is earlier. For FY 2025-26 invoices the last date is 30-11-2026."
+  },
+  {
+   "q": "What is reverse charge mechanism (RCM)?",
+   "a": "Under RCM [Sec 2(98)], the recipient instead of the supplier pays GST. It applies to notified supplies under Sec 9(3)/5(3) (e.g. GTA, advocate, security, director, import of services, commercial rent from unregistered landlord, metal scrap) and Sec 9(4) for promoters. RCM must be paid in cash and ITC can be taken in the same month."
+  },
+  {
+   "q": "Can RCM be paid through ITC / electronic credit ledger?",
+   "a": "No. Sec 49(4) allows the electronic credit ledger only for output tax. RCM liability must be paid from the electronic cash ledger. After payment, ITC of the RCM paid is available (subject to Sec 17(5))."
+  },
+  {
+   "q": "Is GTA under RCM?",
+   "a": "Yes, unless the GTA opts for forward charge. Under RCM the recipient (factory, registered person, body corporate, firm, society etc.) pays 5% and can take ITC. A GTA may instead opt for 18% forward charge with ITC (12% before 22-09-2025)."
+  },
+  {
+   "q": "Is RCM applicable on rent paid to unregistered landlord?",
+   "a": "For commercial property: yes, from 10-10-2024 (Entry 5AB, Notfn 09/2024-CT(R)) a registered tenant pays 18% RCM, but composition taxpayers are excluded from 16-01-2025 (Notfn 07/2025-CT(R)). For a residential dwelling rented to a registered person, RCM applies irrespective of the landlord's registration (Entry 5AA)."
+  },
+  {
+   "q": "Is RCM applicable on legal fees paid to advocate?",
+   "a": "Yes. Legal services by an advocate or firm of advocates to a business entity are under RCM at 18%. They are exempt if the business entity's turnover in the preceding FY was up to ₹20 lakh (₹10 lakh in special category states)."
+  },
+  {
+   "q": "Is RCM applicable on security services?",
+   "a": "Yes, when the security agency is not a body corporate and the recipient is a regular registered person. A company/LLP security agency charges GST under forward charge."
+  },
+  {
+   "q": "Is RCM applicable on director sitting fees?",
+   "a": "Yes. Services by a director (not as employee) to the company are under RCM at 18%. Salary to a whole-time director with TDS u/s 192 is outside GST (Circular 140/10/2020)."
+  },
+  {
+   "q": "What is the time of supply under RCM for services?",
+   "a": "Sec 13(3): earlier of the date of payment or the 61st day after the supplier's invoice. For import of services from an associated enterprise, the earlier of entry in books or payment."
+  },
+  {
+   "q": "What is the time of supply under RCM for goods?",
+   "a": "Sec 12(3): earliest of receipt of goods, date of payment, or the 31st day after the supplier's invoice."
+  },
+  {
+   "q": "What is a self invoice?",
+   "a": "When goods/services are received from an unregistered supplier under RCM, the recipient issues a self-invoice under Sec 31(3)(f) within 30 days of receipt (Rule 47A), and a payment voucher under Sec 31(3)(g) when paying."
+  },
+  {
+   "q": "What are blocked credits under section 17(5)?",
+   "a": "Main blocks: motor vehicles ≤13 seats and their insurance/repair; food, beverages, outdoor catering, beauty, health services, life/health insurance; club and fitness membership; employee vacation travel; works contract and goods/services for construction of immovable property (other than plant and machinery); composition tax; CSR expenditure; personal consumption; goods lost, stolen, destroyed, gifted or given as free samples; tax paid under Sec 74/129/130."
+  },
+  {
+   "q": "Is ITC available on car purchase?",
+   "a": "No, ITC on motor vehicles with seating up to 13 persons is blocked under Sec 17(5)(a) unless used for further supply of vehicles, passenger transport or driving training. Goods vehicles are eligible."
+  },
+  {
+   "q": "Is ITC available on food and canteen expenses?",
+   "a": "Generally blocked under Sec 17(5)(b)(i). It is allowed where the employer is obliged by law (e.g. Factories Act canteen) or the supply is used for an outward supply of the same category. The 57th GST Council has proposed removing the block on outdoor catering, but it is not notified yet."
+  },
+  {
+   "q": "Is ITC available on construction of factory building?",
+   "a": "No. Goods and services for construction of immovable property on own account are blocked under Sec 17(5)(d), except plant and machinery. The Finance Act, 2025 retrospectively replaced 'plant or machinery' with 'plant and machinery', so buildings cannot qualify as 'plant'."
+  },
+  {
+   "q": "Is ITC available on Diwali gifts to employees?",
+   "a": "No. Goods disposed of by way of gift are blocked under Sec 17(5)(h). Gifts up to ₹50,000 per employee per year are not a supply, but the ITC on them is still not available."
+  },
+  {
+   "q": "What is Rule 37 - 180 days payment rule?",
+   "a": "If the recipient does not pay the supplier (value + tax) within 180 days of the invoice date, the ITC must be reversed in the return for the period immediately following the 180 days, with interest u/s 50. ITC can be re-availed when payment is made."
+  },
+  {
+   "q": "What is Rule 37A?",
+   "a": "If a supplier has furnished the invoice in GSTR-1 but not filed GSTR-3B for that period by 30 September of the following year, the recipient must reverse the ITC by 30 November. It is re-availed after the supplier files GSTR-3B."
+  },
+  {
+   "q": "What is Rule 42?",
+   "a": "Rule 42 apportions common ITC on inputs and input services used for taxable and exempt/non-business purposes: D1 = (exempt turnover / total turnover) x common credit (C2) is reversed for exempt use, and D2 = 5% of C2 for non-business use. Computed monthly with an annual true-up by the September return of the next year."
+  },
+  {
+   "q": "What is Rule 43?",
+   "a": "Rule 43 apportions ITC on common capital goods over a useful life of 5 years (60 months): monthly credit Tm = common ITC / 60, and the exempt share Te = (E/F) x Tm is reversed every month."
+  },
+  {
+   "q": "What is GSTR-2B?",
+   "a": "GSTR-2B is the auto-drafted static ITC statement for each month, generated on the 14th of the following month from suppliers' GSTR-1/IFF/1A and IMS actions. Under Rule 36(4) only ITC reflected in GSTR-2B can be claimed."
+  },
+  {
+   "q": "What is IMS - Invoice Management System?",
+   "a": "IMS lets the recipient Accept, Reject or keep Pending each inward invoice/debit/credit note uploaded by suppliers before GSTR-2B is generated. Accepted and no-action records flow into GSTR-2B; rejected ones do not; pending ones roll forward. GSTR-2B can be recomputed after changing actions, before filing GSTR-3B."
+  },
+  {
+   "q": "What is the difference between GSTR-2A and GSTR-2B?",
+   "a": "GSTR-2A is dynamic and keeps changing as suppliers file; GSTR-2B is a static monthly statement fixed on the 14th (subject to IMS recompute). ITC claims are based on GSTR-2B."
+  },
+  {
+   "q": "What is DRC-01C?",
+   "a": "Under Rule 88D, if ITC claimed in GSTR-3B exceeds ITC available in GSTR-2B beyond the notified limit (₹25 lakh and 20%), the taxpayer receives an intimation in DRC-01C and must either pay the excess through DRC-03 or explain the difference in Part B."
+  },
+  {
+   "q": "What is the order of utilisation of ITC?",
+   "a": "Sec 49, 49A, 49B and Rule 88A: IGST credit is used first against IGST, then against CGST and SGST in any order/proportion. CGST credit is used against CGST then IGST; SGST against SGST then IGST. CGST can never pay SGST and vice versa. IGST credit must be fully used before CGST/SGST credit."
+  },
+  {
+   "q": "What interest is payable on wrong ITC?",
+   "a": "Sec 50(3): interest at 18% p.a. on ITC wrongly availed AND utilised, from the date of utilisation (Rule 88B). Interest on delayed payment of tax u/s 50(1) is also 18% on the net cash liability."
+  },
+  {
+   "q": "What is Rule 86B?",
+   "a": "Where the taxable value of supplies in a month exceeds ₹50 lakh, at least 1% of output tax must be paid in cash (ITC can discharge only 99%), subject to exceptions such as income tax paid above ₹1 lakh in each of the last two years or refunds above ₹1 lakh."
+  },
+  {
+   "q": "What changed in GST 2.0 from 22 September 2025?",
+   "a": "Rates were rationalised into 5% and 18% slabs with a 40% special rate for demerit goods. Individual health and life insurance became exempt. For ITC work, 12%/28% invoices dated on or after 22-09-2025 should be checked for wrong rates (except specified tobacco items)."
+  },
+  {
+   "q": "What did the 57th GST Council recommend on ITC?",
+   "a": "On 08-10-2026 the Council recommended removing Sec 17(5) blocks on outdoor catering, health & life insurance, telecom towers, pipelines outside factory, free samples and goods destroyed on expiry; refunds of ITC on input services (inverted duty) from 01-11-2026 and capital goods over 60 months from 01-04-2027; a hearing under Rule 86A; and new IMS/credit-reversal statements. These are recommendations until notified."
+  },
+  {
+   "q": "Is ITC available on import of services?",
+   "a": "Yes. Import of services is under RCM (Sec 5(3) IGST Act). The recipient pays IGST in cash and claims ITC in Table 4A(2) of GSTR-3B, subject to Sec 17(5)."
+  },
+  {
+   "q": "What is metal scrap RCM?",
+   "a": "From 10-10-2024 (Notfn 06/2024-CT(R)) a registered buyer pays 18% under RCM on metal scrap of Chapters 72-81 bought from an unregistered person. From registered suppliers, 2% GST-TDS u/s 51 applies above ₹2.5 lakh contract value."
+  },
+  {
+   "q": "Can ITC be claimed if supplier has not filed return?",
+   "a": "Under Sec 16(2)(c) tax must be actually paid by the supplier. If the invoice is not in GSTR-2B it cannot be claimed (Rule 36(4)). If it is in GSTR-2B but the supplier has not filed GSTR-3B by 30 September of the next year, Rule 37A requires reversal. Courts (Suncraft Energy) have protected bona fide recipients where the department did not first proceed against the supplier."
+  },
+  {
+   "q": "How should ineligible ITC be reported in GSTR-3B?",
+   "a": "Per Circular 170/02/2022: report full ITC as per GSTR-2B in Table 4A, reverse Sec 17(5) and Rule 38/42/43 amounts in 4B(1), temporary reversals in 4B(2), reclaimed ITC in 4D(1) (also included in 4A(5)), and 16(4)/PoS-restricted ITC in 4D(2)."
+  },
+  {
+   "q": "What is ITC on capital goods?",
+   "a": "Full ITC on capital goods is available in one go (not in instalments), subject to Sec 16 and 17(5). If depreciation is claimed on the tax component, ITC is not allowed (Sec 16(3)). Common capital goods are apportioned under Rule 43."
+  },
+  {
+   "q": "What is the difference between Rule 42 and Rule 43?",
+   "a": "Rule 42 deals with inputs and input services used commonly for taxable and exempt supplies (monthly apportionment with annual true-up). Rule 43 deals with capital goods, spreading common credit over 60 months."
+  },
+  {
+   "q": "How does AI help in GST ITC compliance?",
+   "a": "AI automates invoice matching with fuzzy logic, classifies expenses into eligible/blocked/RCM using machine-learning text classification, flags anomalies (duplicate, round-sum, threshold-splitting, Benford's law deviations), scores vendor risk and forecasts ITC. The tax department uses similar analytics - GSTN's BIFA, CBIC's ADVAIT and NETRA - to detect fake ITC."
+  },
+  {
+   "q": "What is BIFA and ADVAIT?",
+   "a": "BIFA (Business Intelligence and Fraud Analytics) is GSTN's analytics and machine-learning platform for fraud propensity and network analysis; ADVAIT (Advanced Analytics in Indirect Taxation, 2021) is CBIC's analytics platform. Together with NETRA they help detect fake invoicing and ITC fraud."
+  },
+  {
+   "q": "What is Section 16(5) and 16(6)?",
+   "a": "Inserted by Finance (No.2) Act, 2024. 16(5): ITC for FY 2017-18 to 2020-21 allowed in returns filed up to 30-11-2021. 16(6): where registration was cancelled and later revoked, ITC can be claimed within the specified extended period."
+  },
+  {
+   "q": "Is ITC available on employee health insurance?",
+   "a": "Blocked under Sec 17(5)(b)(i) unless obligatory under law. Individual policies became exempt from 22-09-2025. The 57th GST Council has proposed removing this block - check notification before claiming."
+  },
+  {
+   "q": "Is ITC available on mobile phones and laptops?",
+   "a": "Yes, if used for business. If used for personal consumption it is blocked under Sec 17(5)(g). Mixed use requires apportionment."
+  },
+  {
+   "q": "When to reverse ITC on credit notes?",
+   "a": "When a supplier issues a credit note reducing tax (Sec 34), the recipient reduces ITC accordingly. Under IMS a credit note can be kept pending for a limited period; rejecting it will increase the supplier's liability."
+  },
+  {
+   "q": "What is ISD?",
+   "a": "Input Service Distributor (Sec 2(61)) is an office that receives input-service invoices and distributes ITC to branches with the same PAN. ISD registration is mandatory from 01-04-2025 for distributing common input-service credit, including RCM services."
+  }
+ ],
+ "corpus": [
+  [
+   "raw material steel coil purchase",
+   "ELIGIBLE"
+  ],
+  [
+   "cotton yarn for weaving",
+   "ELIGIBLE"
+  ],
+  [
+   "packing material corrugated boxes",
+   "ELIGIBLE"
+  ],
+  [
+   "printer cartridges and stationery",
+   "ELIGIBLE"
+  ],
+  [
+   "laptop for accounts team",
+   "ELIGIBLE"
+  ],
+  [
+   "machine spare parts bearings",
+   "ELIGIBLE"
+  ],
+  [
+   "cnc machine purchase",
+   "ELIGIBLE"
+  ],
+  [
+   "lubricating oil for machines",
+   "ELIGIBLE"
+  ],
+  [
+   "chartered accountant audit fees",
+   "ELIGIBLE"
+  ],
+  [
+   "software license annual subscription",
+   "ELIGIBLE"
+  ],
+  [
+   "internet broadband charges",
+   "ELIGIBLE"
+  ],
+  [
+   "telephone bill office",
+   "ELIGIBLE"
+  ],
+  [
+   "advertisement in newspaper",
+   "ELIGIBLE"
+  ],
+  [
+   "consultancy charges professional",
+   "ELIGIBLE"
+  ],
+  [
+   "electrical cables and switchgear",
+   "ELIGIBLE"
+  ],
+  [
+   "chemicals dyes for processing",
+   "ELIGIBLE"
+  ],
+  [
+   "office furniture chairs",
+   "ELIGIBLE"
+  ],
+  [
+   "repair of production machine",
+   "ELIGIBLE"
+  ],
+  [
+   "courier charges documents",
+   "ELIGIBLE"
+  ],
+  [
+   "packaging film rolls",
+   "ELIGIBLE"
+  ],
+  [
+   "air conditioner for office",
+   "ELIGIBLE"
+  ],
+  [
+   "testing and calibration charges",
+   "ELIGIBLE"
+  ],
+  [
+   "web hosting domain india",
+   "ELIGIBLE"
+  ],
+  [
+   "warehouse handling charges registered",
+   "ELIGIBLE"
+  ],
+  [
+   "printing of brochures",
+   "ELIGIBLE"
+  ],
+  [
+   "trading goods purchase for resale",
+   "ELIGIBLE"
+  ],
+  [
+   "industrial gases oxygen",
+   "ELIGIBLE"
+  ],
+  [
+   "plant machinery installation charges",
+   "ELIGIBLE"
+  ],
+  [
+   "computer server purchase",
+   "ELIGIBLE"
+  ],
+  [
+   "manpower supply company invoice",
+   "ELIGIBLE"
+  ],
+  [
+   "bank charges processing fee",
+   "ELIGIBLE"
+  ],
+  [
+   "annual maintenance contract computers",
+   "ELIGIBLE"
+  ],
+  [
+   "freight charged by registered transporter with gst at 18 percent",
+   "ELIGIBLE"
+  ],
+  [
+   "seeds and fertilizer trading stock",
+   "ELIGIBLE"
+  ],
+  [
+   "mobile phone for sales staff business",
+   "ELIGIBLE"
+  ],
+  [
+   "purchase of raw material from supplier",
+   "ELIGIBLE"
+  ],
+  [
+   "steel sheets for manufacturing",
+   "ELIGIBLE"
+  ],
+  [
+   "plastic granules raw material",
+   "ELIGIBLE"
+  ],
+  [
+   "spare parts for machine maintenance",
+   "ELIGIBLE"
+  ],
+  [
+   "statutory audit fees chartered accountant",
+   "ELIGIBLE"
+  ],
+  [
+   "tally software renewal",
+   "ELIGIBLE"
+  ],
+  [
+   "electrical repair of factory machine",
+   "ELIGIBLE"
+  ],
+  [
+   "packing boxes and tapes",
+   "ELIGIBLE"
+  ],
+  [
+   "printing and stationery for office",
+   "ELIGIBLE"
+  ],
+  [
+   "consumables for production line",
+   "ELIGIBLE"
+  ],
+  [
+   "testing laboratory charges",
+   "ELIGIBLE"
+  ],
+  [
+   "annual maintenance of air conditioners",
+   "ELIGIBLE"
+  ],
+  [
+   "inward raw material polyester chips",
+   "ELIGIBLE"
+  ],
+  [
+   "dyes and chemicals for processing unit",
+   "ELIGIBLE"
+  ],
+  [
+   "computer peripherals keyboard mouse",
+   "ELIGIBLE"
+  ],
+  [
+   "conveyor belt for plant",
+   "ELIGIBLE"
+  ],
+  [
+   "hdpe bags for packing",
+   "ELIGIBLE"
+  ],
+  [
+   "office rent registered landlord with gst",
+   "ELIGIBLE"
+  ],
+  [
+   "advertising hoardings registered agency",
+   "ELIGIBLE"
+  ],
+  [
+   "recruitment agency fees",
+   "ELIGIBLE"
+  ],
+  [
+   "freight charged with gst by logistics company forward charge",
+   "ELIGIBLE"
+  ],
+  [
+   "courier and postage",
+   "ELIGIBLE"
+  ],
+  [
+   "generator set for factory",
+   "ELIGIBLE"
+  ],
+  [
+   "safety shoes and gloves for workers",
+   "ELIGIBLE"
+  ],
+  [
+   "purchase of innova crysta car",
+   "BLK_MOTOR"
+  ],
+  [
+   "motor car for director",
+   "BLK_MOTOR"
+  ],
+  [
+   "sedan car purchase",
+   "BLK_MOTOR"
+  ],
+  [
+   "car insurance premium",
+   "BLK_MOTOR"
+  ],
+  [
+   "servicing of company car",
+   "BLK_MOTOR"
+  ],
+  [
+   "repair of fortuner car",
+   "BLK_MOTOR"
+  ],
+  [
+   "two wheeler motorcycle purchase for staff",
+   "BLK_MOTOR"
+  ],
+  [
+   "suv vehicle purchase",
+   "BLK_MOTOR"
+  ],
+  [
+   "car accessories and tyres for car",
+   "BLK_MOTOR"
+  ],
+  [
+   "general insurance of motor car",
+   "BLK_MOTOR"
+  ],
+  [
+   "honda city car repair",
+   "BLK_MOTOR"
+  ],
+  [
+   "scorpio vehicle service charges",
+   "BLK_MOTOR"
+  ],
+  [
+   "car purchase for managing director",
+   "BLK_MOTOR"
+  ],
+  [
+   "vehicle maintenance passenger car",
+   "BLK_MOTOR"
+  ],
+  [
+   "purchase of passenger car",
+   "BLK_MOTOR"
+  ],
+  [
+   "toyota car purchase",
+   "BLK_MOTOR"
+  ],
+  [
+   "car repairs and servicing",
+   "BLK_MOTOR"
+  ],
+  [
+   "motor car comprehensive insurance",
+   "BLK_MOTOR"
+  ],
+  [
+   "car tyres replacement for company car",
+   "BLK_MOTOR"
+  ],
+  [
+   "maruti car for office use",
+   "BLK_MOTOR"
+  ],
+  [
+   "lunch for staff meeting",
+   "BLK_FOOD"
+  ],
+  [
+   "restaurant bill client dinner",
+   "BLK_FOOD"
+  ],
+  [
+   "outdoor catering for annual function",
+   "BLK_FOOD"
+  ],
+  [
+   "canteen food expenses",
+   "BLK_FOOD"
+  ],
+  [
+   "tea coffee and snacks",
+   "BLK_FOOD"
+  ],
+  [
+   "hotel food and beverages",
+   "BLK_FOOD"
+  ],
+  [
+   "party catering diwali celebration",
+   "BLK_FOOD"
+  ],
+  [
+   "beauty parlour services",
+   "BLK_FOOD"
+  ],
+  [
+   "salon charges",
+   "BLK_FOOD"
+  ],
+  [
+   "hospital charges employee",
+   "BLK_FOOD"
+  ],
+  [
+   "medical treatment expenses",
+   "BLK_FOOD"
+  ],
+  [
+   "cab hire for directors",
+   "BLK_FOOD"
+  ],
+  [
+   "biscuits and refreshments",
+   "BLK_FOOD"
+  ],
+  [
+   "pizza order office party",
+   "BLK_FOOD"
+  ],
+  [
+   "sweets and namkeen for staff",
+   "BLK_FOOD"
+  ],
+  [
+   "food expenses for staff",
+   "BLK_FOOD"
+  ],
+  [
+   "dinner with clients at hotel",
+   "BLK_FOOD"
+  ],
+  [
+   "refreshments for meeting",
+   "BLK_FOOD"
+  ],
+  [
+   "canteen contractor bill",
+   "BLK_FOOD"
+  ],
+  [
+   "mess food charges",
+   "BLK_FOOD"
+  ],
+  [
+   "cake and snacks for celebration",
+   "BLK_FOOD"
+  ],
+  [
+   "health checkup employees",
+   "BLK_FOOD"
+  ],
+  [
+   "group mediclaim policy employees",
+   "BLK_INS"
+  ],
+  [
+   "group health insurance premium",
+   "BLK_INS"
+  ],
+  [
+   "life insurance premium employees",
+   "BLK_INS"
+  ],
+  [
+   "term insurance group policy",
+   "BLK_INS"
+  ],
+  [
+   "mediclaim renewal staff family",
+   "BLK_INS"
+  ],
+  [
+   "group personal health cover",
+   "BLK_INS"
+  ],
+  [
+   "mediclaim insurance for staff",
+   "BLK_INS"
+  ],
+  [
+   "health policy premium for workers",
+   "BLK_INS"
+  ],
+  [
+   "group term life cover",
+   "BLK_INS"
+  ],
+  [
+   "club membership fees",
+   "BLK_CLUB"
+  ],
+  [
+   "gym membership for employees",
+   "BLK_CLUB"
+  ],
+  [
+   "golf club annual subscription",
+   "BLK_CLUB"
+  ],
+  [
+   "fitness centre membership",
+   "BLK_CLUB"
+  ],
+  [
+   "gymkhana membership",
+   "BLK_CLUB"
+  ],
+  [
+   "sports club fees director",
+   "BLK_CLUB"
+  ],
+  [
+   "yoga studio membership",
+   "BLK_CLUB"
+  ],
+  [
+   "club fees for directors",
+   "BLK_CLUB"
+  ],
+  [
+   "health club subscription",
+   "BLK_CLUB"
+  ],
+  [
+   "swimming club membership",
+   "BLK_CLUB"
+  ],
+  [
+   "country club annual charges",
+   "BLK_CLUB"
+  ],
+  [
+   "leave travel concession tickets",
+   "BLK_TRAVEL"
+  ],
+  [
+   "holiday package for employees",
+   "BLK_TRAVEL"
+  ],
+  [
+   "vacation tour for staff family",
+   "BLK_TRAVEL"
+  ],
+  [
+   "home travel concession flight",
+   "BLK_TRAVEL"
+  ],
+  [
+   "goa trip employees vacation",
+   "BLK_TRAVEL"
+  ],
+  [
+   "annual holiday tour package",
+   "BLK_TRAVEL"
+  ],
+  [
+   "employees vacation travel tickets",
+   "BLK_TRAVEL"
+  ],
+  [
+   "leave travel package for staff",
+   "BLK_TRAVEL"
+  ],
+  [
+   "family holiday tickets for employees",
+   "BLK_TRAVEL"
+  ],
+  [
+   "cement for factory building",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "tmt bars for construction",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "civil work contractor bill",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "works contract for office building",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "construction of boundary wall",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "renovation of office premises capitalised",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "factory shed construction",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "flooring and tiles for building",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "plaster and painting new building",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "interior fit out of office capitalised",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "rmc ready mix concrete for building",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "bricks and sand for construction",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "architect fees new building construction",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "waterproofing works building",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "civil construction of warehouse building",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "building material for new office",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "construction contractor running bill",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "roofing and civil work of shed",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "repairs of building capitalised",
+   "BLK_CONSTRUCTION"
+  ],
+  [
+   "furniture for director residence",
+   "BLK_PERSONAL"
+  ],
+  [
+   "household appliances director home",
+   "BLK_PERSONAL"
+  ],
+  [
+   "personal mobile for owner family",
+   "BLK_PERSONAL"
+  ],
+  [
+   "family vacation expenses",
+   "BLK_PERSONAL"
+  ],
+  [
+   "personal clothing purchase",
+   "BLK_PERSONAL"
+  ],
+  [
+   "television for director house",
+   "BLK_PERSONAL"
+  ],
+  [
+   "home renovation proprietor residence",
+   "BLK_PERSONAL"
+  ],
+  [
+   "personal expenses of proprietor",
+   "BLK_PERSONAL"
+  ],
+  [
+   "groceries for owner home",
+   "BLK_PERSONAL"
+  ],
+  [
+   "personal travel of director family",
+   "BLK_PERSONAL"
+  ],
+  [
+   "jewellery purchase personal",
+   "BLK_PERSONAL"
+  ],
+  [
+   "diwali gifts for customers",
+   "BLK_GIFT"
+  ],
+  [
+   "gift hampers for employees",
+   "BLK_GIFT"
+  ],
+  [
+   "free samples distribution",
+   "BLK_GIFT"
+  ],
+  [
+   "dry fruits gift boxes festival",
+   "BLK_GIFT"
+  ],
+  [
+   "sweet boxes as gifts to dealers",
+   "BLK_GIFT"
+  ],
+  [
+   "gift vouchers for clients",
+   "BLK_GIFT"
+  ],
+  [
+   "goods destroyed in fire written off",
+   "BLK_GIFT"
+  ],
+  [
+   "expired stock written off",
+   "BLK_GIFT"
+  ],
+  [
+   "stolen inventory loss",
+   "BLK_GIFT"
+  ],
+  [
+   "complimentary products free sample",
+   "BLK_GIFT"
+  ],
+  [
+   "new year gifts to clients",
+   "BLK_GIFT"
+  ],
+  [
+   "free samples to customers",
+   "BLK_GIFT"
+  ],
+  [
+   "gift articles for dealers meet",
+   "BLK_GIFT"
+  ],
+  [
+   "goods lost in transit written off",
+   "BLK_GIFT"
+  ],
+  [
+   "damaged goods destroyed",
+   "BLK_GIFT"
+  ],
+  [
+   "csr expenditure school kits",
+   "BLK_CSR"
+  ],
+  [
+   "corporate social responsibility tree plantation",
+   "BLK_CSR"
+  ],
+  [
+   "csr activity health camp",
+   "BLK_CSR"
+  ],
+  [
+   "csr donation of computers to school",
+   "BLK_CSR"
+  ],
+  [
+   "csr project village water",
+   "BLK_CSR"
+  ],
+  [
+   "materials for csr programme",
+   "BLK_CSR"
+  ],
+  [
+   "csr medical camp expenses",
+   "BLK_CSR"
+  ],
+  [
+   "csr education sponsorship materials",
+   "BLK_CSR"
+  ],
+  [
+   "csr expenses village development",
+   "BLK_CSR"
+  ],
+  [
+   "books distributed under csr",
+   "BLK_CSR"
+  ],
+  [
+   "freight paid to transport company",
+   "RCM_GTA"
+  ],
+  [
+   "lorry freight inward goods",
+   "RCM_GTA"
+  ],
+  [
+   "truck hire goods transport agency",
+   "RCM_GTA"
+  ],
+  [
+   "gta consignment note freight",
+   "RCM_GTA"
+  ],
+  [
+   "cartage charges transporter",
+   "RCM_GTA"
+  ],
+  [
+   "bilty charges goods transport",
+   "RCM_GTA"
+  ],
+  [
+   "transportation of goods by road gta",
+   "RCM_GTA"
+  ],
+  [
+   "outward freight transporter bill",
+   "RCM_GTA"
+  ],
+  [
+   "goods transport agency freight 5 percent",
+   "RCM_GTA"
+  ],
+  [
+   "freight inward raw material transporter lr",
+   "RCM_GTA"
+  ],
+  [
+   "transport charges for goods lorry receipt",
+   "RCM_GTA"
+  ],
+  [
+   "road freight goods carriage",
+   "RCM_GTA"
+  ],
+  [
+   "truck freight to port",
+   "RCM_GTA"
+  ],
+  [
+   "freight paid to roadlines",
+   "RCM_GTA"
+  ],
+  [
+   "goods transport charges consignment",
+   "RCM_GTA"
+  ],
+  [
+   "inward transportation charges gta 5 percent rcm",
+   "RCM_GTA"
+  ],
+  [
+   "trailer freight for machinery",
+   "RCM_GTA"
+  ],
+  [
+   "outward freight to customer by road",
+   "RCM_GTA"
+  ],
+  [
+   "local cartage tempo goods",
+   "RCM_GTA"
+  ],
+  [
+   "legal fees advocate",
+   "RCM_LEGAL"
+  ],
+  [
+   "advocate professional fees court case",
+   "RCM_LEGAL"
+  ],
+  [
+   "lawyer fees for legal opinion",
+   "RCM_LEGAL"
+  ],
+  [
+   "senior advocate appearance fees",
+   "RCM_LEGAL"
+  ],
+  [
+   "law firm fees litigation",
+   "RCM_LEGAL"
+  ],
+  [
+   "legal retainer advocate",
+   "RCM_LEGAL"
+  ],
+  [
+   "advocate fees gst appeal",
+   "RCM_LEGAL"
+  ],
+  [
+   "advocate fees for high court matter",
+   "RCM_LEGAL"
+  ],
+  [
+   "legal consultation advocate",
+   "RCM_LEGAL"
+  ],
+  [
+   "fees to firm of advocates",
+   "RCM_LEGAL"
+  ],
+  [
+   "counsel fees arbitration matter",
+   "RCM_LEGAL"
+  ],
+  [
+   "legal drafting by advocate",
+   "RCM_LEGAL"
+  ],
+  [
+   "security guard services",
+   "RCM_SECURITY"
+  ],
+  [
+   "watchman charges",
+   "RCM_SECURITY"
+  ],
+  [
+   "security agency bill guards",
+   "RCM_SECURITY"
+  ],
+  [
+   "security personnel supply",
+   "RCM_SECURITY"
+  ],
+  [
+   "night guard services factory",
+   "RCM_SECURITY"
+  ],
+  [
+   "bouncers for event security",
+   "RCM_SECURITY"
+  ],
+  [
+   "security services by proprietor agency",
+   "RCM_SECURITY"
+  ],
+  [
+   "guards for warehouse",
+   "RCM_SECURITY"
+  ],
+  [
+   "security charges monthly bill",
+   "RCM_SECURITY"
+  ],
+  [
+   "watch and ward services",
+   "RCM_SECURITY"
+  ],
+  [
+   "security personnel for site",
+   "RCM_SECURITY"
+  ],
+  [
+   "shop rent unregistered landlord",
+   "RCM_RENT"
+  ],
+  [
+   "office rent paid to individual",
+   "RCM_RENT"
+  ],
+  [
+   "godown rent unregistered owner",
+   "RCM_RENT"
+  ],
+  [
+   "warehouse rent landlord",
+   "RCM_RENT"
+  ],
+  [
+   "factory premises rent individual",
+   "RCM_RENT"
+  ],
+  [
+   "residential flat rent for staff",
+   "RCM_RENT"
+  ],
+  [
+   "guest house rent",
+   "RCM_RENT"
+  ],
+  [
+   "commercial property rent",
+   "RCM_RENT"
+  ],
+  [
+   "land lease rent",
+   "RCM_RENT"
+  ],
+  [
+   "rent for godown to unregistered landlord",
+   "RCM_RENT"
+  ],
+  [
+   "monthly office rent individual owner",
+   "RCM_RENT"
+  ],
+  [
+   "rent of shop premises",
+   "RCM_RENT"
+  ],
+  [
+   "lease rent for open land",
+   "RCM_RENT"
+  ],
+  [
+   "rent paid for warehouse space owner not registered",
+   "RCM_RENT"
+  ],
+  [
+   "residential accommodation rent for employees",
+   "RCM_RENT"
+  ],
+  [
+   "director sitting fees",
+   "RCM_DIRECTOR"
+  ],
+  [
+   "commission to independent director",
+   "RCM_DIRECTOR"
+  ],
+  [
+   "board meeting fees",
+   "RCM_DIRECTOR"
+  ],
+  [
+   "director remuneration commission not salary",
+   "RCM_DIRECTOR"
+  ],
+  [
+   "sitting fees independent directors",
+   "RCM_DIRECTOR"
+  ],
+  [
+   "fees paid to director for board meetings",
+   "RCM_DIRECTOR"
+  ],
+  [
+   "independent director sitting fee",
+   "RCM_DIRECTOR"
+  ],
+  [
+   "commission payable to non executive director",
+   "RCM_DIRECTOR"
+  ],
+  [
+   "director professional fees not employee",
+   "RCM_DIRECTOR"
+  ],
+  [
+   "aws cloud services usd invoice",
+   "RCM_IMPORT"
+  ],
+  [
+   "google ads campaign",
+   "RCM_IMPORT"
+  ],
+  [
+   "facebook advertising meta ireland",
+   "RCM_IMPORT"
+  ],
+  [
+   "foreign consultant fees",
+   "RCM_IMPORT"
+  ],
+  [
+   "linkedin premium subscription",
+   "RCM_IMPORT"
+  ],
+  [
+   "adobe creative cloud subscription",
+   "RCM_IMPORT"
+  ],
+  [
+   "microsoft azure services overseas",
+   "RCM_IMPORT"
+  ],
+  [
+   "zoom subscription foreign",
+   "RCM_IMPORT"
+  ],
+  [
+   "consultancy from singapore company",
+   "RCM_IMPORT"
+  ],
+  [
+   "software development by us company",
+   "RCM_IMPORT"
+  ],
+  [
+   "aws invoice cloud hosting",
+   "RCM_IMPORT"
+  ],
+  [
+   "amazon web services bill",
+   "RCM_IMPORT"
+  ],
+  [
+   "google cloud platform invoice",
+   "RCM_IMPORT"
+  ],
+  [
+   "meta ads invoice",
+   "RCM_IMPORT"
+  ],
+  [
+   "github enterprise subscription",
+   "RCM_IMPORT"
+  ],
+  [
+   "slack subscription usd",
+   "RCM_IMPORT"
+  ],
+  [
+   "foreign software license invoice",
+   "RCM_IMPORT"
+  ],
+  [
+   "consultancy fees to uk firm",
+   "RCM_IMPORT"
+  ],
+  [
+   "royalty paid to foreign company",
+   "RCM_IMPORT"
+  ],
+  [
+   "overseas marketing agency fees",
+   "RCM_IMPORT"
+  ],
+  [
+   "atlassian jira subscription",
+   "RCM_IMPORT"
+  ],
+  [
+   "openai api usage invoice usd",
+   "RCM_IMPORT"
+  ],
+  [
+   "sponsorship of cricket tournament",
+   "RCM_SPONSOR"
+  ],
+  [
+   "event sponsorship fees",
+   "RCM_SPONSOR"
+  ],
+  [
+   "title sponsorship seminar",
+   "RCM_SPONSOR"
+  ],
+  [
+   "sponsoring college fest",
+   "RCM_SPONSOR"
+  ],
+  [
+   "sponsorship marathon branding",
+   "RCM_SPONSOR"
+  ],
+  [
+   "sponsorship charges for exhibition",
+   "RCM_SPONSOR"
+  ],
+  [
+   "sponsorship of sports event",
+   "RCM_SPONSOR"
+  ],
+  [
+   "co sponsorship of conference",
+   "RCM_SPONSOR"
+  ],
+  [
+   "sponsor fees for cultural programme",
+   "RCM_SPONSOR"
+  ],
+  [
+   "iron scrap purchase from kabadi",
+   "RCM_SCRAP"
+  ],
+  [
+   "ms scrap from unregistered dealer",
+   "RCM_SCRAP"
+  ],
+  [
+   "copper scrap purchase",
+   "RCM_SCRAP"
+  ],
+  [
+   "aluminium scrap unregistered",
+   "RCM_SCRAP"
+  ],
+  [
+   "steel melting scrap",
+   "RCM_SCRAP"
+  ],
+  [
+   "heavy melting scrap",
+   "RCM_SCRAP"
+  ],
+  [
+   "brass scrap purchase",
+   "RCM_SCRAP"
+  ],
+  [
+   "scrap purchased from unregistered person",
+   "RCM_SCRAP"
+  ],
+  [
+   "metal scrap kabadiwala",
+   "RCM_SCRAP"
+  ],
+  [
+   "old iron scrap purchase",
+   "RCM_SCRAP"
+  ],
+  [
+   "stainless steel scrap purchase",
+   "RCM_SCRAP"
+  ],
+  [
+   "melting scrap from local dealer",
+   "RCM_SCRAP"
+  ]
+ ],
+ "labels": {
+  "ELIGIBLE": {
+   "name": "Eligible ITC",
+   "group": "eligible",
+   "ref": "Sec 16"
+  },
+  "BLK_MOTOR": {
+   "name": "Blocked - Motor vehicle",
+   "group": "blocked",
+   "ref": "Sec 17(5)(a)/(ab)"
+  },
+  "BLK_FOOD": {
+   "name": "Blocked - Food / catering / health",
+   "group": "blocked",
+   "ref": "Sec 17(5)(b)(i)"
+  },
+  "BLK_INS": {
+   "name": "Blocked - Life / health insurance",
+   "group": "blocked",
+   "ref": "Sec 17(5)(b)(i)"
+  },
+  "BLK_CLUB": {
+   "name": "Blocked - Club / fitness membership",
+   "group": "blocked",
+   "ref": "Sec 17(5)(b)(ii)"
+  },
+  "BLK_TRAVEL": {
+   "name": "Blocked - Employee vacation travel",
+   "group": "blocked",
+   "ref": "Sec 17(5)(b)(iii)"
+  },
+  "BLK_CONSTRUCTION": {
+   "name": "Blocked - Construction of immovable property",
+   "group": "blocked",
+   "ref": "Sec 17(5)(c)/(d)"
+  },
+  "BLK_PERSONAL": {
+   "name": "Blocked - Personal consumption",
+   "group": "blocked",
+   "ref": "Sec 17(5)(g)"
+  },
+  "BLK_GIFT": {
+   "name": "Blocked - Gifts / samples / loss",
+   "group": "blocked",
+   "ref": "Sec 17(5)(h)"
+  },
+  "BLK_CSR": {
+   "name": "Blocked - CSR expenditure",
+   "group": "blocked",
+   "ref": "Sec 17(5)(fa)"
+  },
+  "RCM_GTA": {
+   "name": "RCM - Goods Transport Agency",
+   "group": "rcm",
+   "ref": "Notfn 13/2017 Sl. 1",
+   "rcm_id": "RCM_GTA"
+  },
+  "RCM_LEGAL": {
+   "name": "RCM - Legal (advocate)",
+   "group": "rcm",
+   "ref": "Notfn 13/2017 Sl. 2",
+   "rcm_id": "RCM_LEGAL"
+  },
+  "RCM_SECURITY": {
+   "name": "RCM - Security services",
+   "group": "rcm",
+   "ref": "Notfn 13/2017 Sl. 14",
+   "rcm_id": "RCM_SECURITY"
+  },
+  "RCM_RENT": {
+   "name": "RCM - Renting of property",
+   "group": "rcm",
+   "ref": "Notfn 13/2017 Sl. 5AA/5AB",
+   "rcm_id": "RCM_RENT_COMM"
+  },
+  "RCM_DIRECTOR": {
+   "name": "RCM - Director services",
+   "group": "rcm",
+   "ref": "Notfn 13/2017 Sl. 6",
+   "rcm_id": "RCM_DIRECTOR"
+  },
+  "RCM_IMPORT": {
+   "name": "RCM - Import of services",
+   "group": "rcm",
+   "ref": "Sec 5(3) IGST",
+   "rcm_id": "RCM_IMPORT_SERVICE"
+  },
+  "RCM_SPONSOR": {
+   "name": "RCM - Sponsorship",
+   "group": "rcm",
+   "ref": "Notfn 13/2017 Sl. 4",
+   "rcm_id": "RCM_SPONSOR"
+  },
+  "RCM_SCRAP": {
+   "name": "RCM - Metal scrap",
+   "group": "rcm",
+   "ref": "Notfn 06/2024-CT(R)",
+   "rcm_id": "RCM_METAL_SCRAP"
+  }
+ },
+ "hsn_hints": {
+  "8703": "BLK_MOTOR",
+  "8711": "BLK_MOTOR",
+  "2523": "BLK_CONSTRUCTION",
+  "7214": "BLK_CONSTRUCTION",
+  "9954": "BLK_CONSTRUCTION",
+  "996331": "BLK_FOOD",
+  "9963": "BLK_FOOD",
+  "999721": "BLK_FOOD",
+  "997652": "BLK_CLUB",
+  "999591": "BLK_CLUB",
+  "9965": "RCM_GTA",
+  "998215": "RCM_LEGAL",
+  "998211": "RCM_LEGAL",
+  "998212": "RCM_LEGAL",
+  "998525": "RCM_SECURITY",
+  "997212": "RCM_RENT",
+  "997211": "RCM_RENT",
+  "7204": "RCM_SCRAP",
+  "7404": "RCM_SCRAP",
+  "7602": "RCM_SCRAP"
+ },
+ "vendor_types": [
+  "Regular",
+  "Composition",
+  "Unregistered",
+  "SEZ",
+  "Foreign",
+  "Government",
+  "ISD"
+ ]
+}

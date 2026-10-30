@@ -1,0 +1,40 @@
+{
+ "chksum": "33654ee97f9e28de10a5516c07e605b7",
+ "data": {
+  "gstin": "29ENGCT5419X1ZA",
+  "rtnprd": "022025",
+  "version": "1.0",
+  "gendt": "14-03-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29KLGFV9874I1ZB",
+     "trdnm": "VARDHMAN STATIONERS",
+     "supfildt": "12-03-2025",
+     "supprd": "022025",
+     "inv": [
+      {
+       "inum": "LATE/2024-25/147",
+       "typ": "R",
+       "dt": "27-02-2025",
+       "val": 345244.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 292580,
+       "igst": 0.0,
+       "cgst": 26332.2,
+       "sgst": 26332.2,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

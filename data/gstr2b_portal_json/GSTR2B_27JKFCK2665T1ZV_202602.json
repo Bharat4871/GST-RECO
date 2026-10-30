@@ -1,0 +1,240 @@
+{
+ "chksum": "92a1ace581fd9dacf2bd1d314001a1ad",
+ "data": {
+  "gstin": "27JKFCK2665T1ZV",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27COSFK7759P1Z6",
+     "trdnm": "KESAR CARGO MOVERS",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "KCM00054",
+       "typ": "R",
+       "dt": "15-02-2026",
+       "val": 94260,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 94260,
+       "igst": 0.0,
+       "cgst": 2356.5,
+       "sgst": 2356.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27MGTFK9996J1ZD",
+     "trdnm": "KESAR BEARINGS & SPARES",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "KB00385",
+       "typ": "R",
+       "dt": "26-02-2026",
+       "val": 240128.65,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 203498.86,
+       "igst": 0.0,
+       "cgst": 18314.9,
+       "sgst": 18314.89,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27TSJCK4832X2ZV",
+     "trdnm": "KESAR MACHINERY",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000278",
+       "typ": "R",
+       "dt": "27-02-2026",
+       "val": 874132.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3f836e7545162db988738aa173b436d22ed0511f7f48e4f2e601e536f627371d",
+       "txval": 740790,
+       "igst": 0.0,
+       "cgst": 66671.1,
+       "sgst": 66671.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000287",
+       "typ": "R",
+       "dt": "04-02-2026",
+       "val": 564665.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "42eb7754f0b829e451c3fd88bb10258016e29230b6a69f2d0e3ad16687ca88bf",
+       "txval": 478530,
+       "igst": 0.0,
+       "cgst": 43067.7,
+       "sgst": 43067.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZPAFP6901N1ZG",
+     "trdnm": "PRATHAM FORKLIFT SERVICES",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "PFS/0252/25-26",
+       "typ": "R",
+       "dt": "27-02-2026",
+       "val": 86175.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 73030,
+       "igst": 0.0,
+       "cgst": 6572.7,
+       "sgst": 6572.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27XBZCA9418K1Z3",
+     "trdnm": "AMBIKA REALTY PVT LTD",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00229",
+       "typ": "R",
+       "dt": "10-02-2026",
+       "val": 562121.65,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c80b5be43bcddcc53d0ff1465ec87fcd23645c18883b5897f29c89ac4c1caf27",
+       "txval": 476374.28,
+       "igst": 0.0,
+       "cgst": 42873.68,
+       "sgst": 42873.69,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00238",
+       "typ": "R",
+       "dt": "27-02-2026",
+       "val": 363723.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8f12c995a4a54bd403abed5161dec3e87dba8facac6d8d946840a7f2aa8d7530",
+       "txval": 308240,
+       "igst": 0.0,
+       "cgst": 27741.6,
+       "sgst": 27741.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27KWKCV3011V1Z4",
+     "trdnm": "Vishwa Express Logistics Ltd",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "VEL00092",
+       "typ": "R",
+       "dt": "07-02-2026",
+       "val": 135121.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "eef29ef081669e4b6eb48a3ade8b6cef2b84464ac3a8931e6d044b70d3e85378",
+       "txval": 114510,
+       "igst": 0.0,
+       "cgst": 10305.9,
+       "sgst": 10305.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27AETPS6038I2ZQ",
+     "trdnm": "Sai Guarding Agency",
+     "supfildt": "01-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "X1616/2025-26",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 16402.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 13900,
+       "igst": 0.0,
+       "cgst": 1251.0,
+       "sgst": 1251.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

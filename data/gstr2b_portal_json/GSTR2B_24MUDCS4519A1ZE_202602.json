@@ -1,0 +1,186 @@
+{
+ "chksum": "34b3d609824b46758fe6c9ac2397c838",
+ "data": {
+  "gstin": "24MUDCS4519A1ZE",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24RAAPK6612X1ZP",
+     "trdnm": "KESAR SECURITY SERVICES",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/49",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 68910,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 68910,
+       "igst": 0.0,
+       "cgst": 6201.9,
+       "sgst": 6201.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24OCHCP1515A1ZM",
+     "trdnm": "PRIME INFOTECH",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "PI/0045/25-26",
+       "typ": "R",
+       "dt": "16-02-2026",
+       "val": 58740.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "37208e04574499de2d15b7143166c29364aabe9286bb9886fc24f7121b07dd84",
+       "txval": 49780,
+       "igst": 0.0,
+       "cgst": 4480.2,
+       "sgst": 4480.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "PI/0051/25-26",
+       "typ": "R",
+       "dt": "05-02-2026",
+       "val": 136840.09,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "85c2ddf202b1c84b08ffcc0fb7274e499546c6e5049e7c406e4fdc323ee0a7fa",
+       "txval": 115966.18,
+       "igst": 0.0,
+       "cgst": 10436.95,
+       "sgst": 10436.96,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "PI/0057/25-26",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 86045.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "bc8a2b466ba5db1261e9107796d34802e7aa5f26834ae24d299a971ee5adae0f",
+       "txval": 72920,
+       "igst": 0.0,
+       "cgst": 6562.8,
+       "sgst": 6562.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27YFVFJ3521N1ZT",
+     "trdnm": "Jalaram Consultants",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000313",
+       "typ": "R",
+       "dt": "06-02-2026",
+       "val": 50468.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "N",
+       "rsn": "POS",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 42770,
+       "igst": 7698.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VTWCS3589D1Z6",
+     "trdnm": "Sunrise Sports Foundation",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "SSF/0127/25-26",
+       "typ": "R",
+       "dt": "22-02-2026",
+       "val": 149080,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 149080,
+       "igst": 0.0,
+       "cgst": 13417.2,
+       "sgst": 13417.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CWXCJ9954F1ZI",
+     "trdnm": "Jay Computers",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000049",
+       "typ": "R",
+       "dt": "13-02-2026",
+       "val": 101220.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7b0db0a3ee3f74a598929dc44941f36034d076e3799e832b58c3c8ce11dbb3dc",
+       "txval": 85780,
+       "igst": 0.0,
+       "cgst": 7720.2,
+       "sgst": 7720.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

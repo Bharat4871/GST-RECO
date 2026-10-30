@@ -1,0 +1,332 @@
+{
+ "chksum": "539a49c1ddb1ce7e7a6eed2940a2f2db",
+ "data": {
+  "gstin": "24IQQCS7272U1Z0",
+  "rtnprd": "082026",
+  "version": "1.0",
+  "gendt": "14-09-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24YFVCN3521N1Z1",
+     "trdnm": "Navkar Oil Seeds Traders",
+     "supfildt": "10-07-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/135",
+       "typ": "R",
+       "dt": "30-06-2026",
+       "val": 496273.22,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c309fe7ff1d0dbc4c5d0e99c674f2f82260be742aea3d095ed5db136b3d00077",
+       "txval": 472641.16,
+       "igst": 0.0,
+       "cgst": 11816.03,
+       "sgst": 11816.03,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/142",
+       "typ": "R",
+       "dt": "20-08-2026",
+       "val": 1426285.84,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "212e10fbeff11aa42537defaaf169b50b047ab829efbda1f75c6ddee27dd133e",
+       "txval": 1358367.47,
+       "igst": 0.0,
+       "cgst": 33959.18,
+       "sgst": 33959.19,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24COOCS6667R2ZC",
+     "trdnm": "SUNRISE EVENTS PVT LTD",
+     "supfildt": "11-07-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "INV-2627-00101",
+       "typ": "R",
+       "dt": "04-06-2026",
+       "val": 106000,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 106000,
+       "igst": 0.0,
+       "cgst": 9540.0,
+       "sgst": 9540.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZVSCM2000Z1ZV",
+     "trdnm": "MAHALAXMI ENGINEERING WORKS",
+     "supfildt": "11-08-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/142",
+       "typ": "R",
+       "dt": "01-07-2026",
+       "val": 1170991.99,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "055581b288a95f8260d1c9dc043930d4a3519d687361c8d899c24d4af0ff93cb",
+       "txval": 992366.09,
+       "igst": 0.0,
+       "cgst": 89312.95,
+       "sgst": 89312.95,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RHLFA8471M1Z5",
+     "trdnm": "Ambika Stationers",
+     "supfildt": "08-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "AS/0191/26-27",
+       "typ": "R",
+       "dt": "15-08-2026",
+       "val": 4621.35,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 3916.4,
+       "igst": 704.95,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "AS/0194/26-27",
+       "typ": "R",
+       "dt": "03-08-2026",
+       "val": 2999.71,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 2542.13,
+       "igst": 457.58,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24DSLFP4552S1ZE",
+     "trdnm": "PRIME TRANSPORT CO.",
+     "supfildt": "09-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/228",
+       "typ": "R",
+       "dt": "05-08-2026",
+       "val": 76147.67,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 72521.6,
+       "igst": 0.0,
+       "cgst": 1813.04,
+       "sgst": 1813.03,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WWICS6386Y1Z5",
+     "trdnm": "SAI POLYMERS",
+     "supfildt": "10-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "SP00207",
+       "typ": "R",
+       "dt": "25-08-2026",
+       "val": 241688.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "52ed2778655ff3eb4374b7fc7837611d42d7c552b1691448fcea50de921d298f",
+       "txval": 230179.81,
+       "igst": 0.0,
+       "cgst": 5754.49,
+       "sgst": 5754.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X2641/2026-27",
+       "typ": "R",
+       "dt": "10-08-2026",
+       "val": 66729.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 56550,
+       "igst": 0.0,
+       "cgst": 5089.5,
+       "sgst": 5089.5,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "24UZIFM5704X1ZJ",
+     "trdnm": "Metro Consultants",
+     "supfildt": "08-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/259",
+       "typ": "R",
+       "dt": "15-08-2026",
+       "val": 38953.45,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 33011.39,
+       "igst": 0.0,
+       "cgst": 2971.03,
+       "sgst": 2971.03,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24KLUCM7422R1ZO",
+     "trdnm": "METRO AUTOMATION",
+     "supfildt": "10-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/397",
+       "typ": "R",
+       "dt": "21-08-2026",
+       "val": 326700.32,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9ef8cfe896b24dcf38633cce9f3d37a886c630a33b742a352160dd0419a654c6",
+       "txval": 276864.68,
+       "igst": 0.0,
+       "cgst": 24917.82,
+       "sgst": 24917.82,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "07QYKFN7550I1Z4",
+     "trdnm": "NAVKAR CATERERS",
+     "supfildt": "11-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/357",
+       "typ": "R",
+       "dt": "26-08-2026",
+       "val": 29276.69,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 27882.56,
+       "igst": 1394.13,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X3427/2026-27",
+       "typ": "R",
+       "dt": "27-08-2026",
+       "val": 190711.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 161620,
+       "igst": 29091.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

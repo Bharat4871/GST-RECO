@@ -1,0 +1,40 @@
+{
+ "chksum": "f5e445b4aae5f45983a7c95d7443905f",
+ "data": {
+  "gstin": "24DKQCS9385U1Z7",
+  "rtnprd": "072025",
+  "version": "1.0",
+  "gendt": "14-08-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24YUGCM8927W1ZK",
+     "trdnm": "METRO AGRO COMMODITIES",
+     "supfildt": "10-08-2025",
+     "supprd": "072025",
+     "inv": [
+      {
+       "inum": "LATE202526335",
+       "typ": "R",
+       "dt": "21-07-2025",
+       "val": 128531.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 114760,
+       "igst": 0.0,
+       "cgst": 6885.6,
+       "sgst": 6885.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

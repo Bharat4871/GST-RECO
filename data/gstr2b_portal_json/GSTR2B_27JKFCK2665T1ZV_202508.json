@@ -1,0 +1,40 @@
+{
+ "chksum": "5535ea20b16c6292d248f97978731582",
+ "data": {
+  "gstin": "27JKFCK2665T1ZV",
+  "rtnprd": "082025",
+  "version": "1.0",
+  "gendt": "14-09-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27ZPAFP6901N1ZG",
+     "trdnm": "PRATHAM FORKLIFT SERVICES",
+     "supfildt": "12-09-2025",
+     "supprd": "082025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/868",
+       "typ": "R",
+       "dt": "17-08-2025",
+       "val": 308614.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 275548.58,
+       "igst": 0.0,
+       "cgst": 16532.91,
+       "sgst": 16532.91,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

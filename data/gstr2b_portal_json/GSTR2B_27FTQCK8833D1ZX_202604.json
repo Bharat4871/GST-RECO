@@ -1,0 +1,359 @@
+{
+ "chksum": "d76708ed8e37b0cbe08c3b48e679ba3c",
+ "data": {
+  "gstin": "27FTQCK8833D1ZX",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27RMWCM5319L2ZI",
+     "trdnm": "METRO ESTATES LLP",
+     "supfildt": "14-03-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "MEL/0236/25-26",
+       "typ": "R",
+       "dt": "03-02-2026",
+       "val": 633188.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "08da7ea384b6697b2da41755ff1ffb89c03429ba2742b11aab36688a03ae28b3",
+       "txval": 536600,
+       "igst": 0.0,
+       "cgst": 48294.0,
+       "sgst": 48294.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27LNYFJ8420S1Z4",
+     "trdnm": "Jalaram Cargo Movers",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "JCM/0078/26-27",
+       "typ": "R",
+       "dt": "21-04-2026",
+       "val": 47240,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 47240,
+       "igst": 0.0,
+       "cgst": 1181.0,
+       "sgst": 1181.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "JCM-0082-26-27",
+       "typ": "R",
+       "dt": "18-04-2026",
+       "val": 8040,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 8040,
+       "igst": 0.0,
+       "cgst": 201.0,
+       "sgst": 201.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "JCM/0090/26-27",
+       "typ": "R",
+       "dt": "28-04-2026",
+       "val": 29290,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 29290,
+       "igst": 0.0,
+       "cgst": 732.25,
+       "sgst": 732.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27DRZFK7940Y1ZJ",
+     "trdnm": "Kaveri Caterers",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/62",
+       "typ": "R",
+       "dt": "20-04-2026",
+       "val": 55398.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 52760,
+       "igst": 0.0,
+       "cgst": 1319.0,
+       "sgst": 1319.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27IYZFK8121Z1Z7",
+     "trdnm": "KESAR ELECTRICALS",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000394",
+       "typ": "R",
+       "dt": "30-04-2026",
+       "val": 125268.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 106160,
+       "igst": 0.0,
+       "cgst": 9554.4,
+       "sgst": 9554.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27TSJFO4832X2ZL",
+     "trdnm": "OM OFFICE MART",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000054",
+       "typ": "R",
+       "dt": "23-04-2026",
+       "val": 10468.02,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 8871.2,
+       "igst": 0.0,
+       "cgst": 798.41,
+       "sgst": 798.41,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27JNXCK5269G1ZS",
+     "trdnm": "Kesar Computers",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "KC00053",
+       "typ": "R",
+       "dt": "26-04-2026",
+       "val": 94246.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "268a45e1c9ca68b415a2a32f7409f993b63ffb85e2f7d708753215b36f6d54cc",
+       "txval": 79870,
+       "igst": 0.0,
+       "cgst": 7188.3,
+       "sgst": 7188.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33DZZPB2176S2ZF",
+     "trdnm": "Bhavani Guarding Agency",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "BGA00125",
+       "typ": "R",
+       "dt": "29-04-2026",
+       "val": 46280,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 46280,
+       "igst": 8330.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "BGA00134",
+       "typ": "R",
+       "dt": "18-04-2026",
+       "val": 65510,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 65510,
+       "igst": 11791.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "36FZDFS4765M1Z3",
+     "trdnm": "Sunrise Management Advisors",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "INV-2627-00402",
+       "typ": "R",
+       "dt": "19-04-2026",
+       "val": 179938.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 152490,
+       "igst": 27448.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "INV-2627-00409",
+       "typ": "R",
+       "dt": "27-04-2026",
+       "val": 101208.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 85770,
+       "igst": 15438.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27FNQFA4104L1ZG",
+     "trdnm": "APEX FORKLIFT SERVICES",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/112",
+       "typ": "R",
+       "dt": "29-04-2026",
+       "val": 58929.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 49940,
+       "igst": 0.0,
+       "cgst": 4494.6,
+       "sgst": 4494.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08ENICO1332O1ZB",
+     "trdnm": "Om Engineering Works",
+     "supfildt": "16-04-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "X7586/2026-27",
+       "typ": "R",
+       "dt": "01-04-2026",
+       "val": 301053.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 255130,
+       "igst": 45923.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

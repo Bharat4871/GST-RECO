@@ -1,0 +1,286 @@
+{
+ "chksum": "a113546e283c0e547569744de792c5c1",
+ "data": {
+  "gstin": "24NSEFN6832N1ZK",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24DCECN7376K1ZU",
+     "trdnm": "NARAYAN TELECOM LTD",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "ntl00062",
+       "typ": "R",
+       "dt": "16-01-2026",
+       "val": 16182.73,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9f78b8dd4013510e96a4db2919430ad4d201cfbabe12ba3592581e3dd46d92d8",
+       "txval": 13714.18,
+       "igst": 0.0,
+       "cgst": 1234.28,
+       "sgst": 1234.27,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24AIRFV5131E1ZP",
+     "trdnm": "VISHWA BUILDERS & CONTRACTORS",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "VB/0193/25-26",
+       "typ": "R",
+       "dt": "29-01-2026",
+       "val": 499747.89,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 423515.16,
+       "igst": 0.0,
+       "cgst": 38116.36,
+       "sgst": 38116.37,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UQICE6582U1Z7",
+     "trdnm": "Excel Infotech",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/182",
+       "typ": "R",
+       "dt": "07-01-2026",
+       "val": 130356.59,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b5982dc79ff37fec60cd33126f0122194093a0d3add0574539dd7a629fcfea51",
+       "txval": 110471.69,
+       "igst": 0.0,
+       "cgst": 9942.45,
+       "sgst": 9942.45,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24HKEFM3019I1ZS",
+     "trdnm": "Mahalaxmi Infra Works",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "2025000142",
+       "typ": "R",
+       "dt": "04-01-2026",
+       "val": 364081.11,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 308543.31,
+       "igst": 0.0,
+       "cgst": 27768.9,
+       "sgst": 27768.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PVVCN6591K1ZZ",
+     "trdnm": "NAVKAR GENERAL INSURANCE CO. LTD",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "NGI/0280/25-26",
+       "typ": "R",
+       "dt": "25-01-2026",
+       "val": 32110.62,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b29e67955a4a448a438437a5f0f702f04c12c1ee6de594c3da9c5ce472904215",
+       "txval": 27212.39,
+       "igst": 0.0,
+       "cgst": 2449.11,
+       "sgst": 2449.12,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FGZFR8585H2ZQ",
+     "trdnm": "ROYAL OFFICE MART",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "ROM00230",
+       "typ": "R",
+       "dt": "29-01-2026",
+       "val": 8159.26,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 6914.63,
+       "igst": 0.0,
+       "cgst": 622.32,
+       "sgst": 622.31,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "ROM00238",
+       "typ": "R",
+       "dt": "19-01-2026",
+       "val": 2974.69,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 2520.92,
+       "igst": 0.0,
+       "cgst": 226.88,
+       "sgst": 226.89,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "ROM00240",
+       "typ": "R",
+       "dt": "10-01-2026",
+       "val": 3199.27,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 2711.25,
+       "igst": 0.0,
+       "cgst": 244.01,
+       "sgst": 244.01,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "ROM00241",
+       "typ": "R",
+       "dt": "08-01-2026",
+       "val": 7645.82,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 6479.51,
+       "igst": 0.0,
+       "cgst": 583.15,
+       "sgst": 583.16,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24EXMCJ6897Z1ZG",
+     "trdnm": "Jay Infotech",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "JI/0383/25-26",
+       "typ": "R",
+       "dt": "28-01-2026",
+       "val": 54280.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "23f3175ef28f6fd376ea25d25ddaeb81081f94f918674c0adfaab83fb470b705",
+       "txval": 46000,
+       "igst": 0.0,
+       "cgst": 4140.0,
+       "sgst": 4140.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24ARGFU6025S1ZN",
+     "trdnm": "Umiya Cement Depot",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "2025000183",
+       "typ": "R",
+       "dt": "31-01-2026",
+       "val": 127185.52,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 107784.34,
+       "igst": 0.0,
+       "cgst": 9700.59,
+       "sgst": 9700.59,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

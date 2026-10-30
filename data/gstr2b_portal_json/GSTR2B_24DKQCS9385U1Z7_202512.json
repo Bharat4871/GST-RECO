@@ -1,0 +1,40 @@
+{
+ "chksum": "8a6631875980d55df7a95bb54615b232",
+ "data": {
+  "gstin": "24DKQCS9385U1Z7",
+  "rtnprd": "122025",
+  "version": "1.0",
+  "gendt": "14-01-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "08LONCM2485M1ZN",
+     "trdnm": "MAHALAXMI CORRUGATORS",
+     "supfildt": "10-01-2026",
+     "supprd": "122025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/858",
+       "typ": "R",
+       "dt": "14-12-2025",
+       "val": 451584.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 403200,
+       "igst": 48384.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

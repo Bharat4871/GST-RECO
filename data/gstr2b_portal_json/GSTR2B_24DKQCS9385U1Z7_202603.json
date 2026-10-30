@@ -1,0 +1,297 @@
+{
+ "chksum": "51e2ec4f9857590d52df35972ed57444",
+ "data": {
+  "gstin": "24DKQCS9385U1Z7",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24CBLCS6790Y1ZT",
+     "trdnm": "SHREE EXPRESS LOGISTICS LTD",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/152",
+       "typ": "R",
+       "dt": "12-03-2026",
+       "val": 127216.69,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9628a5315e29eb6800f3b334e55dab15c3961f9012803cbd41b7fa9add7b6d76",
+       "txval": 107810.75,
+       "igst": 0.0,
+       "cgst": 9702.97,
+       "sgst": 9702.97,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PWRCN5112R1Z8",
+     "trdnm": "NARAYAN METALS",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000269",
+       "typ": "R",
+       "dt": "10-03-2026",
+       "val": 497099.75,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f9bb77c7f1359b54395c000843d5825be86571fa8dc34d03b247d97ec1f33c11",
+       "txval": 473428.33,
+       "igst": 0.0,
+       "cgst": 11835.71,
+       "sgst": 11835.71,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000276",
+       "typ": "R",
+       "dt": "17-03-2026",
+       "val": 910984.92,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "125aeed5821a83ee53d58976ae6e8583b80c89b71390db09dd09afefd1e204c9",
+       "txval": 867604.69,
+       "igst": 0.0,
+       "cgst": 21690.12,
+       "sgst": 21690.11,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000285",
+       "typ": "R",
+       "dt": "14-03-2026",
+       "val": 1044621.86,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8acd4ab9821ec42b43a6279588117c9394d0bee1b7539f27af37c7abc48c3bc9",
+       "txval": 994877.96,
+       "igst": 0.0,
+       "cgst": 24871.95,
+       "sgst": 24871.95,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06AWLCD6956O1ZL",
+     "trdnm": "Deccan Yarn Traders",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "DYT/0056/25-26",
+       "typ": "R",
+       "dt": "11-03-2026",
+       "val": 665117.98,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "87ff53ab42d2672a94aa4a9041bdae167a9d31128745d800a18b4abb522cc379",
+       "txval": 633445.7,
+       "igst": 31672.28,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "DYT/0059/25-26",
+       "typ": "R",
+       "dt": "22-03-2026",
+       "val": 1716308.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e8243d7b115ac79a6c286aecd89233b5439d7fb17fbe22f79b2362bbc7821a95",
+       "txval": 1634579.43,
+       "igst": 81728.97,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "DYT/0064/25-26",
+       "typ": "R",
+       "dt": "23-03-2026",
+       "val": 621600.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "813914f971d496ed54c141e2e0889740b994b75e2c53451f1f8ca2229450b768",
+       "txval": 592000,
+       "igst": 29600.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ATCCS2814J2ZF",
+     "trdnm": "SUNRISE AUTOMATION",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00232",
+       "typ": "R",
+       "dt": "31-03-2026",
+       "val": 206500.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8e871145779c042fc437b786d2d516ea162655efa2a7f00957cddf14c1195c44",
+       "txval": 175000,
+       "igst": 0.0,
+       "cgst": 15750.0,
+       "sgst": 15750.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36AJWCD6415J1ZL",
+     "trdnm": "DECCAN DYE CHEM",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "DDC/0182/25-26",
+       "typ": "R",
+       "dt": "14-03-2026",
+       "val": 97017.61,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f03494c76af9434bc57b633ec0961d4c1bffb27a5090921912020fc49c374cf8",
+       "txval": 82218.31,
+       "igst": 14799.3,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24TPMCV9595I2Z1",
+     "trdnm": "Vardhman Steel Traders",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "VST/0127/25-26",
+       "typ": "R",
+       "dt": "03-03-2026",
+       "val": 559307.69,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "79189491ea858e90bbf673532a38ce200d0c93748334a0e41300c5d1740d4465",
+       "txval": 532673.99,
+       "igst": 0.0,
+       "cgst": 13316.85,
+       "sgst": 13316.85,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "VST/0136/25-26",
+       "typ": "R",
+       "dt": "29-03-2026",
+       "val": 424400.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3da488685482d6567a5a2e46770e43d79481ade8a2c30b4df4eb600490d5460f",
+       "txval": 404190.95,
+       "igst": 0.0,
+       "cgst": 10104.77,
+       "sgst": 10104.78,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24VWCPR9967M1Z1",
+     "trdnm": "Royal Guarding Agency",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "RGA00034",
+       "typ": "R",
+       "dt": "03-03-2026",
+       "val": 68499.89,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 68499.89,
+       "igst": 0.0,
+       "cgst": 6164.99,
+       "sgst": 6164.99,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

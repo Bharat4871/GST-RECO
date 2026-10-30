@@ -1,0 +1,194 @@
+{
+ "chksum": "da1789dcaddc149f390e121870b9983c",
+ "data": {
+  "gstin": "29DNHCT2909W1ZF",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "23QTECM4367K1ZS",
+     "trdnm": "Mahalaxmi Computers",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "MC00166",
+       "typ": "R",
+       "dt": "08-05-2026",
+       "val": 77939.01,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "681a5c8d923b3f4b1746f73983a51fde7a7dfc32697c86c5c27ef8f2922197ac",
+       "txval": 66050.01,
+       "igst": 11889.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X7288/2026-27",
+       "typ": "R",
+       "dt": "26-05-2026",
+       "val": 301820.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 255780,
+       "igst": 46040.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29JZZFV9754B1ZL",
+     "trdnm": "VISHWA TOURS & TRAVELS",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00332",
+       "typ": "R",
+       "dt": "27-05-2026",
+       "val": 108150.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 103000,
+       "igst": 0.0,
+       "cgst": 2575.0,
+       "sgst": 2575.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EIOCN7432Z1ZD",
+     "trdnm": "NARAYAN REALTY PVT LTD",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "NRP00371",
+       "typ": "R",
+       "dt": "27-05-2026",
+       "val": 774478.31,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7a71338d1175a92173e79d161f100f8ebb4198e4f90078f3e78da92701e51c68",
+       "txval": 656337.55,
+       "igst": 0.0,
+       "cgst": 59070.38,
+       "sgst": 59070.38,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29PMDPA6831D1ZZ",
+     "trdnm": "Ambika Security Services",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "ASS00135",
+       "typ": "R",
+       "dt": "26-05-2026",
+       "val": 93334.96,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 93334.96,
+       "igst": 0.0,
+       "cgst": 8400.15,
+       "sgst": 8400.14,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EWBFA2113J2ZG",
+     "trdnm": "Ambika Restaurant",
+     "supfildt": "15-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "X7413/2026-27",
+       "typ": "R",
+       "dt": "31-05-2026",
+       "val": 7693.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 6520,
+       "igst": 0.0,
+       "cgst": 586.8,
+       "sgst": 586.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29MISCB8715L1Z1",
+     "trdnm": "Bharat Broadband Services",
+     "supfildt": "31-05-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "X8507/2026-27",
+       "typ": "R",
+       "dt": "16-05-2026",
+       "val": 39081.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 33120,
+       "igst": 0.0,
+       "cgst": 2980.8,
+       "sgst": 2980.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

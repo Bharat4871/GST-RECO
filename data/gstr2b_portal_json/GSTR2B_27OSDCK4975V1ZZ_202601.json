@@ -1,0 +1,205 @@
+{
+ "chksum": "d1ad96c02aa5bf924e1a14f44955680c",
+ "data": {
+  "gstin": "27OSDCK4975V1ZZ",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27TQLFT6746Y1Z8",
+     "trdnm": "TRIDENT OFFICE MART",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/179",
+       "typ": "R",
+       "dt": "14-01-2026",
+       "val": 4057.42,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 3438.49,
+       "igst": 0.0,
+       "cgst": 309.46,
+       "sgst": 309.47,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/188",
+       "typ": "R",
+       "dt": "02-01-2026",
+       "val": 35400.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 30000,
+       "igst": 0.0,
+       "cgst": 2700.0,
+       "sgst": 2700.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "08WYMFK4683W1Z1",
+     "trdnm": "KESAR MATERIAL HANDLING",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00335",
+       "typ": "R",
+       "dt": "25-01-2026",
+       "val": 135263.98,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 114630.49,
+       "igst": 20633.49,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "INV-2526-00343",
+       "typ": "R",
+       "dt": "23-01-2026",
+       "val": 180773.94,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 153198.25,
+       "igst": 27575.69,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00346",
+       "typ": "R",
+       "dt": "15-01-2026",
+       "val": 164643.03,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 139527.99,
+       "igst": 25115.04,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27QVPCA2853C1Z3",
+     "trdnm": "Ambika Telecom Ltd",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00040",
+       "typ": "R",
+       "dt": "24-01-2026",
+       "val": 16256.75,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "96e21a3c2e34e3494df154caac7a7cc6a08be6eea00545703cf3cdc20df57fa5",
+       "txval": 13776.91,
+       "igst": 0.0,
+       "cgst": 1239.92,
+       "sgst": 1239.92,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RMWFM5319L2ZC",
+     "trdnm": "Metro Management Advisors",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "2025000299",
+       "typ": "R",
+       "dt": "24-01-2026",
+       "val": 197586.26,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 167445.98,
+       "igst": 0.0,
+       "cgst": 15070.14,
+       "sgst": 15070.14,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ADCFK6599V1ZV",
+     "trdnm": "Kaveri Bearings & Spares",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00076",
+       "typ": "R",
+       "dt": "24-01-2026",
+       "val": 100120.3,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 84847.71,
+       "igst": 0.0,
+       "cgst": 7636.3,
+       "sgst": 7636.29,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

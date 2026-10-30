@@ -1,0 +1,40 @@
+{
+ "chksum": "661841b226f1d252e7e0b3831bd70234",
+ "data": {
+  "gstin": "24IQQCS7272U1Z0",
+  "rtnprd": "082025",
+  "version": "1.0",
+  "gendt": "14-09-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24WWICS6386Y1Z5",
+     "trdnm": "Sai Polymers",
+     "supfildt": "08-09-2025",
+     "supprd": "082025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/318",
+       "typ": "R",
+       "dt": "10-08-2025",
+       "val": 397656.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 355050,
+       "igst": 0.0,
+       "cgst": 21303.0,
+       "sgst": 21303.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

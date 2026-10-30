@@ -1,0 +1,278 @@
+{
+ "chksum": "912616cb0863b89a8bafac9bd422fa2c",
+ "data": {
+  "gstin": "24RMIFN3419H1Z8",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24PNIPS6156E1ZG",
+     "trdnm": "Shree Security Services",
+     "supfildt": "09-04-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2526-00298",
+       "typ": "R",
+       "dt": "19-03-2026",
+       "val": 67170,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 67170,
+       "igst": 0.0,
+       "cgst": 6045.3,
+       "sgst": 6045.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24LNZFB7252G1Z2",
+     "trdnm": "BHAVANI OFFICE MART",
+     "supfildt": "09-04-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "BOM00160",
+       "typ": "R",
+       "dt": "23-03-2026",
+       "val": 29358.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24880,
+       "igst": 0.0,
+       "cgst": 2239.2,
+       "sgst": 2239.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "BOM00171",
+       "typ": "R",
+       "dt": "24-05-2026",
+       "val": 34054.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 28860,
+       "igst": 0.0,
+       "cgst": 2597.4,
+       "sgst": 2597.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UKBFB7549X1ZG",
+     "trdnm": "BHAVANI CEMENT DEPOT",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00173",
+       "typ": "R",
+       "dt": "03-05-2026",
+       "val": 1038057.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 879710,
+       "igst": 0.0,
+       "cgst": 79173.9,
+       "sgst": 79173.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00179",
+       "typ": "R",
+       "dt": "16-05-2026",
+       "val": 1158889.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 982110,
+       "igst": 0.0,
+       "cgst": 88389.9,
+       "sgst": 88389.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00184",
+       "typ": "R",
+       "dt": "17-05-2026",
+       "val": 300062.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 254290,
+       "igst": 0.0,
+       "cgst": 22886.1,
+       "sgst": 22886.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WSJFM1731M1ZL",
+     "trdnm": "METRO CONSTRUCTIONS",
+     "supfildt": "08-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "MC00192",
+       "typ": "R",
+       "dt": "31-05-2026",
+       "val": 1667104.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1412800,
+       "igst": 0.0,
+       "cgst": 127152.0,
+       "sgst": 127152.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24MGXCM1154T1ZX",
+     "trdnm": "METRO MACHINERY",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "MM00162",
+       "typ": "R",
+       "dt": "07-05-2026",
+       "val": 501983.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8879ddf8cff0b79aaa60dc79c1201e07c75299c6472595c999044f83553a3e97",
+       "txval": 425410,
+       "igst": 0.0,
+       "cgst": 38286.9,
+       "sgst": 38286.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "MM00168",
+       "typ": "R",
+       "dt": "06-05-2026",
+       "val": 291932.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "930cbd26a9badc7b71ffa6d2ee953fc163deeeb061dfffcb816e4f0784e82fb1",
+       "txval": 247400,
+       "igst": 0.0,
+       "cgst": 22266.0,
+       "sgst": 22266.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VKLCO3968C1Z6",
+     "trdnm": "Om Broadband Services",
+     "supfildt": "08-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "OBS00360",
+       "typ": "R",
+       "dt": "28-05-2026",
+       "val": 19281.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "5ed3a2e6130b3b77d897c8d527f63826bd6566e031b1505185d0b6720bf40274",
+       "txval": 16340,
+       "igst": 0.0,
+       "cgst": 1470.6,
+       "sgst": 1470.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZBUFE3827C1ZQ",
+     "trdnm": "EXCEL INFRA WORKS",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00084",
+       "typ": "R",
+       "dt": "19-05-2026",
+       "val": 1577683.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1337020,
+       "igst": 0.0,
+       "cgst": 120331.8,
+       "sgst": 120331.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

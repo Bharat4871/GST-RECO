@@ -1,0 +1,167 @@
+{
+ "chksum": "f1a7e79c060012598599bd36c8c5aac6",
+ "data": {
+  "gstin": "27JKFCK2665T1ZV",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27KWKCV3011V1Z4",
+     "trdnm": "VISHWA EXPRESS LOGISTICS LTD",
+     "supfildt": "11-06-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "VEL00115",
+       "typ": "R",
+       "dt": "08-05-2026",
+       "val": 109618.04,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a9afb9723fb72729aa00155997dc35e7f9e192171b9dfca7ef9f9c5f9b7ead66",
+       "txval": 92896.64,
+       "igst": 0.0,
+       "cgst": 8360.7,
+       "sgst": 8360.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27MGTFK9996J1ZD",
+     "trdnm": "KESAR BEARINGS & SPARES",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "KB00401",
+       "typ": "R",
+       "dt": "19-07-2026",
+       "val": 47943.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 40630,
+       "igst": 0.0,
+       "cgst": 3656.7,
+       "sgst": 3656.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "KB00407",
+       "typ": "R",
+       "dt": "16-07-2026",
+       "val": 214948.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 182160,
+       "igst": 0.0,
+       "cgst": 16394.4,
+       "sgst": 16394.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27UDNCK4850K1ZA",
+     "trdnm": "KESAR COMPUTERS",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/66",
+       "typ": "R",
+       "dt": "22-07-2026",
+       "val": 96702.52,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7bd025f6003697a8beddec8000acc24b4fcdfa3c4b3609a1fe656ae4d3e2ed70",
+       "txval": 81951.29,
+       "igst": 0.0,
+       "cgst": 7375.61,
+       "sgst": 7375.62,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27DRZFK7940Y1ZJ",
+     "trdnm": "Kaveri Caterers",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00094",
+       "typ": "R",
+       "dt": "18-07-2026",
+       "val": 88315.5,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 84110,
+       "igst": 0.0,
+       "cgst": 2102.75,
+       "sgst": 2102.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27AETPS6038I2ZQ",
+     "trdnm": "Sai Guarding Agency",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00410",
+       "typ": "R",
+       "dt": "11-07-2026",
+       "val": 65380,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 65380,
+       "igst": 0.0,
+       "cgst": 5884.2,
+       "sgst": 5884.2,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

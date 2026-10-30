@@ -1,0 +1,40 @@
+{
+ "chksum": "29f909e8d263b92d3c20c967f0b95187",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "122025",
+  "version": "1.0",
+  "gendt": "14-01-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24MIOCR8274X2Z4",
+     "trdnm": "ROYAL YARN TRADERS",
+     "supfildt": "10-01-2026",
+     "supprd": "122025",
+     "inv": [
+      {
+       "inum": "LATE202526867",
+       "typ": "R",
+       "dt": "06-12-2025",
+       "val": 192147.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 171560,
+       "igst": 0.0,
+       "cgst": 10293.6,
+       "sgst": 10293.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

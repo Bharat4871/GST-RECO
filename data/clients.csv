@@ -1,0 +1,6 @@
+id,name,gstin,pan,state,city,constitution,business,nature,turnover_cr,filing,partner,email,has_exempt
+C1,Saurashtra Agro Exports Pvt Ltd,24DKQCS9385U1Z7,DKQCS9385U,24,Rajkot,Private Limited Company,Edible oil processing & export,Manufacturer,38.5,Monthly,CA R. K. Desai,accounts@saurashtraagro.example,True
+C2,Narmada Infra Projects LLP,24NSEFN6832N1ZK,NSEFN6832N,24,Ahmedabad,Limited Liability Partnership,Civil construction (works contracts),Works Contractor,52.0,Monthly,CA P. S. Mehta,finance@narmadainfra.example,False
+C3,Shree Ganesh Textiles Pvt Ltd,24IQQCS7272U1Z0,IQQCS7272U,24,Surat,Private Limited Company,Weaving & processing of synthetic fabric,Manufacturer,24.8,Monthly,CA R. K. Desai,gst@shreeganeshtex.example,False
+C4,Konkan Logistics & Warehousing Pvt Ltd,27OSDCK4975V1ZZ,OSDCK4975V,27,Bhiwandi,Private Limited Company,Warehousing & logistics services,Service Provider,17.3,Monthly,CA P. S. Mehta,ap@konkanlogistics.example,True
+C5,TechNova Software Solutions Pvt Ltd,29DNHCT2909W1ZF,DNHCT2909W,29,Bengaluru,Private Limited Company,Software development & IT exports,Service Provider / Exporter,61.2,Monthly,CA A. N. Shah,tax@technova.example,False

@@ -1,0 +1,40 @@
+{
+ "chksum": "ea5a99fba66c486ea86cc0da3c7a8996",
+ "data": {
+  "gstin": "24MUDCS4519A1ZE",
+  "rtnprd": "112025",
+  "version": "1.0",
+  "gendt": "14-12-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24PBJFV2492F1ZL",
+     "trdnm": "Vishwa Stationers",
+     "supfildt": "13-12-2025",
+     "supprd": "112025",
+     "inv": [
+      {
+       "inum": "LATE/225-26/723",
+       "typ": "R",
+       "dt": "29-11-2025",
+       "val": 264230.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 235920,
+       "igst": 0.0,
+       "cgst": 14155.2,
+       "sgst": 14155.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

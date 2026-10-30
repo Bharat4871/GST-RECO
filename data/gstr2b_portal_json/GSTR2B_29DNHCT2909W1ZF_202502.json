@@ -1,0 +1,40 @@
+{
+ "chksum": "77bbb0de1c4b46cd05b44d2bf14579dd",
+ "data": {
+  "gstin": "29DNHCT2909W1ZF",
+  "rtnprd": "022025",
+  "version": "1.0",
+  "gendt": "14-03-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29MISCB8715L1Z1",
+     "trdnm": "BHARAT BROADBAND SERVICES",
+     "supfildt": "15-03-2025",
+     "supprd": "022025",
+     "inv": [
+      {
+       "inum": "LATE/2024-25/802",
+       "typ": "R",
+       "dt": "18-02-2025",
+       "val": 332178.38,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 281507.1,
+       "igst": 0.0,
+       "cgst": 25335.64,
+       "sgst": 25335.64,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

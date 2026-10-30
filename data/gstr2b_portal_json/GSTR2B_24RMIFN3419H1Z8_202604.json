@@ -1,0 +1,278 @@
+{
+ "chksum": "616eea5b6116a48837aa815b7ceb7a2a",
+ "data": {
+  "gstin": "24RMIFN3419H1Z8",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24ZPPFU6550A1ZO",
+     "trdnm": "UNIQUE BUILDING MATERIALS",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "UBM/0055/26-27",
+       "typ": "R",
+       "dt": "30-04-2026",
+       "val": 853517.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 723320,
+       "igst": 0.0,
+       "cgst": 65098.8,
+       "sgst": 65098.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UKBFB7549X1ZG",
+     "trdnm": "BHAVANI CEMENT DEPOT",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "INV-2627-00146",
+       "typ": "R",
+       "dt": "05-04-2026",
+       "val": 1407551.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1192840,
+       "igst": 0.0,
+       "cgst": 107355.6,
+       "sgst": 107355.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00151",
+       "typ": "R",
+       "dt": "24-04-2026",
+       "val": 392161.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 332340,
+       "igst": 0.0,
+       "cgst": 29910.6,
+       "sgst": 29910.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00167",
+       "typ": "R",
+       "dt": "08-04-2026",
+       "val": 320511.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 271620,
+       "igst": 0.0,
+       "cgst": 24445.8,
+       "sgst": 24445.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00168",
+       "typ": "R",
+       "dt": "09-04-2026",
+       "val": 1048135.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 888250,
+       "igst": 0.0,
+       "cgst": 79942.5,
+       "sgst": 79942.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WSJFM1731M1ZL",
+     "trdnm": "METRO CONSTRUCTIONS",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "MC00180",
+       "typ": "R",
+       "dt": "22-04-2026",
+       "val": 458064.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 388190,
+       "igst": 0.0,
+       "cgst": 34937.1,
+       "sgst": 34937.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X9381/2026-27",
+       "typ": "R",
+       "dt": "09-04-2026",
+       "val": 172704.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 146360,
+       "igst": 0.0,
+       "cgst": 13172.4,
+       "sgst": 13172.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36KRICS6085B1Z1",
+     "trdnm": "SAI ENGINEERING WORKS",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000382",
+       "typ": "R",
+       "dt": "30-04-2026",
+       "val": 1104943.93,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1e8ec80fcf975f681a3b0cf6d2b6dfe92a792023163bc669a63b59072a8773b0",
+       "txval": 936393.16,
+       "igst": 168550.77,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QVWCN1032L1ZL",
+     "trdnm": "NAVKAR EXPRESS LOGISTICS LTD",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000334",
+       "typ": "R",
+       "dt": "18-04-2026",
+       "val": 131168.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ccc373251169a368a388d07a8696c4bb783469244ed6c5a960f105131b65e158",
+       "txval": 111160,
+       "igst": 0.0,
+       "cgst": 10004.4,
+       "sgst": 10004.4,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24LNZFB7252G1Z2",
+     "trdnm": "BHAVANI OFFICE MART",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "BOM00168",
+       "typ": "R",
+       "dt": "16-04-2026",
+       "val": 11493.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 9740,
+       "igst": 0.0,
+       "cgst": 876.6,
+       "sgst": 876.6,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24VKLCO3968C1Z6",
+     "trdnm": "Om Broadband Services",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "OBS00352",
+       "typ": "R",
+       "dt": "01-04-2026",
+       "val": 26479.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8a636128234e17eb1997dd5da5d8d471dbb6d0ad199fae765c054cded78d083c",
+       "txval": 22440,
+       "igst": 0.0,
+       "cgst": 2019.6,
+       "sgst": 2019.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

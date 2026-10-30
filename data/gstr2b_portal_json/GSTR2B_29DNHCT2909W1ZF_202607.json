@@ -1,0 +1,267 @@
+{
+ "chksum": "3fafb1a14f94b6674fe317e3d700158f",
+ "data": {
+  "gstin": "29DNHCT2909W1ZF",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29QLZFB7595R2ZP",
+     "trdnm": "Bharat Office Mart",
+     "supfildt": "08-06-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/254",
+       "typ": "R",
+       "dt": "01-05-2026",
+       "val": 6164.85,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 5224.45,
+       "igst": 0.0,
+       "cgst": 470.2,
+       "sgst": 470.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/275",
+       "typ": "R",
+       "dt": "29-07-2026",
+       "val": 6167.93,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 5227.06,
+       "igst": 0.0,
+       "cgst": 470.44,
+       "sgst": 470.43,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/277",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 3860.91,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 3271.96,
+       "igst": 0.0,
+       "cgst": 294.48,
+       "sgst": 294.47,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29LRVFS8228G1Z5",
+     "trdnm": "Sunrise Management Advisors",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/254",
+       "typ": "R",
+       "dt": "20-07-2026",
+       "val": 47079.49,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 39897.87,
+       "igst": 0.0,
+       "cgst": 3590.81,
+       "sgst": 3590.81,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZCYFT7350Q1Z0",
+     "trdnm": "TULSI CARGO MOVERS",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "TCM/0327/26-27",
+       "typ": "R",
+       "dt": "15-07-2026",
+       "val": 15047.89,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 15047.89,
+       "igst": 0.0,
+       "cgst": 376.19,
+       "sgst": 376.2,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "29PMDPA6831D1ZZ",
+     "trdnm": "AMBIKA SECURITY SERVICES",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "ASS00139",
+       "typ": "R",
+       "dt": "29-07-2026",
+       "val": 63235.12,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 63235.12,
+       "igst": 0.0,
+       "cgst": 5691.16,
+       "sgst": 5691.16,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EIOCN7432Z1ZD",
+     "trdnm": "NARAYAN REALTY PVT LTD",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "NRP00379",
+       "typ": "R",
+       "dt": "08-07-2026",
+       "val": 708937.73,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9f86d003934c8c1810800f44350b8ab4c2a538445d4c1f8e8e96cdae682acd6c",
+       "txval": 600794.69,
+       "igst": 0.0,
+       "cgst": 54071.52,
+       "sgst": 54071.52,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29TNOFK8449B1ZN",
+     "trdnm": "Kaveri Transport Co.",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "KTC00356",
+       "typ": "R",
+       "dt": "19-07-2026",
+       "val": 23187.69,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 23187.69,
+       "igst": 0.0,
+       "cgst": 579.69,
+       "sgst": 579.69,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29MISCB8715L1Z1",
+     "trdnm": "Bharat Broadband Services",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000116",
+       "typ": "R",
+       "dt": "09-07-2026",
+       "val": 4720.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "5eafdae166ec34e2520924650a46b6ee66b5e91807da4b4d68fb4e8ed1adabc5",
+       "txval": 4000,
+       "igst": 0.0,
+       "cgst": 360.0,
+       "sgst": 360.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EWBFA2113J2ZG",
+     "trdnm": "Ambika Restaurant",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00211",
+       "typ": "R",
+       "dt": "29-07-2026",
+       "val": 71323.58,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 67927.22,
+       "igst": 0.0,
+       "cgst": 1698.18,
+       "sgst": 1698.18,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

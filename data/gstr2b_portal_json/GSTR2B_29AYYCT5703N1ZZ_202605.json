@@ -1,0 +1,175 @@
+{
+ "chksum": "b9c9e680f05125d4a21bffa5efeea113",
+ "data": {
+  "gstin": "29AYYCT5703N1ZZ",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29JZZFV9754B1ZL",
+     "trdnm": "VISHWA TRANSPORT CO.",
+     "supfildt": "12-05-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000172",
+       "typ": "R",
+       "dt": "25-04-2026",
+       "val": 8980,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 8980,
+       "igst": 0.0,
+       "cgst": 224.5,
+       "sgst": 224.5,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "29PLFFJ7451Z1Z0",
+     "trdnm": "JAY BANQUETS",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/264",
+       "typ": "R",
+       "dt": "29-05-2026",
+       "val": 27121.5,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 25830,
+       "igst": 0.0,
+       "cgst": 645.75,
+       "sgst": 645.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23VPWAP8027B1Z0",
+     "trdnm": "PRATHAM GYMKHANA",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00348",
+       "typ": "R",
+       "dt": "03-05-2026",
+       "val": 142284.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 120580,
+       "igst": 21704.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36ZSKPB4700I1ZB",
+     "trdnm": "Bhavani Security Services",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "BSS/0249/26-27",
+       "typ": "R",
+       "dt": "27-05-2026",
+       "val": 43950,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 43950,
+       "igst": 7911.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29COSFK7759P1Z2",
+     "trdnm": "KESAR OFFICE MART",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/137",
+       "typ": "R",
+       "dt": "29-05-2026",
+       "val": 12578.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 10660,
+       "igst": 0.0,
+       "cgst": 959.4,
+       "sgst": 959.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RCWCR4688O1ZM",
+     "trdnm": "Royal Computers",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "RC00181",
+       "typ": "R",
+       "dt": "24-05-2026",
+       "val": 440458.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f55db8150be37a002606c72798f8c194fb941a607dae7587a354dc836a3dd130",
+       "txval": 373270,
+       "igst": 67188.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,380 @@
+{
+ "clients": [
+  {
+   "id": "C1",
+   "name": "Saurashtra Agro Exports Pvt Ltd",
+   "gstin": "24DKQCS9385U1Z7",
+   "business": "Edible oil processing & export",
+   "state": "Gujarat",
+   "bills": 137,
+   "tax": 3587850.17,
+   "eligible": 2214037.58,
+   "blocked": 853116.79,
+   "at_risk": 437138.72,
+   "deferred": 49474.08,
+   "lapsed": 34083.0,
+   "wrong": 1067167.87,
+   "recon": {
+    "NOT_APPLICABLE": 10,
+    "DUPLICATE_IN_BOOKS": 1,
+    "MATCHED": 98,
+    "MISMATCH_VALUE": 5,
+    "MISMATCH_DATE": 1,
+    "MATCHED_FUZZY": 4,
+    "MISSING_IN_2B": 15,
+    "GSTIN_MISMATCH": 3,
+    "MISSING_IN_BOOKS": 5
+   },
+   "rcm_n": 17,
+   "rcm_tax": 184379.57,
+   "rcm_overdue": 2,
+   "rcm_interest": 40.79,
+   "grades": {
+    "D": 1,
+    "C": 1,
+    "B": 1,
+    "A": 22
+   },
+   "anomalies": 7,
+   "benford": "Nonconformity - investigate",
+   "agree": 0.9708
+  },
+  {
+   "id": "C2",
+   "name": "Narmada Infra Projects LLP",
+   "gstin": "24NSEFN6832N1ZK",
+   "business": "Civil construction (works contracts)",
+   "state": "Gujarat",
+   "bills": 136,
+   "tax": 6954545.96,
+   "eligible": 3376113.49,
+   "blocked": 1744294.83,
+   "at_risk": 1528134.57,
+   "deferred": 291070.27,
+   "lapsed": 14932.8,
+   "wrong": 2576966.38,
+   "recon": {
+    "NOT_APPLICABLE": 14,
+    "DUPLICATE_IN_BOOKS": 1,
+    "MATCHED": 97,
+    "MISMATCH_VALUE": 2,
+    "MISSING_IN_2B": 20,
+    "GSTIN_MISMATCH": 2,
+    "MISSING_IN_BOOKS": 6
+   },
+   "rcm_n": 36,
+   "rcm_tax": 229797.34,
+   "rcm_overdue": 3,
+   "rcm_interest": 349.12,
+   "grades": {
+    "D": 1,
+    "C": 1,
+    "B": 1,
+    "A": 21
+   },
+   "anomalies": 7,
+   "benford": "Nonconformity - investigate",
+   "agree": 0.9779
+  },
+  {
+   "id": "C3",
+   "name": "Shree Ganesh Textiles Pvt Ltd",
+   "gstin": "24IQQCS7272U1Z0",
+   "business": "Weaving & processing of synthetic fabric",
+   "state": "Gujarat",
+   "bills": 112,
+   "tax": 3144402.34,
+   "eligible": 1712538.89,
+   "blocked": 328028.8,
+   "at_risk": 987725.98,
+   "deferred": 50720.07,
+   "lapsed": 65388.6,
+   "wrong": 1078293.32,
+   "recon": {
+    "NOT_APPLICABLE": 6,
+    "DUPLICATE_IN_BOOKS": 1,
+    "MATCHED": 78,
+    "MISMATCH_DATE": 2,
+    "MISMATCH_VALUE": 5,
+    "MATCHED_FUZZY": 3,
+    "MISSING_IN_2B": 15,
+    "GSTIN_MISMATCH": 2,
+    "MISSING_IN_BOOKS": 6
+   },
+   "rcm_n": 17,
+   "rcm_tax": 235924.08,
+   "rcm_overdue": 0,
+   "rcm_interest": 180.54,
+   "grades": {
+    "D": 1,
+    "C": 1,
+    "A": 24
+   },
+   "anomalies": 7,
+   "benford": "Nonconformity - investigate",
+   "agree": 0.9821
+  },
+  {
+   "id": "C4",
+   "name": "Konkan Logistics & Warehousing Pvt Ltd",
+   "gstin": "27OSDCK4975V1ZZ",
+   "business": "Warehousing & logistics services",
+   "state": "Maharashtra",
+   "bills": 111,
+   "tax": 2529503.21,
+   "eligible": 2049266.63,
+   "blocked": 18185.7,
+   "at_risk": 383646.37,
+   "deferred": 64506.71,
+   "lapsed": 13897.8,
+   "wrong": 258704.82,
+   "recon": {
+    "NOT_APPLICABLE": 17,
+    "DUPLICATE_IN_BOOKS": 1,
+    "MATCHED": 78,
+    "MISMATCH_VALUE": 2,
+    "MISMATCH_DATE": 1,
+    "MATCHED_FUZZY": 1,
+    "MISSING_IN_2B": 11,
+    "MISSING_IN_BOOKS": 6
+   },
+   "rcm_n": 24,
+   "rcm_tax": 522931.01,
+   "rcm_overdue": 1,
+   "rcm_interest": 259.77,
+   "grades": {
+    "D": 1,
+    "C": 1,
+    "B": 2,
+    "A": 16
+   },
+   "anomalies": 6,
+   "benford": "Nonconformity - investigate",
+   "agree": 0.982
+  },
+  {
+   "id": "C5",
+   "name": "TechNova Software Solutions Pvt Ltd",
+   "gstin": "29DNHCT2909W1ZF",
+   "business": "Software development & IT exports",
+   "state": "Karnataka",
+   "bills": 113,
+   "tax": 7916751.71,
+   "eligible": 4063188.45,
+   "blocked": 50698.44,
+   "at_risk": 3685509.35,
+   "deferred": 64120.47,
+   "lapsed": 53235.0,
+   "wrong": 3543275.65,
+   "recon": {
+    "NOT_APPLICABLE": 37,
+    "MATCHED": 54,
+    "MISMATCH_VALUE": 6,
+    "MISSING_IN_2B": 16,
+    "MISSING_IN_BOOKS": 7
+   },
+   "rcm_n": 41,
+   "rcm_tax": 1941928.39,
+   "rcm_overdue": 1,
+   "rcm_interest": 2779.06,
+   "grades": {
+    "D": 1,
+    "C": 1,
+    "B": 1,
+    "A": 14
+   },
+   "anomalies": 5,
+   "benford": "Nonconformity - investigate",
+   "agree": 0.9558
+  }
+ ],
+ "cv": {
+  "folds": 5,
+  "mean_accuracy": 0.8504,
+  "std": 0.0307,
+  "scores": [
+   0.8814,
+   0.8475,
+   0.7966,
+   0.8475,
+   0.8793
+  ],
+  "samples": 294,
+  "classes": 18
+ },
+ "drc": {
+  "claimed": 3687211.72,
+  "available": 809171.23,
+  "excess": 2878040.49,
+  "excess_pct": 355.68,
+  "risk": true,
+  "threshold_amount": 2500000,
+  "threshold_pct": 20
+ },
+ "c5aug": {
+  "net": 601074.61,
+  "claimed": 3687211.72
+ },
+ "c1sep": {
+  "tables": {
+   "3.1(a)": {
+    "value": 17726100.0,
+    "igst": 378354.0,
+    "cgst": 253975.0,
+    "sgst": 253975.0,
+    "cess": 0.0
+   },
+   "3.1(b)": {
+    "value": 11476407.0,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "cess": 0.0
+   },
+   "3.1(c)": {
+    "value": 2753336.0,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "cess": 0.0
+   },
+   "3.1(e)": {
+    "value": 0.0,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "cess": 0.0
+   },
+   "3.1(d)": {
+    "value": 273404.62,
+    "igst": 0.0,
+    "cgst": 22037.23,
+    "sgst": 22037.24,
+    "cess": 0.0
+   },
+   "4A(1)": {
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "cess": 0.0
+   },
+   "4A(2)": {
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "cess": 0.0
+   },
+   "4A(3)": {
+    "igst": 0.0,
+    "cgst": 17441.53,
+    "sgst": 17441.53,
+    "cess": 0.0
+   },
+   "4A(4)": {
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "cess": 0.0
+   },
+   "4A(5)": {
+    "igst": 976.72,
+    "cgst": 61873.42,
+    "sgst": 61873.43,
+    "cess": 0.0
+   },
+   "4B(1)": {
+    "igst": 1007.77,
+    "cgst": 1967.14,
+    "sgst": 1967.14,
+    "cess": 0.0
+   },
+   "4B(2)": {
+    "igst": 31672.28,
+    "cgst": 50770.16,
+    "sgst": 50770.16,
+    "cess": 0.0
+   },
+   "4C": {
+    "igst": -31703.33,
+    "cgst": 26577.65,
+    "sgst": 26577.66,
+    "cess": 0.0
+   },
+   "4D(1)": {
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "cess": 0.0
+   },
+   "4D(2)": {
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "cess": 0.0
+   }
+  },
+  "r42": {
+   "period": "2026-09",
+   "T": 206688.93,
+   "T1": 0.0,
+   "T2": 0.0,
+   "T3": 976.72,
+   "C1": 205712.21,
+   "T4": 162583.14,
+   "C2": 43129.07,
+   "E": 2753336.0,
+   "F": 31955843.0,
+   "ratio": 0.086161,
+   "D1": 3716.03,
+   "D2": 0.0,
+   "C3": 39413.04,
+   "reversal": 3716.03,
+   "eligible_total": 201996.18
+  },
+  "r43": {
+   "Tm": 2893.53,
+   "Te": 249.31
+  },
+  "setoff": {
+   "cash_total": 908926.49,
+   "cash_output": {
+    "igst": 410057.33,
+    "cgst": 227397.35,
+    "sgst": 227397.34
+   },
+   "cash_rcm": {
+    "igst": 0.0,
+    "cgst": 22037.23,
+    "sgst": 22037.24
+   }
+  },
+  "net": 21451.98,
+  "claimed": 124667.69
+ },
+ "totals": {
+  "bills": 609,
+  "tax": 24133053.39,
+  "eligible": 13415145.04,
+  "blocked": 2994324.56,
+  "at_risk": 7022154.99,
+  "deferred": 519891.6,
+  "lapsed": 181537.2,
+  "wrong": 8524408.04,
+  "rcm_tax": 3114960.39,
+  "rcm_interest": 3609.28
+ },
+ "data": {
+  "vendors": 133,
+  "purchases": 609,
+  "gstr2b": 474,
+  "sales": 45
+ },
+ "loc": {
+  "JavaScript": 2765,
+  "Python": 4305,
+  "CSS": 411,
+  "HTML": 38,
+  "SQL": 282,
+  "VBA": 222
+ }
+}

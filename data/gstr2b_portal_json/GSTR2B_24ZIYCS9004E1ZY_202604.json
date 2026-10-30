@@ -1,0 +1,402 @@
+{
+ "chksum": "37c1b1d3fda5895ae61df09c99ec1732",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24BIZAG5904F1ZY",
+     "trdnm": "Galaxy Gymkhana",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/281",
+       "typ": "R",
+       "dt": "24-04-2026",
+       "val": 137458.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 116490,
+       "igst": 0.0,
+       "cgst": 10484.1,
+       "sgst": 10484.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SBWCJ6345Y1ZK",
+     "trdnm": "JALARAM COMPUTERS",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/287",
+       "typ": "R",
+       "dt": "27-04-2026",
+       "val": 84877.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1e3573f70d35d751cefa7bd49288e601b2825fba75a7d636c78bfe3323388045",
+       "txval": 71930,
+       "igst": 0.0,
+       "cgst": 6473.7,
+       "sgst": 6473.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QUBCT4113U1ZG",
+     "trdnm": "TULSI BROADBAND SERVICES",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/269",
+       "typ": "R",
+       "dt": "09-04-2026",
+       "val": 12897.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8cccd55e7c8b5905d96a78e431fcaffaeb6f7ded7e6a99ef22bafea9ccc75a55",
+       "txval": 10930,
+       "igst": 0.0,
+       "cgst": 983.7,
+       "sgst": 983.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/277",
+       "typ": "R",
+       "dt": "23-04-2026",
+       "val": 27883.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d48d7b9b8280ad5290cd4ab3fa212e86539cba0f56e705a13278f377889c3969",
+       "txval": 23630,
+       "igst": 0.0,
+       "cgst": 2126.7,
+       "sgst": 2126.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24XYEFO9467Y1ZY",
+     "trdnm": "OM ROADLINES",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "OR/0339/26-27",
+       "typ": "R",
+       "dt": "02-04-2026",
+       "val": 10350,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 10350,
+       "igst": 0.0,
+       "cgst": 258.75,
+       "sgst": 258.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PQOCP5474L1ZG",
+     "trdnm": "PRATHAM COMPUTERS",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "PC00057",
+       "typ": "R",
+       "dt": "24-04-2026",
+       "val": 64015.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a860cdec4dcdaef3fc510e08d89528033ffd8ac2d86ef41f175100ba5d85bd16",
+       "txval": 54250,
+       "igst": 0.0,
+       "cgst": 4882.5,
+       "sgst": 4882.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24AOTCM5841E1ZH",
+     "trdnm": "Mahalaxmi Yarn Traders",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "MYT00381",
+       "typ": "R",
+       "dt": "19-04-2026",
+       "val": 658602.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c97e44daa0d785fd7333e24a95431376918a6a41e9c1025dee06fe063bcaf5be",
+       "txval": 627240,
+       "igst": 0.0,
+       "cgst": 15681.0,
+       "sgst": 15681.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "MYT00388",
+       "typ": "R",
+       "dt": "16-04-2026",
+       "val": 646999.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "31933cba9c1a930e3705348ad1f5c6bc32c327b0bae7f061b5a675530749071e",
+       "txval": 616190,
+       "igst": 0.0,
+       "cgst": 15404.75,
+       "sgst": 15404.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09YFTCJ9234V1Z5",
+     "trdnm": "JALARAM STEEL TRADERS",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/233",
+       "typ": "R",
+       "dt": "16-04-2026",
+       "val": 806683.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9749763d4918d83b9ba8418fa1e5b734cc6b5d6a0f16ca072b7d900a03e6efa3",
+       "txval": 768270,
+       "igst": 38413.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "07XGDCK2291L1ZC",
+     "trdnm": "Kesar Dye Chem",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "KDC00236",
+       "typ": "R",
+       "dt": "01-04-2026",
+       "val": 262691.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1d58231d7924f220940cf9e3d4e7ff0c9e3363673f3a2836ad0200acc911e498",
+       "txval": 222620,
+       "igst": 40071.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SALCS9519F1ZL",
+     "trdnm": "Sunrise Machinery",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000357",
+       "typ": "R",
+       "dt": "10-04-2026",
+       "val": 273205.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c464770a73e65d8d23ef62cbe112d45cdd8da697b91d623cdbc742d9169188b4",
+       "txval": 231530,
+       "igst": 0.0,
+       "cgst": 20837.7,
+       "sgst": 20837.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24MIOCR8274X2Z4",
+     "trdnm": "ROYAL YARN TRADERS",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/161",
+       "typ": "R",
+       "dt": "23-04-2026",
+       "val": 1292056.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "0a487863a6d3a43469eb8fc7c28c7f970fc3ffb8b27f4cbac72d7938b7fe4c2b",
+       "txval": 1230530,
+       "igst": 0.0,
+       "cgst": 30763.25,
+       "sgst": 30763.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FFHFO3696R1ZZ",
+     "trdnm": "OM OFFICE MART",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000245",
+       "typ": "R",
+       "dt": "04-04-2026",
+       "val": 24036.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 20370,
+       "igst": 0.0,
+       "cgst": 1833.3,
+       "sgst": 1833.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RNXCS7933O2Z2",
+     "trdnm": "Siddhi Dye Chem",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "SDC00110",
+       "typ": "R",
+       "dt": "04-04-2026",
+       "val": 315154.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ec087e1d0fbaaa72aa1b58acbb46b4be92a83a152d79999e18e4bb17edaeeaec",
+       "txval": 267080,
+       "igst": 48074.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23BPAFT1953D1ZR",
+     "trdnm": "Tulsi Welfare Supplies",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "X5588/2026-27",
+       "typ": "R",
+       "dt": "28-04-2026",
+       "val": 273205.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 231530,
+       "igst": 41675.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

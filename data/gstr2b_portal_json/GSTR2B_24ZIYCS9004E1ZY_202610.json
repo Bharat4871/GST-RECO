@@ -1,0 +1,40 @@
+{
+ "chksum": "84270e54cd5a89e80937df15209e392f",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "102026",
+  "version": "1.0",
+  "gendt": "14-11-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24UMRCM9832G1ZS",
+     "trdnm": "METRO EVENTS PVT LTD",
+     "supfildt": "09-09-2026",
+     "supprd": "102026",
+     "inv": [
+      {
+       "inum": "MEP/0048/26-27",
+       "typ": "R",
+       "dt": "29-08-2026",
+       "val": 192570,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 192570,
+       "igst": 0.0,
+       "cgst": 17331.3,
+       "sgst": 17331.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

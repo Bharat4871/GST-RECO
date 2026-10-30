@@ -1,0 +1,259 @@
+{
+ "chksum": "2e34feffb74fe2e781812c767e9887b6",
+ "data": {
+  "gstin": "29ZZCCT7359B1Z3",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29OQTFB3469G1ZM",
+     "trdnm": "Bharat Management Advisors",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "BMA00343",
+       "typ": "R",
+       "dt": "09-05-2026",
+       "val": 197128.89,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 167058.39,
+       "igst": 0.0,
+       "cgst": 15035.25,
+       "sgst": 15035.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "BMA00348",
+       "typ": "R",
+       "dt": "24-05-2026",
+       "val": 182923.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 155020,
+       "igst": 0.0,
+       "cgst": 13951.8,
+       "sgst": 13951.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZUEFP4259W1Z9",
+     "trdnm": "PRIME EDUCATIONAL SUPPLIES",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "PES/0268/26-27",
+       "typ": "R",
+       "dt": "06-05-2026",
+       "val": 252012.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 213570,
+       "igst": 0.0,
+       "cgst": 19221.3,
+       "sgst": 19221.3,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "08XJWCJ2503U1ZG",
+     "trdnm": "JALARAM COMPUTERS",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "JC00138",
+       "typ": "R",
+       "dt": "26-05-2026",
+       "val": 71826.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "386d3e85ba051bdb81278b3cc765dc7e82f81f4f03cc7c16a778a558d503a4fb",
+       "txval": 60870,
+       "igst": 10956.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "JC00140",
+       "typ": "R",
+       "dt": "28-05-2026",
+       "val": 1375231.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "2f8f899950fbd804cf4d39613639078d308a84dc13d3d3eb6bbf51511ae35c8b",
+       "txval": 1165450,
+       "igst": 209781.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29QNXCS6151N1Z3",
+     "trdnm": "SUNRISE COMPUTERS",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "sc/0222/26-27",
+       "typ": "R",
+       "dt": "13-05-2026",
+       "val": 877082.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f8cb04bbebe3f450df9dfdfb73e4713925d1fd368bf8bf2c8141c16b6e265b9c",
+       "txval": 743290,
+       "igst": 0.0,
+       "cgst": 66896.1,
+       "sgst": 66896.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09POUCU3407Z1ZO",
+     "trdnm": "UMIYA TELECOM LTD",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "UTL/0035/26-27",
+       "typ": "R",
+       "dt": "02-05-2026",
+       "val": 25641.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d7dd45801e143d951ee7aa30d4671607b27286fcb28acd0cb1edffcd745c3c96",
+       "txval": 21730,
+       "igst": 3911.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "UTL/0041/26-27",
+       "typ": "R",
+       "dt": "27-05-2026",
+       "val": 18880.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9d550794ebcb1a01abbb8e59be699ec4f60a5e7c536a647faf85a3e5c9261ecd",
+       "txval": 16000,
+       "igst": 2880.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29RXTCT4586B1ZZ",
+     "trdnm": "TRIDENT ESTATES LLP",
+     "supfildt": "08-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "TEL00069",
+       "typ": "R",
+       "dt": "20-05-2026",
+       "val": 734019.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6d745864c6fe053ad538b693aaa89cdf665ff7b076159f32aee9383dacd04d1c",
+       "txval": 622050,
+       "igst": 0.0,
+       "cgst": 55984.5,
+       "sgst": 55984.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29VBUAN1647P1ZW",
+     "trdnm": "Narayan Gymkhana",
+     "supfildt": "16-05-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "X1464/2026-27",
+       "typ": "R",
+       "dt": "01-05-2026",
+       "val": 61041.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 51730,
+       "igst": 0.0,
+       "cgst": 4655.7,
+       "sgst": 4655.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "chksum": "75c1938cfe671e9aa7de0d4c7e25c5b1",
+ "data": {
+  "gstin": "29ZZCCT7359B1Z3",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29UPLFS4130G2ZO",
+     "trdnm": "SAI CARGO MOVERS",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000362",
+       "typ": "R",
+       "dt": "06-04-2026",
+       "val": 57160,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 57160,
+       "igst": 0.0,
+       "cgst": 1429.0,
+       "sgst": 1429.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29CWHFM8601R1Z8",
+     "trdnm": "METRO STATIONERS",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "MS/0363/26-27",
+       "typ": "R",
+       "dt": "21-04-2026",
+       "val": 29452.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24960,
+       "igst": 0.0,
+       "cgst": 2246.4,
+       "sgst": 2246.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09MLGFM9906X1Z1",
+     "trdnm": "METRO RESTAURANT",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "MR/0136/26-27",
+       "typ": "R",
+       "dt": "28-04-2026",
+       "val": 46788.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 44560,
+       "igst": 2228.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

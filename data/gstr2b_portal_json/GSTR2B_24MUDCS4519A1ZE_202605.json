@@ -1,0 +1,367 @@
+{
+ "chksum": "2d819a54c173180b2b829b7bd7755233",
+ "data": {
+  "gstin": "24MUDCS4519A1ZE",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24OCHCP1515A1ZM",
+     "trdnm": "Prime Infotech",
+     "supfildt": "09-04-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "PI/0063/25-26",
+       "typ": "R",
+       "dt": "05-03-2026",
+       "val": 106889.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8e0899cf9bc96e21a30aa3df832a59c5f30924e10f13b55d658f235667e2e6ff",
+       "txval": 90584.32,
+       "igst": 0.0,
+       "cgst": 8152.59,
+       "sgst": 8152.59,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "PI/0065/26-27",
+       "typ": "R",
+       "dt": "21-05-2026",
+       "val": 130342.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c8696f2b26d28511618a54367e958ba5e7da14958cf047f6afd7004f83ee7453",
+       "txval": 110460,
+       "igst": 0.0,
+       "cgst": 9941.4,
+       "sgst": 9941.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33HHVCS9102G1ZK",
+     "trdnm": "SIDDHI DYE CHEM",
+     "supfildt": "10-05-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "SDC00341",
+       "typ": "R",
+       "dt": "01-04-2026",
+       "val": 75590.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6f56978a3f40089a0edd520b8313a4ce041fac36fd4e07761f73417dcd0d9a43",
+       "txval": 64060,
+       "igst": 11530.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "SDC00348",
+       "typ": "R",
+       "dt": "12-05-2026",
+       "val": 199018.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d74b81e041ce8608e1e9ce18833046d88195ca6c8410e1efde6a231b36e69457",
+       "txval": 168660,
+       "igst": 30358.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KWECS6030P1ZM",
+     "trdnm": "Sai Metals",
+     "supfildt": "08-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/279",
+       "typ": "R",
+       "dt": "14-05-2026",
+       "val": 448392.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3fa71b61148883912a78c64862a9df2803c6438012ea124620fe58db6892cb65",
+       "txval": 427040,
+       "igst": 0.0,
+       "cgst": 10676.0,
+       "sgst": 10676.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24CQOCJ2782M2ZZ",
+     "trdnm": "JAY AGRO COMMODITIES",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00340",
+       "typ": "R",
+       "dt": "04-05-2026",
+       "val": 957463.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "690743cd582f01b3d261a47a03ff8326dcd1ce35ece19d552115220c12432e4d",
+       "txval": 911870,
+       "igst": 0.0,
+       "cgst": 22796.75,
+       "sgst": 22796.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29MCFCM9761I1ZE",
+     "trdnm": "MAHALAXMI POLYMERS",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/394",
+       "typ": "R",
+       "dt": "08-05-2026",
+       "val": 1063387.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "39d51b83f247694cfe2f60bf62196f5c97fb0b7e7cf497f1c7e1ffcfe025fa73",
+       "txval": 1012750,
+       "igst": 50637.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27YFVFJ3521N1ZT",
+     "trdnm": "JALARAM CONSULTANTS",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000315",
+       "typ": "R",
+       "dt": "03-05-2026",
+       "val": 169105.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 143310,
+       "igst": 25795.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SQYFS4984P2ZG",
+     "trdnm": "SUNRISE TRANSPORT CO.",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/285",
+       "typ": "R",
+       "dt": "21-05-2026",
+       "val": 24250,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24250,
+       "igst": 0.0,
+       "cgst": 606.25,
+       "sgst": 606.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23QEQCJ4461Z2ZO",
+     "trdnm": "Jalaram Engineering Works",
+     "supfildt": "08-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "JEW/0329/26-27",
+       "typ": "R",
+       "dt": "23-05-2026",
+       "val": 1721649.31,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f44b23159374be3d3ac0c273f209e684190eb78eacbce41464ce8933fb315c6d",
+       "txval": 1459024.84,
+       "igst": 262624.47,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "33RHLCA8471M1ZB",
+     "trdnm": "AMBIKA EXPRESS LOGISTICS LTD",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/195",
+       "typ": "R",
+       "dt": "17-05-2026",
+       "val": 122035.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e07cb2ab336064d29201171f48378e017a02788e98406f574951059265e99e2f",
+       "txval": 103420,
+       "igst": 18615.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      },
+      {
+       "inum": "GST/2026-27/201",
+       "typ": "R",
+       "dt": "19-05-2026",
+       "val": 63130.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ee6eb4a075d997a3f75248ea5164f995a7a6e6573dc496bef62ce1d5a21ca89b",
+       "txval": 53500,
+       "igst": 9630.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24XSAFR6791T2ZN",
+     "trdnm": "Royal Restaurant",
+     "supfildt": "08-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "RR00061",
+       "typ": "R",
+       "dt": "28-05-2026",
+       "val": 62338.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 59370,
+       "igst": 0.0,
+       "cgst": 1484.25,
+       "sgst": 1484.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RFOFG7642Z1ZE",
+     "trdnm": "GALAXY CATERERS",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GC/0321/26-27",
+       "typ": "R",
+       "dt": "08-05-2026",
+       "val": 28654.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 27290,
+       "igst": 0.0,
+       "cgst": 682.25,
+       "sgst": 682.25,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

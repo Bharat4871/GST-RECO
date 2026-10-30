@@ -1,0 +1,40 @@
+{
+ "chksum": "f3a76fb1451dc093149b87e002b9c5c0",
+ "data": {
+  "gstin": "27OSDCK4975V1ZZ",
+  "rtnprd": "052025",
+  "version": "1.0",
+  "gendt": "14-06-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27RPKFE3967D1ZY",
+     "trdnm": "EXCEL HARDWARE STORES",
+     "supfildt": "08-04-2025",
+     "supprd": "052025",
+     "inv": [
+      {
+       "inum": "LATE/2024-25/453",
+       "typ": "R",
+       "dt": "06-03-2025",
+       "val": 91107.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 77210,
+       "igst": 0.0,
+       "cgst": 6948.9,
+       "sgst": 6948.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

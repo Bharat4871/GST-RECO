@@ -1,0 +1,40 @@
+{
+ "chksum": "dd0798aca4228bb3dd292ea1c165f6d9",
+ "data": {
+  "gstin": "24RZFCS5218Q1Z2",
+  "rtnprd": "032025",
+  "version": "1.0",
+  "gendt": "14-04-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24ZFQCB5364L1Z8",
+     "trdnm": "BHARAT AGRO COMMODITIES",
+     "supfildt": "09-04-2025",
+     "supprd": "032025",
+     "inv": [
+      {
+       "inum": "LATE/2024-25/857",
+       "typ": "R",
+       "dt": "14-03-2025",
+       "val": 396798.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 336270,
+       "igst": 0.0,
+       "cgst": 30264.3,
+       "sgst": 30264.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "chksum": "3783e9d6ca687db3c067c570877da75d",
+ "data": {
+  "gstin": "29ZZCCT7359B1Z3",
+  "rtnprd": "122025",
+  "version": "1.0",
+  "gendt": "14-01-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29CWHFM8601R1Z8",
+     "trdnm": "Metro Stationers",
+     "supfildt": "12-01-2026",
+     "supprd": "122025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/737",
+       "typ": "R",
+       "dt": "05-12-2025",
+       "val": 75071.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 63620,
+       "igst": 0.0,
+       "cgst": 5725.8,
+       "sgst": 5725.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

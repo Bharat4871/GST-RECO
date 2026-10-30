@@ -1,0 +1,294 @@
+{
+ "chksum": "6fdb562f60bfb7fcbeba7fbf99d4b8c6",
+ "data": {
+  "gstin": "24IQQCS7272U1Z0",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24PICCD9954F1ZO",
+     "trdnm": "DECCAN SYSTEMS",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "DS/0278/25-26",
+       "typ": "R",
+       "dt": "06-03-2026",
+       "val": 135700.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7f3aea4a47c0e090fe90471d3fdf3c7399cd8084d945e1d866f4ac6ca7212878",
+       "txval": 115000,
+       "igst": 0.0,
+       "cgst": 10350.0,
+       "sgst": 10350.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "DS/0284/25-26",
+       "typ": "R",
+       "dt": "14-03-2026",
+       "val": 76846.24,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1591596e1f6566484b3dd0797d85e856d29382d039c86319e4a4b8cf464a2745",
+       "txval": 65123.94,
+       "igst": 0.0,
+       "cgst": 5861.15,
+       "sgst": 5861.15,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24GUUCN8888B1ZI",
+     "trdnm": "Narayan Infotech",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000110",
+       "typ": "R",
+       "dt": "13-03-2026",
+       "val": 86968.98,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "126e1e641126f43c5addf8c2ce3301bc9247782519e89c53f74fc171d7514aa5",
+       "txval": 73702.52,
+       "igst": 0.0,
+       "cgst": 6633.23,
+       "sgst": 6633.23,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24OCHFP1515A1ZG",
+     "trdnm": "Prime Caterers",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "PC00263",
+       "typ": "R",
+       "dt": "03-03-2026",
+       "val": 63674.87,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 60642.73,
+       "igst": 0.0,
+       "cgst": 1516.07,
+       "sgst": 1516.07,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24JUXFB8216R1Z7",
+     "trdnm": "BHAVANI WELFARE SUPPLIES",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "BWS/0261/25-26",
+       "typ": "R",
+       "dt": "05-03-2026",
+       "val": 111474.69,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 94470.08,
+       "igst": 0.0,
+       "cgst": 8502.31,
+       "sgst": 8502.3,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24WWICS6386Y1Z5",
+     "trdnm": "SAI POLYMERS",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "SP188",
+       "typ": "R",
+       "dt": "05-03-2026",
+       "val": 235830.69,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "26bcaded2b606b232513ecfacc0c24ae390a603d091730ad039af69e8564bf92",
+       "txval": 224600.66,
+       "igst": 0.0,
+       "cgst": 5615.02,
+       "sgst": 5615.01,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "SP00191",
+       "typ": "R",
+       "dt": "02-03-2026",
+       "val": 219328.02,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "0510099268e6a409549887f18f3fbbd14724d51cdd553ce21481c01eb7a93357",
+       "txval": 208883.83,
+       "igst": 0.0,
+       "cgst": 5222.1,
+       "sgst": 5222.09,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24COOCS6667R2ZC",
+     "trdnm": "Sunrise Events Pvt Ltd",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00092",
+       "typ": "R",
+       "dt": "10-03-2026",
+       "val": 192301.79,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 192301.79,
+       "igst": 0.0,
+       "cgst": 17307.16,
+       "sgst": 17307.16,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24HKWAM8678W1Z1",
+     "trdnm": "Mahalaxmi Fitness Club",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000257",
+       "typ": "R",
+       "dt": "03-03-2026",
+       "val": 93733.16,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 79434.88,
+       "igst": 0.0,
+       "cgst": 7149.14,
+       "sgst": 7149.14,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KLUCM7422R1ZO",
+     "trdnm": "Metro Automation",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/392",
+       "typ": "R",
+       "dt": "18-03-2026",
+       "val": 601800.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "23c955c5d3c7de3bde3714489852cb44b2bbde501408712f243c7d5dca6fb131",
+       "txval": 510000,
+       "igst": 0.0,
+       "cgst": 45900.0,
+       "sgst": 45900.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33HHVCS9102G1ZK",
+     "trdnm": "Siddhi Yarn Traders",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "SYT00216",
+       "typ": "R",
+       "dt": "31-03-2026",
+       "val": 985457.87,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b2b2b474453281e08c436338b5d0d564cb4daf682d34f41d22c8425d93de2272",
+       "txval": 938531.3,
+       "igst": 46926.57,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

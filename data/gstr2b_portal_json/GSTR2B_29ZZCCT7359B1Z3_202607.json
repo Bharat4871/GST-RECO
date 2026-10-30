@@ -1,0 +1,229 @@
+{
+ "chksum": "2f96a99c333ece150e1843e9c35134fa",
+ "data": {
+  "gstin": "29ZZCCT7359B1Z3",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29CWHFM8601R1Z8",
+     "trdnm": "METRO STATIONERS",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "MS/0373/26-27",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 6466.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 5480,
+       "igst": 0.0,
+       "cgst": 493.2,
+       "sgst": 493.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08XJWCJ2503U1ZG",
+     "trdnm": "JALARAM COMPUTERS",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "JC00142",
+       "typ": "R",
+       "dt": "09-07-2026",
+       "val": 105444.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6ba6ebe9d7c1a42b00a74468a7a05ec1a21c3e5bcb08e3054e566283ba7426a8",
+       "txval": 89360,
+       "igst": 16084.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29CALFA2519I1ZA",
+     "trdnm": "APEX CONSULTANTS",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "AC00323",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 42893.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 36350,
+       "igst": 0.0,
+       "cgst": 3271.5,
+       "sgst": 3271.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09POUCU3407Z1ZO",
+     "trdnm": "UMIYA TELECOM LTD",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "UTL/0055/26-27",
+       "typ": "R",
+       "dt": "09-07-2026",
+       "val": 28886.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c8daa5d9c9c725d956865eefe808aa08b1f985c917f2b5df7d67787e3cb86406",
+       "txval": 24480,
+       "igst": 4406.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09MLGFM9906X1Z1",
+     "trdnm": "METRO RESTAURANT",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "MR/0141/26-27",
+       "typ": "R",
+       "dt": "29-07-2026",
+       "val": 76398.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 72760,
+       "igst": 3638.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29UPLFS4130G2ZO",
+     "trdnm": "SAI CARGO MOVERS",
+     "supfildt": "08-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000370",
+       "typ": "R",
+       "dt": "31-07-2026",
+       "val": 46330,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 46330,
+       "igst": 0.0,
+       "cgst": 1158.25,
+       "sgst": 1158.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36RCGFR5390F1ZG",
+     "trdnm": "ROYAL BANQUETS",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "RB00361",
+       "typ": "R",
+       "dt": "20-07-2026",
+       "val": 64645.54,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 61567.18,
+       "igst": 3078.36,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29KLGPV9874I1ZQ",
+     "trdnm": "Vardhman Security Services",
+     "supfildt": "21-07-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "X3269/2026-27",
+       "typ": "R",
+       "dt": "06-07-2026",
+       "val": 114165.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 96750,
+       "igst": 0.0,
+       "cgst": 8707.5,
+       "sgst": 8707.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

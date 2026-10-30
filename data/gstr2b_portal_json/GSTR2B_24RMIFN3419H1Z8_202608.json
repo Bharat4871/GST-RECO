@@ -1,0 +1,343 @@
+{
+ "chksum": "87d73af92bac11ff1c194615dc75ed51",
+ "data": {
+  "gstin": "24RMIFN3419H1Z8",
+  "rtnprd": "082026",
+  "version": "1.0",
+  "gendt": "14-09-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24LNZFB7252G1Z2",
+     "trdnm": "BHAVANI OFFICE MART",
+     "supfildt": "10-07-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "BOM00173",
+       "typ": "R",
+       "dt": "01-06-2026",
+       "val": 31671.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 26840,
+       "igst": 0.0,
+       "cgst": 2415.6,
+       "sgst": 2415.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "BOM00186",
+       "typ": "R",
+       "dt": "07-08-2026",
+       "val": 18915.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 16030,
+       "igst": 0.0,
+       "cgst": 1442.7,
+       "sgst": 1442.7,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "BOM00191",
+       "typ": "R",
+       "dt": "05-08-2026",
+       "val": 30396.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 25760,
+       "igst": 0.0,
+       "cgst": 2318.4,
+       "sgst": 2318.4,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZPPFU6550A1ZO",
+     "trdnm": "UNIQUE BUILDING MATERIALS",
+     "supfildt": "10-07-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "UBM/0071/26-27",
+       "typ": "R",
+       "dt": "25-06-2026",
+       "val": 891973.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 755910,
+       "igst": 0.0,
+       "cgst": 68031.9,
+       "sgst": 68031.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08VOSFM6654C1ZK",
+     "trdnm": "METRO TECHNICAL SERVICES",
+     "supfildt": "09-07-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/265",
+       "typ": "R",
+       "dt": "30-06-2026",
+       "val": 145232.59,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 123078.47,
+       "igst": 22154.12,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24KIOCS5319E1ZL",
+     "trdnm": "Sahyadri Computers",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "SC00381",
+       "typ": "R",
+       "dt": "27-08-2026",
+       "val": 94518.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "71d5cd946dbccc837bc66942775f98e56dc301e07697c15dece4817243e8119e",
+       "txval": 80100,
+       "igst": 0.0,
+       "cgst": 7209.0,
+       "sgst": 7209.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "SC00382",
+       "typ": "R",
+       "dt": "19-08-2026",
+       "val": 78422.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "0dcafbf19ab179c1b36b1066c87c3c659de96c2f1288d3b9e009bb44b20f80a6",
+       "txval": 66460,
+       "igst": 0.0,
+       "cgst": 5981.4,
+       "sgst": 5981.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VKLCO3968C1Z6",
+     "trdnm": "OM BROADBAND SERVICES",
+     "supfildt": "11-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "OBS00371",
+       "typ": "R",
+       "dt": "03-08-2026",
+       "val": 24174.78,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "2f2291ef742248c9e04b8eefe803a4f8616b2e902ad4de066d2c5c2b3bac6235",
+       "txval": 20487.1,
+       "igst": 0.0,
+       "cgst": 1843.84,
+       "sgst": 1843.84,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "OBS00376",
+       "typ": "R",
+       "dt": "05-08-2026",
+       "val": 21110.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f05a6d93d78d94cf0c5e470c5699971b06a3fdc843882d0a3cb4b66923e02c0b",
+       "txval": 17890,
+       "igst": 0.0,
+       "cgst": 1610.1,
+       "sgst": 1610.1,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "36BFRFM9411H1ZM",
+     "trdnm": "MAHALAXMI ROADLINES",
+     "supfildt": "09-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/174",
+       "typ": "R",
+       "dt": "17-08-2026",
+       "val": 83723.19,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 79736.37,
+       "igst": 3986.82,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "24UKBFB7549X1ZG",
+     "trdnm": "Bhavani Cement Depot",
+     "supfildt": "09-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "INV-2627-00194",
+       "typ": "R",
+       "dt": "05-08-2026",
+       "val": 657578.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 557270,
+       "igst": 0.0,
+       "cgst": 50154.3,
+       "sgst": 50154.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00199",
+       "typ": "R",
+       "dt": "09-08-2026",
+       "val": 432210.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 366280,
+       "igst": 0.0,
+       "cgst": 32965.2,
+       "sgst": 32965.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00207",
+       "typ": "R",
+       "dt": "12-08-2026",
+       "val": 224849.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 190550,
+       "igst": 0.0,
+       "cgst": 17149.5,
+       "sgst": 17149.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QYXPB6201B1ZF",
+     "trdnm": "Bhavani Travels (Car Hire)",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/220",
+       "typ": "R",
+       "dt": "17-08-2026",
+       "val": 44785.46,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 44785.46,
+       "igst": 0.0,
+       "cgst": 1119.63,
+       "sgst": 1119.64,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

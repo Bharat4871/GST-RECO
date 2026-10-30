@@ -1,0 +1,332 @@
+{
+ "chksum": "17b476cdbe780c027215ce8f91575ed0",
+ "data": {
+  "gstin": "24RMIFN3419H1Z8",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "36KRICS6085B1Z1",
+     "trdnm": "Sai Engineering Works",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000386",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 821209.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c9eac3d5287800b2eb4722ed2a2507339aea63b8e6ce3d8e57622bc34ad7a9d9",
+       "txval": 695940,
+       "igst": 125269.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000393",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 1597413.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7128ce03a85087bf9f9e9e51cadfb113c7185106e8b77fb0f13446b933b72b2c",
+       "txval": 1353740,
+       "igst": 243673.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24LNZFB7252G1Z2",
+     "trdnm": "BHAVANI OFFICE MART",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "BOM00178",
+       "typ": "R",
+       "dt": "06-07-2026",
+       "val": 24461.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 20730,
+       "igst": 0.0,
+       "cgst": 1865.7,
+       "sgst": 1865.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "BOM00184",
+       "typ": "R",
+       "dt": "20-07-2026",
+       "val": 21063.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 17850,
+       "igst": 0.0,
+       "cgst": 1606.5,
+       "sgst": 1606.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WSJFM1731M1ZL",
+     "trdnm": "METRO CONSTRUCTIONS",
+     "supfildt": "08-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "MC00203",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 2526934.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 2141470,
+       "igst": 0.0,
+       "cgst": 192732.3,
+       "sgst": 192732.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24MGXCM1154T1ZX",
+     "trdnm": "Metro Machinery",
+     "supfildt": "08-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "MM00174",
+       "typ": "R",
+       "dt": "30-07-2026",
+       "val": 1598121.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "04c614c20723696a671e02ed4dbbd6a4a1bd6930de8eb66fc38f4fb23e997189",
+       "txval": 1354340,
+       "igst": 0.0,
+       "cgst": 121890.6,
+       "sgst": 121890.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36BFRFM9411H1ZM",
+     "trdnm": "MAHALAXMI ROADLINES",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/173",
+       "typ": "R",
+       "dt": "26-07-2026",
+       "val": 29890,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 29890,
+       "igst": 1494.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZPPFU6550A1ZO",
+     "trdnm": "Unique Building Materials",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "UBM/0080/26-27",
+       "typ": "R",
+       "dt": "25-07-2026",
+       "val": 1152340.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 976560,
+       "igst": 0.0,
+       "cgst": 87890.4,
+       "sgst": 87890.4,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "UBM/0089/26-27",
+       "typ": "R",
+       "dt": "04-07-2026",
+       "val": 574990.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 487280,
+       "igst": 0.0,
+       "cgst": 43855.2,
+       "sgst": 43855.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PNIPS6156E1ZG",
+     "trdnm": "SHREE SECURITY SERVICES",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00299",
+       "typ": "R",
+       "dt": "12-07-2026",
+       "val": 100550,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 100550,
+       "igst": 0.0,
+       "cgst": 9049.5,
+       "sgst": 9049.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00302",
+       "typ": "R",
+       "dt": "30-07-2026",
+       "val": 79900,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 79900,
+       "igst": 0.0,
+       "cgst": 7191.0,
+       "sgst": 7191.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08VOSFM6654C1ZK",
+     "trdnm": "Metro Technical Services",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST202627266",
+       "typ": "R",
+       "dt": "18-07-2026",
+       "val": 103486.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 87700,
+       "igst": 15786.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36QRKFS6287X1ZA",
+     "trdnm": "Siddhi Consultants",
+     "supfildt": "16-07-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "X3833/2026-27",
+       "typ": "R",
+       "dt": "01-07-2026",
+       "val": 237534.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 201300,
+       "igst": 36234.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

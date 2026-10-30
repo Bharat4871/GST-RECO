@@ -1,0 +1,259 @@
+{
+ "chksum": "491079e1dc4e4c454b311d7aa4b5530c",
+ "data": {
+  "gstin": "24RZFCS5218Q1Z2",
+  "rtnprd": "062026",
+  "version": "1.0",
+  "gendt": "14-07-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "07QYKFN7550I1Z4",
+     "trdnm": "Navkar Consultants",
+     "supfildt": "12-05-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/165",
+       "typ": "R",
+       "dt": "05-04-2026",
+       "val": 30880.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 26170,
+       "igst": 4710.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CQOCJ2782M2ZZ",
+     "trdnm": "JAY EXPRESS LOGISTICS LTD",
+     "supfildt": "08-06-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "INV-2627-00163",
+       "typ": "R",
+       "dt": "17-05-2026",
+       "val": 122035.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "cef959c6677d0415407ca08079ad73ffdd05eebf06604d79a725279a658a7af6",
+       "txval": 103420,
+       "igst": 0.0,
+       "cgst": 9307.8,
+       "sgst": 9307.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00169",
+       "typ": "R",
+       "dt": "19-05-2026",
+       "val": 63130.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c308e2415433084b09f9fbf4a25d76ad987e3e4644f5e659901cea76c9981b18",
+       "txval": 53500,
+       "igst": 0.0,
+       "cgst": 4815.0,
+       "sgst": 4815.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FEICG9852W1Z2",
+     "trdnm": "Galaxy Dye Chem",
+     "supfildt": "12-06-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "2026000089",
+       "typ": "R",
+       "dt": "12-05-2026",
+       "val": 199018.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "abdd4349cd9e954ff5c9500cb92116570900d1e46b233963637d641fea029976",
+       "txval": 168660,
+       "igst": 0.0,
+       "cgst": 15179.4,
+       "sgst": 15179.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000093",
+       "typ": "R",
+       "dt": "09-06-2026",
+       "val": 229805.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d4e9676bc675dd079eba7cb88f82a6104599dca17c5bd9822a88c26242073096",
+       "txval": 194750,
+       "igst": 0.0,
+       "cgst": 17527.5,
+       "sgst": 17527.5,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "2026000099",
+       "typ": "R",
+       "dt": "29-06-2026",
+       "val": 374850.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3053c16bd72a994c94f7a0e07af5242eb55cae8c17e53d3300ee60e80d6ba632",
+       "txval": 317670,
+       "igst": 0.0,
+       "cgst": 28590.3,
+       "sgst": 28590.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23WEXCP3358E2ZA",
+     "trdnm": "PRATHAM INDUSTRIES",
+     "supfildt": "10-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/264",
+       "typ": "R",
+       "dt": "12-06-2026",
+       "val": 106731.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "0448bc77bb16a800e140543a718b26e0e487aa35869e1b775427cf0df7051f37",
+       "txval": 90450,
+       "igst": 16281.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZFQCB5364L1Z8",
+     "trdnm": "Bharat Agro Commodities",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/121",
+       "typ": "R",
+       "dt": "28-06-2026",
+       "val": 1021660.53,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a187edee582794acf170220645012044e871a7ac95b9b22f1b3beffd78ecbe43",
+       "txval": 973010.03,
+       "igst": 0.0,
+       "cgst": 24325.25,
+       "sgst": 24325.25,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "24ICWCN9954F1ZE",
+     "trdnm": "NARAYAN TELECOM LTD",
+     "supfildt": "11-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "NTL/0131/26-27",
+       "typ": "R",
+       "dt": "06-06-2026",
+       "val": 6100.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "cef29d89a2de737b676603d5822cd964fde47233e6e16d7d0d37bb759e9c0876",
+       "txval": 5170,
+       "igst": 0.0,
+       "cgst": 465.3,
+       "sgst": 465.3,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24RVBFE6827W1Z1",
+     "trdnm": "Excel Educational Supplies",
+     "supfildt": "19-06-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "X5162/2026-27",
+       "typ": "R",
+       "dt": "04-06-2026",
+       "val": 177625.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 150530,
+       "igst": 0.0,
+       "cgst": 13547.7,
+       "sgst": 13547.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

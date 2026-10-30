@@ -1,0 +1,240 @@
+{
+ "chksum": "459daa89f318e443a8875550f083c184",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "09YFTCJ9234V1Z5",
+     "trdnm": "Jalaram Steel Traders",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/211",
+       "typ": "R",
+       "dt": "04-01-2026",
+       "val": 502719.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a7074a813227072fdb60df8c713c70534291ac57419159e3b2f020a67fe490b1",
+       "txval": 478780,
+       "igst": 23939.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "LATE/2025-26/553",
+       "typ": "R",
+       "dt": "10-01-2026",
+       "val": 224223.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 190020,
+       "igst": 34203.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07XGDCK2291L1ZC",
+     "trdnm": "Kesar Dye Chem",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "KDC00234",
+       "typ": "R",
+       "dt": "04-01-2026",
+       "val": 436847.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "5a2ab1874e7aa89da4f954557cdd1f66d38b765ab6ff907e6e42c1f009d53acc",
+       "txval": 370210,
+       "igst": 66637.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24EKEFK1435D1Z8",
+     "trdnm": "Kesar Restaurant",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00302",
+       "typ": "R",
+       "dt": "01-01-2026",
+       "val": 27258.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 25960,
+       "igst": 0.0,
+       "cgst": 649.0,
+       "sgst": 649.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZDZCM2731Z1ZB",
+     "trdnm": "Metro Engineering Works",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "MEW00134",
+       "typ": "R",
+       "dt": "05-01-2026",
+       "val": 1034494.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "616b3a1949e132c9e32a51df67af5581814137233fb50449bc42811d851b5b46",
+       "txval": 876690,
+       "igst": 0.0,
+       "cgst": 78902.1,
+       "sgst": 78902.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SBWCJ6345Y1ZK",
+     "trdnm": "JALARAM COMPUTERS",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/269",
+       "typ": "R",
+       "dt": "01-01-2026",
+       "val": 133344.33,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6de02703638468cc511566ac978288318428ff06feca4687793293624e73a59a",
+       "txval": 113003.67,
+       "igst": 0.0,
+       "cgst": 10170.33,
+       "sgst": 10170.33,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FFHFO3696R1ZZ",
+     "trdnm": "OM OFFICE MART",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "2025000235",
+       "typ": "R",
+       "dt": "07-01-2026",
+       "val": 17806.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 15090,
+       "igst": 0.0,
+       "cgst": 1358.1,
+       "sgst": 1358.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24JBCFT1686C1Z4",
+     "trdnm": "Trident Caterers",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "TC/0257/25-26",
+       "typ": "R",
+       "dt": "16-01-2026",
+       "val": 27943.47,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 26612.83,
+       "igst": 0.0,
+       "cgst": 665.32,
+       "sgst": 665.32,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "TC/0262/25-26",
+       "typ": "R",
+       "dt": "24-01-2026",
+       "val": 65850.42,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 62714.68,
+       "igst": 0.0,
+       "cgst": 1567.87,
+       "sgst": 1567.87,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

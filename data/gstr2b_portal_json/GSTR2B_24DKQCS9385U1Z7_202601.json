@@ -1,0 +1,294 @@
+{
+ "chksum": "2c8ded8e803a6f1c245020129499db7f",
+ "data": {
+  "gstin": "24DKQCS9385U1Z7",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24GXNCS3397O1Z1",
+     "trdnm": "SAHYADRI POLY PACK",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00379",
+       "typ": "R",
+       "dt": "03-01-2026",
+       "val": 103757.73,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a69f53ed1bf4d5c62b5e3194d830448fc14a77503590181bfa7466f6f12a8a60",
+       "txval": 87930.28,
+       "igst": 0.0,
+       "cgst": 7913.73,
+       "sgst": 7913.72,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06AWLCD6956O1ZL",
+     "trdnm": "DECCAN YARN TRADERS",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "DYT/0042/25-26",
+       "typ": "R",
+       "dt": "19-01-2026",
+       "val": 1708939.59,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "22b442c725da7f80e47693ae8385399f20c174ab19ff1fed7e56faaa9e73dac2",
+       "txval": 1627561.51,
+       "igst": 81378.08,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VAECJ9682G2ZN",
+     "trdnm": "Jalaram Motors Pvt Ltd",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "JMP00180",
+       "typ": "R",
+       "dt": "12-01-2026",
+       "val": 2976743.17,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ad37162569fe4cb60ee2887c6d628c44339cd90c3c6e087a2bb7abe1078af1ef",
+       "txval": 2126245.12,
+       "igst": 0.0,
+       "cgst": 425249.03,
+       "sgst": 425249.02,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24EZZFO6013Q1ZY",
+     "trdnm": "Om Office Mart",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "OOM/0018/25-26",
+       "typ": "R",
+       "dt": "31-01-2026",
+       "val": 3032.64,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 2570.03,
+       "igst": 0.0,
+       "cgst": 231.3,
+       "sgst": 231.31,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "OOM/0021/25-26",
+       "typ": "R",
+       "dt": "25-01-2026",
+       "val": 10190.75,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 8636.23,
+       "igst": 0.0,
+       "cgst": 777.26,
+       "sgst": 777.26,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WZQFJ5240O1ZV",
+     "trdnm": "JALARAM CONSULTANTS",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "JC00068",
+       "typ": "R",
+       "dt": "31-01-2026",
+       "val": 28536.78,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24183.71,
+       "igst": 0.0,
+       "cgst": 2176.53,
+       "sgst": 2176.54,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RGDCM5595R2ZU",
+     "trdnm": "METRO SYSTEMS",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "MS00062",
+       "typ": "R",
+       "dt": "14-01-2026",
+       "val": 81787.98,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d5228def3cea9c1e1af831948ee54ae0ba2111d446c94b99c38104e523d80439",
+       "txval": 69311.85,
+       "igst": 0.0,
+       "cgst": 6238.06,
+       "sgst": 6238.07,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24POQFV9145Z1ZE",
+     "trdnm": "Vishwa Consultants",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00072",
+       "typ": "R",
+       "dt": "27-01-2026",
+       "val": 31326.98,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 26548.29,
+       "igst": 0.0,
+       "cgst": 2389.34,
+       "sgst": 2389.35,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24TTRCB7891Z1ZG",
+     "trdnm": "Bhavani Telecom Ltd",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00030",
+       "typ": "R",
+       "dt": "30-01-2026",
+       "val": 8060.05,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3703f53f8be0c1c33d1c9e4a6191cac25805cdc4021ec9afe2fe5118f6b57da6",
+       "txval": 6830.55,
+       "igst": 0.0,
+       "cgst": 614.75,
+       "sgst": 614.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00032",
+       "typ": "R",
+       "dt": "19-01-2026",
+       "val": 11043.35,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "66eae55fa36f1abf17c00eb81fc91be3a07aa6956fab9eb72556a675088f96e2",
+       "txval": 9358.77,
+       "igst": 0.0,
+       "cgst": 842.29,
+       "sgst": 842.29,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24JIAFT1542E1Z0",
+     "trdnm": "TULSI FORKLIFT SERVICES",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "2025000182",
+       "typ": "R",
+       "dt": "14-01-2026",
+       "val": 27140.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 23000,
+       "igst": 0.0,
+       "cgst": 2070.0,
+       "sgst": 2070.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "chksum": "7a567186b2e5a332a47a8edd1abbb9e2",
+ "data": {
+  "gstin": "27JKFCK2665T1ZV",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27MGTFK9996J1ZD",
+     "trdnm": "Kesar Bearings & Spares",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "KB00394",
+       "typ": "R",
+       "dt": "30-04-2026",
+       "val": 86188.55,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 73041.14,
+       "igst": 0.0,
+       "cgst": 6573.7,
+       "sgst": 6573.71,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27NYVCS8420S1ZG",
+     "trdnm": "SIDDHI TELECOM LTD",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/61",
+       "typ": "R",
+       "dt": "03-04-2026",
+       "val": 21912.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4b4804a3fa233a34915295f2d80d25c2a19c12c04d763ac7b6dbf08074bf9e74",
+       "txval": 18570,
+       "igst": 0.0,
+       "cgst": 1671.3,
+       "sgst": 1671.3,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      },
+      {
+       "inum": "GST/2026-27/69",
+       "typ": "R",
+       "dt": "12-04-2026",
+       "val": 16708.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a1ed6cc0ea87e351436b9cbf48ef6f8985814eb87775eac26b84bc95b70b4ef5",
+       "txval": 14160,
+       "igst": 0.0,
+       "cgst": 1274.4,
+       "sgst": 1274.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RQUFJ1890J1ZA",
+     "trdnm": "Jalaram Consultants",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000257",
+       "typ": "R",
+       "dt": "27-04-2026",
+       "val": 101208.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 85770,
+       "igst": 0.0,
+       "cgst": 7719.3,
+       "sgst": 7719.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZPAFP6901N1ZG",
+     "trdnm": "PRATHAM FORKLIFT SERVICES",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "PFS/0261/26-27",
+       "typ": "R",
+       "dt": "29-04-2026",
+       "val": 58929.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 49940,
+       "igst": 0.0,
+       "cgst": 4494.6,
+       "sgst": 4494.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,302 @@
+{
+ "chksum": "eba52c51b3b2a45f22dc5dbde79afb0d",
+ "data": {
+  "gstin": "24IQQCS7272U1Z0",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24VTWFS3589D1Z0",
+     "trdnm": "Sunrise Consultants",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "SC00225",
+       "typ": "R",
+       "dt": "10-02-2026",
+       "val": 169443.17,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 143595.91,
+       "igst": 0.0,
+       "cgst": 12923.63,
+       "sgst": 12923.63,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24AHGFS1837I2ZR",
+     "trdnm": "SAI CARGO MOVERS",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00276",
+       "typ": "R",
+       "dt": "02-02-2026",
+       "val": 38706.09,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 38706.09,
+       "igst": 0.0,
+       "cgst": 967.65,
+       "sgst": 967.65,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RHLFA8471M1Z5",
+     "trdnm": "AMBIKA STATIONERS",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "AS/0151/25-26",
+       "typ": "R",
+       "dt": "07-02-2026",
+       "val": 6366.69,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 5395.5,
+       "igst": 971.19,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24YFVCN3521N1Z1",
+     "trdnm": "Navkar Oil Seeds Traders",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/126",
+       "typ": "R",
+       "dt": "12-02-2026",
+       "val": 254100.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ee189d38027c35f152de187ae5c49f9c442ac4cd28fca5e0a73af1ac25d06ee8",
+       "txval": 242000,
+       "igst": 0.0,
+       "cgst": 6050.0,
+       "sgst": 6050.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24OCHFP1515A1ZG",
+     "trdnm": "PRIME CATERERS",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "PC00256",
+       "typ": "R",
+       "dt": "24-02-2026",
+       "val": 43516.54,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 41444.32,
+       "igst": 0.0,
+       "cgst": 1036.11,
+       "sgst": 1036.11,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "PC00259",
+       "typ": "R",
+       "dt": "18-02-2026",
+       "val": 26676.91,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 25406.58,
+       "igst": 0.0,
+       "cgst": 635.16,
+       "sgst": 635.17,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PICCD9954F1ZO",
+     "trdnm": "Deccan Systems",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "DS/0272/25-26",
+       "typ": "R",
+       "dt": "16-02-2026",
+       "val": 62778.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c7e202e332fba35ff72d4e7839609b0d0e6de1762ea9293a076625402d5ce9fe",
+       "txval": 53202.03,
+       "igst": 0.0,
+       "cgst": 4788.19,
+       "sgst": 4788.18,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33HHVCS9102G1ZK",
+     "trdnm": "Siddhi Yarn Traders",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "SYT00211",
+       "typ": "R",
+       "dt": "05-02-2026",
+       "val": 349650.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "2f28cb5edee9cffcf7bf0fbc17e2c05736105cc2c1d9af05e035d2ad3a2a5386",
+       "txval": 333000,
+       "igst": 16650.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24COOCS6667R2ZC",
+     "trdnm": "SUNRISE EVENTS PVT LTD",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00083",
+       "typ": "R",
+       "dt": "22-02-2026",
+       "val": 84988.03,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 84988.03,
+       "igst": 0.0,
+       "cgst": 7648.93,
+       "sgst": 7648.92,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24DSLFP4552S1ZE",
+     "trdnm": "Prime Transport Co.",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "X2364/2025-26",
+       "typ": "R",
+       "dt": "26-02-2026",
+       "val": 159831.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 135450,
+       "igst": 0.0,
+       "cgst": 12190.5,
+       "sgst": 12190.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33OGYCJ2863S1ZQ",
+     "trdnm": "Jay General Insurance Co. Ltd",
+     "supfildt": "01-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "X8369/2025-26",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 271423.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 230020,
+       "igst": 41403.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

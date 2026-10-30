@@ -1,0 +1,294 @@
+{
+ "chksum": "2a84e63df8b1be73e224a2fad378d9ec",
+ "data": {
+  "gstin": "29ENGCT5419X1ZA",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29JZZCO9754B1ZY",
+     "trdnm": "Om Realty Pvt Ltd",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "ORP/0062/25-26",
+       "typ": "R",
+       "dt": "06-03-2026",
+       "val": 690028.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "61210ef8edd2be7d8cb8e84a8d009a300307ea30710864208e8d8f6da0d37463",
+       "txval": 584770,
+       "igst": 0.0,
+       "cgst": 52629.3,
+       "sgst": 52629.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29VBUCN1647P1ZS",
+     "trdnm": "Narayan Infotech",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/118",
+       "typ": "R",
+       "dt": "13-03-2026",
+       "val": 2121734.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e7a648a8ae845d6a86b3034aaedf55ff6c36a12949d00bd6910f797f64d1e342",
+       "txval": 1798080,
+       "igst": 0.0,
+       "cgst": 161827.2,
+       "sgst": 161827.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/225-26/125",
+       "typ": "R",
+       "dt": "06-03-2026",
+       "val": 1081847.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3afa3838be2f9a79fa90d9c5562fa6ba7fcfc9a7025e4fd3cab36421199c50b5",
+       "txval": 916820,
+       "igst": 0.0,
+       "cgst": 82513.8,
+       "sgst": 82513.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29KWHFU6418R1ZP",
+     "trdnm": "UMIYA CARGO MOVERS",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "UCM00356",
+       "typ": "R",
+       "dt": "19-03-2026",
+       "val": 79340,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 79340,
+       "igst": 0.0,
+       "cgst": 1983.5,
+       "sgst": 1983.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06UGICS4496O1ZN",
+     "trdnm": "SAHYADRI INFOTECH",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "SI00217",
+       "typ": "R",
+       "dt": "28-03-2026",
+       "val": 540664.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "99c5f5b58dcf832d52a51a42fa133a320a96b43327074c01e5fcfc7f3211dd50",
+       "txval": 458190,
+       "igst": 82474.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06UGRFD1185A1ZS",
+     "trdnm": "DECCAN MANAGEMENT ADVISORS",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "DMA00342",
+       "typ": "R",
+       "dt": "23-03-2026",
+       "val": 35647.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 30210,
+       "igst": 5437.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "29EIOCN7432Z1ZD",
+     "trdnm": "Narayan Express Logistics Ltd",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000208",
+       "typ": "R",
+       "dt": "18-03-2026",
+       "val": 119180.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "33a8b9e6b40f8cb844c7dec333dda9efd2085de2d2e207faf95ec5eb9eb00280",
+       "txval": 101000,
+       "igst": 0.0,
+       "cgst": 9090.0,
+       "sgst": 9090.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29VKRFA4586B1Z0",
+     "trdnm": "Ambika Technical Services",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00299",
+       "typ": "R",
+       "dt": "27-03-2026",
+       "val": 120832.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 102400,
+       "igst": 0.0,
+       "cgst": 9216.0,
+       "sgst": 9216.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00306",
+       "typ": "R",
+       "dt": "11-03-2026",
+       "val": 203219.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 172220,
+       "igst": 0.0,
+       "cgst": 15499.8,
+       "sgst": 15499.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27QEHFS6335Z1ZA",
+     "trdnm": "Siddhi Restaurant",
+     "supfildt": "16-03-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "X8507/2025-26",
+       "typ": "R",
+       "dt": "01-03-2026",
+       "val": 73809.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 62550,
+       "igst": 11259.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29GCMFE7158L2ZD",
+     "trdnm": "Excel Holidays",
+     "supfildt": "23-03-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "X7197/2025-26",
+       "typ": "R",
+       "dt": "08-03-2026",
+       "val": 193225.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 163750,
+       "igst": 0.0,
+       "cgst": 14737.5,
+       "sgst": 14737.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

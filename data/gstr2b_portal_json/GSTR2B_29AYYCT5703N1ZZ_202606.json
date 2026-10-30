@@ -1,0 +1,213 @@
+{
+ "chksum": "0a2335f16c9bec5bb89710347ad5e8fb",
+ "data": {
+  "gstin": "29AYYCT5703N1ZZ",
+  "rtnprd": "062026",
+  "version": "1.0",
+  "gendt": "14-07-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "33RCWCR4688O1ZM",
+     "trdnm": "ROYAL COMPUTERS",
+     "supfildt": "10-06-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "RC00178",
+       "typ": "R",
+       "dt": "28-05-2026",
+       "val": 1163810.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c829f20d3773a3a0f8ad70c935de2f877aed2087cf4813140e4e1a893b309dc0",
+       "txval": 986280,
+       "igst": 177530.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "RC00188",
+       "typ": "R",
+       "dt": "08-06-2026",
+       "val": 59141.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "cab24d76cc593654d01a29d8039f18179f12e3102eec8c0af35cc1f50285c6b2",
+       "txval": 50120,
+       "igst": 9021.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29NRNFD4292C1ZY",
+     "trdnm": "DECCAN RESTAURANT",
+     "supfildt": "11-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "INV262700258",
+       "typ": "R",
+       "dt": "20-06-2026",
+       "val": 42535.5,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 40510,
+       "igst": 0.0,
+       "cgst": 1012.75,
+       "sgst": 1012.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29RYCCN1340N1ZH",
+     "trdnm": "NARAYAN ESTATES LLP",
+     "supfildt": "13-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/162",
+       "typ": "R",
+       "dt": "23-06-2026",
+       "val": 737252.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "bf3fe3c625ea0500f3a0cbb89da0c095d09afe9b466bf0967a48adcbe15c04b0",
+       "txval": 624790,
+       "igst": 0.0,
+       "cgst": 56231.1,
+       "sgst": 56231.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29COSFK7759P1Z2",
+     "trdnm": "Kesar Office Mart",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/142",
+       "typ": "R",
+       "dt": "22-06-2026",
+       "val": 8649.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 7330,
+       "igst": 0.0,
+       "cgst": 659.7,
+       "sgst": 659.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EWBFA2113J2ZG",
+     "trdnm": "AMBIKA MANAGEMENT ADVISORS",
+     "supfildt": "13-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "AMA00079",
+       "typ": "R",
+       "dt": "02-06-2026",
+       "val": 97107.87,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 82294.8,
+       "igst": 0.0,
+       "cgst": 7406.54,
+       "sgst": 7406.53,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29PLFFJ7451Z1Z0",
+     "trdnm": "Jay Banquets",
+     "supfildt": "10-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/272",
+       "typ": "R",
+       "dt": "09-06-2026",
+       "val": 70056.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 66720,
+       "igst": 0.0,
+       "cgst": 1668.0,
+       "sgst": 1668.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/281",
+       "typ": "R",
+       "dt": "14-06-2026",
+       "val": 71925.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 68500,
+       "igst": 0.0,
+       "cgst": 1712.5,
+       "sgst": 1712.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

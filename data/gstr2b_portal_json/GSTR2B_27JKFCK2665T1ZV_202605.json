@@ -1,0 +1,186 @@
+{
+ "chksum": "d74e70165f5dbb4d65488e4aa429ea4e",
+ "data": {
+  "gstin": "27JKFCK2665T1ZV",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27KWKCV3011V1Z4",
+     "trdnm": "Vishwa Express Logistics Ltd",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "VEL00101",
+       "typ": "R",
+       "dt": "13-05-2026",
+       "val": 20543.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "27093a219662007041bdc697067b6b01850efa7f7cadb5d226ebdeb1172d673d",
+       "txval": 17410,
+       "igst": 0.0,
+       "cgst": 1566.9,
+       "sgst": 1566.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "VEL00107",
+       "typ": "R",
+       "dt": "25-05-2026",
+       "val": 33405.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "23be68d5f67af28e265413e004d7355ed4a60b6b01fe00bedb165b3399444295",
+       "txval": 28310,
+       "igst": 0.0,
+       "cgst": 2547.9,
+       "sgst": 2547.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZPAFP6901N1ZG",
+     "trdnm": "PRATHAM FORKLIFT SERVICES",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "PFS/0269/26-27",
+       "typ": "R",
+       "dt": "04-05-2026",
+       "val": 280403.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 237630,
+       "igst": 0.0,
+       "cgst": 21386.7,
+       "sgst": 21386.7,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27XBZCA9418K1Z3",
+     "trdnm": "AMBIKA REALTY PVT LTD",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00251",
+       "typ": "R",
+       "dt": "14-05-2026",
+       "val": 346105.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3be1b1a19ecc6dad88c4e9e799c8da50f1ce8aa8319d9a53a84f150f8d3c958b",
+       "txval": 293310,
+       "igst": 0.0,
+       "cgst": 26397.9,
+       "sgst": 26397.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X7288/2026-27",
+       "typ": "R",
+       "dt": "26-05-2026",
+       "val": 301820.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 255780,
+       "igst": 0.0,
+       "cgst": 23020.2,
+       "sgst": 23020.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27AETPS6038I2ZQ",
+     "trdnm": "Sai Guarding Agency",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00401",
+       "typ": "R",
+       "dt": "25-05-2026",
+       "val": 78680,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 78680,
+       "igst": 0.0,
+       "cgst": 7081.2,
+       "sgst": 7081.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27LXDFA1770N1ZP",
+     "trdnm": "Ambika Caterers",
+     "supfildt": "15-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "X7413/2026-27",
+       "typ": "R",
+       "dt": "31-05-2026",
+       "val": 7693.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 6520,
+       "igst": 0.0,
+       "cgst": 586.8,
+       "sgst": 586.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

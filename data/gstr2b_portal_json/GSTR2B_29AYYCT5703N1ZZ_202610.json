@@ -1,0 +1,40 @@
+{
+ "chksum": "5f84a5f4b419ea9cec9254106bc381a0",
+ "data": {
+  "gstin": "29AYYCT5703N1ZZ",
+  "rtnprd": "102026",
+  "version": "1.0",
+  "gendt": "14-11-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29MISFB8715L1ZV",
+     "trdnm": "BHARAT LOGISTICS",
+     "supfildt": "11-09-2026",
+     "supprd": "102026",
+     "inv": [
+      {
+       "inum": "BL/0186/26-27",
+       "typ": "R",
+       "dt": "30-08-2026",
+       "val": 69580,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 69580,
+       "igst": 0.0,
+       "cgst": 1739.5,
+       "sgst": 1739.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

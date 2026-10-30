@@ -1,0 +1,221 @@
+{
+ "chksum": "06818228b0852973bf3ba6c122267c69",
+ "data": {
+  "gstin": "27JKFCK2665T1ZV",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27XBZCA9418K1Z3",
+     "trdnm": "AMBIKA REALTY PVT LTD",
+     "supfildt": "09-02-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00220",
+       "typ": "R",
+       "dt": "07-01-2026",
+       "val": 597009.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3e99fadf159dfa908548cf7c48f3b0262be7a873b4334fb63bf9b68e681c263b",
+       "txval": 505940,
+       "igst": 0.0,
+       "cgst": 45534.6,
+       "sgst": 45534.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "inv-2526-00244",
+       "typ": "R",
+       "dt": "18-03-2026",
+       "val": 402934.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1157221bf3bd6d307561dc4d610e778a7940c9cbef9aa25108a9ab5ba7653af4",
+       "txval": 341470,
+       "igst": 0.0,
+       "cgst": 30732.3,
+       "sgst": 30732.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27DRZFK7940Y1ZJ",
+     "trdnm": "KAVERI CATERERS",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-90",
+       "typ": "R",
+       "dt": "04-03-2026",
+       "val": 60081.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 57220,
+       "igst": 0.0,
+       "cgst": 1430.5,
+       "sgst": 1430.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27AETPS6038I2ZQ",
+     "trdnm": "SAI GUARDING AGENCY",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00400",
+       "typ": "R",
+       "dt": "01-03-2026",
+       "val": 104490,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 104490,
+       "igst": 0.0,
+       "cgst": 9404.1,
+       "sgst": 9404.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27UDNCK4850K1ZA",
+     "trdnm": "KESAR COMPUTERS",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/59",
+       "typ": "R",
+       "dt": "13-03-2026",
+       "val": 137139.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "78594365366165ce9f0aa9889222f4b22991614521b3654a35c28e54d03cce0b",
+       "txval": 116220,
+       "igst": 0.0,
+       "cgst": 10459.8,
+       "sgst": 10459.8,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27MGTFK9996J1ZD",
+     "trdnm": "KESAR BEARINGS & SPARES",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "KB00386",
+       "typ": "R",
+       "dt": "26-03-2026",
+       "val": 53583.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 45410,
+       "igst": 0.0,
+       "cgst": 4086.9,
+       "sgst": 4086.9,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZOGFV1836N1Z6",
+     "trdnm": "Vishwa Logistics",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "VL00082",
+       "typ": "R",
+       "dt": "17-03-2026",
+       "val": 47120,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 47120,
+       "igst": 0.0,
+       "cgst": 1178.0,
+       "sgst": 1178.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27DUDCM4124Z1ZF",
+     "trdnm": "MAHALAXMI COMPUTERS",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/388",
+       "typ": "R",
+       "dt": "10-03-2026",
+       "val": 87249.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "202b4869d636de2f9aec7d7d3ae46a501a212964ad492729c9d839b1b564831e",
+       "txval": 73940,
+       "igst": 0.0,
+       "cgst": 6654.6,
+       "sgst": 6654.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

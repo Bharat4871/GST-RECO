@@ -1,0 +1,121 @@
+{
+ "chksum": "3d50271c3a971dc74fbd4f9ffe58e984",
+ "data": {
+  "gstin": "29AYYCT5703N1ZZ",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "09CLMCT2223A1ZZ",
+     "trdnm": "TULSI INFOTECH",
+     "supfildt": "08-06-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "TI00413",
+       "typ": "R",
+       "dt": "09-05-2026",
+       "val": 105444.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "84f26d06724c6aaf9279eabb41713f1b6a2d2a763be0402deee1bff44e3dc864",
+       "txval": 89360,
+       "igst": 16084.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29COSFK7759P1Z2",
+     "trdnm": "Kesar Office Mart",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/148",
+       "typ": "R",
+       "dt": "08-07-2026",
+       "val": 8165.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 6920,
+       "igst": 0.0,
+       "cgst": 622.8,
+       "sgst": 622.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29YOKCO2102Y1Z5",
+     "trdnm": "Om Express Logistics Ltd",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "OEL00224",
+       "typ": "R",
+       "dt": "02-07-2026",
+       "val": 72015.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b22ce4d909b1554d2ae26cc068dd4f0eaf06359b4cc006fb1e0224c1d0417231",
+       "txval": 61030,
+       "igst": 0.0,
+       "cgst": 5492.7,
+       "sgst": 5492.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZOGCV1836N1Z8",
+     "trdnm": "Vishwa Broadband Services",
+     "supfildt": "08-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/104",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 6159.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6282ceeb478a9bf210c134ab3433f206260830aa7bc226c31bd4d04a2d22bc5b",
+       "txval": 5220,
+       "igst": 0.0,
+       "cgst": 469.8,
+       "sgst": 469.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

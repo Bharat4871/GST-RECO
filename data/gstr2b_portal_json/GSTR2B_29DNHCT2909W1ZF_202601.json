@@ -1,0 +1,167 @@
+{
+ "chksum": "fc88a93e1be428823a78e107ade4dc1f",
+ "data": {
+  "gstin": "29DNHCT2909W1ZF",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29CALCO2519I1Z2",
+     "trdnm": "Om Computers",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "OC00307",
+       "typ": "R",
+       "dt": "24-01-2026",
+       "val": 62540.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "eba9d011c12828217f587834a8b9bba3e45fced3e50013cde5e50f62976e9546",
+       "txval": 53000,
+       "igst": 0.0,
+       "cgst": 4770.0,
+       "sgst": 4770.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "OC00308",
+       "typ": "R",
+       "dt": "27-01-2026",
+       "val": 827180.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c050f9dbaa1c4751f3427da6f1cd7d17a88ee90e3643eb45f27e3965829a2051",
+       "txval": 701000,
+       "igst": 0.0,
+       "cgst": 63090.0,
+       "sgst": 63090.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EIOCN7432Z1ZD",
+     "trdnm": "Narayan Realty Pvt Ltd",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "NRP00342",
+       "typ": "R",
+       "dt": "21-01-2026",
+       "val": 680283.96,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f34b2946835f4cb2b88bc647a78c7c56209ab60aaa51c99297c225c982ff53d0",
+       "txval": 576511.82,
+       "igst": 0.0,
+       "cgst": 51886.07,
+       "sgst": 51886.07,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23QTECM4367K1ZS",
+     "trdnm": "Mahalaxmi Computers",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "MC00124",
+       "typ": "R",
+       "dt": "14-01-2026",
+       "val": 89802.57,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "bf30e7e38b6478877efdf28ccbad9608bb030a0107ec8156ca20025f2b0ea542",
+       "txval": 76103.87,
+       "igst": 13698.7,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36DIPFR9533N1ZQ",
+     "trdnm": "Royal Caterers",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00356",
+       "typ": "R",
+       "dt": "17-01-2026",
+       "val": 49920.76,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 47543.58,
+       "igst": 2377.18,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ADBAB9642P1ZX",
+     "trdnm": "Bharat Fitness Club",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "BFC/0358/25-26",
+       "typ": "R",
+       "dt": "05-01-2026",
+       "val": 44726.41,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 37903.74,
+       "igst": 0.0,
+       "cgst": 3411.34,
+       "sgst": 3411.33,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

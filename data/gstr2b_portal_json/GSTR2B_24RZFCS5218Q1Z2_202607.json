@@ -1,0 +1,202 @@
+{
+ "chksum": "4e6d1ad909d0a8dd789897ffbbe247a8",
+ "data": {
+  "gstin": "24RZFCS5218Q1Z2",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24IYWCT9004E1ZK",
+     "trdnm": "TRIDENT SPORTS FOUNDATION",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/51",
+       "typ": "R",
+       "dt": "16-07-2026",
+       "val": 218650,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 218650,
+       "igst": 0.0,
+       "cgst": 19678.5,
+       "sgst": 19678.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24XSACR6791T2ZT",
+     "trdnm": "ROYAL POLYMERS",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "RP00108",
+       "typ": "R",
+       "dt": "06-07-2026",
+       "val": 1322997.17,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3df92130561326c7983d83ff4b158d87d0c6b1d001bcdf4d60829ff6e0102323",
+       "txval": 1259997.31,
+       "igst": 0.0,
+       "cgst": 31499.93,
+       "sgst": 31499.93,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33UUZFT5402J1Z3",
+     "trdnm": "Tulsi Cargo Movers",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "TCM00221",
+       "typ": "R",
+       "dt": "13-07-2026",
+       "val": 50130,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 50130,
+       "igst": 2506.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FEICG9852W1Z2",
+     "trdnm": "GALAXY DYE CHEM",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000105",
+       "typ": "R",
+       "dt": "20-07-2026",
+       "val": 389966.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a01261340fbc3cd6ba891447aacff586dbd95e1723b69f07fdc6476bf59fe6db",
+       "txval": 330480,
+       "igst": 0.0,
+       "cgst": 29743.2,
+       "sgst": 29743.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09RAJFN4619Q1Z1",
+     "trdnm": "NAVKAR BANQUETS",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/290",
+       "typ": "R",
+       "dt": "18-07-2026",
+       "val": 76776.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 73120,
+       "igst": 3656.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "23BPAFT1953D1ZR",
+     "trdnm": "TULSI RESTAURANT",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000325",
+       "typ": "R",
+       "dt": "07-07-2026",
+       "val": 66076.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 62930,
+       "igst": 3146.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07CNVCS8096G2ZN",
+     "trdnm": "Sunrise Infotech",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "SI00053",
+       "typ": "R",
+       "dt": "31-07-2026",
+       "val": 137245.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "58f39176102d6c1052ece68b63bdec9539a899a28ee82cb03906969e7fd0c2df",
+       "txval": 116310,
+       "igst": 20935.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

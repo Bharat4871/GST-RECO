@@ -1,0 +1,40 @@
+{
+ "chksum": "6d14b63494f3ed92d511250a19b08b44",
+ "data": {
+  "gstin": "24IQQCS7272U1Z0",
+  "rtnprd": "102025",
+  "version": "1.0",
+  "gendt": "14-11-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "33RHLFA8471M1Z5",
+     "trdnm": "Ambika Stationers",
+     "supfildt": "09-11-2025",
+     "supprd": "102025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/296",
+       "typ": "R",
+       "dt": "07-10-2025",
+       "val": 352576.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 314800,
+       "igst": 37776.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,186 @@
+{
+ "chksum": "3c1438e0278cf01cc312e38c87e93122",
+ "data": {
+  "gstin": "24RZFCS5218Q1Z2",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "23WEXCP3358E2ZA",
+     "trdnm": "Pratham Industries",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/252",
+       "typ": "R",
+       "dt": "24-03-2026",
+       "val": 446075.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ce553518e0d3621a2bb7e32d026363f515fa66b5a560f12e2e11421ee33ed83d",
+       "txval": 378030,
+       "igst": 68045.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24SQYFS4984P2ZG",
+     "trdnm": "Sunrise Gift Gallery",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/354",
+       "typ": "R",
+       "dt": "13-03-2026",
+       "val": 153636.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 146320,
+       "igst": 0.0,
+       "cgst": 3658.0,
+       "sgst": 3658.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/359",
+       "typ": "R",
+       "dt": "24-03-2026",
+       "val": 23425.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 22310,
+       "igst": 0.0,
+       "cgst": 557.75,
+       "sgst": 557.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24OCHFP1515A1ZG",
+     "trdnm": "PRIME CONSULTANTS",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "PC00240",
+       "typ": "R",
+       "dt": "30-03-2026",
+       "val": 178475.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 151250,
+       "igst": 0.0,
+       "cgst": 13612.5,
+       "sgst": 13612.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24XSACR6791T2ZT",
+     "trdnm": "Royal Polymers",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "RP00090",
+       "typ": "R",
+       "dt": "05-03-2026",
+       "val": 1252534.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "22492367d4b469a1f31f09152b5a43296d862c762b2ab66e12e3fe9d72ca3548",
+       "txval": 1192890,
+       "igst": 0.0,
+       "cgst": 29822.25,
+       "sgst": 29822.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "RP00096",
+       "typ": "R",
+       "dt": "29-03-2026",
+       "val": 1057822.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "2166675f96dfcc9e21d1776034326352e8d1311e8387710fc313ea8101505528",
+       "txval": 1007450,
+       "igst": 0.0,
+       "cgst": 25186.25,
+       "sgst": 25186.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CQOCJ2782M2ZZ",
+     "trdnm": "Jay Express Logistics Ltd",
+     "supfildt": "04-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "X8900/2025-26",
+       "typ": "R",
+       "dt": "20-03-2026",
+       "val": 10584.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 8970,
+       "igst": 0.0,
+       "cgst": 807.3,
+       "sgst": 807.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

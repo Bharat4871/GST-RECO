@@ -1,0 +1,175 @@
+{
+ "chksum": "a5c3a2e35df6d8a8149c998aa92c1039",
+ "data": {
+  "gstin": "29ZZCCT7359B1Z3",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29OQTFB3469G1ZM",
+     "trdnm": "Bharat Management Advisors",
+     "supfildt": "11-09-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "BMA00349",
+       "typ": "R",
+       "dt": "05-08-2026",
+       "val": 74977.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 63540,
+       "igst": 0.0,
+       "cgst": 5718.6,
+       "sgst": 5718.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09POUCU3407Z1ZO",
+     "trdnm": "Umiya Telecom Ltd",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "UTL/0059/26-27",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 18124.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3bcbc6f549ec9e736aa88bbadbde305d295e7ccf4c859223d525bb3a8520fdb7",
+       "txval": 15360,
+       "igst": 2764.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29CWHFM8601R1Z8",
+     "trdnm": "Metro Stationers",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "MS/0378/26-27",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 15564.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 13190,
+       "igst": 0.0,
+       "cgst": 1187.1,
+       "sgst": 1187.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29VBUAN1647P1ZW",
+     "trdnm": "NARAYAN GYMKHANA",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00356",
+       "typ": "R",
+       "dt": "25-09-2026",
+       "val": 100359.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 85050,
+       "igst": 0.0,
+       "cgst": 7654.5,
+       "sgst": 7654.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZRBFK6654H1ZF",
+     "trdnm": "KESAR LOGISTICS",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00133",
+       "typ": "R",
+       "dt": "29-09-2026",
+       "val": 92940,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 92940,
+       "igst": 0.0,
+       "cgst": 2323.5,
+       "sgst": 2323.5,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "29KLGPV9874I1ZQ",
+     "trdnm": "Vardhman Security Services",
+     "supfildt": "29-09-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "X2961/2026-27",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 158851.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 134620,
+       "igst": 0.0,
+       "cgst": 12115.8,
+       "sgst": 12115.8,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

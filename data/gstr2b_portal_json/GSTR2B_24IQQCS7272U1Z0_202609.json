@@ -1,0 +1,240 @@
+{
+ "chksum": "8250508d75cdea787e4ed56a1cd23c5f",
+ "data": {
+  "gstin": "24IQQCS7272U1Z0",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24WWICS6386Y1Z5",
+     "trdnm": "SAI POLYMERS",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "SP00211",
+       "typ": "R",
+       "dt": "27-09-2026",
+       "val": 963976.66,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "465f84d8a67cc19afd19f4623a9e025bbc96ad2bff20162f6ca94873932ccf35",
+       "txval": 918073.01,
+       "igst": 0.0,
+       "cgst": 22951.83,
+       "sgst": 22951.82,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "SP00226",
+       "typ": "R",
+       "dt": "29-09-2026",
+       "val": 1149756.32,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "683857bf31e9a061703f9c87f446bb5bcbfdca776e9be6c475a3e7b891d373de",
+       "txval": 1095006.02,
+       "igst": 0.0,
+       "cgst": 27375.15,
+       "sgst": 27375.15,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PICCD9954F1ZO",
+     "trdnm": "Deccan Systems",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "DS/0299/26-27",
+       "typ": "R",
+       "dt": "17-09-2026",
+       "val": 54920.57,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d63f0c6c3ad5594138127214e507840ca9b73ac94f0114e605b70846a462159e",
+       "txval": 46542.86,
+       "igst": 0.0,
+       "cgst": 4188.85,
+       "sgst": 4188.86,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RHLFA8471M1Z5",
+     "trdnm": "Ambika Stationers",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "AS/0199/26-27",
+       "typ": "R",
+       "dt": "10-09-2026",
+       "val": 5797.93,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 4913.5,
+       "igst": 884.43,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      },
+      {
+       "inum": "AS/0204/26-27",
+       "typ": "R",
+       "dt": "05-09-2026",
+       "val": 24642.44,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 20883.42,
+       "igst": 3759.02,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24COVCT7664E1ZX",
+     "trdnm": "TRIDENT POLYMERS",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000115",
+       "typ": "R",
+       "dt": "02-09-2026",
+       "val": 1278764.42,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "535084789da52fa522573e6b822559f863023cf0942644ab2aa3a0035068e9b8",
+       "txval": 1217870.88,
+       "igst": 0.0,
+       "cgst": 30446.77,
+       "sgst": 30446.77,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24GUUCN8888B1ZI",
+     "trdnm": "NARAYAN INFOTECH",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000122",
+       "typ": "R",
+       "dt": "26-09-2026",
+       "val": 130117.07,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "10310cdf9cc63fb6d9ff6fd0b2d0c3bf72487b7d4806f5412e38d2578af316b5",
+       "txval": 110268.7,
+       "igst": 0.0,
+       "cgst": 9924.18,
+       "sgst": 9924.19,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KLUCM7422R1ZO",
+     "trdnm": "Metro Automation",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/402",
+       "typ": "R",
+       "dt": "22-09-2026",
+       "val": 831297.53,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "948bf6eef4d7b6d02fb38ec3313a553b8a920fbaa97ac424aaf6d9d9f82d9f94",
+       "txval": 704489.43,
+       "igst": 0.0,
+       "cgst": 63404.05,
+       "sgst": 63404.05,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZVSCM2000Z1ZV",
+     "trdnm": "Mahalaxmi Engineering Works",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/149",
+       "typ": "R",
+       "dt": "07-09-2026",
+       "val": 362260.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "15c5b2ec92be7bfbe0800c2b0818c92e51107819895e00915e7327c7e91fb952",
+       "txval": 307000,
+       "igst": 0.0,
+       "cgst": 27630.0,
+       "sgst": 27630.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

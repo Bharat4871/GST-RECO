@@ -1,0 +1,167 @@
+{
+ "chksum": "0986800f23cd9a41873fa9b1fb646790",
+ "data": {
+  "gstin": "27FTQCK8833D1ZX",
+  "rtnprd": "062026",
+  "version": "1.0",
+  "gendt": "14-07-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27LZHCT7191L2ZW",
+     "trdnm": "Trident Broadband Services",
+     "supfildt": "13-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "2026000072",
+       "typ": "R",
+       "dt": "19-06-2026",
+       "val": 26420.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7e0ad187d8dd55c8bc2971f62d775b70d1a5b48e14508d2f19264fe0a8d36c33",
+       "txval": 22390,
+       "igst": 0.0,
+       "cgst": 2015.1,
+       "sgst": 2015.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZPAFP6901N1ZG",
+     "trdnm": "Pratham Logistics",
+     "supfildt": "12-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "2026000367",
+       "typ": "R",
+       "dt": "27-06-2026",
+       "val": 27470,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 27470,
+       "igst": 0.0,
+       "cgst": 686.75,
+       "sgst": 686.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27TSJFO4832X2ZL",
+     "trdnm": "OM OFFICE MART",
+     "supfildt": "13-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "2026000056",
+       "typ": "R",
+       "dt": "21-06-2026",
+       "val": 15224.15,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 12901.82,
+       "igst": 0.0,
+       "cgst": 1161.16,
+       "sgst": 1161.17,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000064",
+       "typ": "R",
+       "dt": "16-06-2026",
+       "val": 21723.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 18410,
+       "igst": 0.0,
+       "cgst": 1656.9,
+       "sgst": 1656.9,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "08ENICO1332O1ZB",
+     "trdnm": "Om Engineering Works",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "INV-2627-00209",
+       "typ": "R",
+       "dt": "05-06-2026",
+       "val": 1217960.35,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3d91964a759a9c0bfe2615d04ea71ada0c2fedebda76a1eab91808efd4635077",
+       "txval": 1032169.79,
+       "igst": 185790.56,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27IYZFK8121Z1Z7",
+     "trdnm": "KESAR ELECTRICALS",
+     "supfildt": "11-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "2026000400",
+       "typ": "R",
+       "dt": "19-06-2026",
+       "val": 188540.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 159780,
+       "igst": 0.0,
+       "cgst": 14380.2,
+       "sgst": 14380.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

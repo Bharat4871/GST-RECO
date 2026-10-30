@@ -1,0 +1,40 @@
+{
+ "chksum": "009083e97e56549a147b9105094203ab",
+ "data": {
+  "gstin": "24NSEFN6832N1ZK",
+  "rtnprd": "102025",
+  "version": "1.0",
+  "gendt": "14-11-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24FGZFR8585H2ZQ",
+     "trdnm": "Royal Office Mart",
+     "supfildt": "08-11-2025",
+     "supprd": "102025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/123",
+       "typ": "R",
+       "dt": "29-10-2025",
+       "val": 180280.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 152780,
+       "igst": 0.0,
+       "cgst": 13750.2,
+       "sgst": 13750.2,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

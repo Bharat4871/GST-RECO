@@ -1,0 +1,259 @@
+{
+ "chksum": "7a58238e1333bf1ffb6c7abdfae0a79e",
+ "data": {
+  "gstin": "29DNHCT2909W1ZF",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29ADBAB9642P1ZX",
+     "trdnm": "Bharat Fitness Club",
+     "supfildt": "09-02-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "BFC/0356/25-26",
+       "typ": "R",
+       "dt": "20-01-2026",
+       "val": 157781.41,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 133713.06,
+       "igst": 0.0,
+       "cgst": 12034.17,
+       "sgst": 12034.18,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X3341/2025-26",
+       "typ": "R",
+       "dt": "03-02-2026",
+       "val": 55342.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 46900,
+       "igst": 0.0,
+       "cgst": 4221.0,
+       "sgst": 4221.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23QTECM4367K1ZS",
+     "trdnm": "Mahalaxmi Computers",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "mc00133",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 92040.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1ad737003647d06666d7d9859f36a3da83910d322211bd6767cf3a30ca68ef02",
+       "txval": 78000,
+       "igst": 14040.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "MC00142",
+       "typ": "R",
+       "dt": "25-02-2026",
+       "val": 317096.61,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "af62af0159a81b8abe2fb1962234103a45d2d187f2935351b6efd2e5ae12d74f",
+       "txval": 268725.94,
+       "igst": 48370.67,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "MC00150",
+       "typ": "R",
+       "dt": "07-02-2026",
+       "val": 470901.13,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f8448258521b556747f9de0efd05231cafdf292937312aa1fcdb04639fd6a539",
+       "txval": 399068.75,
+       "igst": 71832.38,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29COSFK7759P1Z2",
+     "trdnm": "KESAR MANAGEMENT ADVISORS",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "KMA/0198/25-26",
+       "typ": "R",
+       "dt": "22-02-2026",
+       "val": 40244.94,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 34105.88,
+       "igst": 0.0,
+       "cgst": 3069.53,
+       "sgst": 3069.53,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EIOCN7432Z1ZD",
+     "trdnm": "Narayan Realty Pvt Ltd",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "NRP00351",
+       "typ": "R",
+       "dt": "24-02-2026",
+       "val": 674133.79,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "55ba2cd71d96a0e1b1e439687777794a0b86f54e40cda6de54a2fd811cabe52b",
+       "txval": 571299.82,
+       "igst": 0.0,
+       "cgst": 51416.99,
+       "sgst": 51416.98,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29LRVFS8228G1Z5",
+     "trdnm": "Sunrise Management Advisors",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/243",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 150064.01,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 127172.89,
+       "igst": 0.0,
+       "cgst": 11445.56,
+       "sgst": 11445.56,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "29TNOFK8449B1ZN",
+     "trdnm": "KAVERI TRANSPORT CO.",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "KTC00346",
+       "typ": "R",
+       "dt": "10-02-2026",
+       "val": 35343.06,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 35343.06,
+       "igst": 0.0,
+       "cgst": 883.58,
+       "sgst": 883.57,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29PMDPA6831D1ZZ",
+     "trdnm": "AMBIKA SECURITY SERVICES",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "ASS00118",
+       "typ": "R",
+       "dt": "19-02-2026",
+       "val": 90373.06,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 90373.06,
+       "igst": 0.0,
+       "cgst": 8133.57,
+       "sgst": 8133.58,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,286 @@
+{
+ "chksum": "520dd4e787c3d1ce0af2c131a3d4b158",
+ "data": {
+  "gstin": "24MUDCS4519A1ZE",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24VTWCS3589D1Z6",
+     "trdnm": "SUNRISE SPORTS FOUNDATION",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "SSF/0114/25-26",
+       "typ": "R",
+       "dt": "31-01-2026",
+       "val": 166860,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 166860,
+       "igst": 0.0,
+       "cgst": 15017.4,
+       "sgst": 15017.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "SSF/0122/25-26",
+       "typ": "R",
+       "dt": "27-01-2026",
+       "val": 144290,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 144290,
+       "igst": 0.0,
+       "cgst": 12986.1,
+       "sgst": 12986.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RAAPK6612X1ZP",
+     "trdnm": "Kesar Security Services",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/39",
+       "typ": "R",
+       "dt": "11-01-2026",
+       "val": 92910,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 92910,
+       "igst": 0.0,
+       "cgst": 8361.9,
+       "sgst": 8361.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CQOCJ2782M2ZZ",
+     "trdnm": "JAY AGRO COMMODITIES",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00337",
+       "typ": "R",
+       "dt": "24-01-2026",
+       "val": 985299.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b208e85b4a320c0b7f731e2b4425c17fe9f1404ed96909fa00de121b15db782c",
+       "txval": 938380,
+       "igst": 0.0,
+       "cgst": 23459.5,
+       "sgst": 23459.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00338",
+       "typ": "R",
+       "dt": "30-01-2026",
+       "val": 853797.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "5b66b40ad584715e8b5b6334917f10da094feb58669c381402fccd8998424141",
+       "txval": 813140,
+       "igst": 0.0,
+       "cgst": 20328.5,
+       "sgst": 20328.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24OCHCP1515A1ZM",
+     "trdnm": "PRIME INFOTECH",
+     "supfildt": "11-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "PI/0038/25-26",
+       "typ": "R",
+       "dt": "08-01-2026",
+       "val": 64015.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e579945a400c0fc040c79de2dc6565889b540ffe19ea3673ee3470ee699e1a02",
+       "txval": 54250,
+       "igst": 0.0,
+       "cgst": 4882.5,
+       "sgst": 4882.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UMRCS9832G1ZM",
+     "trdnm": "Siddhi Machinery",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/83",
+       "typ": "R",
+       "dt": "25-01-2026",
+       "val": 533961.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d3e366acb89fe7272b7e5e70a50ff1af8a097b8ef94529a9e1f3f762664801f4",
+       "txval": 452510,
+       "igst": 0.0,
+       "cgst": 40725.9,
+       "sgst": 40725.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27GWUCO2895O1ZT",
+     "trdnm": "Om General Insurance Co. Ltd",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00202",
+       "typ": "R",
+       "dt": "07-01-2026",
+       "val": 162804.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "922560fc8ab315cd0f479b2b2064b2ce4e44668b0860c388d2e954e210961b28",
+       "txval": 137970,
+       "igst": 24834.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SQYFS4984P2ZG",
+     "trdnm": "SUNRISE TRANSPORT CO.",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/276",
+       "typ": "R",
+       "dt": "02-01-2026",
+       "val": 50120,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 50120,
+       "igst": 0.0,
+       "cgst": 1253.0,
+       "sgst": 1253.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PBJFV2492F1ZL",
+     "trdnm": "VISHWA STATIONERS",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST202526253",
+       "typ": "R",
+       "dt": "07-01-2026",
+       "val": 29417.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24930,
+       "igst": 0.0,
+       "cgst": 2243.7,
+       "sgst": 2243.7,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "LATE/2025-26/908",
+       "typ": "R",
+       "dt": "05-01-2026",
+       "val": 195549.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 165720,
+       "igst": 0.0,
+       "cgst": 14914.8,
+       "sgst": 14914.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

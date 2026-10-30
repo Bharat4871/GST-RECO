@@ -1,0 +1,40 @@
+{
+ "chksum": "2a6170d05db1b87ffec2984e6487c16f",
+ "data": {
+  "gstin": "24RMIFN3419H1Z8",
+  "rtnprd": "072025",
+  "version": "1.0",
+  "gendt": "14-08-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24LNZFB7252G1Z2",
+     "trdnm": "BHAVANI OFFICE MART",
+     "supfildt": "12-08-2025",
+     "supprd": "072025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/973",
+       "typ": "R",
+       "dt": "05-07-2025",
+       "val": 137032.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 122350,
+       "igst": 0.0,
+       "cgst": 7341.0,
+       "sgst": 7341.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

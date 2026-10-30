@@ -1,0 +1,405 @@
+{
+ "chksum": "b991d161fdcfd7879816bcec5ed98437",
+ "data": {
+  "gstin": "27OSDCK4975V1ZZ",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27NZDFD4709L2ZI",
+     "trdnm": "Deccan Logistics",
+     "supfildt": "09-07-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/168",
+       "typ": "R",
+       "dt": "13-06-2026",
+       "val": 36379.95,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 36379.95,
+       "igst": 0.0,
+       "cgst": 909.5,
+       "sgst": 909.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/176",
+       "typ": "R",
+       "dt": "04-07-2026",
+       "val": 10715.55,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 10715.55,
+       "igst": 0.0,
+       "cgst": 267.89,
+       "sgst": 267.89,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27EMUCS1082O1ZQ",
+     "trdnm": "SHREE MACHINERY",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "SM00240",
+       "typ": "R",
+       "dt": "06-07-2026",
+       "val": 652166.02,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c3b2da1aa53ff1c71d3745f678c2210afb3b44fb110893291320ae83e0d828a3",
+       "txval": 552683.07,
+       "igst": 0.0,
+       "cgst": 49741.47,
+       "sgst": 49741.48,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27COPPJ2005O1ZM",
+     "trdnm": "Jalaram Guarding Agency",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000393",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 61486.34,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 61486.34,
+       "igst": 0.0,
+       "cgst": 5533.77,
+       "sgst": 5533.77,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000396",
+       "typ": "R",
+       "dt": "08-07-2026",
+       "val": 77732.41,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 77732.41,
+       "igst": 0.0,
+       "cgst": 6995.91,
+       "sgst": 6995.92,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000399",
+       "typ": "R",
+       "dt": "03-07-2026",
+       "val": 92956.4,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 92956.4,
+       "igst": 0.0,
+       "cgst": 8366.08,
+       "sgst": 8366.07,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08WYMFK4683W1Z1",
+     "trdnm": "Kesar Material Handling",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00372",
+       "typ": "R",
+       "dt": "01-08-2026",
+       "val": 158197.67,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 134065.82,
+       "igst": 24131.85,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27TQLFT6746Y1Z8",
+     "trdnm": "Trident Office Mart",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/222",
+       "typ": "R",
+       "dt": "16-07-2026",
+       "val": 12709.18,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 10770.49,
+       "igst": 0.0,
+       "cgst": 969.35,
+       "sgst": 969.34,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "GST/2026-27/230",
+       "typ": "R",
+       "dt": "08-07-2026",
+       "val": 21506.94,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 18226.22,
+       "igst": 0.0,
+       "cgst": 1640.36,
+       "sgst": 1640.36,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ADCFK6599V1ZV",
+     "trdnm": "KAVERI BEARINGS & SPARES",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00100",
+       "typ": "R",
+       "dt": "19-07-2026",
+       "val": 172844.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 146477.97,
+       "igst": 0.0,
+       "cgst": 13183.01,
+       "sgst": 13183.02,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27QVPCA2853C1Z3",
+     "trdnm": "Ambika Telecom Ltd",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV262700071",
+       "typ": "R",
+       "dt": "10-07-2026",
+       "val": 6703.86,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "61385037aadb6da51f81336d18fd7240d0903aeb9b05b2e5de501e139fd2177b",
+       "txval": 5681.24,
+       "igst": 0.0,
+       "cgst": 511.31,
+       "sgst": 511.31,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00079",
+       "typ": "R",
+       "dt": "07-07-2026",
+       "val": 24087.12,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "58a14a0ee2c12d8750be294561aefc87d231cd4dfa95044bb34fc533de68d01d",
+       "txval": 20412.81,
+       "igst": 0.0,
+       "cgst": 1837.15,
+       "sgst": 1837.16,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27JNXCK5269G1ZS",
+     "trdnm": "Kesar Computers",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000211",
+       "typ": "R",
+       "dt": "04-07-2026",
+       "val": 99015.09,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b8948b045c68d0e50323488b2bb511b3c5420e4055b03aa5752653faa9c437a5",
+       "txval": 83911.09,
+       "igst": 0.0,
+       "cgst": 7552.0,
+       "sgst": 7552.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33DDGCB7513D1ZV",
+     "trdnm": "Bharat Estates LLP",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/239",
+       "typ": "R",
+       "dt": "11-07-2026",
+       "val": 567121.88,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8b28a5c0520476c0e88f05e049a4d8fb3bf94a3ae4f396faac89ea0c32dc28cf",
+       "txval": 480611.76,
+       "igst": 86510.12,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RMWFM5319L2ZC",
+     "trdnm": "Metro Management Advisors",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000318",
+       "typ": "R",
+       "dt": "21-07-2026",
+       "val": 68666.36,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 58191.83,
+       "igst": 0.0,
+       "cgst": 5237.27,
+       "sgst": 5237.26,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27LNYFJ8420S1Z4",
+     "trdnm": "Jalaram Holidays",
+     "supfildt": "17-07-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "X8894/2026-27",
+       "typ": "R",
+       "dt": "02-07-2026",
+       "val": 265075.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 224640,
+       "igst": 0.0,
+       "cgst": 20217.6,
+       "sgst": 20217.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

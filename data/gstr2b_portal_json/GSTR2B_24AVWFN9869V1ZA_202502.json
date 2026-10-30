@@ -1,0 +1,40 @@
+{
+ "chksum": "62da51d32190ff4e93854d3cadb124e6",
+ "data": {
+  "gstin": "24AVWFN9869V1ZA",
+  "rtnprd": "022025",
+  "version": "1.0",
+  "gendt": "14-03-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24RBUFN9422I1Z9",
+     "trdnm": "NARAYAN STATIONERS",
+     "supfildt": "11-03-2025",
+     "supprd": "022025",
+     "inv": [
+      {
+       "inum": "LATE/2024-25/324",
+       "typ": "R",
+       "dt": "19-02-2025",
+       "val": 119298.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 101100,
+       "igst": 0.0,
+       "cgst": 9099.0,
+       "sgst": 9099.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

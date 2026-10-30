@@ -1,0 +1,213 @@
+{
+ "chksum": "f03796f45c6e1b596bf3d84164857df2",
+ "data": {
+  "gstin": "27OSDCK4975V1ZZ",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27OYOCO5872I1Z0",
+     "trdnm": "Om Machinery",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "OM/0140/25-26",
+       "typ": "R",
+       "dt": "09-02-2026",
+       "val": 1441838.93,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "33bd535941f69aca6f4c6e47290c657aaf6768dd3fe19ee6729cbdb1aafa71e8",
+       "txval": 1221897.4,
+       "igst": 0.0,
+       "cgst": 109970.76,
+       "sgst": 109970.77,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27RQHFV7956D1ZD",
+     "trdnm": "VARDHMAN ROADLINES",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "VR00266",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 57016.05,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 57016.05,
+       "igst": 0.0,
+       "cgst": 1425.4,
+       "sgst": 1425.4,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27TQLFT6746Y1Z8",
+     "trdnm": "TRIDENT OFFICE MART",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/196",
+       "typ": "R",
+       "dt": "10-02-2026",
+       "val": 5251.04,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 4450.03,
+       "igst": 0.0,
+       "cgst": 400.5,
+       "sgst": 400.51,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/199",
+       "typ": "R",
+       "dt": "06-02-2026",
+       "val": 25603.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 21697.46,
+       "igst": 0.0,
+       "cgst": 1952.77,
+       "sgst": 1952.77,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "08WYMFK4683W1Z1",
+     "trdnm": "KESAR MATERIAL HANDLING",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00347",
+       "typ": "R",
+       "dt": "24-02-2026",
+       "val": 135702.78,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 115002.36,
+       "igst": 20700.42,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00348",
+       "typ": "R",
+       "dt": "22-02-2026",
+       "val": 195735.69,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 165877.7,
+       "igst": 29857.99,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27QVPCA2853C1Z3",
+     "trdnm": "AMBIKA TELECOM LTD",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "inv-2526-00049",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 7997.92,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b3acf7efbe9199548f4095ae4b1130e7c2ead8abb6b84c72cd2e93e286f3e967",
+       "txval": 6777.9,
+       "igst": 0.0,
+       "cgst": 610.01,
+       "sgst": 610.01,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RPKFE3967D1ZY",
+     "trdnm": "Excel Hardware Stores",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/319",
+       "typ": "R",
+       "dt": "23-02-2026",
+       "val": 492992.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 417790,
+       "igst": 0.0,
+       "cgst": 37601.1,
+       "sgst": 37601.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

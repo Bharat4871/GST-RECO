@@ -1,0 +1,278 @@
+{
+ "chksum": "854a3deb2efb02e43cb00ee522d1ddfc",
+ "data": {
+  "gstin": "24AVWFN9869V1ZA",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24EPACB6807Q1ZG",
+     "trdnm": "Bharat Infotech",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00283",
+       "typ": "R",
+       "dt": "10-09-2026",
+       "val": 122236.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "69a4043b5fffcc0b2fd085b42d0a7c7b3a2cc6180b5c3de9b998733b29ef165d",
+       "txval": 103590,
+       "igst": 0.0,
+       "cgst": 9323.1,
+       "sgst": 9323.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00284",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 115368.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "23a8394eb7365f7091a2088c41e7e3148cc007f3c3589ee80731e278f0f3ae96",
+       "txval": 97770,
+       "igst": 0.0,
+       "cgst": 8799.3,
+       "sgst": 8799.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZEHCM1382A1Z1",
+     "trdnm": "Metro Broadband Services",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00422",
+       "typ": "R",
+       "dt": "05-09-2026",
+       "val": 21110.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "34930cd7d08859473c4b393387ec34af592287dae304cc2dd25ee3eafac555f9",
+       "txval": 17890,
+       "igst": 0.0,
+       "cgst": 1610.1,
+       "sgst": 1610.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00431",
+       "typ": "R",
+       "dt": "20-09-2026",
+       "val": 7622.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "45b273f6c261d33247801fc86689add0d3e7285cd27f4c22a52a0724017b7c64",
+       "txval": 6460,
+       "igst": 0.0,
+       "cgst": 581.4,
+       "sgst": 581.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RBUFN9422I1Z9",
+     "trdnm": "Narayan Stationers",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/123",
+       "typ": "R",
+       "dt": "19-09-2026",
+       "val": 34302.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 29070,
+       "igst": 0.0,
+       "cgst": 2616.3,
+       "sgst": 2616.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36BFRCM9411H1ZS",
+     "trdnm": "Mahalaxmi Express Logistics Ltd",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "MEL/0311/26-27",
+       "typ": "R",
+       "dt": "24-09-2026",
+       "val": 58952.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b9d76bd4b79cfc6d02c48f254327f954872bbcf53021d660754ea2dcba517bd5",
+       "txval": 49960,
+       "igst": 8992.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "MEL/0312/26-27",
+       "typ": "R",
+       "dt": "05-09-2026",
+       "val": 61914.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7ddf6aea2cbc17fa33ac278a2a4cb6105f8c9fac72950d7cbde7389bb723a696",
+       "txval": 52470,
+       "igst": 9444.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZSMFG4487E1ZJ",
+     "trdnm": "Galaxy Builders & Contractors",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GB00066",
+       "typ": "R",
+       "dt": "09-09-2026",
+       "val": 750739.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 636220,
+       "igst": 0.0,
+       "cgst": 57259.8,
+       "sgst": 57259.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24YGZFB8489Q1Z2",
+     "trdnm": "BHAVANI BUILDING MATERIALS",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000432",
+       "typ": "R",
+       "dt": "30-09-2026",
+       "val": 744922.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 631290,
+       "igst": 0.0,
+       "cgst": 56816.1,
+       "sgst": 56816.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X5035/2026-27",
+       "typ": "R",
+       "dt": "25-09-2026",
+       "val": 83697.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 70930,
+       "igst": 0.0,
+       "cgst": 6383.7,
+       "sgst": 6383.7,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "23AFKCG9832E1ZA",
+     "trdnm": "GALAXY AUTOMATION",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00220",
+       "typ": "R",
+       "dt": "23-09-2026",
+       "val": 356796.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "49364d7d22ec5011ac9cdd2f79eaee21bf6179438ab8cdf8a9ede496c56cfbf9",
+       "txval": 302370,
+       "igst": 54426.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

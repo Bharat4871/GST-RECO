@@ -1,0 +1,286 @@
+{
+ "chksum": "d86c230697a66ed3bd2f9d94ecdac6c6",
+ "data": {
+  "gstin": "27FTQCK8833D1ZX",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "08ENICO1332O1ZB",
+     "trdnm": "Om Engineering Works",
+     "supfildt": "11-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00183",
+       "typ": "R",
+       "dt": "09-01-2026",
+       "val": 1395727.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "66e2bdac1b6cd619e5ae105455a429819c37cc25f726774e491254f48dbfcb57",
+       "txval": 1182820,
+       "igst": 212907.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "INV-2526-00190",
+       "typ": "R",
+       "dt": "12-01-2026",
+       "val": 1572420.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "cc74baa4adaa2aefaef22f16ca70f99db32f4e16b05e86f9a37ec0efdba5a94b",
+       "txval": 1332560,
+       "igst": 239860.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00192",
+       "typ": "R",
+       "dt": "27-01-2026",
+       "val": 874132.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "823530c66b7e5ff52cdaf46ae8c46e9d685c1b576d786ed5c8c2b63dc3443ba5",
+       "txval": 740790,
+       "igst": 133342.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27CIWFV9929Q1Z1",
+     "trdnm": "VARDHMAN HARDWARE STORES",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "2025000029",
+       "typ": "R",
+       "dt": "04-01-2026",
+       "val": 140266.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 118870,
+       "igst": 0.0,
+       "cgst": 10698.3,
+       "sgst": 10698.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27LNYFJ8420S1Z4",
+     "trdnm": "Jalaram Cargo Movers",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "JCM/0076/25-26",
+       "typ": "R",
+       "dt": "30-01-2026",
+       "val": 51920,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 51920,
+       "igst": 0.0,
+       "cgst": 1298.0,
+       "sgst": 1298.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27TSJFO4832X2ZL",
+     "trdnm": "OM OFFICE MART",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "2025000050",
+       "typ": "R",
+       "dt": "09-01-2026",
+       "val": 8826.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 7480,
+       "igst": 0.0,
+       "cgst": 673.2,
+       "sgst": 673.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27UQUFS2613N1Z3",
+     "trdnm": "SAI HOLIDAYS",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/216",
+       "typ": "R",
+       "dt": "23-01-2026",
+       "val": 132930.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 126600,
+       "igst": 0.0,
+       "cgst": 3165.0,
+       "sgst": 3165.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RMWCM5319L2ZI",
+     "trdnm": "METRO ESTATES LLP",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "mel/0220/25-26",
+       "typ": "R",
+       "dt": "07-01-2026",
+       "val": 597009.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "72ed6f168ee14e3ed5cf57548908f1c724aa47ffc540ac4ee096094bb63bc090",
+       "txval": 505940,
+       "igst": 0.0,
+       "cgst": 45534.6,
+       "sgst": 45534.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "MEL/221/25-26",
+       "typ": "R",
+       "dt": "25-01-2026",
+       "val": 699563.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e5c2fe537edf6d362aee4fef60d60cd2a66fe95c88350e5f077fdca107fc2035",
+       "txval": 592850,
+       "igst": 0.0,
+       "cgst": 53356.5,
+       "sgst": 53356.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27JNXCK5269G1ZS",
+     "trdnm": "Kesar Computers",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "KC00050",
+       "typ": "R",
+       "dt": "21-01-2026",
+       "val": 120843.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "968919c26e577a21481400cdac31cbc3e0b52f672f645f5f6bee9104281cdda9",
+       "txval": 102410,
+       "igst": 0.0,
+       "cgst": 9216.9,
+       "sgst": 9216.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27DRZFK7940Y1ZJ",
+     "trdnm": "KAVERI CATERERS",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/54",
+       "typ": "R",
+       "dt": "15-01-2026",
+       "val": 93828.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 89360,
+       "igst": 0.0,
+       "cgst": 2234.0,
+       "sgst": 2234.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

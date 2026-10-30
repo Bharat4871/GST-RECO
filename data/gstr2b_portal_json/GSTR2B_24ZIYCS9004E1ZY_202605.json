@@ -1,0 +1,302 @@
+{
+ "chksum": "2f1ee5bbed886e0e3fbc19f75bcf3cde",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24UBPFB5249C1ZZ",
+     "trdnm": "Bharat Consultants",
+     "supfildt": "12-04-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2526-00240",
+       "typ": "R",
+       "dt": "30-03-2026",
+       "val": 178475.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 151250,
+       "igst": 0.0,
+       "cgst": 13612.5,
+       "sgst": 13612.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FFHFO3696R1ZZ",
+     "trdnm": "Om Office Mart",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "226000251",
+       "typ": "R",
+       "dt": "17-05-2026",
+       "val": 8189.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 6940,
+       "igst": 0.0,
+       "cgst": 624.6,
+       "sgst": 624.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24JBCFT1686C1Z4",
+     "trdnm": "TRIDENT CATERERS",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "TC/0274/26-27",
+       "typ": "R",
+       "dt": "28-05-2026",
+       "val": 62338.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 59370,
+       "igst": 0.0,
+       "cgst": 1484.25,
+       "sgst": 1484.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07XGDCK2291L1ZC",
+     "trdnm": "Kesar Dye Chem",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "KDC00243",
+       "typ": "R",
+       "dt": "12-05-2026",
+       "val": 199018.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4b8e16bedc10a84073514e47ae794ba136fe2d82e8af29dfe779055c8c6cb0f9",
+       "txval": 168660,
+       "igst": 30358.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24LCICS3746B1Z6",
+     "trdnm": "SUNRISE EXPRESS LOGISTICS LTD",
+     "supfildt": "08-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "SEL01682627",
+       "typ": "R",
+       "dt": "19-05-2026",
+       "val": 63130.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "83b98b7e2c8dc22d7792b4cba7d794b1fa314ab91b815b0c837cd3ed86feede0",
+       "txval": 53500,
+       "igst": 0.0,
+       "cgst": 4815.0,
+       "sgst": 4815.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24EKEFK1435D1Z8",
+     "trdnm": "KESAR RESTAURANT",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00311",
+       "typ": "R",
+       "dt": "08-05-2026",
+       "val": 28654.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 27290,
+       "igst": 0.0,
+       "cgst": 682.25,
+       "sgst": 682.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36HJTCN3943J1Z4",
+     "trdnm": "NARAYAN POLYMERS",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/203",
+       "typ": "R",
+       "dt": "30-05-2026",
+       "val": 731959.11,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "0627dcf683d4ac3879d233f510d74f59f790de22c268d631b830b985b311d7a6",
+       "txval": 697103.91,
+       "igst": 34855.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "33RNXCS7933O2Z2",
+     "trdnm": "SIDDHI DYE CHEM",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "SDC117",
+       "typ": "R",
+       "dt": "05-05-2026",
+       "val": 353575.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "44db87e6533f10a21502af725984e29574b14559d077d120a55dcef46b6164c7",
+       "txval": 299640,
+       "igst": 53935.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "sdc00122",
+       "typ": "R",
+       "dt": "12-05-2026",
+       "val": 106731.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "bb3bca140d57a03aaf9460369e7a3b1500b37ce5dd24cdc99d038a1e1d032736",
+       "txval": 90450,
+       "igst": 16281.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QDXCP6487W1Z4",
+     "trdnm": "Pratham Motors Pvt Ltd",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/126",
+       "typ": "R",
+       "dt": "11-05-2026",
+       "val": 1860364.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "af4b90183113050f5cf258c4b00da1dee2773150466f804be386a94dd0a966aa",
+       "txval": 1576580,
+       "igst": 0.0,
+       "cgst": 141892.2,
+       "sgst": 141892.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24XYEFO9467Y1ZY",
+     "trdnm": "Om Roadlines",
+     "supfildt": "29-05-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "X5286/2026-27",
+       "typ": "R",
+       "dt": "14-05-2026",
+       "val": 57135.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 48420,
+       "igst": 0.0,
+       "cgst": 4357.8,
+       "sgst": 4357.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

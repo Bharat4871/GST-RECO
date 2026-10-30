@@ -1,0 +1,148 @@
+{
+ "chksum": "a423b8986990a7251d26afa16080e0f0",
+ "data": {
+  "gstin": "29ENGCT5419X1ZA",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29QYWCA2218Y1ZM",
+     "trdnm": "Ambika Broadband Services",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "ABS/0059/26-27",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 19116.52,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c49223deee5dfdbba024af8fa4facc4cea74d15339bd2546db441a5aaa21e89c",
+       "txval": 16200.44,
+       "igst": 0.0,
+       "cgst": 1458.04,
+       "sgst": 1458.04,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29KLGFV9874I1ZB",
+     "trdnm": "Vardhman Stationers",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-378",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 15564.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 13190,
+       "igst": 0.0,
+       "cgst": 1187.1,
+       "sgst": 1187.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZUEAP4259W1ZJ",
+     "trdnm": "PRIME GYMKHANA",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/356",
+       "typ": "R",
+       "dt": "25-09-2026",
+       "val": 100359.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 85050,
+       "igst": 0.0,
+       "cgst": 7654.5,
+       "sgst": 7654.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29TNOFK8449B1ZN",
+     "trdnm": "KAVERI TRANSPORT CO.",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "ktc/0133/26-27",
+       "typ": "R",
+       "dt": "29-09-2026",
+       "val": 92940,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 92940,
+       "igst": 0.0,
+       "cgst": 2323.5,
+       "sgst": 2323.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29VBUCN1647P1ZS",
+     "trdnm": "NARAYAN INFOTECH",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/168",
+       "typ": "R",
+       "dt": "20-09-2026",
+       "val": 843440.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d1a009b00cc58099d7cdfb51c0c423a42f1f4efab111eaa5a8e3d104b5d151ce",
+       "txval": 714780,
+       "igst": 0.0,
+       "cgst": 64330.2,
+       "sgst": 64330.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,19 @@
+digraph F { rankdir=TB; node [fontname="Helvetica", fontsize=9, shape=box, style="rounded,filled", fillcolor="#ffffff", color="#445468"]; edge [fontname="Helvetica", fontsize=8, color="#445468"];
+  s [label="Inward invoice", shape=oval, fillcolor="#e2eaf7"];
+  g [label="GSTIN valid &\nsupplier active?", shape=diamond, fillcolor="#f8ecd6"];
+  t [label="Tax charged &\nnot exempt use?", shape=diamond, fillcolor="#f8ecd6"];
+  b [label="Blocked u/s 17(5)?\n(rules + HSN + keywords)", shape=diamond, fillcolor="#f8ecd6"];
+  r [label="Received?\nSec 16(2)(b)", shape=diamond, fillcolor="#f8ecd6"];
+  m [label="In GSTR-2B & IMS\naccepted? R 36(4)", shape=diamond, fillcolor="#f8ecd6"];
+  rc [label="RCM paid in cash?\nSec 49(4)", shape=diamond, fillcolor="#f8ecd6"];
+  p [label="Supplier paid\nwithin 180 days? R 37", shape=diamond, fillcolor="#f8ecd6"];
+  a [label="Supplier filed 3B\nby 30 Sept? R 37A", shape=diamond, fillcolor="#f8ecd6"];
+  l [label="Within Sec 16(4)\ntime limit?", shape=diamond, fillcolor="#f8ecd6"];
+  ok [label="ELIGIBLE\n(Table 4A)", fillcolor="#e0f1e7"];
+  x1 [label="INELIGIBLE", fillcolor="#fae4e1"]; x2 [label="NO ITC", fillcolor="#eeeeee"]; x3 [label="BLOCKED\n(4B(1))", fillcolor="#fae4e1"];
+  x4 [label="DEFERRED", fillcolor="#e3ecf8"]; x5 [label="NOT IN 2B\n(follow up)", fillcolor="#fbf0d6"]; x6 [label="RCM UNPAID", fillcolor="#f8ecd6"];
+  x7 [label="REVERSE R37\n(4B(2))", fillcolor="#fbf0d6"]; x8 [label="REVERSE R37A\n(4B(2))", fillcolor="#fbf0d6"]; x9 [label="TIME-BARRED\n(4D(2))", fillcolor="#fae4e1"];
+  s -> g; g -> t [label="yes"]; g -> x1 [label="no"]; t -> b [label="yes"]; t -> x2 [label="no"]; b -> r [label="no / exception"]; b -> x3 [label="yes"];
+  r -> m [label="yes"]; r -> x4 [label="no"]; m -> rc [label="yes / RCM"]; m -> x5 [label="no"]; rc -> p [label="yes"]; rc -> x6 [label="no"];
+  p -> a [label="yes"]; p -> x7 [label="no"]; a -> l [label="yes"]; a -> x8 [label="no"]; l -> ok [label="yes"]; l -> x9 [label="no"];
+}

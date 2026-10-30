@@ -1,0 +1,275 @@
+{
+ "chksum": "8026b5bc5043b417dfb2b8037d2d3362",
+ "data": {
+  "gstin": "24NSEFN6832N1ZK",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24CXXFU9338V1Z8",
+     "trdnm": "UNIQUE ROADLINES",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00258",
+       "typ": "R",
+       "dt": "29-07-2026",
+       "val": 42844.22,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 42844.22,
+       "igst": 0.0,
+       "cgst": 1071.11,
+       "sgst": 1071.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UQICE6582U1Z7",
+     "trdnm": "EXCEL INFOTECH",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/190",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 64839.24,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ca2b1ab68396c3c8aad453cd05b572360aaea01a7439dbfff35972450bac0dc8",
+       "txval": 54948.51,
+       "igst": 0.0,
+       "cgst": 4945.36,
+       "sgst": 4945.37,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KDVFU9104V2ZI",
+     "trdnm": "UMIYA BUILDERS & CONTRACTORS",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00373",
+       "typ": "R",
+       "dt": "10-07-2026",
+       "val": 507395.15,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 429995.89,
+       "igst": 0.0,
+       "cgst": 38699.63,
+       "sgst": 38699.63,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00382",
+       "typ": "R",
+       "dt": "13-07-2026",
+       "val": 1616079.58,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1369558.97,
+       "igst": 0.0,
+       "cgst": 123260.3,
+       "sgst": 123260.31,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24DCECN7376K1ZU",
+     "trdnm": "NARAYAN TELECOM LTD",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "NTL00082",
+       "typ": "R",
+       "dt": "04-07-2026",
+       "val": 4970.01,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a91e386b465fdf3bd4e89bcd79d2120fd88aad5a1f947fe1a832985141bdf77c",
+       "txval": 4211.87,
+       "igst": 0.0,
+       "cgst": 379.07,
+       "sgst": 379.07,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23AFKFG9832E1Z4",
+     "trdnm": "GALAXY BANQUETS",
+     "supfildt": "08-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000261",
+       "typ": "R",
+       "dt": "22-07-2026",
+       "val": 81374.74,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 77499.75,
+       "igst": 3874.99,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24ARGFU6025S1ZN",
+     "trdnm": "Umiya Cement Depot",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000237",
+       "typ": "R",
+       "dt": "03-07-2026",
+       "val": 97416.35,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 82556.23,
+       "igst": 0.0,
+       "cgst": 7430.06,
+       "sgst": 7430.06,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QWNFA1614U1ZD",
+     "trdnm": "AMBIKA CEMENT DEPOT",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "ACD00318",
+       "typ": "R",
+       "dt": "22-07-2026",
+       "val": 324986.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 275412.29,
+       "igst": 0.0,
+       "cgst": 24787.1,
+       "sgst": 24787.11,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZPYCP6112I2Z8",
+     "trdnm": "Prime Engineering Works",
+     "supfildt": "08-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "PEW/0052/26-27",
+       "typ": "R",
+       "dt": "06-07-2026",
+       "val": 406805.32,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "00a3ae8940bbe6e612deb350e0b073daee284873e3eb6117e03138059caa1d68",
+       "txval": 344750.27,
+       "igst": 62055.05,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FGZFR8585H2ZQ",
+     "trdnm": "Royal Office Mart",
+     "supfildt": "13-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "X8875/2026-27",
+       "typ": "R",
+       "dt": "29-07-2026",
+       "val": 244708.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 207380,
+       "igst": 0.0,
+       "cgst": 18664.2,
+       "sgst": 18664.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

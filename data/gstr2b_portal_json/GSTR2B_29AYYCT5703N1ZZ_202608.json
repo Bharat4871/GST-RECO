@@ -1,0 +1,286 @@
+{
+ "chksum": "41e4729863617b0bf60b60598dc77331",
+ "data": {
+  "gstin": "29AYYCT5703N1ZZ",
+  "rtnprd": "082026",
+  "version": "1.0",
+  "gendt": "14-09-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "36ZSKPB4700I1ZB",
+     "trdnm": "Bhavani Security Services",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "BSS/0253/26-27",
+       "typ": "R",
+       "dt": "22-08-2026",
+       "val": 102680,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 102680,
+       "igst": 18482.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "BSS/0259/26-27",
+       "typ": "R",
+       "dt": "04-08-2026",
+       "val": 100480,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 100480,
+       "igst": 18086.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29RYCCN1340N1ZH",
+     "trdnm": "NARAYAN ESTATES LLP",
+     "supfildt": "09-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/171",
+       "typ": "R",
+       "dt": "13-08-2026",
+       "val": 664517.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "524ae78576db8bd3d16b0b2c8ef7d4aac1010e434e91ec575db257ab28688add",
+       "txval": 563150,
+       "igst": 0.0,
+       "cgst": 50683.5,
+       "sgst": 50683.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/179",
+       "typ": "R",
+       "dt": "09-08-2026",
+       "val": 482608.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1d00c65178e47efd0278484b4c309e37730a3e460d27b50555b68ff546feb432",
+       "txval": 408990,
+       "igst": 0.0,
+       "cgst": 36809.1,
+       "sgst": 36809.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29JZZFV9754B1ZL",
+     "trdnm": "Vishwa Transport Co.",
+     "supfildt": "09-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "2026000175",
+       "typ": "R",
+       "dt": "13-08-2026",
+       "val": 43738.47,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 41655.69,
+       "igst": 0.0,
+       "cgst": 1041.39,
+       "sgst": 1041.39,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RCWCR4688O1ZM",
+     "trdnm": "ROYAL COMPUTERS",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "RC00197",
+       "typ": "R",
+       "dt": "27-08-2026",
+       "val": 53780.72,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f0e9f019bd5404e7d1dd81e07e43caaeb671c99910caaf3be6a871909995a7b3",
+       "txval": 45576.88,
+       "igst": 8203.84,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29MISFB8715L1ZV",
+     "trdnm": "BHARAT LOGISTICS",
+     "supfildt": "08-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "BL/0190/26-27",
+       "typ": "R",
+       "dt": "25-08-2026",
+       "val": 55930,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 55930,
+       "igst": 0.0,
+       "cgst": 1398.25,
+       "sgst": 1398.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EWBFA2113J2ZG",
+     "trdnm": "AMBIKA MANAGEMENT ADVISORS",
+     "supfildt": "08-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "AMA00087",
+       "typ": "R",
+       "dt": "09-08-2026",
+       "val": 171312.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 145180,
+       "igst": 0.0,
+       "cgst": 13066.2,
+       "sgst": 13066.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29PLFFJ7451Z1Z0",
+     "trdnm": "Jay Banquets",
+     "supfildt": "11-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/285",
+       "typ": "R",
+       "dt": "18-08-2026",
+       "val": 71725.5,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 68310,
+       "igst": 0.0,
+       "cgst": 1707.75,
+       "sgst": 1707.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09CLMCT2223A1ZZ",
+     "trdnm": "Tulsi Infotech",
+     "supfildt": "01-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "X8984/2026-27",
+       "typ": "R",
+       "dt": "17-08-2026",
+       "val": 132042.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 111900,
+       "igst": 20142.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      },
+      {
+       "inum": "X4998/2026-27",
+       "typ": "R",
+       "dt": "27-08-2026",
+       "val": 306316.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 259590,
+       "igst": 46726.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

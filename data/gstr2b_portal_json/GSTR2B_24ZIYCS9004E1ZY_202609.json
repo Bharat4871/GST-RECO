@@ -1,0 +1,275 @@
+{
+ "chksum": "75816bf1f7c5bde5c88f8aaeace95f7a",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24EKEFK1435D1Z8",
+     "trdnm": "Kesar Restaurant",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00325",
+       "typ": "R",
+       "dt": "15-09-2026",
+       "val": 68134.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 64890,
+       "igst": 0.0,
+       "cgst": 1622.25,
+       "sgst": 1622.25,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24PRAFM5925H1Z2",
+     "trdnm": "Mahalaxmi Sweets & Dry Fruits",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000366",
+       "typ": "R",
+       "dt": "29-09-2026",
+       "val": 24192.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 23040,
+       "igst": 0.0,
+       "cgst": 576.0,
+       "sgst": 576.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24LCICS3746B1Z6",
+     "trdnm": "Sunrise Express Logistics Ltd",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "SEL/0173/26-27",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 82175.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "02ef3a9522b70c73e111ba89e00204286fb836f04a8c8695ee9bfac9261494aa",
+       "txval": 69640,
+       "igst": 0.0,
+       "cgst": 6267.6,
+       "sgst": 6267.6,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24AOTCM5841E1ZH",
+     "trdnm": "Mahalaxmi Yarn Traders",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "MYT00398",
+       "typ": "R",
+       "dt": "25-09-2026",
+       "val": 378420.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e119752541dbe5c6c849617763f844b35cb9853ec7a94d9e3dbf3a3712218a3a",
+       "txval": 360400,
+       "igst": 0.0,
+       "cgst": 9010.0,
+       "sgst": 9010.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08NBPPK5083T1Z7",
+     "trdnm": "KAVERI GUARDING AGENCY",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/192",
+       "typ": "R",
+       "dt": "01-09-2026",
+       "val": 91970,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 91970,
+       "igst": 16554.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24UMRCM9832G1ZS",
+     "trdnm": "METRO EVENTS PVT LTD",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "MEP/0055/26-27",
+       "typ": "R",
+       "dt": "02-09-2026",
+       "val": 228440,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 228440,
+       "igst": 0.0,
+       "cgst": 20559.6,
+       "sgst": 20559.6,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "33RNXCS7933O2Z2",
+     "trdnm": "SIDDHI DYE CHEM",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "SDC128",
+       "typ": "R",
+       "dt": "15-09-2026",
+       "val": 442476.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ecae39b7d968995584e97806b2e5f1ce8fd2147e2ff44115e7068edaa8de9c82",
+       "txval": 374980,
+       "igst": 67496.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "sdc00129",
+       "typ": "R",
+       "dt": "16-09-2026",
+       "val": 175312.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "dbdfe53b298ea388dba99430056dbc34a9316eb672e0c8e31c4d9dfbc23bc65a",
+       "txval": 148570,
+       "igst": 26742.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UBPFB5249C1ZZ",
+     "trdnm": "BHARAT CONSULTANTS",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00252",
+       "typ": "R",
+       "dt": "24-09-2026",
+       "val": 99898.73,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 84659.94,
+       "igst": 0.0,
+       "cgst": 7619.4,
+       "sgst": 7619.39,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24BIZAG5904F1ZY",
+     "trdnm": "Galaxy Gymkhana",
+     "supfildt": "29-09-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "X5446/2026-27",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 100878.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 85490,
+       "igst": 0.0,
+       "cgst": 7694.1,
+       "sgst": 7694.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

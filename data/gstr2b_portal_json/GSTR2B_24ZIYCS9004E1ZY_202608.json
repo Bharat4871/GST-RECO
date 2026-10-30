@@ -1,0 +1,194 @@
+{
+ "chksum": "616d31f0d637455e1e5e136c97c71503",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "082026",
+  "version": "1.0",
+  "gendt": "14-09-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "07XGDCK2291L1ZC",
+     "trdnm": "Kesar Dye Chem",
+     "supfildt": "08-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "KDC00277",
+       "typ": "R",
+       "dt": "29-08-2026",
+       "val": 173436.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e9755fa8d86a2aa2c39c9e887789056f3234f46fb1987b840033ae62b68e0888",
+       "txval": 146980,
+       "igst": 26456.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36HJTCN3943J1Z4",
+     "trdnm": "Narayan Polymers",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/217",
+       "typ": "R",
+       "dt": "19-08-2026",
+       "val": 1305454.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d11334c5f7eaeba709252d93be8aaf4ec521211f3a30283089f2d149d517dcf7",
+       "txval": 1243290,
+       "igst": 62164.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SBWCJ6345Y1ZK",
+     "trdnm": "JALARAM COMPUTERS",
+     "supfildt": "10-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/294",
+       "typ": "R",
+       "dt": "27-08-2026",
+       "val": 67902.43,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "910aad740517ec75e93c37f9f02ab8424e372887d86de10fe0af7681880a60a0",
+       "txval": 57544.43,
+       "igst": 0.0,
+       "cgst": 5179.0,
+       "sgst": 5179.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/300",
+       "typ": "R",
+       "dt": "17-08-2026",
+       "val": 121835.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c23e1e293482b227752d0de08b839f8351f1c1024671cc02561d4a9c908917dc",
+       "txval": 103250,
+       "igst": 0.0,
+       "cgst": 9292.5,
+       "sgst": 9292.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QUBCT4113U1ZG",
+     "trdnm": "Tulsi Broadband Services",
+     "supfildt": "11-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/290",
+       "typ": "R",
+       "dt": "05-08-2026",
+       "val": 10692.69,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7d9bae144c864192d18184db153192c29e590daf4467b4d0737b535f493669a5",
+       "txval": 9061.6,
+       "igst": 0.0,
+       "cgst": 815.54,
+       "sgst": 815.55,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24EKEFK1435D1Z8",
+     "trdnm": "Kesar Restaurant",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "INV-2627-00318",
+       "typ": "R",
+       "dt": "03-08-2026",
+       "val": 54222.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 51640,
+       "igst": 0.0,
+       "cgst": 1291.0,
+       "sgst": 1291.0,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "24FFHFO3696R1ZZ",
+     "trdnm": "Om Office Mart",
+     "supfildt": "09-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "2026000280",
+       "typ": "R",
+       "dt": "15-08-2026",
+       "val": 10183.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 8630,
+       "igst": 0.0,
+       "cgst": 776.7,
+       "sgst": 776.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

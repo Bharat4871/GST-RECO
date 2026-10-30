@@ -1,0 +1,313 @@
+{
+ "chksum": "7de7be1101fe9f371e78657b86c560e3",
+ "data": {
+  "gstin": "24RZFCS5218Q1Z2",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24XSACR6791T2ZT",
+     "trdnm": "ROYAL POLYMERS",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "RP00117",
+       "typ": "R",
+       "dt": "02-09-2026",
+       "val": 317173.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "976304cc24f9107d64d50e320dfaa08051a15bf975da7c5d38652986513648a4",
+       "txval": 302070,
+       "igst": 0.0,
+       "cgst": 7551.75,
+       "sgst": 7551.75,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24RFOCG7642Z1ZK",
+     "trdnm": "Galaxy Oil Seeds Traders",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GOS/0284/26-27",
+       "typ": "R",
+       "dt": "24-09-2026",
+       "val": 908029.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9c947b1e0435c048dc37fb887004c2f1a88fa00eaa83c498661de1f11a8af6ae",
+       "txval": 864790,
+       "igst": 0.0,
+       "cgst": 21619.75,
+       "sgst": 21619.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GOS/291/26-27",
+       "typ": "R",
+       "dt": "29-09-2026",
+       "val": 239631.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c4c4dc6d368b307f2e86eae13f5df7752ce5beed91ed78d14e0e6eac925ef152",
+       "txval": 228220,
+       "igst": 0.0,
+       "cgst": 5705.5,
+       "sgst": 5705.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GOS/0298/26-27",
+       "typ": "R",
+       "dt": "25-09-2026",
+       "val": 378420.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f31d11c4b219072621e2becd7c87c44e27a1e6729fbad817602e80914552f5df",
+       "txval": 360400,
+       "igst": 0.0,
+       "cgst": 9010.0,
+       "sgst": 9010.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KWECS6030P1ZM",
+     "trdnm": "Sai Automation",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/195",
+       "typ": "R",
+       "dt": "01-09-2026",
+       "val": 564219.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "70c7a8bb83d915063203b3c29b812fa1b3c33b6ccb407086fc9f064571c20429",
+       "txval": 478152.03,
+       "igst": 0.0,
+       "cgst": 43033.68,
+       "sgst": 43033.69,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/199",
+       "typ": "R",
+       "dt": "22-09-2026",
+       "val": 438889.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "bddc1d604935589eec1a6d0d185f15a7b6e6e0c72a65f4bf0b754d79d7daca4c",
+       "txval": 371940,
+       "igst": 0.0,
+       "cgst": 33474.6,
+       "sgst": 33474.6,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "07CNVCS8096G2ZN",
+     "trdnm": "SUNRISE INFOTECH",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "SI00057",
+       "typ": "R",
+       "dt": "26-09-2026",
+       "val": 80079.59,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "bf5084063fdd204ef162cb18b1cdd2f2e1163cfcb3201a0796b5985932de5549",
+       "txval": 67864.06,
+       "igst": 12215.53,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KNBCK9011H1ZT",
+     "trdnm": "KAVERI AUTOMATION",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/90",
+       "typ": "R",
+       "dt": "07-09-2026",
+       "val": 1730352.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8988337388ef8f4fb2948996459909804fb4ab5e4d6cd51e0cc57f77e62a4f53",
+       "txval": 1466400,
+       "igst": 0.0,
+       "cgst": 131976.0,
+       "sgst": 131976.0,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "24CQOCJ2782M2ZZ",
+     "trdnm": "Jay Express Logistics Ltd",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "inv-2627-00181",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 82175.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f79fa25393aa18682a02edf858827108a6250ad2913f09a114a7bc0f8ab5ab8f",
+       "txval": 69640,
+       "igst": 0.0,
+       "cgst": 6267.6,
+       "sgst": 6267.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VCOPV8676L1ZW",
+     "trdnm": "VISHWA GUARDING AGENCY",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "VGA/0241/26-27",
+       "typ": "R",
+       "dt": "01-09-2026",
+       "val": 91970,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 91970,
+       "igst": 0.0,
+       "cgst": 8277.3,
+       "sgst": 8277.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24IYWCT9004E1ZK",
+     "trdnm": "TRIDENT SPORTS FOUNDATION",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/58",
+       "typ": "R",
+       "dt": "02-09-2026",
+       "val": 228440,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 228440,
+       "igst": 0.0,
+       "cgst": 20559.6,
+       "sgst": 20559.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29MCFAM9761I1ZI",
+     "trdnm": "Mahalaxmi Fitness Club",
+     "supfildt": "29-09-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "X4905/2026-27",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 128183.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 108630,
+       "igst": 19553.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

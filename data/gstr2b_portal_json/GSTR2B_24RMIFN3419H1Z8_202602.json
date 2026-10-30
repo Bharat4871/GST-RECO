@@ -1,0 +1,278 @@
+{
+ "chksum": "1d184179be4e99ffd20e00946e3d0aa7",
+ "data": {
+  "gstin": "24RMIFN3419H1Z8",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "36KRICS6085B1Z1",
+     "trdnm": "Sai Engineering Works",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000375",
+       "typ": "R",
+       "dt": "08-02-2026",
+       "val": 1132906.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "abfbcc59a90d2cf5ca83e51edf73522596a818b82d19c2b1b67c7f564b8310a9",
+       "txval": 960090,
+       "igst": 172816.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VKLCO3968C1Z6",
+     "trdnm": "OM BROADBAND SERVICES",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "OBS00344",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 24992.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3cbfa2d3ec686bc964740d4371284158527af1c4e7fbe269335f94d9b7e2eb3f",
+       "txval": 21180,
+       "igst": 0.0,
+       "cgst": 1906.2,
+       "sgst": 1906.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "OBS00350",
+       "typ": "R",
+       "dt": "25-02-2026",
+       "val": 27588.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "723a85558b32d5611e4d626599a2d0cce96c274798a78969d7617226073ad511",
+       "txval": 23380,
+       "igst": 0.0,
+       "cgst": 2104.2,
+       "sgst": 2104.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X3160/2025-26",
+       "typ": "R",
+       "dt": "01-02-2026",
+       "val": 216494.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 183470,
+       "igst": 0.0,
+       "cgst": 16512.3,
+       "sgst": 16512.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24MGXCM1154T1ZX",
+     "trdnm": "Metro Machinery",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "MM00148",
+       "typ": "R",
+       "dt": "13-02-2026",
+       "val": 1207824.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "58c3c2ce22baa0053e8ecbe7df82b42c5f33c41d1a1a7da9b710becb0a7f918a",
+       "txval": 1023580,
+       "igst": 0.0,
+       "cgst": 92122.2,
+       "sgst": 92122.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "MM00153",
+       "typ": "R",
+       "dt": "05-02-2026",
+       "val": 281005.91,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "117fde4d10e818b662e9d513ab20a8ab8347418f9ab586918e0939aa00733afe",
+       "txval": 238140.6,
+       "igst": 0.0,
+       "cgst": 21432.65,
+       "sgst": 21432.66,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24LNZFB7252G1Z2",
+     "trdnm": "Bhavani Office Mart",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "BOM00159",
+       "typ": "R",
+       "dt": "15-02-2026",
+       "val": 14278.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 12100,
+       "igst": 0.0,
+       "cgst": 1089.0,
+       "sgst": 1089.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "LATE/2025-26/956",
+       "typ": "R",
+       "dt": "28-02-2026",
+       "val": 251505.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 213140,
+       "igst": 0.0,
+       "cgst": 19182.6,
+       "sgst": 19182.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RZPFP6114G1ZD",
+     "trdnm": "Prime Builders & Contractors",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "PB/0374/25-26",
+       "typ": "R",
+       "dt": "08-02-2026",
+       "val": 2383505.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 2019920,
+       "igst": 0.0,
+       "cgst": 181792.8,
+       "sgst": 181792.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZPPFU6550A1ZO",
+     "trdnm": "Unique Building Materials",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "UBM/0048/25-26",
+       "typ": "R",
+       "dt": "21-02-2026",
+       "val": 449237.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 380710,
+       "igst": 0.0,
+       "cgst": 34263.9,
+       "sgst": 34263.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24TGAFB8599H1ZC",
+     "trdnm": "Bhavani Sweets & Dry Fruits",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "X3523/2025-26",
+       "typ": "R",
+       "dt": "28-02-2026",
+       "val": 306103.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 259410,
+       "igst": 0.0,
+       "cgst": 23346.9,
+       "sgst": 23346.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

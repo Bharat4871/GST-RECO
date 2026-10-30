@@ -1,0 +1,413 @@
+{
+ "chksum": "6f681c2b8890ae5e2fbc8cd05f13905a",
+ "data": {
+  "gstin": "24MUDCS4519A1ZE",
+  "rtnprd": "062026",
+  "version": "1.0",
+  "gendt": "14-07-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24PBJFV2492F1ZL",
+     "trdnm": "VISHWA STATIONERS",
+     "supfildt": "12-05-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/255",
+       "typ": "R",
+       "dt": "12-04-2026",
+       "val": 30786.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 26090,
+       "igst": 0.0,
+       "cgst": 2348.1,
+       "sgst": 2348.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/268",
+       "typ": "R",
+       "dt": "23-06-2026",
+       "val": 21604.38,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 18308.8,
+       "igst": 0.0,
+       "cgst": 1647.79,
+       "sgst": 1647.79,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X3837/2026-27",
+       "typ": "R",
+       "dt": "19-06-2026",
+       "val": 202806.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 171870,
+       "igst": 0.0,
+       "cgst": 15468.3,
+       "sgst": 15468.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WWICS6386Y1Z5",
+     "trdnm": "SAI DYE CHEM",
+     "supfildt": "13-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "2026000261",
+       "typ": "R",
+       "dt": "29-06-2026",
+       "val": 361186.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8f9a9d572e4c66478fea4f6b9e9dd508b1cb1964b61296512d87fe749b5bb45c",
+       "txval": 306090,
+       "igst": 0.0,
+       "cgst": 27548.1,
+       "sgst": 27548.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23QEQCJ4461Z2ZO",
+     "trdnm": "JALARAM ENGINEERING WORKS",
+     "supfildt": "11-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "JEW/0335/26-27",
+       "typ": "R",
+       "dt": "11-06-2026",
+       "val": 1535780.02,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d128cd70d32194f685ca1c24f082cb5f8e23b72d0356a0825696f2128d910fde",
+       "txval": 1301508.49,
+       "igst": 234271.53,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RHLCA8471M1ZB",
+     "trdnm": "Ambika Express Logistics Ltd",
+     "supfildt": "11-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/206",
+       "typ": "R",
+       "dt": "09-06-2026",
+       "val": 102565.09,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7d259e78a8f9c67d7c3608023a921e5d9401ae9f5cc2ec6ab5648950e1574507",
+       "txval": 86919.57,
+       "igst": 15645.52,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27YFVFJ3521N1ZT",
+     "trdnm": "JALARAM CONSULTANTS",
+     "supfildt": "12-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "2026000319",
+       "typ": "R",
+       "dt": "18-06-2026",
+       "val": 174994.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 148300,
+       "igst": 26694.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000323",
+       "typ": "R",
+       "dt": "09-06-2026",
+       "val": 161058.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 136490,
+       "igst": 24568.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KNBCK9011H1ZT",
+     "trdnm": "Kaveri Steel Traders",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/290",
+       "typ": "R",
+       "dt": "04-06-2026",
+       "val": 680379.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b09320d00c1c2a379dc4b36b802c4d8d41e152fce50e79fae54692afd54b8824",
+       "txval": 647980,
+       "igst": 0.0,
+       "cgst": 16199.5,
+       "sgst": 16199.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/291",
+       "typ": "R",
+       "dt": "21-06-2026",
+       "val": 1521660.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "346ca9807cb6bc8372ce8a9a345420c7888555afd452292b4b3c57300b0be8ac",
+       "txval": 1449200,
+       "igst": 0.0,
+       "cgst": 36230.0,
+       "sgst": 36230.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24CQOCJ2782M2ZZ",
+     "trdnm": "Jay Agro Commodities",
+     "supfildt": "13-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "INV-2627-00346",
+       "typ": "R",
+       "dt": "23-06-2026",
+       "val": 1066537.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4f38a04cd84483c650b74aa404d3da0ff3472fddc0a57a725eeb6396bf476659",
+       "txval": 1015750,
+       "igst": 0.0,
+       "cgst": 25393.75,
+       "sgst": 25393.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24COOCS6667R2ZC",
+     "trdnm": "SUNRISE BROADBAND SERVICES",
+     "supfildt": "11-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "SBS/0259/26-27",
+       "typ": "R",
+       "dt": "02-06-2026",
+       "val": 20940.04,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "eb998f77d52422c1a8ef354d6a882fea5e1fd069707b0f6a7900aec80cac04c9",
+       "txval": 17745.8,
+       "igst": 0.0,
+       "cgst": 1597.12,
+       "sgst": 1597.12,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29MCFCM9761I1ZE",
+     "trdnm": "Mahalaxmi Polymers",
+     "supfildt": "12-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/396",
+       "typ": "R",
+       "dt": "16-06-2026",
+       "val": 1061590.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a854dc1e939e5dd3b39a71bdb52ab8236d21b9bf956099fb201da27bc08b82c3",
+       "txval": 1011038.86,
+       "igst": 50551.94,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CWXCJ9954F1ZI",
+     "trdnm": "Jay Computers",
+     "supfildt": "10-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "2026000058",
+       "typ": "R",
+       "dt": "04-06-2026",
+       "val": 112897.07,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "03ffa430932325e4ce69e72faf4eb89e304d227101df18977b33bcf43f69a060",
+       "txval": 95675.48,
+       "igst": 0.0,
+       "cgst": 8610.8,
+       "sgst": 8610.79,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24COVCT7664E1ZX",
+     "trdnm": "Trident Auto Showroom",
+     "supfildt": "14-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "X5833/2026-27",
+       "typ": "R",
+       "dt": "29-06-2026",
+       "val": 243127.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 206040,
+       "igst": 0.0,
+       "cgst": 18543.6,
+       "sgst": 18543.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33HHVCS9102G1ZK",
+     "trdnm": "Siddhi Dye Chem",
+     "supfildt": "17-06-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "X1290/2026-27",
+       "typ": "R",
+       "dt": "02-06-2026",
+       "val": 108265.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 91750,
+       "igst": 16515.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

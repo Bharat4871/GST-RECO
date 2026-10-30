@@ -1,0 +1,232 @@
+{
+ "chksum": "8bc2e7de20a8427e545bde401993283f",
+ "data": {
+  "gstin": "29DNHCT2909W1ZF",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29MISCB8715L1Z1",
+     "trdnm": "BHARAT BROADBAND SERVICES",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000112",
+       "typ": "R",
+       "dt": "15-04-2026",
+       "val": 4979.41,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8655a3c559865622c797bf3a78b388e064696d853f528c044bf652ad03e30ac7",
+       "txval": 4219.84,
+       "igst": 0.0,
+       "cgst": 379.79,
+       "sgst": 379.78,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "X1616/2026-27",
+       "typ": "R",
+       "dt": "19-04-2026",
+       "val": 22219.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 18830,
+       "igst": 0.0,
+       "cgst": 1694.7,
+       "sgst": 1694.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EIOCN7432Z1ZD",
+     "trdnm": "Narayan Realty Pvt Ltd",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "NRP00361",
+       "typ": "R",
+       "dt": "27-04-2026",
+       "val": 781427.35,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4fb6ec5f47d2e47237f4fb26f7b346cc2abc223d5d9d482c2113d3e06831cb42",
+       "txval": 662226.57,
+       "igst": 0.0,
+       "cgst": 59600.39,
+       "sgst": 59600.39,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "NRP00366",
+       "typ": "R",
+       "dt": "26-04-2026",
+       "val": 940905.73,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "228e6f375363c22dbfd59e5adb8f7efcf4d4f7fd541a8508cbf248285e48230c",
+       "txval": 797377.74,
+       "igst": 0.0,
+       "cgst": 71763.99,
+       "sgst": 71764.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29LRVFS8228G1Z5",
+     "trdnm": "SUNRISE MANAGEMENT ADVISORS",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/253",
+       "typ": "R",
+       "dt": "23-04-2026",
+       "val": 29864.28,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 25308.71,
+       "igst": 0.0,
+       "cgst": 2277.78,
+       "sgst": 2277.79,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "23QTECM4367K1ZS",
+     "trdnm": "Mahalaxmi Computers",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "MC00162",
+       "typ": "R",
+       "dt": "06-04-2026",
+       "val": 989354.09,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d4644e1697e0b19ac173a56b0fde211b1008552f2cbb33e62a814fb8401f2d07",
+       "txval": 838435.67,
+       "igst": 150918.42,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09JNNCB8086G1Z4",
+     "trdnm": "Bharat Freight Carriers Ltd",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "BFC/0198/26-27",
+       "typ": "R",
+       "dt": "18-04-2026",
+       "val": 19476.87,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "2c51e1dabdffa8e7a8d0c44adcd1f216a3c6b2d939c94fd37e292a4c3a79b0d0",
+       "txval": 16505.82,
+       "igst": 2971.05,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29COSFK7759P1Z2",
+     "trdnm": "Kesar Management Advisors",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "KMA/0207/26-27",
+       "typ": "R",
+       "dt": "27-04-2026",
+       "val": 99214.69,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 84080.25,
+       "igst": 0.0,
+       "cgst": 7567.22,
+       "sgst": 7567.22,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      },
+      {
+       "inum": "KMA/0211/26-27",
+       "typ": "R",
+       "dt": "22-04-2026",
+       "val": 96343.63,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 81647.14,
+       "igst": 0.0,
+       "cgst": 7348.25,
+       "sgst": 7348.24,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

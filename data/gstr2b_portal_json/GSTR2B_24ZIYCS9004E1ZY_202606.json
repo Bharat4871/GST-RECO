@@ -1,0 +1,294 @@
+{
+ "chksum": "2d7672d512ef16048ec7f575b74cda9b",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "062026",
+  "version": "1.0",
+  "gendt": "14-07-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24RLHFK9794M1ZD",
+     "trdnm": "KAVERI MANAGEMENT ADVISORS",
+     "supfildt": "08-06-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/317",
+       "typ": "R",
+       "dt": "19-05-2026",
+       "val": 74564.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 63190,
+       "igst": 0.0,
+       "cgst": 5687.1,
+       "sgst": 5687.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07XGDCK2291L1ZC",
+     "trdnm": "KESAR DYE CHEM",
+     "supfildt": "11-06-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "KDC00249",
+       "typ": "R",
+       "dt": "29-05-2026",
+       "val": 374850.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "64d38d273cd7e0165bc2d7ada8be5dbe4f4babb54a653fdd1dea2fdc2e775f40",
+       "txval": 317670,
+       "igst": 57180.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "KDC00260",
+       "typ": "R",
+       "dt": "20-06-2026",
+       "val": 389966.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "N",
+       "rsn": "POS",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "046bbc9041ddaaaac065832a16ee7d02edeef331d65b3f2fc432327988071e9f",
+       "txval": 330480,
+       "igst": 59486.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24MIOCR8274X2Z4",
+     "trdnm": "Royal Yarn Traders",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/166",
+       "typ": "R",
+       "dt": "22-06-2026",
+       "val": 1493771.48,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7c875b1be4cc22134dba238d679bfabfbfa802c12b01cf8ff515184c43614d63",
+       "txval": 1422639.5,
+       "igst": 0.0,
+       "cgst": 35565.99,
+       "sgst": 35565.99,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/175",
+       "typ": "R",
+       "dt": "23-06-2026",
+       "val": 1054882.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "16a4f50f4d19323871e6ef6d6bb0b1870705a504315a15a1e6d9a5d493f08de0",
+       "txval": 1004650,
+       "igst": 0.0,
+       "cgst": 25116.25,
+       "sgst": 25116.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SBWCJ6345Y1ZK",
+     "trdnm": "Jalaram Computers",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/290",
+       "typ": "R",
+       "dt": "05-06-2026",
+       "val": 87674.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "0bbf8e4182e3ed1bae1c19756ca5ecd060a4ba6af62945d2af73af0f9aa914ac",
+       "txval": 74300,
+       "igst": 0.0,
+       "cgst": 6687.0,
+       "sgst": 6687.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UBPFB5249C1ZZ",
+     "trdnm": "BHARAT CONSULTANTS",
+     "supfildt": "10-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "INV-2627-00244",
+       "typ": "R",
+       "dt": "10-06-2026",
+       "val": 78198.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 66270,
+       "igst": 0.0,
+       "cgst": 5964.3,
+       "sgst": 5964.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24AOTCM5841E1ZH",
+     "trdnm": "Mahalaxmi Yarn Traders",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "MYT00391",
+       "typ": "R",
+       "dt": "27-06-2026",
+       "val": 441745.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "eedccd48eac584c9012bbd067661fb10b67012613a7f5e33d9690548bbdc185c",
+       "txval": 420710,
+       "igst": 0.0,
+       "cgst": 10517.75,
+       "sgst": 10517.75,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "24PQOCP5474L1ZG",
+     "trdnm": "PRATHAM COMPUTERS",
+     "supfildt": "11-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "PC00059",
+       "typ": "R",
+       "dt": "04-06-2026",
+       "val": 112897.07,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9c193430773d6fca58dfe4aebb31d5a2aa9eaddb3559b4ee6213c955094d37a9",
+       "txval": 95675.48,
+       "igst": 0.0,
+       "cgst": 8610.8,
+       "sgst": 8610.79,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24XYEFO9467Y1ZY",
+     "trdnm": "OM ROADLINES",
+     "supfildt": "12-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "OR/0346/26-27",
+       "typ": "R",
+       "dt": "13-06-2026",
+       "val": 50130,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 50130,
+       "igst": 0.0,
+       "cgst": 1253.25,
+       "sgst": 1253.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QDXCP6487W1Z4",
+     "trdnm": "Pratham Motors Pvt Ltd",
+     "supfildt": "15-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "X2244/2026-27",
+       "typ": "R",
+       "dt": "30-06-2026",
+       "val": 197378.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 167270,
+       "igst": 0.0,
+       "cgst": 15054.3,
+       "sgst": 15054.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

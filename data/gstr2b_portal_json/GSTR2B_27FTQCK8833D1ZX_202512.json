@@ -1,0 +1,40 @@
+{
+ "chksum": "f7cab923c42412fce8ca91bdd8c3981c",
+ "data": {
+  "gstin": "27FTQCK8833D1ZX",
+  "rtnprd": "122025",
+  "version": "1.0",
+  "gendt": "14-01-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27CIWFV9929Q1Z1",
+     "trdnm": "VARDHMAN HARDWARE STORES",
+     "supfildt": "10-01-2026",
+     "supprd": "122025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/615",
+       "typ": "R",
+       "dt": "08-12-2025",
+       "val": 86541.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 73340,
+       "igst": 0.0,
+       "cgst": 6600.6,
+       "sgst": 6600.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

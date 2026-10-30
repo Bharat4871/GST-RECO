@@ -1,0 +1,194 @@
+{
+ "chksum": "25dbb1bcd651ec24c2bd3326f679b9fd",
+ "data": {
+  "gstin": "29ENGCT5419X1ZA",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29VBUCN1647P1ZS",
+     "trdnm": "Narayan Infotech",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/142",
+       "typ": "R",
+       "dt": "09-07-2026",
+       "val": 105444.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "41a3070deccfba58fa1774f1fc1bd84f12f8aa74e5cc9dbace95fc6161e62d16",
+       "txval": 89360,
+       "igst": 0.0,
+       "cgst": 8042.4,
+       "sgst": 8042.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/149",
+       "typ": "R",
+       "dt": "01-07-2026",
+       "val": 309192.53,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "503621e71c839359e8e28bf05c0dd05312a09ce7a34b2f2bbb449c931aeea6bf",
+       "txval": 262027.57,
+       "igst": 0.0,
+       "cgst": 23582.48,
+       "sgst": 23582.48,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "29VKRFA4586B1Z0",
+     "trdnm": "AMBIKA TECHNICAL SERVICES",
+     "supfildt": "08-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00323",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 42893.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 36350,
+       "igst": 0.0,
+       "cgst": 3271.5,
+       "sgst": 3271.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZCYFT7350Q1Z0",
+     "trdnm": "TULSI RESTAURANT",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "TR/0141/26-27",
+       "typ": "R",
+       "dt": "29-07-2026",
+       "val": 76398.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 72760,
+       "igst": 0.0,
+       "cgst": 1819.0,
+       "sgst": 1819.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29KWHFU6418R1ZP",
+     "trdnm": "UMIYA CARGO MOVERS",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "UCM00370",
+       "typ": "R",
+       "dt": "31-07-2026",
+       "val": 46330,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 46330,
+       "igst": 0.0,
+       "cgst": 1158.25,
+       "sgst": 1158.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27QEHFS6335Z1ZA",
+     "trdnm": "Siddhi Restaurant",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "SR00361",
+       "typ": "R",
+       "dt": "20-07-2026",
+       "val": 64645.54,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 61567.18,
+       "igst": 3078.36,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06UGRFD1185A1ZS",
+     "trdnm": "Deccan Management Advisors",
+     "supfildt": "21-07-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "X5162/2026-27",
+       "typ": "R",
+       "dt": "06-07-2026",
+       "val": 151252.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 128180,
+       "igst": 23072.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

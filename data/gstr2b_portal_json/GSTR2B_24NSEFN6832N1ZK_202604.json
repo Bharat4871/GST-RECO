@@ -1,0 +1,297 @@
+{
+ "chksum": "0fdb8ac003953834b6a1d2cd6574b173",
+ "data": {
+  "gstin": "24NSEFN6832N1ZK",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24CXXFU9338V1Z8",
+     "trdnm": "UNIQUE ROADLINES",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "INV-2627-00244",
+       "typ": "R",
+       "dt": "01-04-2026",
+       "val": 27000,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 27000,
+       "igst": 0.0,
+       "cgst": 675.0,
+       "sgst": 675.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00245",
+       "typ": "R",
+       "dt": "21-04-2026",
+       "val": 37324.78,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 37324.78,
+       "igst": 0.0,
+       "cgst": 933.12,
+       "sgst": 933.12,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24DCECN7376K1ZU",
+     "trdnm": "NARAYAN TELECOM LTD",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "NTL00075",
+       "typ": "R",
+       "dt": "10-04-2026",
+       "val": 6404.24,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f3dbc53c7fb59f3c36ab819bae1d78f716ebec75482300331c35e53abe653345",
+       "txval": 5427.32,
+       "igst": 0.0,
+       "cgst": 488.46,
+       "sgst": 488.46,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24DLPCS9171D1ZD",
+     "trdnm": "Sahyadri Automation",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/167",
+       "typ": "R",
+       "dt": "11-04-2026",
+       "val": 291148.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "aa2e5d36a166ffccfe40b7f4bfc79e0704007bac375a830dffb980e87f459373",
+       "txval": 246735.76,
+       "igst": 0.0,
+       "cgst": 22206.22,
+       "sgst": 22206.22,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "gst/2026-27/174",
+       "typ": "R",
+       "dt": "30-04-2026",
+       "val": 1606246.28,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b1a5312da9bb82a6ef4effdefc5e4db666b4f4816cee398d53f3977571549a1b",
+       "txval": 1361225.66,
+       "igst": 0.0,
+       "cgst": 122510.31,
+       "sgst": 122510.31,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09ZLIFJ8636G1ZN",
+     "trdnm": "JAY CARGO MOVERS",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "JCM/0198/26-27",
+       "typ": "R",
+       "dt": "20-04-2026",
+       "val": 26821.05,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 26821.05,
+       "igst": 1341.05,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RETFO5065E1ZD",
+     "trdnm": "Om Restaurant",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "OR/0214/26-27",
+       "typ": "R",
+       "dt": "18-04-2026",
+       "val": 27274.3,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 25975.52,
+       "igst": 0.0,
+       "cgst": 649.39,
+       "sgst": 649.39,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QWNFA1614U1ZD",
+     "trdnm": "AMBIKA CEMENT DEPOT",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "ACD00289",
+       "typ": "R",
+       "dt": "05-04-2026",
+       "val": 462560.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 392000,
+       "igst": 0.0,
+       "cgst": 35280.0,
+       "sgst": 35280.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "ACD00291",
+       "typ": "R",
+       "dt": "22-04-2026",
+       "val": 258189.29,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 218804.48,
+       "igst": 0.0,
+       "cgst": 19692.4,
+       "sgst": 19692.41,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "ACD00294",
+       "typ": "R",
+       "dt": "24-04-2026",
+       "val": 1102303.36,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 934155.39,
+       "igst": 0.0,
+       "cgst": 84073.99,
+       "sgst": 84073.98,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "ACD00302",
+       "typ": "R",
+       "dt": "21-04-2026",
+       "val": 919168.76,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 778956.58,
+       "igst": 0.0,
+       "cgst": 70106.09,
+       "sgst": 70106.09,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07UDVCR5401K1Z8",
+     "trdnm": "Royal Motors Pvt Ltd",
+     "supfildt": "25-04-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "X2942/2026-27",
+       "typ": "R",
+       "dt": "10-04-2026",
+       "val": 133859.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 113440,
+       "igst": 20419.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

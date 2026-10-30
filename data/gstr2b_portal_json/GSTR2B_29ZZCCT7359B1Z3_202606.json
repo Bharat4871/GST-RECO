@@ -1,0 +1,186 @@
+{
+ "chksum": "804f67f2f0f686de5770fd109d996cb9",
+ "data": {
+  "gstin": "29ZZCCT7359B1Z3",
+  "rtnprd": "062026",
+  "version": "1.0",
+  "gendt": "14-07-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29CALFA2519I1ZA",
+     "trdnm": "APEX CONSULTANTS",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "AC00314",
+       "typ": "R",
+       "dt": "04-06-2026",
+       "val": 195986.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 166090,
+       "igst": 0.0,
+       "cgst": 14948.1,
+       "sgst": 14948.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36RCGFR5390F1ZG",
+     "trdnm": "ROYAL BANQUETS",
+     "supfildt": "12-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "RB00359",
+       "typ": "R",
+       "dt": "29-06-2026",
+       "val": 51208.5,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 48770,
+       "igst": 2438.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29CWHFM8601R1Z8",
+     "trdnm": "METRO STATIONERS",
+     "supfildt": "11-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "MS/0365/26-27",
+       "typ": "R",
+       "dt": "29-06-2026",
+       "val": 16472.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 13960,
+       "igst": 0.0,
+       "cgst": 1256.4,
+       "sgst": 1256.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "MS/0370/26-27",
+       "typ": "R",
+       "dt": "29-06-2026",
+       "val": 12578.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 10660,
+       "igst": 0.0,
+       "cgst": 959.4,
+       "sgst": 959.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09POUCU3407Z1ZO",
+     "trdnm": "Umiya Telecom Ltd",
+     "supfildt": "12-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "UTL/0050/26-27",
+       "typ": "R",
+       "dt": "07-06-2026",
+       "val": 5699.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e05401d7963f46a39b6f770908c771fc57a1b34a0e2ff7bba11e8516fa1a67b9",
+       "txval": 4830,
+       "igst": 869.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "UTL/0051/26-27",
+       "typ": "R",
+       "dt": "23-06-2026",
+       "val": 19257.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "91a69bc236a8bb5b4dc2b33188f840d4efe9cae465e6e1384c1d29bd8790c388",
+       "txval": 16320,
+       "igst": 2937.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29VBUAN1647P1ZW",
+     "trdnm": "Narayan Gymkhana",
+     "supfildt": "11-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "INV-2627-00348",
+       "typ": "R",
+       "dt": "03-06-2026",
+       "val": 142284.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 120580,
+       "igst": 0.0,
+       "cgst": 10852.2,
+       "sgst": 10852.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

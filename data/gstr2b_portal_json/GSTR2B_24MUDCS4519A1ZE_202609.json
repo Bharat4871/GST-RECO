@@ -1,0 +1,240 @@
+{
+ "chksum": "7590ebc9577d911c67d9791fe6c1808c",
+ "data": {
+  "gstin": "24MUDCS4519A1ZE",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29MCFCM9761I1ZE",
+     "trdnm": "MAHALAXMI POLYMERS",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/410",
+       "typ": "R",
+       "dt": "22-09-2026",
+       "val": 737669.14,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "N",
+       "rsn": "POS",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8ec4f7ca6361cd1348ad374b515ea71402412cc5fd46e248d533c95a2721f030",
+       "txval": 702542.04,
+       "igst": 35127.1,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/411",
+       "typ": "R",
+       "dt": "08-09-2026",
+       "val": 812049.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "fcb769eb8bf92b95b3513a8f66d7e54fd842433deef0209e1be512b0c58074bb",
+       "txval": 773380,
+       "igst": 38669.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24COOCS6667R2ZC",
+     "trdnm": "Sunrise Broadband Services",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "SBS/0266/26-27",
+       "typ": "R",
+       "dt": "25-09-2026",
+       "val": 20142.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d0704addae906d544af1d0e962e4feeb626fd03abe8d8731a2e7bda1c7531185",
+       "txval": 17070,
+       "igst": 0.0,
+       "cgst": 1536.3,
+       "sgst": 1536.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KNBCK9011H1ZT",
+     "trdnm": "KAVERI STEEL TRADERS",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/294",
+       "typ": "R",
+       "dt": "04-09-2026",
+       "val": 509701.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "47759d8e1acc193226c9a7eecef9180b8fdba6d72158c189ccfef6739781c202",
+       "txval": 485430,
+       "igst": 0.0,
+       "cgst": 12135.75,
+       "sgst": 12135.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PBJFV2492F1ZL",
+     "trdnm": "Vishwa Stationers",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/294",
+       "typ": "R",
+       "dt": "08-09-2026",
+       "val": 32096.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 27200,
+       "igst": 0.0,
+       "cgst": 2448.0,
+       "sgst": 2448.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/295",
+       "typ": "R",
+       "dt": "15-09-2026",
+       "val": 25523.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 21630,
+       "igst": 0.0,
+       "cgst": 1946.7,
+       "sgst": 1946.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RAAPK6612X1ZP",
+     "trdnm": "Kesar Security Services",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/67",
+       "typ": "R",
+       "dt": "12-09-2026",
+       "val": 75930,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 75930,
+       "igst": 0.0,
+       "cgst": 6833.7,
+       "sgst": 6833.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CQOCJ2782M2ZZ",
+     "trdnm": "JAY AGRO COMMODITIES",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00362",
+       "typ": "R",
+       "dt": "06-09-2026",
+       "val": 924283.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "aa4f6bf83bda8ebb2f1ea0e479f7aec728207a507785cff582fc4b80a59add0c",
+       "txval": 880270,
+       "igst": 0.0,
+       "cgst": 22006.75,
+       "sgst": 22006.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VTWCS3589D1Z6",
+     "trdnm": "SUNRISE SPORTS FOUNDATION",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "SSF/0138/26-27",
+       "typ": "R",
+       "dt": "24-09-2026",
+       "val": 135770,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 135770,
+       "igst": 0.0,
+       "cgst": 12219.3,
+       "sgst": 12219.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

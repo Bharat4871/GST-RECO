@@ -1,0 +1,294 @@
+{
+ "chksum": "ce0fb79c04e15dfb47e63dce7c3a6c0a",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "36CWPFA7858V1ZS",
+     "trdnm": "AMBIKA ROADLINES",
+     "supfildt": "12-07-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "AR00284",
+       "typ": "R",
+       "dt": "16-06-2026",
+       "val": 83003.96,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 83003.96,
+       "igst": 4150.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FFHFO3696R1ZZ",
+     "trdnm": "OM OFFICE MART",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000263",
+       "typ": "R",
+       "dt": "17-07-2026",
+       "val": 20245.84,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 17157.49,
+       "igst": 0.0,
+       "cgst": 1544.17,
+       "sgst": 1544.18,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RLHFK9794M1ZD",
+     "trdnm": "KAVERI MANAGEMENT ADVISORS",
+     "supfildt": "08-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/321",
+       "typ": "R",
+       "dt": "21-07-2026",
+       "val": 160244.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 135800,
+       "igst": 0.0,
+       "cgst": 12222.0,
+       "sgst": 12222.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/330",
+       "typ": "R",
+       "dt": "15-07-2026",
+       "val": 68251.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 57840,
+       "igst": 0.0,
+       "cgst": 5205.6,
+       "sgst": 5205.6,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24EKEFK1435D1Z8",
+     "trdnm": "Kesar Restaurant",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00316",
+       "typ": "R",
+       "dt": "12-07-2026",
+       "val": 64585.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 61510,
+       "igst": 0.0,
+       "cgst": 1537.75,
+       "sgst": 1537.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X8354/2026-27",
+       "typ": "R",
+       "dt": "18-07-2026",
+       "val": 68841.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 58340,
+       "igst": 0.0,
+       "cgst": 5250.6,
+       "sgst": 5250.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PGMCA1557Q1ZG",
+     "trdnm": "Apex General Insurance Co. Ltd",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/375",
+       "typ": "R",
+       "dt": "31-07-2026",
+       "val": 137670.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7a42f249b4f2a92852252f0d0531fe9729501deb4690553941bdb2d4243887fa",
+       "txval": 116670,
+       "igst": 0.0,
+       "cgst": 10500.3,
+       "sgst": 10500.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QUBCT4113U1ZG",
+     "trdnm": "TULSI BROADBAND SERVICES",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/285",
+       "typ": "R",
+       "dt": "03-07-2026",
+       "val": 28969.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8cf7b42835aabf6f53719333e50cce5b99de578860fa0aa183ac54141b936158",
+       "txval": 24550,
+       "igst": 0.0,
+       "cgst": 2209.5,
+       "sgst": 2209.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07XGDCK2291L1ZC",
+     "trdnm": "KESAR DYE CHEM",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "KDC00269",
+       "typ": "R",
+       "dt": "02-07-2026",
+       "val": 75787.57,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "901275cd5f8e719b19ef774694ff5926566400cb365ca74f027e082f3e7937f8",
+       "txval": 64226.75,
+       "igst": 11560.82,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SALCS9519F1ZL",
+     "trdnm": "Sunrise Machinery",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000365",
+       "typ": "R",
+       "dt": "31-07-2026",
+       "val": 1880865.51,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e7302ed6d44fade4b4d99d6bd701e4db67698997a9cb878d38174fdd4f2196b9",
+       "txval": 1593953.82,
+       "igst": 0.0,
+       "cgst": 143455.85,
+       "sgst": 143455.84,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24LCICS3746B1Z6",
+     "trdnm": "Sunrise Express Logistics Ltd",
+     "supfildt": "28-07-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "X3395/2026-27",
+       "typ": "R",
+       "dt": "13-07-2026",
+       "val": 60486.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 51260,
+       "igst": 0.0,
+       "cgst": 4613.4,
+       "sgst": 4613.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

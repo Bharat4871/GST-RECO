@@ -1,0 +1,40 @@
+{
+ "chksum": "dd9554a5d422e399d2f24e0b8d730dd5",
+ "data": {
+  "gstin": "24DKQCS9385U1Z7",
+  "rtnprd": "102026",
+  "version": "1.0",
+  "gendt": "14-11-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24EQZCT4222M1ZQ",
+     "trdnm": "Trident Poly Pack",
+     "supfildt": "12-09-2026",
+     "supprd": "102026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/215",
+       "typ": "R",
+       "dt": "11-08-2026",
+       "val": 344571.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "44496926fe156ff183618f76f187f629269631b66015740121fa0bf66f2f8149",
+       "txval": 292010,
+       "igst": 0.0,
+       "cgst": 26280.9,
+       "sgst": 26280.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,367 @@
+{
+ "chksum": "9e359991777b8a5865765cfdcb19cfa7",
+ "data": {
+  "gstin": "24AVWFN9869V1ZA",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24PMKFR3895G2ZP",
+     "trdnm": "ROYAL INFRA WORKS",
+     "supfildt": "09-02-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "RIW/0229/25-26",
+       "typ": "R",
+       "dt": "02-01-2026",
+       "val": 1072832.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 909180,
+       "igst": 0.0,
+       "cgst": 81826.2,
+       "sgst": 81826.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZSMFG4487E1ZJ",
+     "trdnm": "GALAXY BUILDERS & CONTRACTORS",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "gb00050",
+       "typ": "R",
+       "dt": "22-03-2026",
+       "val": 887029.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 751720,
+       "igst": 0.0,
+       "cgst": 67654.8,
+       "sgst": 67654.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RETFO5065E1ZD",
+     "trdnm": "Om Management Advisors",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000080",
+       "typ": "R",
+       "dt": "05-03-2026",
+       "val": 141293.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 119740,
+       "igst": 0.0,
+       "cgst": 10776.6,
+       "sgst": 10776.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24DCEFN7376K1ZO",
+     "trdnm": "NARAYAN TRANSPORT CO.",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000041",
+       "typ": "R",
+       "dt": "24-03-2026",
+       "val": 28390,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 28390,
+       "igst": 0.0,
+       "cgst": 709.75,
+       "sgst": 709.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24OIEFE9931U1ZS",
+     "trdnm": "EXCEL GIFT GALLERY",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "EGG00320",
+       "typ": "R",
+       "dt": "12-03-2026",
+       "val": 62296.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 59330,
+       "igst": 0.0,
+       "cgst": 1483.25,
+       "sgst": 1483.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZEHCM1382A1Z1",
+     "trdnm": "METRO BROADBAND SERVICES",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-397",
+       "typ": "R",
+       "dt": "21-03-2026",
+       "val": 14337.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d12bea67bae3b33558d40dbc6a5ac34715c3132e18fff8988807e29e7e1be37a",
+       "txval": 12150,
+       "igst": 0.0,
+       "cgst": 1093.5,
+       "sgst": 1093.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24YGZFB8489Q1Z2",
+     "trdnm": "BHAVANI BUILDING MATERIALS",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000360",
+       "typ": "R",
+       "dt": "13-03-2026",
+       "val": 741453.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 628350,
+       "igst": 0.0,
+       "cgst": 56551.5,
+       "sgst": 56551.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000362",
+       "typ": "R",
+       "dt": "05-03-2026",
+       "val": 707551.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 599620,
+       "igst": 0.0,
+       "cgst": 53965.8,
+       "sgst": 53965.8,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24RBUFN9422I1Z9",
+     "trdnm": "Narayan Stationers",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/90",
+       "typ": "R",
+       "dt": "23-03-2026",
+       "val": 29358.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24880,
+       "igst": 0.0,
+       "cgst": 2239.2,
+       "sgst": 2239.2,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "LATE/2025-26/608",
+       "typ": "R",
+       "dt": "15-03-2026",
+       "val": 404989.39,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 343211.35,
+       "igst": 0.0,
+       "cgst": 30889.02,
+       "sgst": 30889.02,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZPYFP6112I2Z2",
+     "trdnm": "PRIME CONSTRUCTIONS",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/349",
+       "typ": "R",
+       "dt": "20-03-2026",
+       "val": 1819418.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1541880,
+       "igst": 277538.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X4822/2025-26",
+       "typ": "R",
+       "dt": "23-03-2026",
+       "val": 224282.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 190070,
+       "igst": 34212.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36BFRCM9411H1ZS",
+     "trdnm": "Mahalaxmi Express Logistics Ltd",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "MEL/0290/25-26",
+       "typ": "R",
+       "dt": "10-03-2026",
+       "val": 100512.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1d7aeed608c33703d044df6f489c2b6f234cceb43f0c643208fe4e2b27eb485c",
+       "txval": 85180,
+       "igst": 15332.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WIECN6472S1ZN",
+     "trdnm": "NAVKAR MOTORS PVT LTD",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "NMP/0276/25-26",
+       "typ": "R",
+       "dt": "09-03-2026",
+       "val": 3625720.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f141c7b0946934e5f1167ee0e32bdc8ce5b06b284b039cd4712400162aee0586",
+       "txval": 2589800,
+       "igst": 0.0,
+       "cgst": 517960.0,
+       "sgst": 517960.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "chksum": "49903a02b81222d1bca26715a9fd35e6",
+ "data": {
+  "gstin": "24NSEFN6832N1ZK",
+  "rtnprd": "032025",
+  "version": "1.0",
+  "gendt": "14-04-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24UFCFE5899L1Z2",
+     "trdnm": "Excel Office Mart",
+     "supfildt": "09-04-2025",
+     "supprd": "032025",
+     "inv": [
+      {
+       "inum": "LATE/2024-25/220",
+       "typ": "R",
+       "dt": "26-03-2025",
+       "val": 401695.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 340420,
+       "igst": 0.0,
+       "cgst": 30637.8,
+       "sgst": 30637.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

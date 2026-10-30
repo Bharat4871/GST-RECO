@@ -1,0 +1,294 @@
+{
+ "chksum": "89e5f3d110db12609caf82b937336d08",
+ "data": {
+  "gstin": "24IQQCS7272U1Z0",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24PICCD9954F1ZO",
+     "trdnm": "DECCAN SYSTEMS",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "DS/0293/26-27",
+       "typ": "R",
+       "dt": "01-07-2026",
+       "val": 74483.26,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3d94e28255bc315bef40c7f22388996061c4e2911a0ac9786300242d049c40a6",
+       "txval": 63121.41,
+       "igst": 0.0,
+       "cgst": 5680.93,
+       "sgst": 5680.92,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24COOCS6667R2ZC",
+     "trdnm": "SUNRISE EVENTS PVT LTD",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00106",
+       "typ": "R",
+       "dt": "03-07-2026",
+       "val": 138748.24,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 138748.24,
+       "igst": 0.0,
+       "cgst": 12487.34,
+       "sgst": 12487.34,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00109",
+       "typ": "R",
+       "dt": "30-07-2026",
+       "val": 78387.21,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 78387.21,
+       "igst": 0.0,
+       "cgst": 7054.85,
+       "sgst": 7054.85,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07GNQCS9627E1ZY",
+     "trdnm": "SAI TELECOM LTD",
+     "supfildt": "08-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "STL/0081/26-27",
+       "typ": "R",
+       "dt": "06-07-2026",
+       "val": 16308.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d3c82a193b62bdf0916361c5d6d0b1e5d793324c9e1947eff13ce2924adee325",
+       "txval": 13820.85,
+       "igst": 2487.75,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "33RHLFA8471M1Z5",
+     "trdnm": "Ambika Stationers",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "AS/0173/26-27",
+       "typ": "R",
+       "dt": "08-07-2026",
+       "val": 7080.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 6000,
+       "igst": 1080.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "as/0182/26-27",
+       "typ": "R",
+       "dt": "02-07-2026",
+       "val": 11212.78,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 9502.36,
+       "igst": 1710.42,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24GUUCN8888B1ZI",
+     "trdnm": "Narayan Infotech",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000118",
+       "typ": "R",
+       "dt": "16-07-2026",
+       "val": 60374.1,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a14797ecac5d76e656eaf45286790134eff33c815580b170da69ed722f7e0274",
+       "txval": 51164.49,
+       "igst": 0.0,
+       "cgst": 4604.81,
+       "sgst": 4604.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UZIFM5704X1ZJ",
+     "trdnm": "METRO CONSULTANTS",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/226-27/250",
+       "typ": "R",
+       "dt": "08-07-2026",
+       "val": 34672.93,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 29383.84,
+       "igst": 0.0,
+       "cgst": 2644.55,
+       "sgst": 2644.54,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WWICS6386Y1Z5",
+     "trdnm": "Sai Polymers",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "SP00199",
+       "typ": "R",
+       "dt": "09-07-2026",
+       "val": 1442455.79,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "54adba094bc3db0f5201f0a9625f93c84f2687c61a3122729379a09b07228a8d",
+       "txval": 1373767.42,
+       "igst": 0.0,
+       "cgst": 34344.18,
+       "sgst": 34344.19,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07QYKFN7550I1Z4",
+     "trdnm": "Navkar Caterers",
+     "supfildt": "08-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/350",
+       "typ": "R",
+       "dt": "07-07-2026",
+       "val": 52118.51,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 49636.68,
+       "igst": 2481.83,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CQOCJ2782M2ZZ",
+     "trdnm": "Jay Express Logistics Ltd",
+     "supfildt": "05-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "X3523/2026-27",
+       "typ": "R",
+       "dt": "21-07-2026",
+       "val": 37724.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 31970,
+       "igst": 0.0,
+       "cgst": 2877.3,
+       "sgst": 2877.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

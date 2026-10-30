@@ -1,0 +1,140 @@
+{
+ "chksum": "599c8caec328b6e080e7ac3ce4642071",
+ "data": {
+  "gstin": "29ZZCCT7359B1Z3",
+  "rtnprd": "082026",
+  "version": "1.0",
+  "gendt": "14-09-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29RXTCT4586B1ZZ",
+     "trdnm": "TRIDENT ESTATES LLP",
+     "supfildt": "10-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "TEL00072",
+       "typ": "R",
+       "dt": "21-08-2026",
+       "val": 888315.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8267f0b8eb7b8a14bc84d4637ef176631fb24fd1a3026e7545253227b6f0df99",
+       "txval": 752810,
+       "igst": 0.0,
+       "cgst": 67752.9,
+       "sgst": 67752.9,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "TEL00079",
+       "typ": "R",
+       "dt": "18-08-2026",
+       "val": 790505.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "0efbd626d48c5cfd6093339f1dfc671c8b3f0b656eb203579ba325679d1b515d",
+       "txval": 669920,
+       "igst": 0.0,
+       "cgst": 60292.8,
+       "sgst": 60292.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08XJWCJ2503U1ZG",
+     "trdnm": "JALARAM COMPUTERS",
+     "supfildt": "10-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "JC00158",
+       "typ": "R",
+       "dt": "13-08-2026",
+       "val": 1487508.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "87d4eed67c071d7351129f2d5e0348e3a7b7e3a7239b6ba3b9b824b387891217",
+       "txval": 1260600,
+       "igst": 226908.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "29OQTFB3469G1ZM",
+     "trdnm": "Bharat Management Advisors",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "BMA00351",
+       "typ": "R",
+       "dt": "14-08-2026",
+       "val": 169672.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 143790,
+       "igst": 0.0,
+       "cgst": 12941.1,
+       "sgst": 12941.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZWDFS4405J1Z5",
+     "trdnm": "Sahyadri Sweets & Dry Fruits",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "X9024/2026-27",
+       "typ": "R",
+       "dt": "28-08-2026",
+       "val": 216919.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 183830,
+       "igst": 0.0,
+       "cgst": 16544.7,
+       "sgst": 16544.7,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

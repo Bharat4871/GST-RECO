@@ -1,0 +1,259 @@
+{
+ "chksum": "cdb5c77ef53a76096d64e2e67d4d6d36",
+ "data": {
+  "gstin": "24RMIFN3419H1Z8",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "36KRICS6085B1Z1",
+     "trdnm": "Sai Engineering Works",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000402",
+       "typ": "R",
+       "dt": "19-09-2026",
+       "val": 1603962.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9d3f0a086793dbf8d5fb6644edb4942d8a42854472c7e3993b28a98f6675eede",
+       "txval": 1359290,
+       "igst": 244672.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZPPFU6550A1ZO",
+     "trdnm": "Unique Building Materials",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "UBM/0095/26-27",
+       "typ": "R",
+       "dt": "06-09-2026",
+       "val": 897118.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 760270,
+       "igst": 0.0,
+       "cgst": 68424.3,
+       "sgst": 68424.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "UBM/0101/26-27",
+       "typ": "R",
+       "dt": "19-09-2026",
+       "val": 602744.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 510800,
+       "igst": 0.0,
+       "cgst": 45972.0,
+       "sgst": 45972.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "UBM/0102/26-27",
+       "typ": "R",
+       "dt": "12-09-2026",
+       "val": 652905.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 553310,
+       "igst": 0.0,
+       "cgst": 49797.9,
+       "sgst": 49797.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24MGXCM1154T1ZX",
+     "trdnm": "METRO MACHINERY",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "MM00180",
+       "typ": "R",
+       "dt": "11-09-2026",
+       "val": 1279603.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f07f4a7966d489aaf10946fc1c062e386641d1cae17a73ac4bee2505523186ff",
+       "txval": 1084410,
+       "igst": 0.0,
+       "cgst": 97596.9,
+       "sgst": 97596.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "MM00189",
+       "typ": "R",
+       "dt": "23-09-2026",
+       "val": 356796.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "35b51c71cb3cf8714b1922c69ce6ad4b71bebe647754ca574ed73c6f448799d0",
+       "txval": 302370,
+       "igst": 0.0,
+       "cgst": 27213.3,
+       "sgst": 27213.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24LNZFB7252G1Z2",
+     "trdnm": "BHAVANI OFFICE MART",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "BOM00199",
+       "typ": "R",
+       "dt": "09-09-2026",
+       "val": 8720.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 7390,
+       "igst": 0.0,
+       "cgst": 665.1,
+       "sgst": 665.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VKLCO3968C1Z6",
+     "trdnm": "Om Broadband Services",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "OBS00385",
+       "typ": "R",
+       "dt": "19-09-2026",
+       "val": 7622.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8ab4a266100c025806b3fda8b052c916daf95c79c6b473321c035c0cba088255",
+       "txval": 6460,
+       "igst": 0.0,
+       "cgst": 581.4,
+       "sgst": 581.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UKBFB7549X1ZG",
+     "trdnm": "Bhavani Cement Depot",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00211",
+       "typ": "R",
+       "dt": "30-09-2026",
+       "val": 744922.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 631290,
+       "igst": 0.0,
+       "cgst": 56816.1,
+       "sgst": 56816.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QVWCN1032L1ZL",
+     "trdnm": "NAVKAR EXPRESS LOGISTICS LTD",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000335",
+       "typ": "R",
+       "dt": "05-09-2026",
+       "val": 61914.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6be6a2307c1bb6db25f949b23e5f5ad743f040bcefce185f9e624e0dc8e9a057",
+       "txval": 52470,
+       "igst": 0.0,
+       "cgst": 4722.3,
+       "sgst": 4722.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

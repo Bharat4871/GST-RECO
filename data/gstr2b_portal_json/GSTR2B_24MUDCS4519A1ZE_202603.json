@@ -1,0 +1,202 @@
+{
+ "chksum": "187f125279cf455be8ff6b922d01b08d",
+ "data": {
+  "gstin": "24MUDCS4519A1ZE",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "07QYKFN7550I1Z4",
+     "trdnm": "Navkar Transport Co.",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "NTC00208",
+       "typ": "R",
+       "dt": "03-03-2026",
+       "val": 49300,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 49300,
+       "igst": 2465.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WWICS6386Y1Z5",
+     "trdnm": "Sai Dye Chem",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000243",
+       "typ": "R",
+       "dt": "21-03-2026",
+       "val": 204210.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d7ec5b3f179be86e072e7129f8d7c1dcd4da731d6b16d3f68cfddc6842ee70fc",
+       "txval": 173060,
+       "igst": 0.0,
+       "cgst": 15575.4,
+       "sgst": 15575.4,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24VTWCS3589D1Z6",
+     "trdnm": "Sunrise Sports Foundation",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "SSF/0136/25-26",
+       "typ": "R",
+       "dt": "10-03-2026",
+       "val": 67840,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 67840,
+       "igst": 0.0,
+       "cgst": 6105.6,
+       "sgst": 6105.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23QEQCJ4461Z2ZO",
+     "trdnm": "Jalaram Engineering Works",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "JEW/0320/25-26",
+       "typ": "R",
+       "dt": "18-03-2026",
+       "val": 1833826.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "5cb8c8ba09d3fabbceb9f7bee10b0b19fde27733623440ee0a40efbeed324e9b",
+       "txval": 1554090,
+       "igst": 279736.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KNBCK9011H1ZT",
+     "trdnm": "KAVERI STEEL TRADERS",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/266",
+       "typ": "R",
+       "dt": "22-03-2026",
+       "val": 1427139.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "30a022f90a01c564f388c80b8f93a83473c5f1a392bbe3730b076b949aa3e617",
+       "txval": 1359180,
+       "igst": 0.0,
+       "cgst": 33979.5,
+       "sgst": 33979.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29MCFCM9761I1ZE",
+     "trdnm": "MAHALAXMI POLYMERS",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/387",
+       "typ": "R",
+       "dt": "19-03-2026",
+       "val": 1233687.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d727f779e9ce961ef693db56b3f5a9c173b36d17ece7675068af488ff033fcdf",
+       "txval": 1174940,
+       "igst": 58747.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PBJFV2492F1ZL",
+     "trdnm": "Vishwa Stationers",
+     "supfildt": "23-03-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "X1293/2025-26",
+       "typ": "R",
+       "dt": "08-03-2026",
+       "val": 118365.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 100310,
+       "igst": 0.0,
+       "cgst": 9027.9,
+       "sgst": 9027.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

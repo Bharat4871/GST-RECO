@@ -1,0 +1,248 @@
+{
+ "chksum": "74e557abe82e5e6ca3461b6a8f070332",
+ "data": {
+  "gstin": "24RMIFN3419H1Z8",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "36QRKFS6287X1ZA",
+     "trdnm": "Siddhi Consultants",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "SC/0094/25-26",
+       "typ": "R",
+       "dt": "19-03-2026",
+       "val": 120135.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 101810,
+       "igst": 18325.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "SC/0102/25-26",
+       "typ": "R",
+       "dt": "09-03-2026",
+       "val": 139971.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 118620,
+       "igst": 21351.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UKBFB7549X1ZG",
+     "trdnm": "Bhavani Cement Depot",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00137",
+       "typ": "R",
+       "dt": "05-03-2026",
+       "val": 707551.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 599620,
+       "igst": 0.0,
+       "cgst": 53965.8,
+       "sgst": 53965.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RZPFP6114G1ZD",
+     "trdnm": "Prime Builders & Contractors",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "PB/0379/25-26",
+       "typ": "R",
+       "dt": "20-03-2026",
+       "val": 1819418.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1541880,
+       "igst": 0.0,
+       "cgst": 138769.2,
+       "sgst": 138769.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QVWCN1032L1ZL",
+     "trdnm": "NAVKAR EXPRESS LOGISTICS LTD",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000328",
+       "typ": "R",
+       "dt": "10-03-2026",
+       "val": 100512.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "63441877987a9902ea40b7654058f5ea4df8e107eaeaa2bf51def95dc2cf2f7a",
+       "txval": 85180,
+       "igst": 0.0,
+       "cgst": 7666.2,
+       "sgst": 7666.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QITCS7052C1ZC",
+     "trdnm": "Shree Motors Pvt Ltd",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/276",
+       "typ": "R",
+       "dt": "09-03-2026",
+       "val": 3625720.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c1023d7233d006033bccfa3337ac1c279ae5bf11cc7ee700c9600c9eee17f135",
+       "txval": 2589800,
+       "igst": 0.0,
+       "cgst": 517960.0,
+       "sgst": 517960.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WSJFM1731M1ZL",
+     "trdnm": "Metro Constructions",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "MC00179",
+       "typ": "R",
+       "dt": "23-03-2026",
+       "val": 1075098.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 911100,
+       "igst": 0.0,
+       "cgst": 81999.0,
+       "sgst": 81999.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24GTVFR3798W1ZB",
+     "trdnm": "ROYAL TRANSPORT CO.",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000317",
+       "typ": "R",
+       "dt": "09-03-2026",
+       "val": 50440,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 50440,
+       "igst": 0.0,
+       "cgst": 1261.0,
+       "sgst": 1261.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24MGXCM1154T1ZX",
+     "trdnm": "Metro Machinery",
+     "supfildt": "16-03-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "X7633/2025-26",
+       "typ": "R",
+       "dt": "01-03-2026",
+       "val": 36049.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 30550,
+       "igst": 0.0,
+       "cgst": 2749.5,
+       "sgst": 2749.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

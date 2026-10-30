@@ -1,0 +1,140 @@
+{
+ "chksum": "6935d5093627934c5e83a389d535ef26",
+ "data": {
+  "gstin": "27JKFCK2665T1ZV",
+  "rtnprd": "082026",
+  "version": "1.0",
+  "gendt": "14-09-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27XXMFG1602E1ZU",
+     "trdnm": "Galaxy Stationers",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GS/0412/26-27",
+       "typ": "R",
+       "dt": "02-08-2026",
+       "val": 3457.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 2930,
+       "igst": 0.0,
+       "cgst": 263.7,
+       "sgst": 263.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27DUDCM4124Z1ZF",
+     "trdnm": "MAHALAXMI COMPUTERS",
+     "supfildt": "09-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/400",
+       "typ": "R",
+       "dt": "28-08-2026",
+       "val": 115982.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4619bd55e9d73a8d52b78831eb8d2178001074f6f1088b39fe5e38032cb15365",
+       "txval": 98290,
+       "igst": 0.0,
+       "cgst": 8846.1,
+       "sgst": 8846.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/406",
+       "typ": "R",
+       "dt": "13-08-2026",
+       "val": 67637.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "642eb461cda3bbc5adaa04661a7b8fc4cf74ad56db4e5e3dbe8112a94d5deb09",
+       "txval": 57320,
+       "igst": 0.0,
+       "cgst": 5158.8,
+       "sgst": 5158.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27MGTFK9996J1ZD",
+     "trdnm": "Kesar Bearings & Spares",
+     "supfildt": "10-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "KB00410",
+       "typ": "R",
+       "dt": "01-08-2026",
+       "val": 58846.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 49870,
+       "igst": 0.0,
+       "cgst": 4488.3,
+       "sgst": 4488.3,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27COSFK7759P1Z6",
+     "trdnm": "Kesar Cargo Movers",
+     "supfildt": "11-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "KCM00066",
+       "typ": "R",
+       "dt": "08-08-2026",
+       "val": 82140,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 82140,
+       "igst": 0.0,
+       "cgst": 2053.5,
+       "sgst": 2053.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "chksum": "f1069e10eee02cea0ea487ab913b9f6b",
+ "data": {
+  "gstin": "29AYYCT5703N1ZZ",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29PLFFJ7451Z1Z0",
+     "trdnm": "Jay Banquets",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/260",
+       "typ": "R",
+       "dt": "05-01-2026",
+       "val": 55072.5,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 52450,
+       "igst": 0.0,
+       "cgst": 1311.25,
+       "sgst": 1311.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29COSFK7759P1Z2",
+     "trdnm": "Kesar Office Mart",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/108",
+       "typ": "R",
+       "dt": "28-01-2026",
+       "val": 11198.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 9490,
+       "igst": 0.0,
+       "cgst": 854.1,
+       "sgst": 854.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/110",
+       "typ": "R",
+       "dt": "08-01-2026",
+       "val": 34149.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 28940,
+       "igst": 0.0,
+       "cgst": 2604.6,
+       "sgst": 2604.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/119",
+       "typ": "R",
+       "dt": "21-01-2026",
+       "val": 29889.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 25330,
+       "igst": 0.0,
+       "cgst": 2279.7,
+       "sgst": 2279.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/124",
+       "typ": "R",
+       "dt": "01-01-2026",
+       "val": 4940.55,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 4186.91,
+       "igst": 0.0,
+       "cgst": 376.82,
+       "sgst": 376.82,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29RYCCN1340N1ZH",
+     "trdnm": "NARAYAN ESTATES LLP",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/135",
+       "typ": "R",
+       "dt": "07-01-2026",
+       "val": 514574.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6021e2cf74fd686fa50928c4b6f7f37f1dd66fd06c96913052264bb24a5d9afc",
+       "txval": 436080,
+       "igst": 0.0,
+       "cgst": 39247.2,
+       "sgst": 39247.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/141",
+       "typ": "R",
+       "dt": "25-01-2026",
+       "val": 647395.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "cc813252bdc20432208ed51b278c5f73e0823aaa10fc075a0a7bef5f2cb1f3de",
+       "txval": 548640,
+       "igst": 0.0,
+       "cgst": 49377.6,
+       "sgst": 49377.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RCWCR4688O1ZM",
+     "trdnm": "Royal Computers",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "RC00162",
+       "typ": "R",
+       "dt": "04-01-2026",
+       "val": 1442762.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "aab5275953a914275112b81788ac096a0d98a630e2f757e727766ddd47796814",
+       "txval": 1222680,
+       "igst": 220082.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29MISFB8715L1ZV",
+     "trdnm": "Bharat Logistics",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "BL/0178/25-26",
+       "typ": "R",
+       "dt": "07-01-2026",
+       "val": 20700,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 20700,
+       "igst": 0.0,
+       "cgst": 517.5,
+       "sgst": 517.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

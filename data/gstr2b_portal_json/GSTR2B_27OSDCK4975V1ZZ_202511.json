@@ -1,0 +1,40 @@
+{
+ "chksum": "e1e1f5e9b8f0937ae5e2db7553f5a0c4",
+ "data": {
+  "gstin": "27OSDCK4975V1ZZ",
+  "rtnprd": "112025",
+  "version": "1.0",
+  "gendt": "14-12-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27GGBFV2276H1ZK",
+     "trdnm": "Vishwa Electricals",
+     "supfildt": "09-12-2025",
+     "supprd": "112025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/204",
+       "typ": "R",
+       "dt": "15-11-2025",
+       "val": 164716.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 139590,
+       "igst": 0.0,
+       "cgst": 12563.1,
+       "sgst": 12563.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

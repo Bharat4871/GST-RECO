@@ -1,0 +1,40 @@
+{
+ "chksum": "a5ef7a285453d9349541b71a42e2b697",
+ "data": {
+  "gstin": "24NSEFN6832N1ZK",
+  "rtnprd": "082025",
+  "version": "1.0",
+  "gendt": "14-09-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24FGZFR8585H2ZQ",
+     "trdnm": "ROYAL OFFICE MART",
+     "supfildt": "10-08-2025",
+     "supprd": "082025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/726",
+       "typ": "R",
+       "dt": "31-07-2025",
+       "val": 383723.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 342610,
+       "igst": 0.0,
+       "cgst": 20556.6,
+       "sgst": 20556.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

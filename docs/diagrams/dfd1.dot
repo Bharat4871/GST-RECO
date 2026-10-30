@@ -1,0 +1,15 @@
+digraph G { rankdir=TB; nodesep=0.5; ranksep=0.55; node [fontname="Helvetica", fontsize=10]; edge [fontname="Helvetica", fontsize=8, color="#445468"];
+  subgraph cluster_ext { style=invis; ext1 [shape=box, style=filled, fillcolor="#e2eaf7", label="Client data"]; ext2 [shape=box, style=filled, fillcolor="#e2eaf7", label="GSTR-2B (portal)"]; }
+  p1 [shape=ellipse, style=filled, fillcolor="#f8ecd6", label="1.0 Import &\nvalidate"];
+  p2 [shape=ellipse, style=filled, fillcolor="#f8ecd6", label="2.0 Reconcile\nbooks vs 2B"];
+  p3 [shape=ellipse, style=filled, fillcolor="#f8ecd6", label="3.0 Evaluate ITC\n(Sec 16, 17, R 36-37A)"];
+  p4 [shape=ellipse, style=filled, fillcolor="#f8ecd6", label="4.0 RCM engine\n(ToS, tax, interest)"];
+  p5 [shape=ellipse, style=filled, fillcolor="#f8ecd6", label="5.0 Returns\n(3B, R42/43, set-off)"];
+  p6 [shape=ellipse, style=filled, fillcolor="#ebe8f8", label="6.0 AI models\n(classify, anomaly, risk)"];
+  p7 [shape=ellipse, style=filled, fillcolor="#f8ecd6", label="7.0 Reports &\ndashboards"];
+  d1 [shape=record, label="{D1|Purchase register}"]; d2 [shape=record, label="{D2|GSTR-2B}"]; d3 [shape=record, label="{D3|Masters (client, vendor)}"]; d4 [shape=record, label="{D4|Knowledge base (law)}"];
+  ext1 -> p1; ext2 -> p1; p1 -> d1; p1 -> d2; p1 -> d3;
+  d1 -> p2; d2 -> p2; p2 -> p3 [label="match status"]; d4 -> p3; d1 -> p3; d1 -> p4; d4 -> p4;
+  p3 -> p5 [label="eligible / reversals"]; p4 -> p5 [label="3.1(d), 4A(2)/(3)"]; d1 -> p6; d3 -> p6; p2 -> p6;
+  p6 -> p7 [label="insights, scores"]; p5 -> p7; p3 -> p7;
+}

@@ -1,0 +1,224 @@
+{
+ "chksum": "faf4425c25e883e30b952b2ca033508c",
+ "data": {
+  "gstin": "29AYYCT5703N1ZZ",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "36ZSKPB4700I1ZB",
+     "trdnm": "BHAVANI SECURITY SERVICES",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "BSS/0246/26-27",
+       "typ": "R",
+       "dt": "19-04-2026",
+       "val": 86770,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 86770,
+       "igst": 15618.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09CLMCT2223A1ZZ",
+     "trdnm": "Tulsi Infotech",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "TI00407",
+       "typ": "R",
+       "dt": "26-04-2026",
+       "val": 75756.67,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "79ad185e43075892b9e51b9ed834bcb224b2c4d399d82cc65fdea99c7076a766",
+       "txval": 64200.57,
+       "igst": 11556.1,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "TI00409",
+       "typ": "R",
+       "dt": "28-04-2026",
+       "val": 1375231.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e41f6353166f7e10925e56e7928eeb5a308c991bbce9257b7e5be3d4f11879e6",
+       "txval": 1165450,
+       "igst": 209781.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "TI00411",
+       "typ": "R",
+       "dt": "13-04-2026",
+       "val": 102211.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9cb1ff6ede4c363f0e8bf751436b983e6bc8079127be0025ca79dcce12ceab0d",
+       "txval": 86620,
+       "igst": 15591.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X9655/2026-27",
+       "typ": "R",
+       "dt": "15-04-2026",
+       "val": 134921.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 114340,
+       "igst": 20581.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RCWCR4688O1ZM",
+     "trdnm": "ROYAL COMPUTERS",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "RC164",
+       "typ": "R",
+       "dt": "13-04-2026",
+       "val": 859984.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c67ed0a3d3f01e02c7889cdb2e8a3b05e360688ab2e3c7ba837bf58cbeed1088",
+       "txval": 728800,
+       "igst": 131184.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "RC00173",
+       "typ": "R",
+       "dt": "12-04-2026",
+       "val": 1955366.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "46ea86dda7c8d1bfb215746910bc261f77b514b067a0cdc07d33c1594db30279",
+       "txval": 1657090,
+       "igst": 298276.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29RYCCN1340N1ZH",
+     "trdnm": "Narayan Estates LLP",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/156",
+       "typ": "R",
+       "dt": "12-04-2026",
+       "val": 827439.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c898053b939ef32983bf37949b3eb2a62db34bb017600c93802f30088bb70459",
+       "txval": 701220,
+       "igst": 0.0,
+       "cgst": 63109.8,
+       "sgst": 63109.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EWBFA2113J2ZG",
+     "trdnm": "Ambika Management Advisors",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "X4097/2026-27",
+       "typ": "R",
+       "dt": "28-04-2026",
+       "val": 15729.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 13330,
+       "igst": 0.0,
+       "cgst": 1199.7,
+       "sgst": 1199.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

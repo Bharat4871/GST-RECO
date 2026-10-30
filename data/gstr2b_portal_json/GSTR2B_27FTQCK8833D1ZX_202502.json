@@ -1,0 +1,40 @@
+{
+ "chksum": "7a2832732cde2232dbdc6c6075b6ea6a",
+ "data": {
+  "gstin": "27FTQCK8833D1ZX",
+  "rtnprd": "022025",
+  "version": "1.0",
+  "gendt": "14-03-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27TSJFO4832X2ZL",
+     "trdnm": "OM OFFICE MART",
+     "supfildt": "13-03-2025",
+     "supprd": "022025",
+     "inv": [
+      {
+       "inum": "LATE/2024-25/524",
+       "typ": "R",
+       "dt": "25-02-2025",
+       "val": 138815.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 117640,
+       "igst": 0.0,
+       "cgst": 10587.6,
+       "sgst": 10587.6,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

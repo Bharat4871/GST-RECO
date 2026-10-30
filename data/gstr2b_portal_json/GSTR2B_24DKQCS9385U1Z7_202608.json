@@ -1,0 +1,362 @@
+{
+ "chksum": "bac373199be9560ac178bcffc0b40b94",
+ "data": {
+  "gstin": "24DKQCS9385U1Z7",
+  "rtnprd": "082026",
+  "version": "1.0",
+  "gendt": "14-09-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24POQFV9145Z1ZE",
+     "trdnm": "VISHWA CONSULTANTS",
+     "supfildt": "08-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "INV-2627-00103",
+       "typ": "R",
+       "dt": "19-08-2026",
+       "val": 87456.15,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 74115.38,
+       "igst": 0.0,
+       "cgst": 6670.39,
+       "sgst": 6670.38,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "24PWRCN5112R1Z8",
+     "trdnm": "Narayan Metals",
+     "supfildt": "09-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "2026000323",
+       "typ": "R",
+       "dt": "01-08-2026",
+       "val": 1698900.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c7ea7c56a4d0ea1e07a264e017866b202dcfb6154d5d2e37974b7f7f0a5ca1df",
+       "txval": 1618000,
+       "igst": 0.0,
+       "cgst": 40450.0,
+       "sgst": 40450.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000326",
+       "typ": "R",
+       "dt": "23-08-2026",
+       "val": 655428.89,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d764d4ba4f544b7916419c9f46b0c747b187dcec8f462a0b234b1834eff5a7de",
+       "txval": 624218.0,
+       "igst": 0.0,
+       "cgst": 15605.44,
+       "sgst": 15605.45,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "226000334",
+       "typ": "R",
+       "dt": "02-08-2026",
+       "val": 435362.3,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3edad1a5cef9be68e5c8f12197173e24d92abb8958c9f4b8a5d96d243551896e",
+       "txval": 414630.76,
+       "igst": 0.0,
+       "cgst": 10365.77,
+       "sgst": 10365.77,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000341",
+       "typ": "R",
+       "dt": "07-08-2026",
+       "val": 666727.9,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "2bb31b673849b30f163b55c01eb4b064111c6be73e167bc0fe0d5c263754a501",
+       "txval": 634978.95,
+       "igst": 0.0,
+       "cgst": 15874.48,
+       "sgst": 15874.47,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CBLCS6790Y1ZT",
+     "trdnm": "SHREE EXPRESS LOGISTICS LTD",
+     "supfildt": "09-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/164",
+       "typ": "R",
+       "dt": "30-08-2026",
+       "val": 45028.71,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "cdbec40c37d3885b2489c4ab191fe59703fe1048dd9add528b58950e9b4e3590",
+       "txval": 38159.92,
+       "igst": 0.0,
+       "cgst": 3434.39,
+       "sgst": 3434.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/173",
+       "typ": "R",
+       "dt": "12-08-2026",
+       "val": 27787.36,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "595863afa1d0df18248eb87085f6133fa34f6fcecb920bd2b557796c71594f83",
+       "txval": 23548.61,
+       "igst": 0.0,
+       "cgst": 2119.38,
+       "sgst": 2119.37,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      },
+      {
+       "inum": "GST/226-27/178",
+       "typ": "R",
+       "dt": "02-08-2026",
+       "val": 29996.54,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "dc3afe84fcbfb945ef037eb7e46418d372a12cc63b47f91949a8405cfba394a5",
+       "txval": 25420.8,
+       "igst": 0.0,
+       "cgst": 2287.87,
+       "sgst": 2287.87,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "24GXNCS3397O1Z1",
+     "trdnm": "SAHYADRI POLY PACK",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "INV-2627-00409",
+       "typ": "R",
+       "dt": "01-08-2026",
+       "val": 496935.36,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e7b4b9d492d28654353f7662f4ff9a0d62d95e4e7f2433ac71bd1a14e9c940d3",
+       "txval": 421131.66,
+       "igst": 0.0,
+       "cgst": 37901.85,
+       "sgst": 37901.85,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00418",
+       "typ": "R",
+       "dt": "03-08-2026",
+       "val": 198140.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a06040f649648cdf6842633c79a950fb787cf8f1afcd96bc7d019a75501f103f",
+       "txval": 167915.93,
+       "igst": 0.0,
+       "cgst": 15112.43,
+       "sgst": 15112.44,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24TPMCV9595I2Z1",
+     "trdnm": "VARDHMAN STEEL TRADERS",
+     "supfildt": "08-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "VST/0172/26-27",
+       "typ": "R",
+       "dt": "12-08-2026",
+       "val": 589549.13,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b20e8e3fcd885180263806b4911b60e71ea4a306090d5eb3af7338edc253b3a3",
+       "txval": 561475.36,
+       "igst": 0.0,
+       "cgst": 14036.89,
+       "sgst": 14036.88,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "VST/0173/26-27",
+       "typ": "R",
+       "dt": "14-08-2026",
+       "val": 1299653.75,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "386fdb799d5beb10c1646379e6871a59ec503e7dc5e84b1690f46cfdae13df29",
+       "txval": 1237765.48,
+       "igst": 0.0,
+       "cgst": 30944.13,
+       "sgst": 30944.14,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24TTRCB7891Z1ZG",
+     "trdnm": "BHAVANI TELECOM LTD",
+     "supfildt": "10-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "INV-2627-00059",
+       "typ": "R",
+       "dt": "27-08-2026",
+       "val": 4720.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "32c2ae62cbde749e8cbb5d1042e473c66cee08131dc11fe6e3cd51d841a03dc3",
+       "txval": 4000,
+       "igst": 0.0,
+       "cgst": 360.0,
+       "sgst": 360.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ATCCS2814J2ZF",
+     "trdnm": "Sunrise Automation",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "INV-2627-00240",
+       "typ": "R",
+       "dt": "26-08-2026",
+       "val": 672982.54,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "390813d1afe6df59db31002119a75dd9e2a53fd1301215f0be396951c936d935",
+       "txval": 570324.19,
+       "igst": 0.0,
+       "cgst": 51329.18,
+       "sgst": 51329.17,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VWCPR9967M1Z1",
+     "trdnm": "Royal Guarding Agency",
+     "supfildt": "13-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "X5445/2026-27",
+       "typ": "R",
+       "dt": "29-08-2026",
+       "val": 275789.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 233720,
+       "igst": 0.0,
+       "cgst": 21034.8,
+       "sgst": 21034.8,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

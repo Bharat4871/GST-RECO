@@ -1,0 +1,324 @@
+{
+ "chksum": "0e3a5655732c36eed7389a3cde9310e4",
+ "data": {
+  "gstin": "24NSEFN6832N1ZK",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24QWNFA1614U1ZD",
+     "trdnm": "Ambika Cement Depot",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "ACD00259",
+       "typ": "R",
+       "dt": "01-02-2026",
+       "val": 216243.01,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 183256.79,
+       "igst": 0.0,
+       "cgst": 16493.11,
+       "sgst": 16493.11,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "ACD00264",
+       "typ": "R",
+       "dt": "01-02-2026",
+       "val": 743459.32,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 630050.27,
+       "igst": 0.0,
+       "cgst": 56704.53,
+       "sgst": 56704.52,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "ACD00266",
+       "typ": "R",
+       "dt": "19-02-2026",
+       "val": 310892.68,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 263468.37,
+       "igst": 0.0,
+       "cgst": 23712.15,
+       "sgst": 23712.16,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ARGFU6025S1ZN",
+     "trdnm": "UMIYA CEMENT DEPOT",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000190",
+       "typ": "R",
+       "dt": "21-02-2026",
+       "val": 271875.34,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 230402.83,
+       "igst": 0.0,
+       "cgst": 20736.26,
+       "sgst": 20736.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000198",
+       "typ": "R",
+       "dt": "21-02-2026",
+       "val": 371698.58,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 314998.8,
+       "igst": 0.0,
+       "cgst": 28349.89,
+       "sgst": 28349.89,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000199",
+       "typ": "R",
+       "dt": "10-02-2026",
+       "val": 293496.97,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 248726.25,
+       "igst": 0.0,
+       "cgst": 22385.36,
+       "sgst": 22385.36,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000204",
+       "typ": "R",
+       "dt": "23-02-2026",
+       "val": 822708.35,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 697210.47,
+       "igst": 0.0,
+       "cgst": 62748.94,
+       "sgst": 62748.94,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KDVFU9104V2ZI",
+     "trdnm": "Umiya Builders & Contractors",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00362",
+       "typ": "R",
+       "dt": "27-02-2026",
+       "val": 929302.73,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 787544.69,
+       "igst": 0.0,
+       "cgst": 70879.02,
+       "sgst": 70879.02,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09ZLIFJ8636G1ZN",
+     "trdnm": "JAY CARGO MOVERS",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "JCM/0183/25-26",
+       "typ": "R",
+       "dt": "10-02-2026",
+       "val": 19930.77,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 19930.77,
+       "igst": 996.54,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24DCECN7376K1ZU",
+     "trdnm": "NARAYAN TELECOM LTD",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "NTL00063",
+       "typ": "R",
+       "dt": "17-02-2026",
+       "val": 17700.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "044b31e07537f3ebcbc6aa9d2ba414bd5acf88572460878c7f52021833be9a5e",
+       "txval": 15000,
+       "igst": 0.0,
+       "cgst": 1350.0,
+       "sgst": 1350.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CXXFU9338V1Z8",
+     "trdnm": "UNIQUE ROADLINES",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00231",
+       "typ": "R",
+       "dt": "10-02-2026",
+       "val": 23230.99,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 23230.99,
+       "igst": 0.0,
+       "cgst": 580.77,
+       "sgst": 580.78,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24HAAFT5535R1ZJ",
+     "trdnm": "Tulsi Management Advisors",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/402",
+       "typ": "R",
+       "dt": "04-02-2026",
+       "val": 60180.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 51000,
+       "igst": 0.0,
+       "cgst": 4590.0,
+       "sgst": 4590.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FGZFR8585H2ZQ",
+     "trdnm": "ROYAL OFFICE MART",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/496",
+       "typ": "R",
+       "dt": "18-02-2026",
+       "val": 259588.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 219990,
+       "igst": 0.0,
+       "cgst": 19799.1,
+       "sgst": 19799.1,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

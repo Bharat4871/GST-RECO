@@ -1,0 +1,259 @@
+{
+ "chksum": "9f784d137092fbd63399b22c4e9bd41c",
+ "data": {
+  "gstin": "27FTQCK8833D1ZX",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27FNQFA4104L1ZG",
+     "trdnm": "Apex Forklift Services",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/97",
+       "typ": "R",
+       "dt": "11-03-2026",
+       "val": 101834.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 86300,
+       "igst": 0.0,
+       "cgst": 7767.0,
+       "sgst": 7767.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/225-26/103",
+       "typ": "R",
+       "dt": "12-03-2026",
+       "val": 223267.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 189210,
+       "igst": 0.0,
+       "cgst": 17028.9,
+       "sgst": 17028.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36NIMFM5915W1ZC",
+     "trdnm": "METRO GIFT GALLERY",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00196",
+       "typ": "R",
+       "dt": "04-03-2026",
+       "val": 43008.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 40960,
+       "igst": 2048.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27IYZFK8121Z1Z7",
+     "trdnm": "Kesar Electricals",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000389",
+       "typ": "R",
+       "dt": "27-03-2026",
+       "val": 70375.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 59640,
+       "igst": 0.0,
+       "cgst": 5367.6,
+       "sgst": 5367.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36FZDFS4765M1Z3",
+     "trdnm": "Sunrise Management Advisors",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00401",
+       "typ": "R",
+       "dt": "08-03-2026",
+       "val": 156727.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 132820,
+       "igst": 23907.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X7896/2025-26",
+       "typ": "R",
+       "dt": "12-03-2026",
+       "val": 141057.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 119540,
+       "igst": 21517.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36OZCCU7311I1ZJ",
+     "trdnm": "UNIQUE ENGINEERING WORKS",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "UEW00245",
+       "typ": "R",
+       "dt": "20-03-2026",
+       "val": 1121531.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "026a997af606299134c6dcacd38028cd3fd7e37e4a74e459b1cd911736a713a4",
+       "txval": 950450,
+       "igst": 171081.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27CIWFV9929Q1Z1",
+     "trdnm": "Vardhman Hardware Stores",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000048",
+       "typ": "R",
+       "dt": "26-03-2026",
+       "val": 156940.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 133000,
+       "igst": 0.0,
+       "cgst": 11970.0,
+       "sgst": 11970.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000049",
+       "typ": "R",
+       "dt": "17-03-2026",
+       "val": 222028.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 188160,
+       "igst": 0.0,
+       "cgst": 16934.4,
+       "sgst": 16934.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06AGTCS6531W1ZS",
+     "trdnm": "Sahyadri Computers",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/271",
+       "typ": "R",
+       "dt": "30-03-2026",
+       "val": 53175.53,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6a18b45796c130cd9664091dcac831cdb5536f3c64c997c3845c4fdef5a76e30",
+       "txval": 45064.01,
+       "igst": 8111.52,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

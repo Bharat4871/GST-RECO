@@ -1,0 +1,86 @@
+{
+ "chksum": "daa2714c3e15ee38317d2615d89e4392",
+ "data": {
+  "gstin": "29AYYCT5703N1ZZ",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29YOKCO2102Y1Z5",
+     "trdnm": "OM EXPRESS LOGISTICS LTD",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "OEL00217",
+       "typ": "R",
+       "dt": "25-03-2026",
+       "val": 21794.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "629510df93726ac0d90aae1e3027e69c713ee9aba0742be012f14a1f98921914",
+       "txval": 18470,
+       "igst": 0.0,
+       "cgst": 1662.3,
+       "sgst": 1662.3,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "09CLMCT2223A1ZZ",
+     "trdnm": "Tulsi Infotech",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "TI00394",
+       "typ": "R",
+       "dt": "07-03-2026",
+       "val": 1199647.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "176a376cb889d56398395d84d01896dafd86fec5d606e1b7cd3ff2d35f3df199",
+       "txval": 1016650,
+       "igst": 182997.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "TI00398",
+       "typ": "R",
+       "dt": "08-03-2026",
+       "val": 85963.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "N",
+       "rsn": "POS",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9284ac5ca4e79a78c3cd20e9d7052363653ce38c6c438a33a1259de440ccb82a",
+       "txval": 72850,
+       "igst": 13113.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

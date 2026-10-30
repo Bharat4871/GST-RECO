@@ -1,0 +1,186 @@
+{
+ "chksum": "807bb17f81105b2bfa21d20dfe745700",
+ "data": {
+  "gstin": "29DNHCT2909W1ZF",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29EIOCN7432Z1ZD",
+     "trdnm": "Narayan Realty Pvt Ltd",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "NRP00355",
+       "typ": "R",
+       "dt": "25-03-2026",
+       "val": 896565.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f532ac8fee779760c557b0c167049bbeb789abc0f17000c3e916fa38c91eb471",
+       "txval": 759801.36,
+       "igst": 0.0,
+       "cgst": 68382.12,
+       "sgst": 68382.12,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "NRP00357",
+       "typ": "R",
+       "dt": "03-03-2026",
+       "val": 904112.25,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c45f60baa78c6d77d2da6a31f797057fcd65bc1b88fcddb0195089b325b51a36",
+       "txval": 766196.82,
+       "igst": 0.0,
+       "cgst": 68957.71,
+       "sgst": 68957.72,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29LRVFS8228G1Z5",
+     "trdnm": "SUNRISE MANAGEMENT ADVISORS",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/248",
+       "typ": "R",
+       "dt": "02-03-2026",
+       "val": 29059.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24626.61,
+       "igst": 0.0,
+       "cgst": 2216.39,
+       "sgst": 2216.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/249",
+       "typ": "R",
+       "dt": "21-03-2026",
+       "val": 47499.58,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 40253.88,
+       "igst": 0.0,
+       "cgst": 3622.85,
+       "sgst": 3622.85,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23QTECM4367K1ZS",
+     "trdnm": "Mahalaxmi Computers",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "MC00155",
+       "typ": "R",
+       "dt": "25-03-2026",
+       "val": 93540.23,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6a441d318fceca95d1349dae4b702b99f1dbc0f842ad525ac9b7fc254307e037",
+       "txval": 79271.38,
+       "igst": 14268.85,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29TNOFK8449B1ZN",
+     "trdnm": "Kaveri Transport Co.",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "KTC00352",
+       "typ": "R",
+       "dt": "07-03-2026",
+       "val": 71215.39,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 71215.39,
+       "igst": 0.0,
+       "cgst": 1780.38,
+       "sgst": 1780.39,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29CALCO2519I1Z2",
+     "trdnm": "OM COMPUTERS",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "OC00318",
+       "typ": "R",
+       "dt": "02-03-2026",
+       "val": 1325554.99,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "2664eb2f58822e80108d80e0e9af8d2702d321760c753d45e2cc0bd9a4a2e78e",
+       "txval": 1123351.69,
+       "igst": 0.0,
+       "cgst": 101101.65,
+       "sgst": 101101.65,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

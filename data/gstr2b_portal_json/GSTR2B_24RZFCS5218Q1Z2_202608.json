@@ -1,0 +1,305 @@
+{
+ "chksum": "f880c34dca8e8742848a57a7d03b38ac",
+ "data": {
+  "gstin": "24RZFCS5218Q1Z2",
+  "rtnprd": "082026",
+  "version": "1.0",
+  "gendt": "14-09-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24CQOCJ2782M2ZZ",
+     "trdnm": "Jay Express Logistics Ltd",
+     "supfildt": "10-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "INV-2627-00176",
+       "typ": "R",
+       "dt": "30-08-2026",
+       "val": 40061.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7b45aeea842a1d88941e33014a5579efed4dcdf7ddbf83430340f5f46a95f45a",
+       "txval": 33950,
+       "igst": 0.0,
+       "cgst": 3055.5,
+       "sgst": 3055.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23WEXCP3358E2ZA",
+     "trdnm": "PRATHAM INDUSTRIES",
+     "supfildt": "11-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/270",
+       "typ": "R",
+       "dt": "04-08-2026",
+       "val": 241180.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "db5543878404dc8bac704ec5297f5a5bf7049fe32a8b11e46daf148484482927",
+       "txval": 204390,
+       "igst": 36790.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/271",
+       "typ": "R",
+       "dt": "25-08-2026",
+       "val": 97137.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "59cf4d3456ddec17ddef749d46e9ca7efa5bb4881f6de57ea8efc4c1fa360e69",
+       "txval": 82320,
+       "igst": 14817.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24APGCU7303X1ZO",
+     "trdnm": "Unique Yarn Traders",
+     "supfildt": "08-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "2026000351",
+       "typ": "R",
+       "dt": "26-08-2026",
+       "val": 1169910.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "39133951dda6f822cf13eb3ca2fee5e7e353955a86cd4f5c7dfa39e08a95c857",
+       "txval": 1114200,
+       "igst": 0.0,
+       "cgst": 27855.0,
+       "sgst": 27855.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ICWCN9954F1ZE",
+     "trdnm": "Narayan Telecom Ltd",
+     "supfildt": "10-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "NTL/0132/26-27",
+       "typ": "R",
+       "dt": "11-08-2026",
+       "val": 8743.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c359ad65518232d734a3cb64b80534c58e655189425bfe141ffd4630af66dc60",
+       "txval": 7410,
+       "igst": 0.0,
+       "cgst": 666.9,
+       "sgst": 666.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "NTL/0134/26-27",
+       "typ": "R",
+       "dt": "04-08-2026",
+       "val": 27376.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f2298dc62627400b57e15c2694fafd50af70a4da7c0efd9238aec4065e3064c1",
+       "txval": 23200,
+       "igst": 0.0,
+       "cgst": 2088.0,
+       "sgst": 2088.0,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      },
+      {
+       "inum": "X3374/2026-27",
+       "typ": "R",
+       "dt": "18-08-2026",
+       "val": 244012.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 206790,
+       "igst": 0.0,
+       "cgst": 18611.1,
+       "sgst": 18611.1,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "33UUZFT5402J1Z3",
+     "trdnm": "Tulsi Cargo Movers",
+     "supfildt": "08-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "TCM00228",
+       "typ": "R",
+       "dt": "26-08-2026",
+       "val": 73340,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 73340,
+       "igst": 3667.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "TCM00230",
+       "typ": "R",
+       "dt": "09-08-2026",
+       "val": 90260,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 90260,
+       "igst": 4513.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24XSACR6791T2ZT",
+     "trdnm": "Royal Polymers",
+     "supfildt": "11-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "RP00111",
+       "typ": "R",
+       "dt": "03-08-2026",
+       "val": 719848.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4fc2d1171dd268535b73c712c14f191c409fae9a0051d32e91881dd856c874b4",
+       "txval": 685570,
+       "igst": 0.0,
+       "cgst": 17139.25,
+       "sgst": 17139.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FEICG9852W1Z2",
+     "trdnm": "Galaxy Dye Chem",
+     "supfildt": "08-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "2026000106",
+       "typ": "R",
+       "dt": "12-08-2026",
+       "val": 254958.24,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "13bb5ca28a0ddc8615dd98152b484a5e8de1a2faa414efa50010cfcea553c471",
+       "txval": 216066.3,
+       "igst": 0.0,
+       "cgst": 19445.97,
+       "sgst": 19445.97,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36HJTFN3943J1ZY",
+     "trdnm": "Narayan Office Mart",
+     "supfildt": "10-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/262",
+       "typ": "R",
+       "dt": "01-08-2026",
+       "val": 16874.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 14300,
+       "igst": 2574.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

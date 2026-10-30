@@ -1,0 +1,213 @@
+{
+ "chksum": "e45c7ebd45648f99999131883776e485",
+ "data": {
+  "gstin": "27OSDCK4975V1ZZ",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27TQLFT6746Y1Z8",
+     "trdnm": "TRIDENT OFFICE MART",
+     "supfildt": "09-02-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/194",
+       "typ": "R",
+       "dt": "17-01-2026",
+       "val": 28320.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24000,
+       "igst": 0.0,
+       "cgst": 2160.0,
+       "sgst": 2160.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/200",
+       "typ": "R",
+       "dt": "28-03-2026",
+       "val": 3895.9,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 3301.61,
+       "igst": 0.0,
+       "cgst": 297.14,
+       "sgst": 297.15,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27LNYFJ8420S1Z4",
+     "trdnm": "JALARAM HOLIDAYS",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000135",
+       "typ": "R",
+       "dt": "26-03-2026",
+       "val": 137514.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 130966.48,
+       "igst": 0.0,
+       "cgst": 3274.16,
+       "sgst": 3274.16,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ADCFK6599V1ZV",
+     "trdnm": "Kaveri Bearings & Spares",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00078",
+       "typ": "R",
+       "dt": "16-03-2026",
+       "val": 38066.34,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 32259.61,
+       "igst": 0.0,
+       "cgst": 2903.36,
+       "sgst": 2903.37,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00081",
+       "typ": "R",
+       "dt": "25-03-2026",
+       "val": 69761.08,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 59119.56,
+       "igst": 0.0,
+       "cgst": 5320.76,
+       "sgst": 5320.76,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RPKFE3967D1ZY",
+     "trdnm": "Excel Hardware Stores",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000352",
+       "typ": "R",
+       "dt": "27-03-2026",
+       "val": 201780.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 171000,
+       "igst": 0.0,
+       "cgst": 15390.0,
+       "sgst": 15390.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZHRCK7191L2ZI",
+     "trdnm": "KESAR FREIGHT CARRIERS LTD",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/92",
+       "typ": "R",
+       "dt": "07-03-2026",
+       "val": 84960.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b3274bbf0b92b15ea25caf1352b9b02e8351d788cb20a6ef677a65762644d36c",
+       "txval": 72000,
+       "igst": 0.0,
+       "cgst": 6480.0,
+       "sgst": 6480.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27EMUCS1082O1ZQ",
+     "trdnm": "SHREE MACHINERY",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "SM00237",
+       "typ": "R",
+       "dt": "04-03-2026",
+       "val": 1235838.83,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c5f16c48d1d498607cc69f31c39a0a1b3dfdf31a93b51ef16a8f944c5c789d64",
+       "txval": 1047321.04,
+       "igst": 0.0,
+       "cgst": 94258.9,
+       "sgst": 94258.89,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

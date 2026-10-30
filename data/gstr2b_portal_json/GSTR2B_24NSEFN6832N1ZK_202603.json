@@ -1,0 +1,305 @@
+{
+ "chksum": "928d627b161b31d1201d1a701e2ee872",
+ "data": {
+  "gstin": "24NSEFN6832N1ZK",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24HAAFT5535R1ZJ",
+     "trdnm": "Tulsi Management Advisors",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/411",
+       "typ": "R",
+       "dt": "10-03-2026",
+       "val": 79256.59,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 67166.6,
+       "igst": 0.0,
+       "cgst": 6044.99,
+       "sgst": 6045.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09ZLIFJ8636G1ZN",
+     "trdnm": "JAY CARGO MOVERS",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "JCM/0190/25-26",
+       "typ": "R",
+       "dt": "27-03-2026",
+       "val": 27350.14,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 27350.14,
+       "igst": 1367.51,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QWNFA1614U1ZD",
+     "trdnm": "Ambika Cement Depot",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "ACD00273",
+       "typ": "R",
+       "dt": "30-03-2026",
+       "val": 326308.21,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 276532.38,
+       "igst": 0.0,
+       "cgst": 24887.92,
+       "sgst": 24887.91,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "ACD00277",
+       "typ": "R",
+       "dt": "30-03-2026",
+       "val": 788679.67,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 668372.6,
+       "igst": 0.0,
+       "cgst": 60153.54,
+       "sgst": 60153.53,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "ACD00278",
+       "typ": "R",
+       "dt": "13-03-2026",
+       "val": 832211.32,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 705263.83,
+       "igst": 0.0,
+       "cgst": 63473.75,
+       "sgst": 63473.74,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "ACD00280",
+       "typ": "R",
+       "dt": "05-03-2026",
+       "val": 188622.55,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 159849.62,
+       "igst": 0.0,
+       "cgst": 14386.47,
+       "sgst": 14386.46,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24FGZFR8585H2ZQ",
+     "trdnm": "Royal Office Mart",
+     "supfildt": "10-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "ROM00244",
+       "typ": "R",
+       "dt": "23-03-2026",
+       "val": 4164.76,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 3529.46,
+       "igst": 0.0,
+       "cgst": 317.65,
+       "sgst": 317.65,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "ROM00245",
+       "typ": "R",
+       "dt": "23-03-2026",
+       "val": 4262.15,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 3611.99,
+       "igst": 0.0,
+       "cgst": 325.08,
+       "sgst": 325.08,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CXXFU9338V1Z8",
+     "trdnm": "Unique Roadlines",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00237",
+       "typ": "R",
+       "dt": "24-03-2026",
+       "val": 22622.81,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 22622.81,
+       "igst": 0.0,
+       "cgst": 565.57,
+       "sgst": 565.57,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KDVFU9104V2ZI",
+     "trdnm": "Umiya Builders & Contractors",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "INV-2526-00369",
+       "typ": "R",
+       "dt": "19-03-2026",
+       "val": 834340.42,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 707068.15,
+       "igst": 0.0,
+       "cgst": 63636.14,
+       "sgst": 63636.13,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24PVVCN6591K1ZZ",
+     "trdnm": "Navkar General Insurance Co. Ltd",
+     "supfildt": "02-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "X6058/2025-26",
+       "typ": "R",
+       "dt": "18-03-2026",
+       "val": 129741.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 109950,
+       "igst": 0.0,
+       "cgst": 9895.5,
+       "sgst": 9895.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24JLEPT7367G1ZI",
+     "trdnm": "Tulsi Travels (Car Hire)",
+     "supfildt": "02-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "X5729/2025-26",
+       "typ": "R",
+       "dt": "18-03-2026",
+       "val": 33759.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 28610,
+       "igst": 0.0,
+       "cgst": 2574.9,
+       "sgst": 2574.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

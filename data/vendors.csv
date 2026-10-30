@@ -1,0 +1,134 @@
+id,client_id,name,gstin,state,type,kind,status,reg_date,cancel_date,gstr1_rate,gstr3b_rate,avg_delay,einvoice,email,phone,country
+V001,C1,Bhavani Telecom Ltd,24TTRCB7891Z1ZG,24,Regular,telecom,Active,2023-08-22,,0.98,0.96,7,True,accounts001@vendor.example,9906407983,India
+V002,C1,Sunrise Automation,24ATCCS2814J2ZF,24,Regular,mach,Active,2018-08-06,,0.92,0.97,7,True,accounts002@vendor.example,9829488324,India
+V003,C1,Royal Engineering Works,24LLZCR7166X1ZS,24,Regular,mach,Active,2018-05-09,,0.96,0.85,8,True,accounts003@vendor.example,9413663472,India
+V004,C1,Deccan Yarn Traders,06AWLCD6956O1ZL,06,Regular,raw,Active,2018-07-07,,0.92,0.93,7,True,accounts004@vendor.example,9225035027,India
+V005,C1,Vardhman Steel Traders,24TPMCV9595I2Z1,24,Regular,raw,Active,2022-03-17,,0.94,1.0,8,True,accounts005@vendor.example,9656184557,India
+V006,C1,Galaxy Agro Commodities,24YEBCG9572V1ZR,24,Regular,raw,Active,2022-04-24,,0.93,0.92,3,True,accounts006@vendor.example,9231010732,India
+V007,C1,Narayan Metals,24PWRCN5112R1Z8,24,Regular,raw,Active,2020-12-12,,0.94,0.94,7,True,accounts007@vendor.example,9964248673,India
+V008,C1,Tulsi Forklift Services,24JIAFT1542E1Z0,24,Regular,warehouse,Active,2026-03-15,,0.99,0.97,7,False,accounts008@vendor.example,9486478187,India
+V009,C1,Vishwa Consultants,24POQFV9145Z1ZE,24,Regular,prof,Active,2023-10-02,,0.95,0.85,4,False,accounts009@vendor.example,9440007977,India
+V010,C1,Jalaram Consultants,24WZQFJ5240O1ZV,24,Regular,prof,Active,2022-04-09,,0.98,0.92,1,False,accounts010@vendor.example,9796373372,India
+V011,C1,Sahyadri Poly Pack,24GXNCS3397O1Z1,24,Regular,pack,Active,2018-07-13,,0.86,0.93,1,True,accounts011@vendor.example,9755126092,India
+V012,C1,Galaxy Containers,27YRICG6853E1ZS,27,Regular,pack,Active,2021-01-04,,0.95,0.93,7,True,accounts012@vendor.example,9840620525,India
+V013,C1,Amazon Web Services EMEA SARL,,96,Foreign,foreign,Active,,,0.96,0.86,3,False,accounts013@vendor.example,9607862197,Luxembourg
+V014,C1,Meta Platforms Ireland Ltd,,96,Foreign,foreign,Active,,,0.94,0.99,8,False,accounts014@vendor.example,9412115436,Ireland
+V015,C1,Om Office Mart,24EZZFO6013Q1ZY,24,Regular,stationery,Active,2021-11-16,,0.97,0.92,3,False,accounts015@vendor.example,9503733571,India
+V016,C1,Shree Express Logistics Ltd,24CBLCS6790Y1ZT,24,Regular,gta_fcm,Active,2017-10-13,,0.93,0.89,4,True,accounts016@vendor.example,9583334557,India
+V017,C1,Adv. Anita Rao,,24,Unregistered,advocate,Active,,,0.99,0.92,7,False,accounts017@vendor.example,9713770386,India
+V018,C1,Kesar Scrap Traders (Unregd),,24,Unregistered,scrap,Active,,,0.88,0.92,6,False,accounts018@vendor.example,9769309519,India
+V019,C1,Royal Guarding Agency,24VWCPR9967M1Z1,24,Regular,security,Active,2019-09-09,,0.95,0.87,8,False,accounts019@vendor.example,9151740895,India
+V020,C1,Jalaram Motors Pvt Ltd,24VAECJ9682G2ZN,24,Regular,car,Active,2023-04-18,,0.99,0.86,2,True,accounts020@vendor.example,9518728644,India
+V021,C1,Sahyadri Cargo Movers,24CMJFS4067L1Z2,24,Regular,gta,Active,2020-06-14,,0.92,1.0,6,False,accounts021@vendor.example,9408883592,India
+V022,C1,Jalaram Transport Co.,24PODFJ9638Z1ZX,24,Regular,gta,Active,2020-07-26,,0.97,0.98,3,False,accounts022@vendor.example,9105267592,India
+V023,C1,Om Small Traders,24UKNPO9930Z2Z4,24,Composition,comp,Active,2019-07-18,,0.99,0.9,2,False,accounts023@vendor.example,9477636853,India
+V024,C1,Metro Systems,24RGDCM5595R2ZU,24,Regular,it,Active,2023-11-13,,0.96,0.93,9,True,accounts024@vendor.example,9387870937,India
+V025,C1,Siddhi Systems,06DNFCS2737V1ZQ,06,Regular,it,Active,2021-06-29,,0.96,0.87,1,True,accounts025@vendor.example,9643986279,India
+V026,C1,Royal Restaurant,24CJKFR3644I1ZH,24,Regular,food,Active,2018-03-15,,0.86,0.98,4,False,accounts026@vendor.example,9545096323,India
+V027,C1,Shree Caterers,27JDDFS6739K2Z8,27,Regular,food,Active,2022-08-11,,0.95,0.94,9,False,accounts027@vendor.example,9140813845,India
+V028,C1,Vishwa Dye Chem,24GTOCV7981V1ZL,24,Regular,chem,Active,2021-09-10,,0.58,0.5,31,True,accounts028@vendor.example,9517736366,India
+V029,C1,Deccan Dye Chem,36AJWCD6415J1ZL,36,Regular,chem,Cancelled,2018-11-14,2026-05-31,0.42,0.25,46,True,accounts029@vendor.example,9121764845,India
+V030,C1,Metro Sweets & Dry Fruits,27XDFFM3010D1Z4,27,Regular,gift,Active,2018-11-27,,0.93,0.94,4,False,accounts030@vendor.example,9130917511,India
+V031,C2,Apex Management Advisors,36VHYFA3051F1ZF,36,Regular,prof,Active,2026-03-15,,0.95,0.99,8,False,accounts031@vendor.example,9526123484,India
+V032,C2,Tulsi Management Advisors,24HAAFT5535R1ZJ,24,Regular,prof,Active,2022-03-08,,0.9,0.89,9,False,accounts032@vendor.example,9196042769,India
+V033,C2,Excel Infotech,24UQICE6582U1Z7,24,Regular,it,Active,2021-01-21,,0.87,0.97,3,True,accounts033@vendor.example,9605243914,India
+V034,C2,Jay Infotech,24EXMCJ6897Z1ZG,24,Regular,it,Active,2023-10-18,,0.98,0.89,3,True,accounts034@vendor.example,9502359538,India
+V035,C2,Prime Small Traders,24UORPP8767Z1ZJ,24,Composition,comp,Active,2024-01-04,,0.9,0.87,6,False,accounts035@vendor.example,9265119630,India
+V036,C2,Ambika Cement Depot,24QWNFA1614U1ZD,24,Regular,cement,Active,2018-06-10,,0.9,0.93,4,False,accounts036@vendor.example,9248134051,India
+V037,C2,Umiya Cement Depot,24ARGFU6025S1ZN,24,Regular,cement,Active,2021-11-27,,0.91,0.99,8,False,accounts037@vendor.example,9971928504,India
+V038,C2,Narayan Telecom Ltd,24DCECN7376K1ZU,24,Regular,telecom,Active,2020-06-05,,0.9,0.96,3,True,accounts038@vendor.example,9274172362,India
+V039,C2,Tulsi Travels (Car Hire),24JLEPT7367G1ZI,24,Regular,hire,Active,2017-08-08,,0.98,0.94,6,False,accounts039@vendor.example,9481884999,India
+V040,C2,Galaxy Banquets,23AFKFG9832E1Z4,23,Regular,food,Active,2017-10-25,,0.98,0.92,0,False,accounts040@vendor.example,9502177935,India
+V041,C2,Om Restaurant,24RETFO5065E1ZD,24,Regular,food,Active,2021-02-26,,0.93,0.98,1,False,accounts041@vendor.example,9509308853,India
+V042,C2,Sahyadri Automation,24DLPCS9171D1ZD,24,Regular,mach,Active,2023-04-26,,0.89,0.9,7,True,accounts042@vendor.example,9728477383,India
+V043,C2,Prime Engineering Works,29ZPYCP6112I2Z8,29,Regular,mach,Active,2020-01-12,,0.88,0.91,8,True,accounts043@vendor.example,9456173735,India
+V044,C2,Royal Office Mart,24FGZFR8585H2ZQ,24,Regular,stationery,Active,2021-05-28,,0.97,0.9,9,False,accounts044@vendor.example,9509769538,India
+V045,C2,Bharat Security Services,24SVXPB3090N1ZL,24,Regular,security,Active,2021-03-09,,0.98,0.89,7,False,accounts045@vendor.example,9383062974,India
+V046,C2,Mahalaxmi Infra Works,24HKEFM3019I1ZS,24,Regular,civil,Active,2023-12-09,,0.92,0.9,0,False,accounts046@vendor.example,9690272548,India
+V047,C2,Umiya Builders & Contractors,24KDVFU9104V2ZI,24,Regular,civil,Active,2023-08-17,,0.58,0.5,31,False,accounts047@vendor.example,9164458211,India
+V048,C2,Vishwa Builders & Contractors,24AIRFV5131E1ZP,24,Regular,civil,Cancelled,2023-12-28,2026-05-31,0.42,0.25,46,False,accounts048@vendor.example,9618528950,India
+V049,C2,Royal Motors Pvt Ltd,07UDVCR5401K1Z8,07,Regular,car,Active,2019-11-04,,0.97,0.92,9,True,accounts049@vendor.example,9776639732,India
+V050,C2,Prime Express Logistics Ltd,24GRYCP1186D1Z1,24,Regular,gta_fcm,Active,2021-03-13,,1.0,0.99,3,True,accounts050@vendor.example,9750775672,India
+V051,C2,Siddhi Gift Gallery,24CSNFS9549V1ZP,24,Regular,gift,Active,2023-10-08,,0.88,0.84,6,False,accounts051@vendor.example,9147759041,India
+V052,C2,Navkar General Insurance Co. Ltd,24PVVCN6591K1ZZ,24,Regular,insurance,Active,2021-01-22,,0.94,0.88,5,True,accounts052@vendor.example,9368545197,India
+V053,C2,Jay Cargo Movers,09ZLIFJ8636G1ZN,09,Regular,gta,Active,2020-07-25,,0.93,0.96,4,False,accounts053@vendor.example,9334391633,India
+V054,C2,Unique Roadlines,24CXXFU9338V1Z8,24,Regular,gta,Active,2020-11-05,,1.0,0.94,8,False,accounts054@vendor.example,9660968820,India
+V055,C2,Adv. Suresh Nair,,24,Unregistered,advocate,Active,,,0.91,0.89,5,False,accounts055@vendor.example,9486632201,India
+V056,C2,Harish Joshi (Landlord),,24,Unregistered,landlord,Active,,,0.87,0.93,2,False,accounts056@vendor.example,9915317395,India
+V057,C3,Sai Telecom Ltd,07GNQCS9627E1ZY,07,Regular,telecom,Active,2019-11-13,,0.97,0.88,7,True,accounts057@vendor.example,9246792203,India
+V058,C3,Metro Automation,24KLUCM7422R1ZO,24,Regular,mach,Active,2023-07-18,,0.89,0.94,2,True,accounts058@vendor.example,9882480858,India
+V059,C3,Mahalaxmi Engineering Works,24ZVSCM2000Z1ZV,24,Regular,mach,Active,2017-11-19,,0.9,0.89,2,True,accounts059@vendor.example,9249452712,India
+V060,C3,Sunil Mehta (Independent Director),,24,Unregistered,director,Active,,,0.99,0.95,2,False,accounts060@vendor.example,9591015895,India
+V061,C3,Navkar Oil Seeds Traders,24YFVCN3521N1Z1,24,Regular,raw,Active,2022-12-27,,0.99,0.99,4,True,accounts061@vendor.example,9337228809,India
+V062,C3,Trident Polymers,24COVCT7664E1ZX,24,Regular,raw,Active,2019-02-17,,0.96,0.85,0,True,accounts062@vendor.example,9162458707,India
+V063,C3,Sai Polymers,24WWICS6386Y1Z5,24,Regular,raw,Active,2019-05-02,,0.93,0.98,1,True,accounts063@vendor.example,9554021160,India
+V064,C3,Siddhi Yarn Traders,33HHVCS9102G1ZK,33,Regular,raw,Active,2019-04-11,,0.94,0.98,6,True,accounts064@vendor.example,9593262764,India
+V065,C3,Bhavani Welfare Supplies,24JUXFB8216R1Z7,24,Regular,csr,Active,2022-11-25,,0.87,0.98,3,False,accounts065@vendor.example,9224396058,India
+V066,C3,Sunrise Consultants,24VTWFS3589D1Z0,24,Regular,prof,Active,2026-03-15,,0.95,0.87,6,False,accounts066@vendor.example,9132751084,India
+V067,C3,Metro Consultants,24UZIFM5704X1ZJ,24,Regular,prof,Active,2021-12-18,,0.86,0.92,4,False,accounts067@vendor.example,9480301114,India
+V068,C3,Ambika Stationers,33RHLFA8471M1Z5,33,Regular,stationery,Active,2024-02-24,,0.87,0.95,8,False,accounts068@vendor.example,9450309952,India
+V069,C3,Sunrise Events Pvt Ltd,24COOCS6667R2ZC,24,Regular,sponsor,Active,2023-05-23,,0.97,0.99,4,False,accounts069@vendor.example,9418641473,India
+V070,C3,Jay Express Logistics Ltd,24CQOCJ2782M2ZZ,24,Regular,gta_fcm,Active,2023-12-12,,0.99,0.94,8,True,accounts070@vendor.example,9123586191,India
+V071,C3,Adv. Harish Joshi,,24,Unregistered,advocate,Active,,,0.99,0.86,1,False,accounts071@vendor.example,9520732602,India
+V072,C3,Om Security Services,24IABPO2165Y1ZR,24,Regular,security,Active,2023-05-04,,0.88,0.99,5,False,accounts072@vendor.example,9870127026,India
+V073,C3,Mahalaxmi Fitness Club,24HKWAM8678W1Z1,24,Regular,club,Active,2021-12-25,,0.89,0.98,5,False,accounts073@vendor.example,9549755195,India
+V074,C3,Jay General Insurance Co. Ltd,33OGYCJ2863S1ZQ,33,Regular,insurance,Active,2024-02-13,,0.91,0.92,7,True,accounts074@vendor.example,9334683135,India
+V075,C3,Apex Motors Pvt Ltd,24ZEJCA4949Q1Z3,24,Regular,car,Active,2020-06-29,,0.97,0.98,9,True,accounts075@vendor.example,9128236989,India
+V076,C3,Prime Transport Co.,24DSLFP4552S1ZE,24,Regular,gta,Active,2023-09-19,,0.88,0.9,1,False,accounts076@vendor.example,9960857461,India
+V077,C3,Sai Cargo Movers,24AHGFS1837I2ZR,24,Regular,gta,Active,2019-05-24,,0.93,0.99,1,False,accounts077@vendor.example,9374180000,India
+V078,C3,Navkar Kirana & General Stores,24GWUPN2895O1Z9,24,Composition,comp,Active,2017-11-23,,0.91,0.98,7,False,accounts078@vendor.example,9653501940,India
+V079,C3,Narayan Infotech,24GUUCN8888B1ZI,24,Regular,it,Active,2018-07-09,,0.88,0.85,3,True,accounts079@vendor.example,9107841344,India
+V080,C3,Deccan Systems,24PICCD9954F1ZO,24,Regular,it,Active,2023-04-17,,0.94,0.88,0,True,accounts080@vendor.example,9681614724,India
+V081,C3,Prime Caterers,24OCHFP1515A1ZG,24,Regular,food,Active,2021-10-28,,0.94,0.91,9,False,accounts081@vendor.example,9291631126,India
+V082,C3,Navkar Caterers,07QYKFN7550I1Z4,07,Regular,food,Active,2019-05-23,,0.93,0.84,1,False,accounts082@vendor.example,9902976389,India
+V083,C3,Sunrise Chemicals,24SQYCS4984P2ZM,24,Regular,chem,Active,2019-03-03,,0.58,0.5,31,True,accounts083@vendor.example,9690682944,India
+V084,C3,Sai Chemicals,36CWPCS7858V1ZG,36,Regular,chem,Cancelled,2021-04-17,2026-05-31,0.42,0.25,46,True,accounts084@vendor.example,9122562204,India
+V085,C3,Narayan Sweets & Dry Fruits,36HJTFN3943J1ZY,36,Regular,gift,Active,2023-06-16,,0.86,0.84,2,False,accounts085@vendor.example,9867122694,India
+V086,C4,Ambika Telecom Ltd,27QVPCA2853C1Z3,27,Regular,telecom,Active,2017-07-17,,0.95,0.89,6,True,accounts086@vendor.example,9370639986,India
+V087,C4,Shree Machinery,27EMUCS1082O1ZQ,27,Regular,mach,Active,2018-11-10,,0.87,0.97,7,True,accounts087@vendor.example,9969418599,India
+V088,C4,Om Machinery,27OYOCO5872I1Z0,27,Regular,mach,Active,2022-02-06,,0.93,0.98,2,True,accounts088@vendor.example,9209157391,India
+V089,C4,Kesar Material Handling,08WYMFK4683W1Z1,08,Regular,warehouse,Active,2026-03-15,,0.88,0.86,6,False,accounts089@vendor.example,9237921123,India
+V090,C4,Suresh Nair (Landlord),,27,Unregistered,landlord,Active,,,0.91,0.93,3,False,accounts090@vendor.example,9761874841,India
+V091,C4,Metro Management Advisors,27RMWFM5319L2ZC,27,Regular,prof,Active,2022-07-27,,0.89,0.92,0,False,accounts091@vendor.example,9889131109,India
+V092,C4,Kesar Consultants,27NVSFK3048O1Z1,27,Regular,prof,Active,2023-01-26,,0.96,0.94,0,False,accounts092@vendor.example,9958591062,India
+V093,C4,Meta Platforms Ireland Ltd,,96,Foreign,foreign,Active,,,0.94,0.89,4,False,accounts093@vendor.example,9998097053,Ireland
+V094,C4,Brightpath Consulting LLC,,96,Foreign,foreign,Active,,,0.92,1.0,8,False,accounts094@vendor.example,9990559483,USA
+V095,C4,Trident Office Mart,27TQLFT6746Y1Z8,27,Regular,stationery,Active,2023-05-24,,0.89,0.91,6,False,accounts095@vendor.example,9515978949,India
+V096,C4,Kesar Freight Carriers Ltd,27ZHRCK7191L2ZI,27,Regular,gta_fcm,Active,2017-10-28,,0.87,0.87,7,True,accounts096@vendor.example,9763329501,India
+V097,C4,Adv. Vikram Iyer,,27,Unregistered,advocate,Active,,,0.93,0.97,6,False,accounts097@vendor.example,9650882133,India
+V098,C4,Bharat Estates LLP,33DDGCB7513D1ZV,33,Regular,rentreg,Active,2024-03-29,,0.91,0.92,1,True,accounts098@vendor.example,9547067103,India
+V099,C4,Kaveri Bearings & Spares,27ADCFK6599V1ZV,27,Regular,spares,Active,2022-08-31,,0.95,0.86,1,False,accounts099@vendor.example,9987696950,India
+V100,C4,Excel Hardware Stores,27RPKFE3967D1ZY,27,Regular,spares,Active,2021-05-19,,0.89,0.91,1,False,accounts100@vendor.example,9691362071,India
+V101,C4,Galaxy Scrap Traders (Unregd),,27,Unregistered,scrap,Active,,,0.97,0.86,0,False,accounts101@vendor.example,9836321253,India
+V102,C4,Jalaram Guarding Agency,27COPPJ2005O1ZM,27,Regular,security,Active,2021-06-09,,0.96,1.0,6,False,accounts102@vendor.example,9294781924,India
+V103,C4,Vardhman Roadlines,27RQHFV7956D1ZD,27,Regular,gta,Active,2019-05-23,,0.86,0.86,9,False,accounts103@vendor.example,9949550951,India
+V104,C4,Deccan Logistics,27NZDFD4709L2ZI,27,Regular,gta,Active,2018-05-07,,0.92,0.94,9,False,accounts104@vendor.example,9924968951,India
+V105,C4,Kesar Small Traders,27KNTPK6091H1Z4,27,Composition,comp,Active,2023-05-16,,0.89,0.91,0,False,accounts105@vendor.example,9696483365,India
+V106,C4,Kesar Computers,27JNXCK5269G1ZS,27,Regular,it,Active,2024-02-13,,0.58,0.5,31,True,accounts106@vendor.example,9431747561,India
+V107,C4,Sahyadri Computers,06AGTCS6531W1ZS,06,Regular,it,Cancelled,2018-11-15,2026-05-31,0.42,0.25,46,True,accounts107@vendor.example,9757418891,India
+V108,C4,Jalaram Holidays,27LNYFJ8420S1Z4,27,Regular,travel,Active,2023-11-19,,0.91,0.84,5,False,accounts108@vendor.example,9514834839,India
+V109,C4,Pratham Restaurant,27ZPAFP6901N1ZG,27,Regular,food,Active,2017-12-28,,0.94,0.98,4,False,accounts109@vendor.example,9680223492,India
+V110,C4,Metro Caterers,36NIMFM5915W1ZC,36,Regular,food,Active,2017-07-10,,0.89,0.85,3,False,accounts110@vendor.example,9289563636,India
+V111,C4,Jay Sweets & Dry Fruits,27TROFJ2689V1ZH,27,Regular,gift,Active,2023-07-07,,0.93,0.94,4,False,accounts111@vendor.example,9236299815,India
+V112,C5,Om Educational Supplies,29CSXFO7359B1ZI,29,Regular,csr,Active,2022-06-10,,1.0,0.93,0,False,accounts112@vendor.example,9912206401,India
+V113,C5,Sunrise Management Advisors,29LRVFS8228G1Z5,29,Regular,prof,Active,2026-03-15,,0.9,0.88,8,False,accounts113@vendor.example,9277155765,India
+V114,C5,Kesar Management Advisors,29COSFK7759P1Z2,29,Regular,prof,Active,2019-02-22,,0.97,0.89,1,False,accounts114@vendor.example,9954976084,India
+V115,C5,Mahalaxmi Computers,23QTECM4367K1ZS,23,Regular,it,Active,2020-10-21,,0.86,0.86,7,True,accounts115@vendor.example,9514605807,India
+V116,C5,Om Computers,29CALCO2519I1Z2,29,Regular,it,Active,2019-12-14,,0.58,0.5,31,True,accounts116@vendor.example,9678809899,India
+V117,C5,Metro Kirana & General Stores,29RCWPM4688O1ZP,29,Composition,comp,Active,2021-05-25,,0.97,0.98,2,False,accounts117@vendor.example,9260705768,India
+V118,C5,Bharat Broadband Services,29MISCB8715L1Z1,29,Regular,telecom,Active,2019-08-08,,0.97,0.99,7,True,accounts118@vendor.example,9169347420,India
+V119,C5,Vishwa Tours & Travels,29JZZFV9754B1ZL,29,Regular,travel,Active,2021-05-14,,0.98,0.88,4,False,accounts119@vendor.example,9608680894,India
+V120,C5,Narayan Realty Pvt Ltd,29EIOCN7432Z1ZD,29,Regular,rentreg,Active,2018-08-28,,0.89,0.86,6,True,accounts120@vendor.example,9177139301,India
+V121,C5,Ambika Restaurant,29EWBFA2113J2ZG,29,Regular,food,Active,2022-05-17,,0.87,0.87,3,False,accounts121@vendor.example,9680061680,India
+V122,C5,Royal Caterers,36DIPFR9533N1ZQ,36,Regular,food,Active,2021-03-31,,0.94,0.94,0,False,accounts122@vendor.example,9484294959,India
+V123,C5,Meta Platforms Ireland Ltd,,96,Foreign,foreign,Active,,,0.98,0.93,7,False,accounts123@vendor.example,9835709990,Ireland
+V124,C5,Brightpath Consulting LLC,,96,Foreign,foreign,Active,,,0.93,0.91,5,False,accounts124@vendor.example,9489853216,USA
+V125,C5,Bharat Office Mart,29QLZFB7595R2ZP,29,Regular,stationery,Cancelled,2018-05-28,2026-05-31,0.42,0.25,46,False,accounts125@vendor.example,9565343469,India
+V126,C5,Neha Kulkarni (Independent Director),,29,Unregistered,director,Active,,,0.99,0.85,9,False,accounts126@vendor.example,9142430983,India
+V127,C5,Ambika Security Services,29PMDPA6831D1ZZ,29,Regular,security,Active,2018-10-26,,0.89,0.88,3,False,accounts127@vendor.example,9398783004,India
+V128,C5,Bharat Fitness Club,29ADBAB9642P1ZX,29,Regular,club,Active,2019-06-08,,0.92,0.97,2,False,accounts128@vendor.example,9974603997,India
+V129,C5,Bharat Freight Carriers Ltd,09JNNCB8086G1Z4,09,Regular,gta_fcm,Active,2021-12-11,,0.91,0.9,3,True,accounts129@vendor.example,9752759695,India
+V130,C5,Sahyadri Sweets & Dry Fruits,29HXZFS6418R1ZA,29,Regular,gift,Active,2019-09-05,,0.96,0.87,7,False,accounts130@vendor.example,9288774905,India
+V131,C5,Kaveri Transport Co.,29TNOFK8449B1ZN,29,Regular,gta,Active,2020-10-01,,0.96,0.94,4,False,accounts131@vendor.example,9995064587,India
+V132,C5,Tulsi Cargo Movers,29ZCYFT7350Q1Z0,29,Regular,gta,Active,2022-05-03,,0.96,0.91,1,False,accounts132@vendor.example,9850549926,India
+V133,C5,Adv. Pooja Trivedi,,29,Unregistered,advocate,Active,,,0.9,0.95,8,False,accounts133@vendor.example,9239056251,India

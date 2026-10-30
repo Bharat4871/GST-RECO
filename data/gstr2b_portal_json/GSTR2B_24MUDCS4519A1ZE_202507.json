@@ -1,0 +1,40 @@
+{
+ "chksum": "3d1e68332d1b63767a79506bac9e4800",
+ "data": {
+  "gstin": "24MUDCS4519A1ZE",
+  "rtnprd": "072025",
+  "version": "1.0",
+  "gendt": "14-08-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24WWICS6386Y1Z5",
+     "trdnm": "SAI DYE CHEM",
+     "supfildt": "11-08-2025",
+     "supprd": "072025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/980",
+       "typ": "R",
+       "dt": "01-07-2025",
+       "val": 418163.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 373360,
+       "igst": 0.0,
+       "cgst": 22401.6,
+       "sgst": 22401.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

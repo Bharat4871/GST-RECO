@@ -1,0 +1,259 @@
+{
+ "chksum": "afeb3a29ca7dcdc248469be3f47b7ad2",
+ "data": {
+  "gstin": "29ZZCCT7359B1Z3",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29RXTCT4586B1ZZ",
+     "trdnm": "TRIDENT ESTATES LLP",
+     "supfildt": "12-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "TEL00062",
+       "typ": "R",
+       "dt": "06-03-2026",
+       "val": 712772.83,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "61f13e87217d47b074ddf8621ea7998d7ee3d793bf4d02b0be8afaa6702fceab",
+       "txval": 604044.77,
+       "igst": 0.0,
+       "cgst": 54364.03,
+       "sgst": 54364.03,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08XJWCJ2503U1ZG",
+     "trdnm": "Jalaram Computers",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "JC00118",
+       "typ": "R",
+       "dt": "13-03-2026",
+       "val": 2121734.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7bdb6da6020ab02577fa1c8e7e3dcdb41b9380e308157d3083f205be39cb8761",
+       "txval": 1798080,
+       "igst": 323654.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "JC00125",
+       "typ": "R",
+       "dt": "06-03-2026",
+       "val": 1081847.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "N",
+       "rsn": "POS",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a4ad77eccf3ecf459cf65f897985e830e9c5f8fe79d6613f3ab7105e70a5c4c7",
+       "txval": 916820,
+       "igst": 165027.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29UPLFS4130G2ZO",
+     "trdnm": "SAI CARGO MOVERS",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000356",
+       "typ": "R",
+       "dt": "19-03-2026",
+       "val": 79340,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 79340,
+       "igst": 0.0,
+       "cgst": 1983.5,
+       "sgst": 1983.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29QNXCS6151N1Z3",
+     "trdnm": "SUNRISE COMPUTERS",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "SC/0217/25-26",
+       "typ": "R",
+       "dt": "28-03-2026",
+       "val": 540664.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f11db613b25435c87ecfb5a5462dc60f9644c6428ff030e831b6eff69fd48339",
+       "txval": 458190,
+       "igst": 0.0,
+       "cgst": 41237.1,
+       "sgst": 41237.1,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "29OQTFB3469G1ZM",
+     "trdnm": "Bharat Management Advisors",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "BMA00342",
+       "typ": "R",
+       "dt": "23-03-2026",
+       "val": 35647.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 30210,
+       "igst": 0.0,
+       "cgst": 2718.9,
+       "sgst": 2718.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29LRVCS8228G1ZB",
+     "trdnm": "Sunrise Freight Carriers Ltd",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/208",
+       "typ": "R",
+       "dt": "18-03-2026",
+       "val": 119180.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "48519fda676b48024c884425c5067a3b84f5236ac130a85149f97674dd8f3be5",
+       "txval": 101000,
+       "igst": 0.0,
+       "cgst": 9090.0,
+       "sgst": 9090.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X5440/2025-26",
+       "typ": "R",
+       "dt": "12-03-2026",
+       "val": 89267.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 75650,
+       "igst": 0.0,
+       "cgst": 6808.5,
+       "sgst": 6808.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29CALFA2519I1ZA",
+     "trdnm": "Apex Consultants",
+     "supfildt": "08-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "AC00299",
+       "typ": "R",
+       "dt": "27-03-2026",
+       "val": 120832.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 102400,
+       "igst": 0.0,
+       "cgst": 9216.0,
+       "sgst": 9216.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "AC00306",
+       "typ": "R",
+       "dt": "11-03-2026",
+       "val": 203219.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 172220,
+       "igst": 0.0,
+       "cgst": 15499.8,
+       "sgst": 15499.8,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

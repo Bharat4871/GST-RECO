@@ -1,0 +1,329 @@
+{
+ "chksum": "5dc03eb359bbf2b1227b6482bc716622",
+ "data": {
+  "gstin": "24RZFCS5218Q1Z2",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24APGCU7303X1ZO",
+     "trdnm": "UNIQUE YARN TRADERS",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "2025000337",
+       "typ": "R",
+       "dt": "24-01-2026",
+       "val": 985299.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "848ddf52f2923a88cab22a2a2da6dbe777de24c5090fad51f3b2405184c3fdd7",
+       "txval": 938380,
+       "igst": 0.0,
+       "cgst": 23459.5,
+       "sgst": 23459.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24NXNCP8526L1Z6",
+     "trdnm": "Prime Infotech",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "PI00038",
+       "typ": "R",
+       "dt": "08-01-2026",
+       "val": 64015.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7b1c6667afb4fec7d076364d740f1e505caea344da6a14a2e964f8207af335af",
+       "txval": 54250,
+       "igst": 0.0,
+       "cgst": 4882.5,
+       "sgst": 4882.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "PI00045",
+       "typ": "R",
+       "dt": "16-01-2026",
+       "val": 58740.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "84f54cb6189a0e8f8578d8d7afce14c7db6178742e79be26ec6c258f4f98b8e1",
+       "txval": 49780,
+       "igst": 0.0,
+       "cgst": 4480.2,
+       "sgst": 4480.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VCOPV8676L1ZW",
+     "trdnm": "VISHWA GUARDING AGENCY",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "VGA/0234/25-26",
+       "typ": "R",
+       "dt": "04-01-2026",
+       "val": 107860,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 107860,
+       "igst": 0.0,
+       "cgst": 9707.4,
+       "sgst": 9707.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KNBCK9011H1ZT",
+     "trdnm": "KAVERI AUTOMATION",
+     "supfildt": "11-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/83",
+       "typ": "R",
+       "dt": "25-01-2026",
+       "val": 533961.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "029318f5378a55fa1b0b04fac9129baae6fa29951c189ca307b33a22077a9acd",
+       "txval": 452510,
+       "igst": 0.0,
+       "cgst": 40725.9,
+       "sgst": 40725.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24IYWCT9004E1ZK",
+     "trdnm": "Trident Sports Foundation",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/28",
+       "typ": "R",
+       "dt": "27-01-2026",
+       "val": 160751.05,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 136229.71,
+       "igst": 0.0,
+       "cgst": 12260.67,
+       "sgst": 12260.67,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RFOCG7642Z1ZK",
+     "trdnm": "GALAXY OIL SEEDS TRADERS",
+     "supfildt": "11-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GOS/0267/25-26",
+       "typ": "R",
+       "dt": "28-01-2026",
+       "val": 490392.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e8a873fd3466a36981a0877a9fb34890f25f7c84a8a2f6988f0e8dacc8dd5919",
+       "txval": 467040,
+       "igst": 0.0,
+       "cgst": 11676.0,
+       "sgst": 11676.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36CWPCS7858V1ZG",
+     "trdnm": "Sai General Insurance Co. Ltd",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "SGI00202",
+       "typ": "R",
+       "dt": "07-01-2026",
+       "val": 162804.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "fbfbd2fc18db5101b8a4812fd4c09e33ba5eb69dc6295bf23e30b600344e2edf",
+       "txval": 137970,
+       "igst": 24834.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24EDZFE3359R1Z4",
+     "trdnm": "EXCEL LOGISTICS",
+     "supfildt": "11-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/276",
+       "typ": "R",
+       "dt": "02-01-2026",
+       "val": 50120,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 50120,
+       "igst": 0.0,
+       "cgst": 1253.0,
+       "sgst": 1253.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09RAJFN4619Q1Z1",
+     "trdnm": "NAVKAR BANQUETS",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/262",
+       "typ": "R",
+       "dt": "24-01-2026",
+       "val": 71914.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 68490,
+       "igst": 3424.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZFQCB5364L1Z8",
+     "trdnm": "BHARAT AGRO COMMODITIES",
+     "supfildt": "11-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/120",
+       "typ": "R",
+       "dt": "05-01-2026",
+       "val": 1551931.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "0112715622a70fc859aedf37202ed71ece0a7b674f2ec1f5a948be879546b5b7",
+       "txval": 1478030,
+       "igst": 0.0,
+       "cgst": 36950.75,
+       "sgst": 36950.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24XSACR6791T2ZT",
+     "trdnm": "Royal Polymers",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/553",
+       "typ": "R",
+       "dt": "10-01-2026",
+       "val": 224223.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 190020,
+       "igst": 0.0,
+       "cgst": 17101.8,
+       "sgst": 17101.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

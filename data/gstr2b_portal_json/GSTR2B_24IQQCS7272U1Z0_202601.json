@@ -1,0 +1,302 @@
+{
+ "chksum": "800a3d9b0bd88a54c01e219d7af12bfe",
+ "data": {
+  "gstin": "24IQQCS7272U1Z0",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24GUUCN8888B1ZI",
+     "trdnm": "Narayan Infotech",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "2025000102",
+       "typ": "R",
+       "dt": "12-01-2026",
+       "val": 54488.61,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7ec396ca97d2321a17d58a2df0bd384b7b8e29ab1ebdc62bd4310c1c036bf473",
+       "txval": 46176.79,
+       "igst": 0.0,
+       "cgst": 4155.91,
+       "sgst": 4155.91,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24COOCS6667R2ZC",
+     "trdnm": "SUNRISE EVENTS PVT LTD",
+     "supfildt": "11-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00078",
+       "typ": "R",
+       "dt": "12-01-2026",
+       "val": 207741.44,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 207741.44,
+       "igst": 0.0,
+       "cgst": 18696.73,
+       "sgst": 18696.73,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SQYCS4984P2ZM",
+     "trdnm": "SUNRISE CHEMICALS",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/247",
+       "typ": "R",
+       "dt": "19-01-2026",
+       "val": 437697.68,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c031391080f4f8650d055fa03649ddd2117cdb3a5a00c2800176402f9db598db",
+       "txval": 370930.24,
+       "igst": 0.0,
+       "cgst": 33383.72,
+       "sgst": 33383.72,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24IABPO2165Y1ZR",
+     "trdnm": "Om Security Services",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/366",
+       "typ": "R",
+       "dt": "10-01-2026",
+       "val": 63568.92,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 63568.92,
+       "igst": 0.0,
+       "cgst": 5721.2,
+       "sgst": 5721.21,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZEJCA4949Q1Z3",
+     "trdnm": "APEX MOTORS PVT LTD",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "AMP/0245/25-26",
+       "typ": "R",
+       "dt": "04-01-2026",
+       "val": 1726913.75,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7d79c424dcd3a84f1c0991cdce81d4ee63f706e117d6c9fdd48bbf2dabf592f4",
+       "txval": 1463486.23,
+       "igst": 0.0,
+       "cgst": 131713.76,
+       "sgst": 131713.76,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24YFVCN3521N1Z1",
+     "trdnm": "Navkar Oil Seeds Traders",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST202526118",
+       "typ": "R",
+       "dt": "23-01-2026",
+       "val": 301476.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "5b9c0385646b03f290d26109d7a0cefdf449f47e7a0d395590478d91a343a131",
+       "txval": 287120.19,
+       "igst": 0.0,
+       "cgst": 7178.01,
+       "sgst": 7178.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "LATE/2025-26/520",
+       "typ": "R",
+       "dt": "29-01-2026",
+       "val": 188410.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 159670,
+       "igst": 0.0,
+       "cgst": 14370.3,
+       "sgst": 14370.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UZIFM5704X1ZJ",
+     "trdnm": "Metro Consultants",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/230",
+       "typ": "R",
+       "dt": "27-01-2026",
+       "val": 65892.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 55841.36,
+       "igst": 0.0,
+       "cgst": 5025.72,
+       "sgst": 5025.72,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RHLFA8471M1Z5",
+     "trdnm": "Ambika Stationers",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "AS/0144/25-26",
+       "typ": "R",
+       "dt": "14-01-2026",
+       "val": 4668.15,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "N",
+       "rsn": "POS",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 3956.06,
+       "igst": 712.09,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KLUCM7422R1ZO",
+     "trdnm": "Metro Automation",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/225-26/384",
+       "typ": "R",
+       "dt": "16-01-2026",
+       "val": 367513.63,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8f7964b65d578a8e761408e5911bd5b131089230b749f88320f2e9edcd42b89b",
+       "txval": 311452.23,
+       "igst": 0.0,
+       "cgst": 28030.7,
+       "sgst": 28030.7,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZVSCM2000Z1ZV",
+     "trdnm": "MAHALAXMI ENGINEERING WORKS",
+     "supfildt": "11-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/134",
+       "typ": "R",
+       "dt": "05-01-2026",
+       "val": 332709.35,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "060d7ccb4eccd6841eb7650cbf988f801856a0c1a7385b3d5c03075c066af7bf",
+       "txval": 281957.08,
+       "igst": 0.0,
+       "cgst": 25376.13,
+       "sgst": 25376.14,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

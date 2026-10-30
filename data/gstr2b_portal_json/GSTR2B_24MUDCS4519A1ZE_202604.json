@@ -1,0 +1,256 @@
+{
+ "chksum": "152c8ee20984c975bc3b6437ea360f82",
+ "data": {
+  "gstin": "24MUDCS4519A1ZE",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "07QYKFN7550I1Z4",
+     "trdnm": "NAVKAR TRANSPORT CO.",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "NTC00211",
+       "typ": "R",
+       "dt": "16-04-2026",
+       "val": 91790,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 91790,
+       "igst": 4589.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UMRCS9832G1ZM",
+     "trdnm": "Siddhi Machinery",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/90",
+       "typ": "R",
+       "dt": "13-04-2026",
+       "val": 649236.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d7ee1d67ace5bcf401474833664e0733f48cedd6340eeb48f3a8ab642e8b0aee",
+       "txval": 550200,
+       "igst": 0.0,
+       "cgst": 49518.0,
+       "sgst": 49518.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WWICS6386Y1Z5",
+     "trdnm": "Sai Dye Chem",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000248",
+       "typ": "R",
+       "dt": "16-04-2026",
+       "val": 354377.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "945e311e6848a58e30261c9c3632d707dbbc408a2aadc26d8bde1ea14d1e3c75",
+       "txval": 300320,
+       "igst": 0.0,
+       "cgst": 27028.8,
+       "sgst": 27028.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SQYFS4984P2ZG",
+     "trdnm": "SUNRISE TRANSPORT CO.",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/283",
+       "typ": "R",
+       "dt": "29-04-2026",
+       "val": 47460,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 47460,
+       "igst": 0.0,
+       "cgst": 1186.5,
+       "sgst": 1186.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RAAPK6612X1ZP",
+     "trdnm": "KESAR SECURITY SERVICES",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/52",
+       "typ": "R",
+       "dt": "21-04-2026",
+       "val": 100840,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 100840,
+       "igst": 0.0,
+       "cgst": 9075.6,
+       "sgst": 9075.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33RHLCA8471M1ZB",
+     "trdnm": "AMBIKA EXPRESS LOGISTICS LTD",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/189",
+       "typ": "R",
+       "dt": "10-04-2026",
+       "val": 61454.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "22c8c200f2d3cf5a4b89b3d2d87aa0c4077cab956b078fe07530f6f0c3faf174",
+       "txval": 52080,
+       "igst": 9374.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PBJFV2492F1ZL",
+     "trdnm": "Vishwa Stationers",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/259",
+       "typ": "R",
+       "dt": "22-04-2026",
+       "val": 33936.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 28760,
+       "igst": 0.0,
+       "cgst": 2588.4,
+       "sgst": 2588.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CWXCJ9954F1ZI",
+     "trdnm": "JAY COMPUTERS",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000056",
+       "typ": "R",
+       "dt": "27-04-2026",
+       "val": 125953.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ea177f7d469534a7f963697e4962afafb4d43988f8716d9bb4457ed886d222cf",
+       "txval": 106740,
+       "igst": 0.0,
+       "cgst": 9606.6,
+       "sgst": 9606.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24COVCT7664E1ZX",
+     "trdnm": "Trident Auto Showroom",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "X3287/2026-27",
+       "typ": "R",
+       "dt": "25-04-2026",
+       "val": 83662.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 70900,
+       "igst": 0.0,
+       "cgst": 6381.0,
+       "sgst": 6381.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

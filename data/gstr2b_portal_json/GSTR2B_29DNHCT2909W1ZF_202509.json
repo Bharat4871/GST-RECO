@@ -1,0 +1,40 @@
+{
+ "chksum": "6843c9e6a855ba40fd8e8189d8fe7fff",
+ "data": {
+  "gstin": "29DNHCT2909W1ZF",
+  "rtnprd": "092025",
+  "version": "1.0",
+  "gendt": "14-10-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "23QTECM4367K1ZS",
+     "trdnm": "Mahalaxmi Computers",
+     "supfildt": "10-10-2025",
+     "supprd": "092025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/501",
+       "typ": "R",
+       "dt": "02-09-2025",
+       "val": 157640.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 140750,
+       "igst": 16890.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

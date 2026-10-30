@@ -1,0 +1,248 @@
+{
+ "chksum": "bf2be1785c1112957cb04d937edbd69b",
+ "data": {
+  "gstin": "24RZFCS5218Q1Z2",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24FEICG9852W1Z2",
+     "trdnm": "GALAXY DYE CHEM",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000073",
+       "typ": "R",
+       "dt": "22-04-2026",
+       "val": 271282.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "0c1ae6b03b2d878397e6e17f34c664bb3940b9cb3db6120b4e0f390a6b3a632a",
+       "txval": 229900,
+       "igst": 0.0,
+       "cgst": 20691.0,
+       "sgst": 20691.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000077",
+       "typ": "R",
+       "dt": "30-04-2026",
+       "val": 296357.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "140aee72fde27f285206fa0a660011801dbb8f87f5f743f4c5b3ce874a9a9330",
+       "txval": 251150,
+       "igst": 0.0,
+       "cgst": 22603.5,
+       "sgst": 22603.5,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24VCOPV8676L1ZW",
+     "trdnm": "Vishwa Guarding Agency",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "VGA/0237/26-27",
+       "typ": "R",
+       "dt": "12-04-2026",
+       "val": 84330,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 84330,
+       "igst": 0.0,
+       "cgst": 7589.7,
+       "sgst": 7589.7,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24EDZFE3359R1Z4",
+     "trdnm": "Excel Logistics",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/282",
+       "typ": "R",
+       "dt": "10-04-2026",
+       "val": 17680,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 17680,
+       "igst": 0.0,
+       "cgst": 442.0,
+       "sgst": 442.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36HJTFN3943J1ZY",
+     "trdnm": "NARAYAN OFFICE MART",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/244",
+       "typ": "R",
+       "dt": "01-04-2026",
+       "val": 25281.54,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 21425.03,
+       "igst": 3856.51,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "33UUZFT5402J1Z3",
+     "trdnm": "Tulsi Cargo Movers",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "TCM214",
+       "typ": "R",
+       "dt": "11-04-2026",
+       "val": 85490,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 85490,
+       "igst": 4274.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24CQOCJ2782M2ZZ",
+     "trdnm": "JAY EXPRESS LOGISTICS LTD",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "INV-2627-00157",
+       "typ": "R",
+       "dt": "18-04-2026",
+       "val": 115427.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "74243b2b89a4d164207c699bf7a561dc5809c5e3b9915c1c31a285eb6b454f9f",
+       "txval": 97820,
+       "igst": 0.0,
+       "cgst": 8803.8,
+       "sgst": 8803.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24XSACR6791T2ZT",
+     "trdnm": "Royal Polymers",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "RP103",
+       "typ": "R",
+       "dt": "08-04-2026",
+       "val": 1063387.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c056273e10280006fdbf09d50c656bb614f409ea8f6855f7f3c13fcb186663c5",
+       "txval": 1012750,
+       "igst": 0.0,
+       "cgst": 25318.75,
+       "sgst": 25318.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RFOCG7642Z1ZK",
+     "trdnm": "Galaxy Oil Seeds Traders",
+     "supfildt": "06-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "X2090/2026-27",
+       "typ": "R",
+       "dt": "21-04-2026",
+       "val": 47164.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 39970,
+       "igst": 0.0,
+       "cgst": 3597.3,
+       "sgst": 3597.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

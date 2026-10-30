@@ -1,0 +1,40 @@
+{
+ "chksum": "09a775f24448e719fe56d55a90dd6704",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "092025",
+  "version": "1.0",
+  "gendt": "14-10-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "07XGDCK2291L1ZC",
+     "trdnm": "KESAR DYE CHEM",
+     "supfildt": "08-08-2025",
+     "supprd": "092025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/672",
+       "typ": "R",
+       "dt": "07-07-2025",
+       "val": 224403.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 200360,
+       "igst": 24043.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

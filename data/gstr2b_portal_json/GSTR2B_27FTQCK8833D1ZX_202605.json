@@ -1,0 +1,267 @@
+{
+ "chksum": "9d959d1246bcd2e2f688c41632a26ed2",
+ "data": {
+  "gstin": "27FTQCK8833D1ZX",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27FNQFA4104L1ZG",
+     "trdnm": "APEX FORKLIFT SERVICES",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/120",
+       "typ": "R",
+       "dt": "05-05-2026",
+       "val": 280403.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 237630,
+       "igst": 0.0,
+       "cgst": 21386.7,
+       "sgst": 21386.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RMWCM5319L2ZI",
+     "trdnm": "METRO ESTATES LLP",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "MEL/0239/26-27",
+       "typ": "R",
+       "dt": "14-05-2026",
+       "val": 346105.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "32c0219a5ad6c5ff620c909c77d13d9ef9d3c15a821b4b0e999aab9e1045cf1b",
+       "txval": 293310,
+       "igst": 0.0,
+       "cgst": 26397.9,
+       "sgst": 26397.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08ZVTCE9290L2ZP",
+     "trdnm": "Excel Freight Carriers Ltd",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000098",
+       "typ": "R",
+       "dt": "25-05-2026",
+       "val": 33405.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9a5cfe95ce39dd9f3efa3b974291361cb91b2ac7ea9ac11b6ef108d5158cf87f",
+       "txval": 28310,
+       "igst": 5095.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000106",
+       "typ": "R",
+       "dt": "08-05-2026",
+       "val": 109618.04,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f035b94d6797750f378d8277d20e41053bc94b5c4b1fccd69017c7bec7fb172d",
+       "txval": 92896.64,
+       "igst": 16721.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33DZZPB2176S2ZF",
+     "trdnm": "BHAVANI GUARDING AGENCY",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "BGA00135",
+       "typ": "R",
+       "dt": "25-05-2026",
+       "val": 78680,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 78680,
+       "igst": 14162.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "BGA00141",
+       "typ": "R",
+       "dt": "12-05-2026",
+       "val": 68860,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 68860,
+       "igst": 12394.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27CIWFV9929Q1Z1",
+     "trdnm": "VARDHMAN HARDWARE STORES",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000052",
+       "typ": "R",
+       "dt": "03-05-2026",
+       "val": 50492.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 42790,
+       "igst": 0.0,
+       "cgst": 3851.1,
+       "sgst": 3851.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36FZDFS4765M1Z3",
+     "trdnm": "SUNRISE MANAGEMENT ADVISORS",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00412",
+       "typ": "R",
+       "dt": "25-05-2026",
+       "val": 211456.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 179200,
+       "igst": 32256.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06AGTCS6531W1ZS",
+     "trdnm": "Sahyadri Computers",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/273",
+       "typ": "R",
+       "dt": "16-05-2026",
+       "val": 138956.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a17e85201d9536f1d23bfb5fbd969e39b869865828cd845b43c6ac5d22625bf2",
+       "txval": 117760,
+       "igst": 21196.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27TSJFO4832X2ZL",
+     "trdnm": "Om Office Mart",
+     "supfildt": "14-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "X4491/2026-27",
+       "typ": "R",
+       "dt": "30-05-2026",
+       "val": 83827.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 71040,
+       "igst": 0.0,
+       "cgst": 6393.6,
+       "sgst": 6393.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

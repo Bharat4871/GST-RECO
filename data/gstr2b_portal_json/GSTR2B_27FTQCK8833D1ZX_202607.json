@@ -1,0 +1,159 @@
+{
+ "chksum": "fe25fc27073f199ab38579f2760b77f3",
+ "data": {
+  "gstin": "27FTQCK8833D1ZX",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27TSJFO4832X2ZL",
+     "trdnm": "Om Office Mart",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000068",
+       "typ": "R",
+       "dt": "21-07-2026",
+       "val": 27411.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 23230,
+       "igst": 0.0,
+       "cgst": 2090.7,
+       "sgst": 2090.7,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "2026000074",
+       "typ": "R",
+       "dt": "18-07-2026",
+       "val": 4814.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 4080,
+       "igst": 0.0,
+       "cgst": 367.2,
+       "sgst": 367.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000075",
+       "typ": "R",
+       "dt": "10-07-2026",
+       "val": 16708.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 14160,
+       "igst": 0.0,
+       "cgst": 1274.4,
+       "sgst": 1274.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27LZHCT7191L2ZW",
+     "trdnm": "Trident Broadband Services",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000084",
+       "typ": "R",
+       "dt": "13-07-2026",
+       "val": 5185.22,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "13b6a333469647d70dccd5f8437b09e40efe39bd514d813c676ca113ebc716fa",
+       "txval": 4394.25,
+       "igst": 0.0,
+       "cgst": 395.49,
+       "sgst": 395.48,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06AGTCS6531W1ZS",
+     "trdnm": "Sahyadri Computers",
+     "supfildt": "05-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "X2691/2026-27",
+       "typ": "R",
+       "dt": "21-07-2026",
+       "val": 93220.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 79000,
+       "igst": 14220.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09DUDFR4124Z1Z2",
+     "trdnm": "Royal Banquets",
+     "supfildt": "20-07-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "X3816/2026-27",
+       "typ": "R",
+       "dt": "05-07-2026",
+       "val": 223739.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 189610,
+       "igst": 34129.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,432 @@
+{
+ "chksum": "3430681d17aebf379c745991078483c9",
+ "data": {
+  "gstin": "24DKQCS9385U1Z7",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24TTRCB7891Z1ZG",
+     "trdnm": "BHAVANI TELECOM LTD",
+     "supfildt": "12-03-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "INV-2526-00042",
+       "typ": "R",
+       "dt": "13-02-2026",
+       "val": 14160.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "5c18e389efee44295bb912144a3ea356c7acca0bada80da44cf26906cda72ab4",
+       "txval": 12000,
+       "igst": 0.0,
+       "cgst": 1080.0,
+       "sgst": 1080.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27YRICG6853E1ZS",
+     "trdnm": "GALAXY CONTAINERS",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/234",
+       "typ": "R",
+       "dt": "03-04-2026",
+       "val": 179299.97,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f719c99c97cf346fd548517423fc70145e19c37b04138251850e3393826eb5df",
+       "txval": 151949.13,
+       "igst": 27350.84,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06AWLCD6956O1ZL",
+     "trdnm": "Deccan Yarn Traders",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "DYT/0072/26-27",
+       "typ": "R",
+       "dt": "16-04-2026",
+       "val": 533544.31,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e22f637f9b70a48f32e81db876333e9f82f1e7e25a1831dc140386c2911b45ab",
+       "txval": 508137.44,
+       "igst": 25406.87,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24GXNCS3397O1Z1",
+     "trdnm": "Sahyadri Poly Pack",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "INV-2627-00393",
+       "typ": "R",
+       "dt": "10-04-2026",
+       "val": 165844.07,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b1ec550af524bffeba8577d472535bda71ff8db0124fea3c8ef098f05c859ef4",
+       "txval": 140545.82,
+       "igst": 0.0,
+       "cgst": 12649.12,
+       "sgst": 12649.13,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00399",
+       "typ": "R",
+       "dt": "01-04-2026",
+       "val": 208352.72,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b7c352e37ce90a531527a09dc00ab12010b08c690d2548180ab781629da0fc01",
+       "txval": 176570.1,
+       "igst": 0.0,
+       "cgst": 15891.31,
+       "sgst": 15891.31,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06DNFCS2737V1ZQ",
+     "trdnm": "SIDDHI SYSTEMS",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/35",
+       "typ": "R",
+       "dt": "20-04-2026",
+       "val": 134909.48,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "df47a41e0f96ffe318cb041431911a7c1b2bd4ddadb1a2673d127cec19301c35",
+       "txval": 114330.07,
+       "igst": 20579.41,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/40",
+       "typ": "R",
+       "dt": "23-04-2026",
+       "val": 128701.15,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8b14010bb036de66570017eeb3d836e37b5a1764f7c1b003f0ccf350041f1d51",
+       "txval": 109068.77,
+       "igst": 19632.38,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/47",
+       "typ": "R",
+       "dt": "23-04-2026",
+       "val": 65524.44,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4a6cd2cb4b9e2b34dff338d5dce3b89d5088ccef0ce55d254db7d203c4a73e95",
+       "txval": 55529.19,
+       "igst": 9995.25,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RGDCM5595R2ZU",
+     "trdnm": "METRO SYSTEMS",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "MS00071",
+       "typ": "R",
+       "dt": "03-04-2026",
+       "val": 116334.16,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4cb85c5b8a9d2f4513e4b3c05c37447fb8c302ba2bad46870910bdd4b657f3f6",
+       "txval": 98588.27,
+       "igst": 0.0,
+       "cgst": 8872.94,
+       "sgst": 8872.95,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24JIAFT1542E1Z0",
+     "trdnm": "TULSI FORKLIFT SERVICES",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000197 ",
+       "typ": "R",
+       "dt": "20-04-2026",
+       "val": 24146.49,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 20463.13,
+       "igst": 0.0,
+       "cgst": 1841.68,
+       "sgst": 1841.68,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24YEBCG9572V1ZR",
+     "trdnm": "GALAXY AGRO COMMODITIES",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/340",
+       "typ": "R",
+       "dt": "24-04-2026",
+       "val": 252886.98,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "873d6f7dd9e124d44136bb11b9244b60e577516e77d45aaa6f62a878e61d87da",
+       "txval": 252886.98,
+       "igst": 0.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/345",
+       "typ": "R",
+       "dt": "29-04-2026",
+       "val": 1141928.31,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e1fc03a4301924ecadc2c0cdddc638fab7f2a47eabfc68981e603c55f82eb7aa",
+       "txval": 1087550.77,
+       "igst": 0.0,
+       "cgst": 27188.77,
+       "sgst": 27188.77,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24CBLCS6790Y1ZT",
+     "trdnm": "SHREE EXPRESS LOGISTICS LTD",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/154",
+       "typ": "R",
+       "dt": "28-04-2026",
+       "val": 65276.41,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "2069157147c12787160116d429a33fda0fcef23822667945a84b99b59b358129",
+       "txval": 55318.99,
+       "igst": 0.0,
+       "cgst": 4978.71,
+       "sgst": 4978.71,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/158",
+       "typ": "R",
+       "dt": "08-04-2026",
+       "val": 110588.75,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ca0a1019bbb0472ed5d2140c84c16907795237a536c412f34dfb8df7c08954b7",
+       "txval": 93719.28,
+       "igst": 0.0,
+       "cgst": 8434.74,
+       "sgst": 8434.73,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PWRCN5112R1Z8",
+     "trdnm": "NARAYAN METALS",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000294",
+       "typ": "R",
+       "dt": "19-04-2026",
+       "val": 557550.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "363f05b6e8617c22973844d37187594b8fbc505ebad5f789b5fb0741679229a5",
+       "txval": 531000,
+       "igst": 0.0,
+       "cgst": 13275.0,
+       "sgst": 13275.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27JDDFS6739K2Z8",
+     "trdnm": "Shree Caterers",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "SC/0088/26-27",
+       "typ": "R",
+       "dt": "30-04-2026",
+       "val": 34482.45,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 32840.43,
+       "igst": 1642.02,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PODFJ9638Z1ZX",
+     "trdnm": "Jalaram Transport Co.",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "X6158/2026-27",
+       "typ": "R",
+       "dt": "27-04-2026",
+       "val": 196316.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 166370,
+       "igst": 0.0,
+       "cgst": 14973.3,
+       "sgst": 14973.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

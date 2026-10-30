@@ -1,0 +1,186 @@
+{
+ "chksum": "92a192cf80ae5920aea73c2c8804ae44",
+ "data": {
+  "gstin": "29AYYCT5703N1ZZ",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "33RCWCR4688O1ZM",
+     "trdnm": "ROYAL COMPUTERS",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "RC00200",
+       "typ": "R",
+       "dt": "23-09-2026",
+       "val": 64782.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "eea9319f91621771074d7928c3a0daa72e62e5787e60f06c7956144131551116",
+       "txval": 54900,
+       "igst": 9882.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X2252/2026-27",
+       "typ": "R",
+       "dt": "09-09-2026",
+       "val": 210842.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 178680,
+       "igst": 32162.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "29NRNFD4292C1ZY",
+     "trdnm": "Deccan Restaurant",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00260",
+       "typ": "R",
+       "dt": "28-09-2026",
+       "val": 61876.5,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 58930,
+       "igst": 0.0,
+       "cgst": 1473.25,
+       "sgst": 1473.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09CLMCT2223A1ZZ",
+     "trdnm": "Tulsi Infotech",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "TI00425",
+       "typ": "R",
+       "dt": "12-09-2026",
+       "val": 956189.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "23d1f8c08751bca41c234a6a901cfbd09d48030164997568efde92d32da85c6d",
+       "txval": 810330,
+       "igst": 145859.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "TI00430",
+       "typ": "R",
+       "dt": "23-09-2026",
+       "val": 1312354.55,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "05215acfe0c499201b72fb48ce1b142391f333a9ccb39d2dd6040d9067dc611b",
+       "txval": 1112164.87,
+       "igst": 200189.68,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29JZZFV9754B1ZL",
+     "trdnm": "VISHWA TRANSPORT CO.",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000178",
+       "typ": "R",
+       "dt": "01-09-2026",
+       "val": 41130,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 41130,
+       "igst": 0.0,
+       "cgst": 1028.25,
+       "sgst": 1028.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29COSFK7759P1Z2",
+     "trdnm": "KESAR OFFICE MART",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/154",
+       "typ": "R",
+       "dt": "21-09-2026",
+       "val": 6891.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 5840,
+       "igst": 0.0,
+       "cgst": 525.6,
+       "sgst": 525.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

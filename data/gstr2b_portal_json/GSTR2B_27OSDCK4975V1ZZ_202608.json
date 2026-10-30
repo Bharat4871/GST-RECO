@@ -1,0 +1,140 @@
+{
+ "chksum": "4eff8cbb7cda2217c4fdd9ccc8ac577e",
+ "data": {
+  "gstin": "27OSDCK4975V1ZZ",
+  "rtnprd": "082026",
+  "version": "1.0",
+  "gendt": "14-09-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "08WYMFK4683W1Z1",
+     "trdnm": "KESAR MATERIAL HANDLING",
+     "supfildt": "12-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "INV-2627-00379",
+       "typ": "R",
+       "dt": "31-08-2026",
+       "val": 47224.34,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 40020.63,
+       "igst": 7203.71,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00386",
+       "typ": "R",
+       "dt": "29-08-2026",
+       "val": 90908.29,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 77040.92,
+       "igst": 13867.37,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27COPPJ2005O1ZM",
+     "trdnm": "JALARAM GUARDING AGENCY",
+     "supfildt": "11-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "2026000402",
+       "typ": "R",
+       "dt": "11-08-2026",
+       "val": 41512.95,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 41512.95,
+       "igst": 0.0,
+       "cgst": 3736.16,
+       "sgst": 3736.17,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RPKFE3967D1ZY",
+     "trdnm": "Excel Hardware Stores",
+     "supfildt": "11-09-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "2026000358",
+       "typ": "R",
+       "dt": "16-08-2026",
+       "val": 153769.92,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 130313.49,
+       "igst": 0.0,
+       "cgst": 11728.22,
+       "sgst": 11728.21,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27NVSFK3048O1Z1",
+     "trdnm": "Kesar Consultants",
+     "supfildt": "24-08-2026",
+     "supprd": "082026",
+     "inv": [
+      {
+       "inum": "X2789/2026-27",
+       "typ": "R",
+       "dt": "09-08-2026",
+       "val": 49890.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 42280,
+       "igst": 0.0,
+       "cgst": 3805.2,
+       "sgst": 3805.2,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

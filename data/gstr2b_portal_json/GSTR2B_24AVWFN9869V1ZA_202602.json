@@ -1,0 +1,397 @@
+{
+ "chksum": "f90b3080ede30b9ea07b42e249dd08e9",
+ "data": {
+  "gstin": "24AVWFN9869V1ZA",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29ARGFP6025S1ZI",
+     "trdnm": "Prime Logistics",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "PL00139",
+       "typ": "R",
+       "dt": "09-02-2026",
+       "val": 57450,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 57450,
+       "igst": 2872.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "PL00144",
+       "typ": "R",
+       "dt": "12-02-2026",
+       "val": 72030,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 72030,
+       "igst": 3601.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZPYFP6112I2Z2",
+     "trdnm": "PRIME CONSTRUCTIONS",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "gst/2025-26/344",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 955115.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 809420,
+       "igst": 145695.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RETFO5065E1ZD",
+     "trdnm": "OM MANAGEMENT ADVISORS",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000076",
+       "typ": "R",
+       "dt": "13-02-2026",
+       "val": 168775.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 143030,
+       "igst": 0.0,
+       "cgst": 12872.7,
+       "sgst": 12872.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000078",
+       "typ": "R",
+       "dt": "24-02-2026",
+       "val": 138360.33,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 117254.52,
+       "igst": 0.0,
+       "cgst": 10552.91,
+       "sgst": 10552.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X6637/2025-26",
+       "typ": "R",
+       "dt": "12-02-2026",
+       "val": 11292.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 9570,
+       "igst": 0.0,
+       "cgst": 861.3,
+       "sgst": 861.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZSMFG4487E1ZJ",
+     "trdnm": "Galaxy Builders & Contractors",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GB00037",
+       "typ": "R",
+       "dt": "27-02-2026",
+       "val": 1860482.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1576680,
+       "igst": 0.0,
+       "cgst": 141901.2,
+       "sgst": 141901.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GB00046",
+       "typ": "R",
+       "dt": "02-02-2026",
+       "val": 578672.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 490400,
+       "igst": 0.0,
+       "cgst": 44136.0,
+       "sgst": 44136.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SBNCS2057X1ZT",
+     "trdnm": "SAHYADRI GENERAL INSURANCE CO. LTD",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV252600297",
+       "typ": "R",
+       "dt": "20-02-2026",
+       "val": 73266.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a17aab8970f08da198da7b45d3752f6bb6e616dc6bfdc90610f69bc48f34e144",
+       "txval": 62090,
+       "igst": 0.0,
+       "cgst": 5588.1,
+       "sgst": 5588.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07OGTFS3798W1ZR",
+     "trdnm": "SHREE CEMENT DEPOT",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/71",
+       "typ": "R",
+       "dt": "05-02-2026",
+       "val": 1407389.85,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1192703.26,
+       "igst": 214686.59,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST20252672",
+       "typ": "R",
+       "dt": "24-02-2026",
+       "val": 335474.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 284300,
+       "igst": 51174.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23AFKCG9832E1ZA",
+     "trdnm": "Galaxy Automation",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00187",
+       "typ": "R",
+       "dt": "15-02-2026",
+       "val": 716271.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f7dbf41331b8931150c9be4497d25e5e15f88131472a2929a078ddac303e7fb6",
+       "txval": 607010,
+       "igst": 109261.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00194",
+       "typ": "R",
+       "dt": "13-02-2026",
+       "val": 1207824.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1105582329d9e4659f76e17e9c8acac307ea357e4ff18519f9f307cc9642bda6",
+       "txval": 1023580,
+       "igst": 184244.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RBUFN9422I1Z9",
+     "trdnm": "NARAYAN STATIONERS",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST-2025-26-89",
+       "typ": "R",
+       "dt": "21-02-2026",
+       "val": 21582.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 18290,
+       "igst": 0.0,
+       "cgst": 1646.1,
+       "sgst": 1646.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZEHCM1382A1Z1",
+     "trdnm": "Metro Broadband Services",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00394",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 24992.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4f73b66663c8bdd2f8b5642050c7072fc77fc159e45db7c5e1749a6faa1d7fd1",
+       "txval": 21180,
+       "igst": 0.0,
+       "cgst": 1906.2,
+       "sgst": 1906.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24YGZFB8489Q1Z2",
+     "trdnm": "Bhavani Building Materials",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000359",
+       "typ": "R",
+       "dt": "09-02-2026",
+       "val": 948696.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 803980,
+       "igst": 0.0,
+       "cgst": 72358.2,
+       "sgst": 72358.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,267 @@
+{
+ "chksum": "6e8a2e9e5a676be8f5a9afe077697138",
+ "data": {
+  "gstin": "29ENGCT5419X1ZA",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "07YZWPJ5835A1ZI",
+     "trdnm": "JALARAM SECURITY SERVICES",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/149",
+       "typ": "R",
+       "dt": "31-05-2026",
+       "val": 104760,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 104760,
+       "igst": 18856.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06UGRFD1185A1ZS",
+     "trdnm": "Deccan Management Advisors",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "DMA00343",
+       "typ": "R",
+       "dt": "09-05-2026",
+       "val": 207515.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 175860.34,
+       "igst": 31654.86,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "DMA00348",
+       "typ": "R",
+       "dt": "24-05-2026",
+       "val": 182923.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 155020,
+       "igst": 27903.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29VCIFB4585G1ZG",
+     "trdnm": "BHAVANI EDUCATIONAL SUPPLIES",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/226-27/268",
+       "typ": "R",
+       "dt": "06-05-2026",
+       "val": 252012.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 213570,
+       "igst": 0.0,
+       "cgst": 19221.3,
+       "sgst": 19221.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29VBUCN1647P1ZS",
+     "trdnm": "NARAYAN INFOTECH",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/138",
+       "typ": "R",
+       "dt": "26-05-2026",
+       "val": 71826.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b897ee4f7e175dab3c5d9c0912b66ba5136403059d1f625b13b31a408c0cff57",
+       "txval": 60870,
+       "igst": 0.0,
+       "cgst": 5478.3,
+       "sgst": 5478.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/140",
+       "typ": "R",
+       "dt": "28-05-2026",
+       "val": 1375231.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6a24aace2dfc42c6a5ca2adde79c4c1f09b8e49c26e2437462c01aaa528b5b18",
+       "txval": 1165450,
+       "igst": 0.0,
+       "cgst": 104890.5,
+       "sgst": 104890.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06UGICS4496O1ZN",
+     "trdnm": "Sahyadri Infotech",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "SI00222",
+       "typ": "R",
+       "dt": "13-05-2026",
+       "val": 877082.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b052bae809fbbea2c384fe5a75d4695997cefb375f2a9b1392ab0061655c9c23",
+       "txval": 743290,
+       "igst": 133792.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29QYWCA2218Y1ZM",
+     "trdnm": "Ambika Broadband Services",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "ABS/0035/26-27",
+       "typ": "R",
+       "dt": "02-05-2026",
+       "val": 25641.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "adafa77d8dda83d7f38c2d3f852d5a3ff48e904a2e8e4816833023decf0fb92b",
+       "txval": 21730,
+       "igst": 0.0,
+       "cgst": 1955.7,
+       "sgst": 1955.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29JZZCO9754B1ZY",
+     "trdnm": "OM REALTY PVT LTD",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "ORP/0069/26-27",
+       "typ": "R",
+       "dt": "20-05-2026",
+       "val": 734019.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "2f2a7aaf35a050ce61c6d2f0d2dc53621075a8499d9caae2f9e5199400751005",
+       "txval": 622050,
+       "igst": 0.0,
+       "cgst": 55984.5,
+       "sgst": 55984.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EIOCN7432Z1ZD",
+     "trdnm": "Narayan Express Logistics Ltd",
+     "supfildt": "24-05-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "X5169/2026-27",
+       "typ": "R",
+       "dt": "09-05-2026",
+       "val": 234017.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 198320,
+       "igst": 0.0,
+       "cgst": 17848.8,
+       "sgst": 17848.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

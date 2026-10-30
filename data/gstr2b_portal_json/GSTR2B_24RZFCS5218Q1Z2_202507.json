@@ -1,0 +1,40 @@
+{
+ "chksum": "2f28404fa3f9413cba2d7c66741822cd",
+ "data": {
+  "gstin": "24RZFCS5218Q1Z2",
+  "rtnprd": "072025",
+  "version": "1.0",
+  "gendt": "14-08-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24FEICG9852W1Z2",
+     "trdnm": "GALAXY DYE CHEM",
+     "supfildt": "08-08-2025",
+     "supprd": "072025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/672",
+       "typ": "R",
+       "dt": "07-07-2025",
+       "val": 224403.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 200360,
+       "igst": 0.0,
+       "cgst": 12021.6,
+       "sgst": 12021.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "chksum": "3f216e37735eba6dd3548459c929847a",
+ "data": {
+  "gstin": "29ENGCT5419X1ZA",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29KWHFU6418R1ZP",
+     "trdnm": "UMIYA CARGO MOVERS",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "UCM00362",
+       "typ": "R",
+       "dt": "06-04-2026",
+       "val": 57160,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 57160,
+       "igst": 0.0,
+       "cgst": 1429.0,
+       "sgst": 1429.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29KLGFV9874I1ZB",
+     "trdnm": "VARDHMAN STATIONERS",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "INV-2627-00363",
+       "typ": "R",
+       "dt": "21-04-2026",
+       "val": 29452.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24960,
+       "igst": 0.0,
+       "cgst": 2246.4,
+       "sgst": 2246.4,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "29ZCYFT7350Q1Z0",
+     "trdnm": "TULSI RESTAURANT",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "TR/0136/26-27",
+       "typ": "R",
+       "dt": "28-04-2026",
+       "val": 48330.19,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 46028.75,
+       "igst": 0.0,
+       "cgst": 1150.72,
+       "sgst": 1150.72,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

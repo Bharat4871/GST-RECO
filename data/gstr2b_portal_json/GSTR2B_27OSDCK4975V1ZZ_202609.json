@@ -1,0 +1,305 @@
+{
+ "chksum": "1455f2c2d184e02c2c7d57a0ddb3a517",
+ "data": {
+  "gstin": "27OSDCK4975V1ZZ",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27TQLFT6746Y1Z8",
+     "trdnm": "Trident Office Mart",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/236",
+       "typ": "R",
+       "dt": "18-09-2026",
+       "val": 13125.52,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 11123.32,
+       "igst": 0.0,
+       "cgst": 1001.1,
+       "sgst": 1001.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/237",
+       "typ": "R",
+       "dt": "10-09-2026",
+       "val": 3786.29,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 3208.72,
+       "igst": 0.0,
+       "cgst": 288.79,
+       "sgst": 288.78,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "GST/2026-27/242",
+       "typ": "R",
+       "dt": "12-09-2026",
+       "val": 5591.89,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 4738.89,
+       "igst": 0.0,
+       "cgst": 426.5,
+       "sgst": 426.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08WYMFK4683W1Z1",
+     "trdnm": "Kesar Material Handling",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00393",
+       "typ": "R",
+       "dt": "02-09-2026",
+       "val": 150039.14,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 127151.81,
+       "igst": 22887.33,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27RPKFE3967D1ZY",
+     "trdnm": "Excel Hardware Stores",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000360",
+       "typ": "R",
+       "dt": "27-09-2026",
+       "val": 106405.46,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 90174.12,
+       "igst": 0.0,
+       "cgst": 8115.67,
+       "sgst": 8115.67,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000366",
+       "typ": "R",
+       "dt": "27-09-2026",
+       "val": 185260.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 157000,
+       "igst": 0.0,
+       "cgst": 14130.0,
+       "sgst": 14130.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000372",
+       "typ": "R",
+       "dt": "26-09-2026",
+       "val": 215098.92,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 182287.22,
+       "igst": 0.0,
+       "cgst": 16405.85,
+       "sgst": 16405.85,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZHRCK7191L2ZI",
+     "trdnm": "KESAR FREIGHT CARRIERS LTD",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/115",
+       "typ": "R",
+       "dt": "16-09-2026",
+       "val": 42065.89,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "08a12ab8b6fcbe35b8e0c10cfeae233565c0e5e9a993632c7bfb1796f16596ed",
+       "txval": 35649.06,
+       "igst": 0.0,
+       "cgst": 3208.41,
+       "sgst": 3208.42,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27NZDFD4709L2ZI",
+     "trdnm": "DECCAN LOGISTICS",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/180",
+       "typ": "R",
+       "dt": "28-09-2026",
+       "val": 33412.06,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 33412.06,
+       "igst": 0.0,
+       "cgst": 835.3,
+       "sgst": 835.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27QVPCA2853C1Z3",
+     "trdnm": "Ambika Telecom Ltd",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00087",
+       "typ": "R",
+       "dt": "13-09-2026",
+       "val": 18241.41,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a624e7ed37740a621a78981af8896359a6141ee6484f6215c3cda9c702dc0d12",
+       "txval": 15458.82,
+       "igst": 0.0,
+       "cgst": 1391.3,
+       "sgst": 1391.29,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZPAFP6901N1ZG",
+     "trdnm": "PRATHAM RESTAURANT",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "PR/0199/26-27",
+       "typ": "R",
+       "dt": "13-09-2026",
+       "val": 72790.42,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 69324.21,
+       "igst": 0.0,
+       "cgst": 1733.11,
+       "sgst": 1733.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ADCFK6599V1ZV",
+     "trdnm": "Kaveri Bearings & Spares",
+     "supfildt": "22-09-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "X7583/2026-27",
+       "typ": "R",
+       "dt": "07-09-2026",
+       "val": 140962.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 119460,
+       "igst": 0.0,
+       "cgst": 10751.4,
+       "sgst": 10751.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

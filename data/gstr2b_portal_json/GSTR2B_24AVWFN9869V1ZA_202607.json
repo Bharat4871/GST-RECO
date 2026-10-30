@@ -1,0 +1,286 @@
+{
+ "chksum": "49e1f7d999d50cc7644f616725fabc72",
+ "data": {
+  "gstin": "24AVWFN9869V1ZA",
+  "rtnprd": "072026",
+  "version": "1.0",
+  "gendt": "14-08-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24RBUFN9422I1Z9",
+     "trdnm": "NARAYAN STATIONERS",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/109",
+       "typ": "R",
+       "dt": "13-07-2026",
+       "val": 8484.16,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 7189.97,
+       "igst": 0.0,
+       "cgst": 647.1,
+       "sgst": 647.09,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24JLECT7367G1Z9",
+     "trdnm": "Tulsi Machinery",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "TM00293",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 1229111.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e4912ac5e7ba4e2ba9937d48ecb48b9df090ba1b1ec1e8220e18b0ec044df219",
+       "txval": 1041620,
+       "igst": 0.0,
+       "cgst": 93745.8,
+       "sgst": 93745.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "TM00300",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 1597413.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "790e08146c24235d1ca7e52ceac7380503f94518a2dce6bd3244528e4f4e1252",
+       "txval": 1353740,
+       "igst": 0.0,
+       "cgst": 121836.6,
+       "sgst": 121836.6,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "23AFKCG9832E1ZA",
+     "trdnm": "Galaxy Automation",
+     "supfildt": "10-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00205",
+       "typ": "R",
+       "dt": "26-07-2026",
+       "val": 1284347.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c0fff6d05aa3dea9e3f9c8bb0167f2e3f0764685bdf2f1e0177295ccda8e67d9",
+       "txval": 1088430,
+       "igst": 195917.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00211",
+       "typ": "R",
+       "dt": "30-07-2026",
+       "val": 1598121.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e2b04debc560a68d66a3b37fbaa483b575b0bd02cf6287a4d51796cd8852ee4e",
+       "txval": 1354340,
+       "igst": 243781.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZSMFG4487E1ZJ",
+     "trdnm": "Galaxy Builders & Contractors",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "GB00057",
+       "typ": "R",
+       "dt": "24-07-2026",
+       "val": 2526934.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 2141470,
+       "igst": 0.0,
+       "cgst": 192732.3,
+       "sgst": 192732.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24DCEFN7376K1ZO",
+     "trdnm": "NARAYAN TRANSPORT CO.",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000068",
+       "typ": "R",
+       "dt": "26-07-2026",
+       "val": 29890,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 29890,
+       "igst": 0.0,
+       "cgst": 747.25,
+       "sgst": 747.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24EPACB6807Q1ZG",
+     "trdnm": "Bharat Infotech",
+     "supfildt": "09-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "INV-2627-00274",
+       "typ": "R",
+       "dt": "22-07-2026",
+       "val": 82458.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f6d8abfebbd31e030a52e01d4c433a22cb8b24e51fdd70067f8c871e0b2a4881",
+       "txval": 69880,
+       "igst": 0.0,
+       "cgst": 6289.2,
+       "sgst": 6289.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00277",
+       "typ": "R",
+       "dt": "05-07-2026",
+       "val": 111415.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8c16dec9ec2b0548a5d115213cbed49516c2ef9270ea9dc27417506782c146ab",
+       "txval": 94420,
+       "igst": 0.0,
+       "cgst": 8497.8,
+       "sgst": 8497.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24DLPFS9171D1Z7",
+     "trdnm": "Sahyadri Technical Services",
+     "supfildt": "11-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "STS/0345/26-27",
+       "typ": "R",
+       "dt": "25-07-2026",
+       "val": 172221.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 145950,
+       "igst": 0.0,
+       "cgst": 13135.5,
+       "sgst": 13135.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24YGZFB8489Q1Z2",
+     "trdnm": "BHAVANI BUILDING MATERIALS",
+     "supfildt": "12-08-2026",
+     "supprd": "072026",
+     "inv": [
+      {
+       "inum": "2026000411",
+       "typ": "R",
+       "dt": "15-07-2026",
+       "val": 305985.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 259310,
+       "igst": 0.0,
+       "cgst": 23337.9,
+       "sgst": 23337.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

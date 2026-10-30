@@ -1,0 +1,286 @@
+{
+ "chksum": "b75efc3552104b099376bca4fae2f9c9",
+ "data": {
+  "gstin": "27OSDCK4975V1ZZ",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27ADCFK6599V1ZV",
+     "trdnm": "Kaveri Bearings & Spares",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "INV-2627-00086",
+       "typ": "R",
+       "dt": "06-04-2026",
+       "val": 46480.93,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 39390.62,
+       "igst": 0.0,
+       "cgst": 3545.16,
+       "sgst": 3545.15,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33DDGCB7513D1ZV",
+     "trdnm": "Bharat Estates LLP",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "gst/2026-27/228",
+       "typ": "R",
+       "dt": "19-04-2026",
+       "val": 347641.15,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "0355e6e87f1f135ac73528f76777d180adf4ee212e33aad8a9b0667d30f9a155",
+       "txval": 294611.14,
+       "igst": 53030.01,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "gst/2026-27/234",
+       "typ": "R",
+       "dt": "05-04-2026",
+       "val": 526928.94,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "03b97be321298f8df0c32e0589a14c23136b0b2590f92f8669f5de51c2812e84",
+       "txval": 446549.95,
+       "igst": 80378.99,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZHRCK7191L2ZI",
+     "trdnm": "Kesar Freight Carriers Ltd",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/101",
+       "typ": "R",
+       "dt": "25-04-2026",
+       "val": 55252.14,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "527e9a7bf29307ebb96a03267eeef598b9443782b6205ffbf9c2f4f35f1b5f18",
+       "txval": 46823.85,
+       "igst": 0.0,
+       "cgst": 4214.15,
+       "sgst": 4214.14,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27TQLFT6746Y1Z8",
+     "trdnm": "Trident Office Mart",
+     "supfildt": "09-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/204",
+       "typ": "R",
+       "dt": "14-04-2026",
+       "val": 17004.14,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 14410.29,
+       "igst": 0.0,
+       "cgst": 1296.92,
+       "sgst": 1296.93,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "GST/2026-27/210",
+       "typ": "R",
+       "dt": "02-04-2026",
+       "val": 7331.08,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 6212.78,
+       "igst": 0.0,
+       "cgst": 559.15,
+       "sgst": 559.15,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RMWFM5319L2ZC",
+     "trdnm": "Metro Management Advisors",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000304",
+       "typ": "R",
+       "dt": "03-04-2026",
+       "val": 82368.99,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 69804.23,
+       "igst": 0.0,
+       "cgst": 6282.38,
+       "sgst": 6282.38,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27EMUCS1082O1ZQ",
+     "trdnm": "Shree Machinery",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "SM00238",
+       "typ": "R",
+       "dt": "21-04-2026",
+       "val": 738680.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9edd1b7acc841d2fb56bd4e870e54175a028c4d3440f22f956a50faca1783d90",
+       "txval": 626000,
+       "igst": 0.0,
+       "cgst": 56340.0,
+       "sgst": 56340.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X7108/2026-27",
+       "typ": "R",
+       "dt": "29-04-2026",
+       "val": 181236.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 153590,
+       "igst": 0.0,
+       "cgst": 13823.1,
+       "sgst": 13823.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27OYOCO5872I1Z0",
+     "trdnm": "Om Machinery",
+     "supfildt": "02-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "X4427/2026-27",
+       "typ": "R",
+       "dt": "17-04-2026",
+       "val": 305985.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 259310,
+       "igst": 0.0,
+       "cgst": 23337.9,
+       "sgst": 23337.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27TROFJ2689V1ZH",
+     "trdnm": "Jay Sweets & Dry Fruits",
+     "supfildt": "28-04-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "X6410/2026-27",
+       "typ": "R",
+       "dt": "13-04-2026",
+       "val": 76003.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 64410,
+       "igst": 0.0,
+       "cgst": 5796.9,
+       "sgst": 5796.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

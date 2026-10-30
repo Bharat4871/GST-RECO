@@ -1,0 +1,194 @@
+{
+ "chksum": "ebf9b27ba0d03614b96c815560144056",
+ "data": {
+  "gstin": "29ZZCCT7359B1Z3",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "08XJWCJ2503U1ZG",
+     "trdnm": "Jalaram Computers",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "JC00100",
+       "typ": "R",
+       "dt": "06-01-2026",
+       "val": 751353.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "59292c0b5bfaad0f04ecfaf3e046180e9abc080ffc9a05c116b4c4b4e63153bd",
+       "txval": 636740,
+       "igst": 114613.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06UGIFS4496O1ZH",
+     "trdnm": "Sahyadri Tours & Travels",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "ST00243",
+       "typ": "R",
+       "dt": "20-01-2026",
+       "val": 88980.34,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 84743.18,
+       "igst": 4237.16,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29QNXCS6151N1Z3",
+     "trdnm": "Sunrise Computers",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "SC/0203/25-26",
+       "typ": "R",
+       "dt": "18-01-2026",
+       "val": 1425864.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "e5977bee720df539fda607ba836db28155ba626d2b1c86708f267eb9c56497e3",
+       "txval": 1208360,
+       "igst": 0.0,
+       "cgst": 108752.4,
+       "sgst": 108752.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29UPLFS4130G2ZO",
+     "trdnm": "SAI CARGO MOVERS",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "2025000346",
+       "typ": "R",
+       "dt": "10-01-2026",
+       "val": 28440,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 28440,
+       "igst": 0.0,
+       "cgst": 711.0,
+       "sgst": 711.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "2025000348",
+       "typ": "R",
+       "dt": "08-01-2026",
+       "val": 21105.43,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 21105.43,
+       "igst": 0.0,
+       "cgst": 527.63,
+       "sgst": 527.64,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29KLGPV9874I1ZQ",
+     "trdnm": "Vardhman Security Services",
+     "supfildt": "11-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/140",
+       "typ": "R",
+       "dt": "02-02-2026",
+       "val": 86010,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 86010,
+       "igst": 0.0,
+       "cgst": 7740.9,
+       "sgst": 7740.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09MLGFM9906X1Z1",
+     "trdnm": "Metro Restaurant",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "MR/0135/25-26",
+       "typ": "R",
+       "dt": "07-01-2026",
+       "val": 22848.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 21760,
+       "igst": 1088.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

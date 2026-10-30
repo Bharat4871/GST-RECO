@@ -1,0 +1,286 @@
+{
+ "chksum": "a910c80b7d5d77ce6d9d8abe0ec5e8de",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24FFHFO3696R1ZZ",
+     "trdnm": "Om Office Mart",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000239",
+       "typ": "R",
+       "dt": "06-02-2026",
+       "val": 16343.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 13850,
+       "igst": 0.0,
+       "cgst": 1246.5,
+       "sgst": 1246.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QUBCT4113U1ZG",
+     "trdnm": "TULSI BROADBAND SERVICES",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/258",
+       "typ": "R",
+       "dt": "07-02-2026",
+       "val": 15469.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "2b94bc15d89a06edbbfd79ee869ef2e8ec4a533c4a80a027480b658fc10b6973",
+       "txval": 13110,
+       "igst": 0.0,
+       "cgst": 1179.9,
+       "sgst": 1179.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RLHFK9794M1ZD",
+     "trdnm": "KAVERI MANAGEMENT ADVISORS",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/313",
+       "typ": "R",
+       "dt": "06-02-2026",
+       "val": 50468.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 42770,
+       "igst": 0.0,
+       "cgst": 3849.3,
+       "sgst": 3849.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UMRCM9832G1ZS",
+     "trdnm": "Metro Events Pvt Ltd",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "MEP/0043/25-26",
+       "typ": "R",
+       "dt": "22-02-2026",
+       "val": 166087.51,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 140752.13,
+       "igst": 0.0,
+       "cgst": 12667.69,
+       "sgst": 12667.69,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24JBCFT1686C1Z4",
+     "trdnm": "TRIDENT CATERERS",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "TC/0265/25-26",
+       "typ": "R",
+       "dt": "18-02-2026",
+       "val": 66013.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 62870,
+       "igst": 0.0,
+       "cgst": 1571.75,
+       "sgst": 1571.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "TC/0269/25-26",
+       "typ": "R",
+       "dt": "03-02-2026",
+       "val": 53140.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 50610,
+       "igst": 0.0,
+       "cgst": 1265.25,
+       "sgst": 1265.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24SBWCJ6345Y1ZK",
+     "trdnm": "Jalaram Computers",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/275",
+       "typ": "R",
+       "dt": "05-02-2026",
+       "val": 136840.09,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "996f2a635e325a0b7a784f3b636244a88ecf98c008dde9656d660318057d37f9",
+       "txval": 115966.18,
+       "igst": 0.0,
+       "cgst": 10436.95,
+       "sgst": 10436.96,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "GST/2025-26/281",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 88416.39,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "60c01bffed8d573733d1eab15b8be6befa13a2f7c5dbdeb6dc8c8eef73654792",
+       "txval": 74929.15,
+       "igst": 0.0,
+       "cgst": 6743.62,
+       "sgst": 6743.62,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X7944/2025-26",
+       "typ": "R",
+       "dt": "28-02-2026",
+       "val": 240731.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 204010,
+       "igst": 0.0,
+       "cgst": 18360.9,
+       "sgst": 18360.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PQOCP5474L1ZG",
+     "trdnm": "Pratham Computers",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "PC00049",
+       "typ": "R",
+       "dt": "13-02-2026",
+       "val": 101220.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7b50154a83096b35475d1ce7b18b817d173586d6fe6ce364208ff36cdcde3360",
+       "txval": 85780,
+       "igst": 0.0,
+       "cgst": 7720.2,
+       "sgst": 7720.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23BPAFT1953D1ZR",
+     "trdnm": "TULSI WELFARE SUPPLIES",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/261",
+       "typ": "R",
+       "dt": "05-02-2026",
+       "val": 308263.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 261240,
+       "igst": 47023.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

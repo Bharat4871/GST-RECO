@@ -1,0 +1,324 @@
+{
+ "chksum": "fd01e1e0e0236886a4c97c88dceb2a62",
+ "data": {
+  "gstin": "27FTQCK8833D1ZX",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27LZHCT7191L2ZW",
+     "trdnm": "TRIDENT BROADBAND SERVICES",
+     "supfildt": "10-08-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000081",
+       "typ": "R",
+       "dt": "28-07-2026",
+       "val": 13452.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d4e0cd9fbf85934a68b7800bfb394fc7f74433ccc856544da794eb1f0786a082",
+       "txval": 11400,
+       "igst": 0.0,
+       "cgst": 1026.0,
+       "sgst": 1026.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000094",
+       "typ": "R",
+       "dt": "26-09-2026",
+       "val": 26290.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1c449fdfb17dc280efde7cd94de6c4658309ae168367638728d8b022392f353e",
+       "txval": 22280,
+       "igst": 0.0,
+       "cgst": 2005.2,
+       "sgst": 2005.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27TSJFO4832X2ZL",
+     "trdnm": "Om Office Mart",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000076",
+       "typ": "R",
+       "dt": "05-09-2026",
+       "val": 26833.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 22740,
+       "igst": 0.0,
+       "cgst": 2046.6,
+       "sgst": 2046.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000079",
+       "typ": "R",
+       "dt": "13-09-2026",
+       "val": 28789.95,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24398.26,
+       "igst": 0.0,
+       "cgst": 2195.84,
+       "sgst": 2195.85,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "X7317/2026-27",
+       "typ": "R",
+       "dt": "07-09-2026",
+       "val": 161353.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 136740,
+       "igst": 0.0,
+       "cgst": 12306.6,
+       "sgst": 12306.6,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "27LNYFJ8420S1Z4",
+     "trdnm": "JALARAM CARGO MOVERS",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "JCM/0100/26-27",
+       "typ": "R",
+       "dt": "25-09-2026",
+       "val": 65170,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 65170,
+       "igst": 0.0,
+       "cgst": 1629.25,
+       "sgst": 1629.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "JCM/0104/26-27",
+       "typ": "R",
+       "dt": "10-09-2026",
+       "val": 58720,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 58720,
+       "igst": 0.0,
+       "cgst": 1468.0,
+       "sgst": 1468.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09DUDFR4124Z1Z2",
+     "trdnm": "ROYAL BANQUETS",
+     "supfildt": "09-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00192",
+       "typ": "R",
+       "dt": "18-09-2026",
+       "val": 40929.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 38980,
+       "igst": 1949.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00196",
+       "typ": "R",
+       "dt": "06-09-2026",
+       "val": 37243.5,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "N",
+       "rsn": "POS",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 35470,
+       "igst": 1773.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZPAFP6901N1ZG",
+     "trdnm": "PRATHAM LOGISTICS",
+     "supfildt": "12-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000373",
+       "typ": "R",
+       "dt": "25-09-2026",
+       "val": 38360,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 38360,
+       "igst": 0.0,
+       "cgst": 959.0,
+       "sgst": 959.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33DZZPB2176S2ZF",
+     "trdnm": "BHAVANI GUARDING AGENCY",
+     "supfildt": "13-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "BGA00147",
+       "typ": "R",
+       "dt": "09-09-2026",
+       "val": 69790,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 69790,
+       "igst": 12562.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RMWCM5319L2ZI",
+     "trdnm": "Metro Estates LLP",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "MEL/0253/26-27",
+       "typ": "R",
+       "dt": "21-09-2026",
+       "val": 701462.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "c5cc98f6a46c32b158ad4c68aeb9565c320490a01db7bb0b201d886dd579b248",
+       "txval": 594460,
+       "igst": 0.0,
+       "cgst": 53501.4,
+       "sgst": 53501.4,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "08ZVTCE9290L2ZP",
+     "trdnm": "Excel Freight Carriers Ltd",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000112",
+       "typ": "R",
+       "dt": "08-09-2026",
+       "val": 56144.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6903911cb3d23297f4c1627ca6e858aff2eec9091661480da25061d49e4f190e",
+       "txval": 47580,
+       "igst": 8564.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

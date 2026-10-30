@@ -1,0 +1,248 @@
+{
+ "chksum": "deb04e7e9970a253b3f8db88f9d736bc",
+ "data": {
+  "gstin": "24RZFCS5218Q1Z2",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24FEICG9852W1Z2",
+     "trdnm": "GALAXY DYE CHEM",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000082",
+       "typ": "R",
+       "dt": "07-05-2026",
+       "val": 314352.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "f6b7498cf52a93f3e48993c5b2a16931d62fe042dce08da3e0277ccdfc29ac06",
+       "txval": 266400,
+       "igst": 0.0,
+       "cgst": 23976.0,
+       "sgst": 23976.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09RAJFN4619Q1Z1",
+     "trdnm": "Navkar Banquets",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/276",
+       "typ": "R",
+       "dt": "21-05-2026",
+       "val": 51502.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 49050,
+       "igst": 2452.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/281",
+       "typ": "R",
+       "dt": "28-05-2026",
+       "val": 62338.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 59370,
+       "igst": 2968.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07QYKFN7550I1Z4",
+     "trdnm": "NAVKAR CONSULTANTS",
+     "supfildt": "08-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST202627167",
+       "typ": "R",
+       "dt": "03-05-2026",
+       "val": 169105.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 143310,
+       "igst": 25795.8,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24EDZFE3359R1Z4",
+     "trdnm": "EXCEL LOGISTICS",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/284",
+       "typ": "R",
+       "dt": "21-05-2026",
+       "val": 24250,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 24250,
+       "igst": 0.0,
+       "cgst": 606.25,
+       "sgst": 606.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24KWECS6030P1ZM",
+     "trdnm": "SAI AUTOMATION",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/194",
+       "typ": "R",
+       "dt": "23-05-2026",
+       "val": 1905223.31,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "52a48f5c0e8b46e8edd15dcb5bccc3e16ea65fa676182786b63e3ff9c03c0ff4",
+       "txval": 1614596.03,
+       "igst": 0.0,
+       "cgst": 145313.64,
+       "sgst": 145313.64,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "23BPAFT1953D1ZR",
+     "trdnm": "TULSI RESTAURANT",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000321",
+       "typ": "R",
+       "dt": "08-05-2026",
+       "val": 28654.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 27290,
+       "igst": 1364.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24APGCU7303X1ZO",
+     "trdnm": "Unique Yarn Traders",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000346",
+       "typ": "R",
+       "dt": "30-05-2026",
+       "val": 706923.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1d8ce1958cdb5d2fbd2d960b3ba775f1851c24b5b90ab34cf8002869e523dccb",
+       "txval": 673260,
+       "igst": 0.0,
+       "cgst": 16831.5,
+       "sgst": 16831.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23WEXCP3358E2ZA",
+     "trdnm": "Pratham Industries",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/259",
+       "typ": "R",
+       "dt": "05-05-2026",
+       "val": 353575.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "fa32f168a5d078b3e54cf558578a6d22a732692b975a8875afd0b2bf19a16b54",
+       "txval": 299640,
+       "igst": 53935.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

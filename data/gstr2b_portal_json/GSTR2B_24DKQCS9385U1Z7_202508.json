@@ -1,0 +1,40 @@
+{
+ "chksum": "687508fcddd06eff608621d8a9063cd0",
+ "data": {
+  "gstin": "24DKQCS9385U1Z7",
+  "rtnprd": "082025",
+  "version": "1.0",
+  "gendt": "14-09-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24YEBCG9572V1ZR",
+     "trdnm": "GALAXY AGRO COMMODITIES",
+     "supfildt": "11-08-2025",
+     "supprd": "082025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/563",
+       "typ": "R",
+       "dt": "31-07-2025",
+       "val": 109872.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 98100,
+       "igst": 0.0,
+       "cgst": 5886.0,
+       "sgst": 5886.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

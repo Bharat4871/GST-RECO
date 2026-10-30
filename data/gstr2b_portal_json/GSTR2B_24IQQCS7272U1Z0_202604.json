@@ -1,0 +1,186 @@
+{
+ "chksum": "620136c604f06cc0e5a8a0e374fbc22f",
+ "data": {
+  "gstin": "24IQQCS7272U1Z0",
+  "rtnprd": "042026",
+  "version": "1.0",
+  "gendt": "14-05-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24AHGFS1837I2ZR",
+     "trdnm": "SAI CARGO MOVERS",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "INV262700277",
+       "typ": "R",
+       "dt": "22-04-2026",
+       "val": 55343.26,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 55343.26,
+       "igst": 0.0,
+       "cgst": 1383.58,
+       "sgst": 1383.58,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "33OGYCJ2863S1ZQ",
+     "trdnm": "JAY GENERAL INSURANCE CO. LTD",
+     "supfildt": "12-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "JGI00352",
+       "typ": "R",
+       "dt": "09-04-2026",
+       "val": 114021.03,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "419e50c7d0f63ae51d7492f59a3cbdd5b2b386ed6d3e412a1d97c00660f540fd",
+       "txval": 96627.99,
+       "igst": 17393.04,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07GNQCS9627E1ZY",
+     "trdnm": "SAI TELECOM LTD",
+     "supfildt": "10-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "STL/0071/26-27",
+       "typ": "R",
+       "dt": "06-04-2026",
+       "val": 4938.56,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "5e9733b5f7384746c6421109436f8c9b504cefae6280cae6b44501b23631e4ed",
+       "txval": 4185.22,
+       "igst": 753.34,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "STL/0073/26-27",
+       "typ": "R",
+       "dt": "09-04-2026",
+       "val": 14296.21,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "efedd9fa9a855ede9530e1eb741294a6c78de4f5ea84699f20f4b7cd7f80b3b4",
+       "txval": 12115.43,
+       "igst": 2180.78,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24COVCT7664E1ZX",
+     "trdnm": "TRIDENT POLYMERS",
+     "supfildt": "13-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "2026000090",
+       "typ": "R",
+       "dt": "05-04-2026",
+       "val": 397756.13,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9b3e18f383a5d0bdd06f4902de88d81e1036053f229a37cd697236538e2df1dd",
+       "txval": 378815.36,
+       "igst": 0.0,
+       "cgst": 9470.39,
+       "sgst": 9470.38,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000096",
+       "typ": "R",
+       "dt": "29-04-2026",
+       "val": 901970.12,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4aaae298669fc6b585620e438724b31554c4a5a2403bb7d3c39608e89e9398cd",
+       "txval": 859019.16,
+       "igst": 0.0,
+       "cgst": 21475.48,
+       "sgst": 21475.48,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24IABPO2165Y1ZR",
+     "trdnm": "OM SECURITY SERVICES",
+     "supfildt": "11-05-2026",
+     "supprd": "042026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/367",
+       "typ": "R",
+       "dt": "20-04-2026",
+       "val": 49606.83,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 49606.83,
+       "igst": 0.0,
+       "cgst": 4464.61,
+       "sgst": 4464.62,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

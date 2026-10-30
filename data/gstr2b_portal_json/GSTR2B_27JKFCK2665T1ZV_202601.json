@@ -1,0 +1,256 @@
+{
+ "chksum": "53fed921f7f29b226ea816d50501b665",
+ "data": {
+  "gstin": "27JKFCK2665T1ZV",
+  "rtnprd": "012026",
+  "version": "1.0",
+  "gendt": "14-02-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27DRZFK7940Y1ZJ",
+     "trdnm": "KAVERI CATERERS",
+     "supfildt": "08-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00082",
+       "typ": "R",
+       "dt": "15-01-2026",
+       "val": 70539.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 67180,
+       "igst": 0.0,
+       "cgst": 1679.5,
+       "sgst": 1679.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27AETPS6038I2ZQ",
+     "trdnm": "Sai Guarding Agency",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "INV-2526-00394",
+       "typ": "R",
+       "dt": "28-01-2026",
+       "val": 69840,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 69840,
+       "igst": 0.0,
+       "cgst": 6285.6,
+       "sgst": 6285.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27XXMFG1602E1ZU",
+     "trdnm": "GALAXY STATIONERS",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GS/0403/25-26",
+       "typ": "R",
+       "dt": "23-01-2026",
+       "val": 28201.64,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 23899.7,
+       "igst": 0.0,
+       "cgst": 2150.97,
+       "sgst": 2150.97,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZOGFV1836N1Z6",
+     "trdnm": "Vishwa Logistics",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "VL00076",
+       "typ": "R",
+       "dt": "30-01-2026",
+       "val": 51920,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 51920,
+       "igst": 0.0,
+       "cgst": 1298.0,
+       "sgst": 1298.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27NYVCS8420S1ZG",
+     "trdnm": "SIDDHI TELECOM LTD",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/57",
+       "typ": "R",
+       "dt": "28-01-2026",
+       "val": 7469.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3d5878a08a3c8148b297e92a277108a3fbf5de2260ad4793d7b6a99030016380",
+       "txval": 6330,
+       "igst": 0.0,
+       "cgst": 569.7,
+       "sgst": 569.7,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27DUDCM4124Z1ZF",
+     "trdnm": "Mahalaxmi Computers",
+     "supfildt": "09-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/380",
+       "typ": "R",
+       "dt": "08-01-2026",
+       "val": 112642.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ba9b47cb78538ec6ff4a5680519992a7ee50995974dd14299e6ce9949f875bc7",
+       "txval": 95460,
+       "igst": 0.0,
+       "cgst": 8591.4,
+       "sgst": 8591.4,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27BXTFK4201J1ZT",
+     "trdnm": "Kaveri Tours & Travels",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "KT/0216/25-26",
+       "typ": "R",
+       "dt": "23-01-2026",
+       "val": 132930.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 126600,
+       "igst": 0.0,
+       "cgst": 3165.0,
+       "sgst": 3165.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27UDNCK4850K1ZA",
+     "trdnm": "KESAR COMPUTERS",
+     "supfildt": "10-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/50",
+       "typ": "R",
+       "dt": "21-01-2026",
+       "val": 120843.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d622612275598b5497733a8dbde5c579e8fa3f2bb82e9851869c5054aeaa83d4",
+       "txval": 102410,
+       "igst": 0.0,
+       "cgst": 9216.9,
+       "sgst": 9216.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZPAFP6901N1ZG",
+     "trdnm": "PRATHAM FORKLIFT SERVICES",
+     "supfildt": "12-02-2026",
+     "supprd": "012026",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/378",
+       "typ": "R",
+       "dt": "18-01-2026",
+       "val": 201791.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 171010,
+       "igst": 0.0,
+       "cgst": 15390.9,
+       "sgst": 15390.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,205 @@
+{
+ "chksum": "7e268812016843ec226223d3b07322ca",
+ "data": {
+  "gstin": "27OSDCK4975V1ZZ",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27ADCFK6599V1ZV",
+     "trdnm": "Kaveri Bearings & Spares",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00091",
+       "typ": "R",
+       "dt": "26-05-2026",
+       "val": 39476.22,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 33454.42,
+       "igst": 0.0,
+       "cgst": 3010.9,
+       "sgst": 3010.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2627-00092",
+       "typ": "R",
+       "dt": "17-05-2026",
+       "val": 84335.71,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 71470.94,
+       "igst": 0.0,
+       "cgst": 6432.39,
+       "sgst": 6432.38,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27COPPJ2005O1ZM",
+     "trdnm": "Jalaram Guarding Agency",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000392",
+       "typ": "R",
+       "dt": "12-05-2026",
+       "val": 56143.79,
+       "pos": "27",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 56143.79,
+       "igst": 0.0,
+       "cgst": 5052.94,
+       "sgst": 5052.94,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27RMWFM5319L2ZC",
+     "trdnm": "METRO MANAGEMENT ADVISORS",
+     "supfildt": "08-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000313",
+       "typ": "R",
+       "dt": "28-05-2026",
+       "val": 63579.11,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 53880.6,
+       "igst": 0.0,
+       "cgst": 4849.26,
+       "sgst": 4849.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000317",
+       "typ": "R",
+       "dt": "28-05-2026",
+       "val": 42991.27,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 36433.28,
+       "igst": 0.0,
+       "cgst": 3278.99,
+       "sgst": 3279.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "36NIMFM5915W1ZC",
+     "trdnm": "Metro Caterers",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "MC00067",
+       "typ": "R",
+       "dt": "20-05-2026",
+       "val": 44110.77,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 42010.26,
+       "igst": 2100.51,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "MC00074",
+       "typ": "R",
+       "dt": "26-05-2026",
+       "val": 67633.86,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 64413.2,
+       "igst": 3220.66,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "27QVPCA2853C1Z3",
+     "trdnm": "AMBIKA TELECOM LTD",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "inv-2627-00056",
+       "typ": "R",
+       "dt": "12-05-2026",
+       "val": 26190.51,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "8e10b956d3bbae84e94a2ea62aa74ee37f46770519e3b25fa100de6b6ea16ecf",
+       "txval": 22195.35,
+       "igst": 0.0,
+       "cgst": 1997.58,
+       "sgst": 1997.58,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

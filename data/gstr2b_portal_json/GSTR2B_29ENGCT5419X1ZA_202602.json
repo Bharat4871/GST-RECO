@@ -1,0 +1,140 @@
+{
+ "chksum": "85346b8f44f6742e79d2643ad1b1fb48",
+ "data": {
+  "gstin": "29ENGCT5419X1ZA",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29VBUCN1647P1ZS",
+     "trdnm": "NARAYAN INFOTECH",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/110",
+       "typ": "R",
+       "dt": "24-02-2026",
+       "val": 69962.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3d0d6d8a5a09e5c5d19c2e478bbcd903fc537f737926e0084e024f7b4280b268",
+       "txval": 59290,
+       "igst": 0.0,
+       "cgst": 5336.1,
+       "sgst": 5336.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29KLGFV9874I1ZB",
+     "trdnm": "Vardhman Stationers",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-356",
+       "typ": "R",
+       "dt": "27-02-2026",
+       "val": 17443.41,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 14782.55,
+       "igst": 0.0,
+       "cgst": 1330.43,
+       "sgst": 1330.43,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "LATE/2025-26/935",
+       "typ": "R",
+       "dt": "22-02-2026",
+       "val": 165152.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 139960,
+       "igst": 0.0,
+       "cgst": 12596.4,
+       "sgst": 12596.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "07YZWPJ5835A1ZI",
+     "trdnm": "Jalaram Security Services",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/141",
+       "typ": "R",
+       "dt": "12-02-2026",
+       "val": 41300,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 41300,
+       "igst": 7434.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29TNOFK8449B1ZN",
+     "trdnm": "Kaveri Transport Co.",
+     "supfildt": "18-02-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "X3341/2025-26",
+       "typ": "R",
+       "dt": "03-02-2026",
+       "val": 55342.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 46900,
+       "igst": 0.0,
+       "cgst": 4221.0,
+       "sgst": 4221.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

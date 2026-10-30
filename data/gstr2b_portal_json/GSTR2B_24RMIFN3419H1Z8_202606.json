@@ -1,0 +1,259 @@
+{
+ "chksum": "8bf1a1e87f97c34bbd7d0e35f6abc2e0",
+ "data": {
+  "gstin": "24RMIFN3419H1Z8",
+  "rtnprd": "062026",
+  "version": "1.0",
+  "gendt": "14-07-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "36QRKFS6287X1ZA",
+     "trdnm": "SIDDHI CONSULTANTS",
+     "supfildt": "12-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "SC/0111/26-27",
+       "typ": "R",
+       "dt": "20-06-2026",
+       "val": 61973.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 52520,
+       "igst": 9453.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08PDXCK2198M1ZW",
+     "trdnm": "KAVERI GENERAL INSURANCE CO. LTD",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "KGI/0210/26-27",
+       "typ": "R",
+       "dt": "01-06-2026",
+       "val": 29936.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "d11cf4a0cbedee187e92759fed2c251d18f0ced2b0c1f77350a910cdcc700a3b",
+       "txval": 25370,
+       "igst": 4566.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24UKBFB7549X1ZG",
+     "trdnm": "Bhavani Cement Depot",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "INV-2627-00190",
+       "typ": "R",
+       "dt": "10-06-2026",
+       "val": 1205582.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1021680,
+       "igst": 0.0,
+       "cgst": 91951.2,
+       "sgst": 91951.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24WSJFM1731M1ZL",
+     "trdnm": "Metro Constructions",
+     "supfildt": "11-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "MC00200",
+       "typ": "R",
+       "dt": "13-06-2026",
+       "val": 943292.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 799400,
+       "igst": 0.0,
+       "cgst": 71946.0,
+       "sgst": 71946.0,
+       "cess": 0.0,
+       "imsStatus": "Pending"
+      }
+     ]
+    },
+    {
+     "ctin": "36BFRFM9411H1ZM",
+     "trdnm": "Mahalaxmi Roadlines",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/156",
+       "typ": "R",
+       "dt": "06-06-2026",
+       "val": 82230,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 82230,
+       "igst": 4111.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2026-27/164",
+       "typ": "R",
+       "dt": "19-06-2026",
+       "val": 34668.62,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 34668.62,
+       "igst": 1733.43,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24VKLCO3968C1Z6",
+     "trdnm": "OM BROADBAND SERVICES",
+     "supfildt": "09-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "OBS00362",
+       "typ": "R",
+       "dt": "19-06-2026",
+       "val": 13369.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7592e74d45fd94f7f3f2d0032885bbbebf7bdc72fbb50acc229043a88939fffe",
+       "txval": 11330,
+       "igst": 0.0,
+       "cgst": 1019.7,
+       "sgst": 1019.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "OBS00369",
+       "typ": "R",
+       "dt": "04-06-2026",
+       "val": 20862.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6f55327aa6a54e5b3e86237ca4f401145176d393c8ee1a24df27e1c52a2aca03",
+       "txval": 17680,
+       "igst": 0.0,
+       "cgst": 1591.2,
+       "sgst": 1591.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZBUFE3827C1ZQ",
+     "trdnm": "EXCEL INFRA WORKS",
+     "supfildt": "13-07-2026",
+     "supprd": "062026",
+     "inv": [
+      {
+       "inum": "INV-2627-00088",
+       "typ": "R",
+       "dt": "10-06-2026",
+       "val": 510055.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 432250,
+       "igst": 0.0,
+       "cgst": 38902.5,
+       "sgst": 38902.5,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "INV-2627-00097",
+       "typ": "R",
+       "dt": "13-06-2026",
+       "val": 2111645.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1789530,
+       "igst": 0.0,
+       "cgst": 161057.7,
+       "sgst": 161057.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

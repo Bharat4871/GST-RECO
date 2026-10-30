@@ -1,0 +1,232 @@
+{
+ "chksum": "11fadaa0c34a4fd8117aed21225b42d1",
+ "data": {
+  "gstin": "24ZIYCS9004E1ZY",
+  "rtnprd": "032026",
+  "version": "1.0",
+  "gendt": "14-04-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "09YFTCJ9234V1Z5",
+     "trdnm": "JALARAM STEEL TRADERS",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/216",
+       "typ": "R",
+       "dt": "02-03-2026",
+       "val": 262626.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3f028a69453b44c0734ea71fca503787188c8d08e319477d90d5199b9267e53b",
+       "txval": 250120,
+       "igst": 12506.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/224",
+       "typ": "R",
+       "dt": "05-03-2026",
+       "val": 1252534.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "eaaaf4099be8ce1ca3c083bcbf3c6695347b17babce2c16855ce9ecc9c61f931",
+       "txval": 1192890,
+       "igst": 59644.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/230",
+       "typ": "R",
+       "dt": "29-03-2026",
+       "val": 1057822.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3c519ff0f8c64309cd4e477ed2da87628ddc6c5fd820945d649a2cdc57358dba",
+       "txval": 1007450,
+       "igst": 50372.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24MIOCR8274X2Z4",
+     "trdnm": "Royal Yarn Traders",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/225-26/159",
+       "typ": "R",
+       "dt": "25-03-2026",
+       "val": 851172.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4f9ff11a0682174524f4b1d3be5179988b64a5ca6b9e55fc1ea8c211a43daa18",
+       "txval": 810640,
+       "igst": 0.0,
+       "cgst": 20266.0,
+       "sgst": 20266.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24AOTCM5841E1ZH",
+     "trdnm": "Mahalaxmi Yarn Traders",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "MYT00374",
+       "typ": "R",
+       "dt": "19-03-2026",
+       "val": 1405729.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "dae0db56a79b9e4be78bad97fe13088a8ae6b9c57ade08aa85ee944e3dc4b739",
+       "txval": 1338790,
+       "igst": 0.0,
+       "cgst": 33469.75,
+       "sgst": 33469.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24QUBCT4113U1ZG",
+     "trdnm": "TULSI BROADBAND SERVICES",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/267",
+       "typ": "R",
+       "dt": "24-03-2026",
+       "val": 29346.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "bfe1cc7fb43c42b746a3c171e7110f2168ddac1fd5a6fb478d4b8fc9bbf9651d",
+       "txval": 24870,
+       "igst": 0.0,
+       "cgst": 2238.3,
+       "sgst": 2238.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24PRAFM5925H1Z2",
+     "trdnm": "MAHALAXMI SWEETS & DRY FRUITS",
+     "supfildt": "11-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "2025000354",
+       "typ": "R",
+       "dt": "13-03-2026",
+       "val": 153636.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 146320,
+       "igst": 0.0,
+       "cgst": 3658.0,
+       "sgst": 3658.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2025000359",
+       "typ": "R",
+       "dt": "24-03-2026",
+       "val": 23425.5,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 22310,
+       "igst": 0.0,
+       "cgst": 557.75,
+       "sgst": 557.75,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "08NBPPK5083T1Z7",
+     "trdnm": "KAVERI GUARDING AGENCY",
+     "supfildt": "09-04-2026",
+     "supprd": "032026",
+     "inv": [
+      {
+       "inum": "GST202526188",
+       "typ": "R",
+       "dt": "20-03-2026",
+       "val": 95480,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 95480,
+       "igst": 17186.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

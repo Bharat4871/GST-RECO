@@ -1,0 +1,251 @@
+{
+ "chksum": "9f9fd78be1a2256b3ddb5b3098989f2a",
+ "data": {
+  "gstin": "29ZZCCT7359B1Z3",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "09POUCU3407Z1ZO",
+     "trdnm": "UMIYA TELECOM LTD",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "UTL/0022/25-26",
+       "typ": "R",
+       "dt": "19-02-2026",
+       "val": 25193.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "9802776a3b39c2d20c8fb058ec982af47753f4c04d9f49fccca588636cd14c9e",
+       "txval": 21350,
+       "igst": 3843.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "UTL/0031/25-26",
+       "typ": "R",
+       "dt": "02-02-2026",
+       "val": 11717.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a8f68ec75aa00543905643e729823c975e2eb9b55a20febac60da8145cedde06",
+       "txval": 9930,
+       "igst": 1787.4,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29QNXCS6151N1Z3",
+     "trdnm": "SUNRISE COMPUTERS",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "SC/0212/25-26",
+       "typ": "R",
+       "dt": "02-02-2026",
+       "val": 640610.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1f01f44fc58affb39e170d65bc98d2e45bbef47311b66b6d85c7fca853172407",
+       "txval": 542890,
+       "igst": 0.0,
+       "cgst": 48860.1,
+       "sgst": 48860.1,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "SC/0216/25-26",
+       "typ": "R",
+       "dt": "10-02-2026",
+       "val": 273016.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6e1a4bc750cf8364ba81bfef81488f29f34c904f36b4deb9061a72291ae4da6e",
+       "txval": 231370,
+       "igst": 0.0,
+       "cgst": 20823.3,
+       "sgst": 20823.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "08XJWCJ2503U1ZG",
+     "trdnm": "Jalaram Computers",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "JC00107",
+       "typ": "R",
+       "dt": "26-02-2026",
+       "val": 64121.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "6b1642a72b4a8c3e1098d2a0b69925bef0d244d3261b15c2892d18f9adc1a7c7",
+       "txval": 54340,
+       "igst": 9781.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "JC00110",
+       "typ": "R",
+       "dt": "24-02-2026",
+       "val": 69962.2,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "90937e4d1cc85d6464da7a0d8b10bfc8e9fa8f8e6c2673f9c48f30e79d7e57db",
+       "txval": 59290,
+       "igst": 10672.2,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29CWHFM8601R1Z8",
+     "trdnm": "Metro Stationers",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "MS/0356/25-26",
+       "typ": "R",
+       "dt": "27-02-2026",
+       "val": 17443.41,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 14782.55,
+       "igst": 0.0,
+       "cgst": 1330.43,
+       "sgst": 1330.43,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "LATE/2025-26/935",
+       "typ": "R",
+       "dt": "22-02-2026",
+       "val": 165152.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 139960,
+       "igst": 0.0,
+       "cgst": 12596.4,
+       "sgst": 12596.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29KLGPV9874I1ZQ",
+     "trdnm": "Vardhman Security Services",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/141",
+       "typ": "R",
+       "dt": "12-02-2026",
+       "val": 41300,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 41300,
+       "igst": 0.0,
+       "cgst": 3717.0,
+       "sgst": 3717.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06UGIFS4496O1ZH",
+     "trdnm": "Sahyadri Tours & Travels",
+     "supfildt": "06-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "X8905/2025-26",
+       "typ": "R",
+       "dt": "19-02-2026",
+       "val": 83567.6,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 70820,
+       "igst": 12747.6,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

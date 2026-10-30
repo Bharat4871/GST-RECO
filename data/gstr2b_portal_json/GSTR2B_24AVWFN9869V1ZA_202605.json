@@ -1,0 +1,248 @@
+{
+ "chksum": "d244ef8754df5825af36571ccb69bdf5",
+ "data": {
+  "gstin": "24AVWFN9869V1ZA",
+  "rtnprd": "052026",
+  "version": "1.0",
+  "gendt": "14-06-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29ARGFP6025S1ZI",
+     "trdnm": "PRIME LOGISTICS",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "PL00153",
+       "typ": "R",
+       "dt": "03-05-2026",
+       "val": 77010,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 77010,
+       "igst": 3850.5,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24GLLCE8524U1ZY",
+     "trdnm": "EXCEL COMPUTERS",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "EC/0100/26-27",
+       "typ": "R",
+       "dt": "27-05-2026",
+       "val": 61336.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "209092ecfb019cb7b7e304c8cf3bd7f85c9822c96703b555bb6c0260ca8bd1fc",
+       "txval": 51980,
+       "igst": 0.0,
+       "cgst": 4678.2,
+       "sgst": 4678.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24DCEFN7376K1ZO",
+     "trdnm": "Narayan Transport Co.",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000054",
+       "typ": "R",
+       "dt": "01-05-2026",
+       "val": 10550,
+       "pos": "24",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 10550,
+       "igst": 0.0,
+       "cgst": 263.75,
+       "sgst": 263.75,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RBUFN9422I1Z9",
+     "trdnm": "NARAYAN STATIONERS",
+     "supfildt": "12-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/102",
+       "typ": "R",
+       "dt": "21-05-2026",
+       "val": 7527.99,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 6379.65,
+       "igst": 0.0,
+       "cgst": 574.17,
+       "sgst": 574.17,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24YGZFB8489Q1Z2",
+     "trdnm": "BHAVANI BUILDING MATERIALS",
+     "supfildt": "08-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "2026000390",
+       "typ": "R",
+       "dt": "15-05-2026",
+       "val": 1158889.8,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 982110,
+       "igst": 0.0,
+       "cgst": 88389.9,
+       "sgst": 88389.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "2026000395",
+       "typ": "R",
+       "dt": "17-05-2026",
+       "val": 300062.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 254290,
+       "igst": 0.0,
+       "cgst": 22886.1,
+       "sgst": 22886.1,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24ZEHCM1382A1Z1",
+     "trdnm": "Metro Broadband Services",
+     "supfildt": "11-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00405",
+       "typ": "R",
+       "dt": "28-05-2026",
+       "val": 19281.2,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "afce4b9a0929a984c479c369a78ef3017d42b65ad6711a9cf693d6f8f048e9fc",
+       "txval": 16340,
+       "igst": 0.0,
+       "cgst": 1470.6,
+       "sgst": 1470.6,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "23AFKCG9832E1ZA",
+     "trdnm": "Galaxy Automation",
+     "supfildt": "10-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "INV-2627-00200",
+       "typ": "R",
+       "dt": "06-05-2026",
+       "val": 269615.1,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "1c2a494bfaeae454e98ade7f77f783c4757755d948910b810624960d52cd0a7f",
+       "txval": 228487.37,
+       "igst": 41127.73,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24PMKFR3895G2ZP",
+     "trdnm": "Royal Infra Works",
+     "supfildt": "09-06-2026",
+     "supprd": "052026",
+     "inv": [
+      {
+       "inum": "RIW/0250/26-27",
+       "typ": "R",
+       "dt": "19-05-2026",
+       "val": 1577683.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 1337020,
+       "igst": 0.0,
+       "cgst": 120331.8,
+       "sgst": 120331.8,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

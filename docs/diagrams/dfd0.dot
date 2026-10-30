@@ -1,0 +1,14 @@
+digraph G { rankdir=LR; bgcolor="white"; node [fontname="Helvetica", fontsize=11];
+  edge [fontname="Helvetica", fontsize=9, color="#445468"];
+  client [shape=box, style="filled", fillcolor="#e2eaf7", label="Client\n(books, bills)"];
+  portal [shape=box, style="filled", fillcolor="#e2eaf7", label="GST portal\n(GSTR-2B / IMS)"];
+  ca [shape=box, style="filled", fillcolor="#e2eaf7", label="CA / article\nassistant"];
+  vendor [shape=box, style="filled", fillcolor="#e2eaf7", label="Vendors"];
+  sys [shape=circle, width=2.2, style="filled", fillcolor="#1d4d9c", fontcolor="white", label="0\nGSTiQ\nITC & RCM\nSuite"];
+  client -> sys [label="purchase register,\noutward summary"];
+  portal -> sys [label="GSTR-2B JSON"];
+  ca -> sys [label="IMS actions, settings,\nqueries"];
+  sys -> ca [label="dashboards, GSTR-3B working,\nreports, AI insights"];
+  sys -> client [label="review report,\nMIS, self-invoices"];
+  sys -> vendor [label="follow-up letters"];
+}

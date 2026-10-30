@@ -1,0 +1,359 @@
+{
+ "chksum": "169a6f9f1a58f8de8cc6069d63d55700",
+ "data": {
+  "gstin": "24DKQCS9385U1Z7",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "27YRICG6853E1ZS",
+     "trdnm": "Galaxy Containers",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "gst/2025-26/227",
+       "typ": "R",
+       "dt": "09-02-2026",
+       "val": 139240.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "3cf166b4c110d2df90e2035a9da207df9ccffbf35d50740f1e8c3ebda6955914",
+       "txval": 118000,
+       "igst": 21240.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/231",
+       "typ": "R",
+       "dt": "03-02-2026",
+       "val": 494819.17,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "247a3b4e04add2ef3dc85eb6377175127eb59e63d8b04533a939bf762f34cd96",
+       "txval": 419338.28,
+       "igst": 75480.89,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24EZZFO6013Q1ZY",
+     "trdnm": "OM OFFICE MART",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "OOM/0026/25-26",
+       "typ": "R",
+       "dt": "01-02-2026",
+       "val": 10620.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 9000,
+       "igst": 0.0,
+       "cgst": 810.0,
+       "sgst": 810.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24TTRCB7891Z1ZG",
+     "trdnm": "BHAVANI TELECOM LTD",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00038",
+       "typ": "R",
+       "dt": "17-02-2026",
+       "val": 7111.47,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "ebb58945a0c1a1119b359c2b9df0446ac4ddc8fa8ce13842c96109d691a3b58e",
+       "txval": 6026.67,
+       "igst": 0.0,
+       "cgst": 542.4,
+       "sgst": 542.4,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00048",
+       "typ": "R",
+       "dt": "17-02-2026",
+       "val": 9872.81,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "fd9cfd88742e851bae18fdc8cc50cfa77bf8f4d8383c950248cb8da2ce209f90",
+       "txval": 8366.79,
+       "igst": 0.0,
+       "cgst": 753.01,
+       "sgst": 753.01,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "24PWRCN5112R1Z8",
+     "trdnm": "Narayan Metals",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "2025000257",
+       "typ": "R",
+       "dt": "01-02-2026",
+       "val": 537888.57,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "b30d5b92e4275dc4fc11261a887f01d6b02f46a6cf63e195a87cfeca9e9e99c7",
+       "txval": 512274.83,
+       "igst": 0.0,
+       "cgst": 12806.87,
+       "sgst": 12806.87,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24POQFV9145Z1ZE",
+     "trdnm": "VISHWA CONSULTANTS",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00078",
+       "typ": "R",
+       "dt": "05-02-2026",
+       "val": 69370.7,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 58788.73,
+       "igst": 0.0,
+       "cgst": 5290.98,
+       "sgst": 5290.99,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "INV-2526-00085",
+       "typ": "R",
+       "dt": "23-02-2026",
+       "val": 139878.53,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 118541.13,
+       "igst": 0.0,
+       "cgst": 10668.7,
+       "sgst": 10668.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24GXNCS3397O1Z1",
+     "trdnm": "Sahyadri Poly Pack",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00386",
+       "typ": "R",
+       "dt": "02-02-2026",
+       "val": 333940.0,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "669da5c9a6534b34c019cc15d2c10a9165bbe961b5e940a0e51e85b1efe5e32c",
+       "txval": 283000,
+       "igst": 0.0,
+       "cgst": 25470.0,
+       "sgst": 25470.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "06AWLCD6956O1ZL",
+     "trdnm": "DECCAN YARN TRADERS",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "DYT/0043/25-26",
+       "typ": "R",
+       "dt": "20-02-2026",
+       "val": 1484311.29,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "259b1c86b189840b98d72c449eddb8fbfd0ae6a2ae95e4063226796c32e0d6ba",
+       "txval": 1413629.8,
+       "igst": 70681.49,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "DYT/0049/25-26",
+       "typ": "R",
+       "dt": "05-02-2026",
+       "val": 127802.07,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "90ab19b82833b524d2c8a216d52550171646e7587ff3df8e48f1b293889cfcba",
+       "txval": 127802.07,
+       "igst": 0.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24RGDCM5595R2ZU",
+     "trdnm": "Metro Systems",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "MS00066",
+       "typ": "R",
+       "dt": "20-02-2026",
+       "val": 100625.55,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "22a60a15732fc8622e5ec45dafc531e70393260da2be1ab3e991e498760b114c",
+       "txval": 85275.89,
+       "igst": 0.0,
+       "cgst": 7674.83,
+       "sgst": 7674.83,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "36AJWCD6415J1ZL",
+     "trdnm": "DECCAN DYE CHEM",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "DDC/0178/25-26",
+       "typ": "R",
+       "dt": "16-02-2026",
+       "val": 81089.94,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "88b7794ec16fb192cafa0e78a5cf9091a5b8a61479a035132075dc44b42612f0",
+       "txval": 68720.29,
+       "igst": 12369.65,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "24YEBCG9572V1ZR",
+     "trdnm": "Galaxy Agro Commodities",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/464",
+       "typ": "R",
+       "dt": "22-02-2026",
+       "val": 331072.6,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 280570,
+       "igst": 0.0,
+       "cgst": 25251.3,
+       "sgst": 25251.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

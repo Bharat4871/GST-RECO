@@ -1,0 +1,40 @@
+{
+ "chksum": "acf68d6315a2e737d2a43264b98f65ba",
+ "data": {
+  "gstin": "24AVWFN9869V1ZA",
+  "rtnprd": "072025",
+  "version": "1.0",
+  "gendt": "14-08-2025",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "24RBUFN9422I1Z9",
+     "trdnm": "Narayan Stationers",
+     "supfildt": "10-08-2025",
+     "supprd": "072025",
+     "inv": [
+      {
+       "inum": "LATE/2025-26/908",
+       "typ": "R",
+       "dt": "18-07-2025",
+       "val": 308414.4,
+       "pos": "24",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 275370,
+       "igst": 0.0,
+       "cgst": 16522.2,
+       "sgst": 16522.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

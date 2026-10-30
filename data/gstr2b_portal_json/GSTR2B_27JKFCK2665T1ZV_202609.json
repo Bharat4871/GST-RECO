@@ -1,0 +1,186 @@
+{
+ "chksum": "eae4aea6fa53f4bb88d52334b5d7126e",
+ "data": {
+  "gstin": "27JKFCK2665T1ZV",
+  "rtnprd": "092026",
+  "version": "1.0",
+  "gendt": "14-10-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "08WYMFM4683W1ZZ",
+     "trdnm": "Metro Hardware Stores",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00303",
+       "typ": "R",
+       "dt": "06-09-2026",
+       "val": 61891.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 52450,
+       "igst": 9441.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      },
+      {
+       "inum": "X9618/2026-27",
+       "typ": "R",
+       "dt": "08-09-2026",
+       "val": 119829.0,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 101550,
+       "igst": 18279.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27XIGCT8237F1Z0",
+     "trdnm": "TRIDENT MACHINERY",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "2026000356",
+       "typ": "R",
+       "dt": "20-09-2026",
+       "val": 1374834.4,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "4286741e9c0edf049fac0f11be64fecd53542093222e071c3f5aea251604df44",
+       "txval": 1165113.9,
+       "igst": 0.0,
+       "cgst": 104860.25,
+       "sgst": 104860.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27UDNCK4850K1ZA",
+     "trdnm": "Kesar Computers",
+     "supfildt": "11-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "GST/2026-27/72",
+       "typ": "R",
+       "dt": "14-09-2026",
+       "val": 105338.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "95d1d186701d6797825730dc9ede8e1d6a73fa62c1cf5066cc40a435cc5689b8",
+       "txval": 89270,
+       "igst": 0.0,
+       "cgst": 8034.3,
+       "sgst": 8034.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27ZPAFP6901N1ZG",
+     "trdnm": "PRATHAM FORKLIFT SERVICES",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "PFS/0270/26-27",
+       "typ": "R",
+       "dt": "05-09-2026",
+       "val": 238230.2,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 201890,
+       "igst": 0.0,
+       "cgst": 18170.1,
+       "sgst": 18170.1,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "PFS/0272/26-27",
+       "typ": "R",
+       "dt": "25-09-2026",
+       "val": 137788.6,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 116770,
+       "igst": 0.0,
+       "cgst": 10509.3,
+       "sgst": 10509.3,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "27XBZCA9418K1Z3",
+     "trdnm": "AMBIKA REALTY PVT LTD",
+     "supfildt": "10-10-2026",
+     "supprd": "092026",
+     "inv": [
+      {
+       "inum": "INV-2627-00277",
+       "typ": "R",
+       "dt": "06-09-2026",
+       "val": 347403.8,
+       "pos": "27",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "a2e37851aaaba5f6e6968cfefc942522bd0b816d57a27be8f0ecd00947824800",
+       "txval": 294410,
+       "igst": 0.0,
+       "cgst": 26496.9,
+       "sgst": 26496.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

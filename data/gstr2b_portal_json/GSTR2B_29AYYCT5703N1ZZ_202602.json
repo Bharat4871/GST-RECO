@@ -1,0 +1,305 @@
+{
+ "chksum": "b5a7d7a07948a34d68d71a586d1e9511",
+ "data": {
+  "gstin": "29AYYCT5703N1ZZ",
+  "rtnprd": "022026",
+  "version": "1.0",
+  "gendt": "14-03-2026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29ZOGCV1836N1Z8",
+     "trdnm": "VISHWA BROADBAND SERVICES",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/91",
+       "typ": "R",
+       "dt": "09-02-2026",
+       "val": 21712.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "75a54835179e066aace0f278c79467adfb7b48a438f9255b2468449022f5a0d3",
+       "txval": 18400,
+       "igst": 0.0,
+       "cgst": 1656.0,
+       "sgst": 1656.0,
+       "cess": 0.0,
+       "imsStatus": "No Action"
+      }
+     ]
+    },
+    {
+     "ctin": "29COSFK7759P1Z2",
+     "trdnm": "KESAR OFFICE MART",
+     "supfildt": "14-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/129",
+       "typ": "R",
+       "dt": "01-02-2026",
+       "val": 8614.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 7300,
+       "igst": 0.0,
+       "cgst": 657.0,
+       "sgst": 657.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/132",
+       "typ": "R",
+       "dt": "18-02-2026",
+       "val": 9381.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 7950,
+       "igst": 0.0,
+       "cgst": 715.5,
+       "sgst": 715.5,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29MISFB8715L1ZV",
+     "trdnm": "BHARAT LOGISTICS",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "bl/0185/25-26",
+       "typ": "R",
+       "dt": "18-02-2026",
+       "val": 44290,
+       "pos": "29",
+       "rev": "Y",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 44290,
+       "igst": 0.0,
+       "cgst": 1107.25,
+       "sgst": 1107.25,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "09CLMCT2223A1ZZ",
+     "trdnm": "TULSI INFOTECH",
+     "supfildt": "15-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "TI00369",
+       "typ": "R",
+       "dt": "01-02-2026",
+       "val": 359002.02,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "31fb8e9c62d01d4eb563db6650df972bfd3f2e77b2a60489edd2cdb8c8d850c2",
+       "txval": 304239.0,
+       "igst": 54763.02,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "TI00376",
+       "typ": "R",
+       "dt": "06-02-2026",
+       "val": 1110426.49,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "5d8bd26f6c702cd3a2a62ef6994b2ea922d0575ec3af177ecfb0c3eb3490e551",
+       "txval": 941039.4,
+       "igst": 169387.09,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "TI00385",
+       "typ": "R",
+       "dt": "14-02-2026",
+       "val": 1085364.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "389d28e1adef220e09f32beb5f893c1e548f263abec6971666f3f6f53c002df5",
+       "txval": 919800,
+       "igst": 165564.0,
+       "cgst": 0.0,
+       "sgst": 0.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29RYCCN1340N1ZH",
+     "trdnm": "NARAYAN ESTATES LLP",
+     "supfildt": "11-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "GST/2025-26/145",
+       "typ": "R",
+       "dt": "27-02-2026",
+       "val": 714820.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "14f6fa1fc10857bcb3810dc410c182bfec6ee5871b31b7dfdaf32a2ddae60925",
+       "txval": 605780,
+       "igst": 0.0,
+       "cgst": 54520.2,
+       "sgst": 54520.2,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      },
+      {
+       "inum": "GST/2025-26/150",
+       "typ": "R",
+       "dt": "26-02-2026",
+       "val": 781916.53,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "7f6d01471cfba9e1a8a963c614591fec88ee0a736de1f73d5bca161105a53008",
+       "txval": 662641.13,
+       "igst": 0.0,
+       "cgst": 59637.7,
+       "sgst": 59637.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29EWBFA2113J2ZG",
+     "trdnm": "Ambika Management Advisors",
+     "supfildt": "12-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "AMA00075",
+       "typ": "R",
+       "dt": "23-02-2026",
+       "val": 35647.8,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 30210,
+       "igst": 0.0,
+       "cgst": 2718.9,
+       "sgst": 2718.9,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29YOKCO2102Y1Z5",
+     "trdnm": "OM EXPRESS LOGISTICS LTD",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "OEL00208",
+       "typ": "R",
+       "dt": "18-02-2026",
+       "val": 119180.0,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "e-Invoice",
+       "irn": "304ee2be684e25b50a32d0a23527943af079ed678f348d591279833a5b8f9ecd",
+       "txval": 101000,
+       "igst": 0.0,
+       "cgst": 9090.0,
+       "sgst": 9090.0,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    },
+    {
+     "ctin": "29GAUFS6216D1ZO",
+     "trdnm": "SHREE CONSULTANTS",
+     "supfildt": "13-03-2026",
+     "supprd": "022026",
+     "inv": [
+      {
+       "inum": "INV-2526-00355",
+       "typ": "R",
+       "dt": "22-02-2026",
+       "val": 77561.4,
+       "pos": "29",
+       "rev": "N",
+       "itcavl": "Y",
+       "rsn": "",
+       "diffprcnt": 1,
+       "srctyp": "GSTR-1",
+       "irn": "",
+       "txval": 65730,
+       "igst": 0.0,
+       "cgst": 5915.7,
+       "sgst": 5915.7,
+       "cess": 0.0,
+       "imsStatus": "Accepted"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
