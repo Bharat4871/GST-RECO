@@ -58,6 +58,7 @@ database/                schema.sql (tables, views), queries.sql (14 analytical 
 excel/                   ITC_RCM_Working_Model.xlsx (1,281 formulas), GSTiQ_Macros.bas (VBA), builder script
 notebooks/               AI_ITC_RCM_Analysis.ipynb (executed, with charts)
 docs/                    GSTiQ_Project_Report.docx / .pdf, diagrams, screenshots, report builder
+presentation/            GSTiQ_Group_One_Presentation.pptx (interactive deck) and its builder script
 sample_outputs/          files produced by the app: client MIS, review report, vendor letters, self-invoice, Python MIS
 sample_new_client/       ready-to-import new client (Gir Polymers): purchase register Excel + GST-portal GSTR-2B JSON
 tests/                   unit tests, Python-vs-JavaScript cross-check, browser UI smoke test
